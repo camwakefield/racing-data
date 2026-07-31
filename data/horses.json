@@ -81,7 +81,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -126,22 +126,6 @@
   "name": "Aberfeldie Boy",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 2400,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.14,
-     "close_ratio": 1.13,
-     "last200_t": 12.65,
-     "last600_t": 35.61,
-     "overall_t": 157.26,
-     "race_name": "Sportsbet Same Race Multi Handicap",
-     "top_spd": 18.29
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-01",
     "distance": 2400,
     "race": null,
@@ -155,7 +139,23 @@
      "top_spd": 17.94
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.14,
+     "close_ratio": 1.13,
+     "last200_t": 12.65,
+     "last600_t": 35.61,
+     "overall_t": 157.26,
+     "race_name": "Sportsbet Same Race Multi Handicap",
+     "top_spd": 18.29
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -176,7 +176,7 @@
      "top_spd": 17.92
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -244,7 +244,7 @@
   "name": "Actuality",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -257,7 +257,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -299,7 +299,7 @@
      "top_spd": 17.78
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -336,7 +336,7 @@
      "top_spd": 17.82
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -378,29 +378,13 @@
      "top_spd": 16.71
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
  "AFTERBERNA": {
   "name": "Afterberna",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1200,
-    "race": null,
-    "sectional": {
-     "close_rating": 100.0,
-     "close_ratio": 1.03,
-     "last200_t": 11.84,
-     "last600_t": 34.1,
-     "overall_t": 71.42,
-     "race_name": "Thoroughbred Club of Australia Handicap",
-     "top_spd": 18.87
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-25",
     "distance": 1100,
@@ -432,28 +416,28 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 11.84,
+     "last600_t": 34.1,
+     "overall_t": 71.42,
+     "race_name": "Thoroughbred Club of Australia Handicap",
+     "top_spd": 18.87
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
  "AFTERMATH": {
   "name": "Aftermath",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1800,
-    "race": null,
-    "sectional": {
-     "close_rating": 95.96,
-     "close_ratio": 1.01,
-     "last200_t": 13.16,
-     "last600_t": 36.91,
-     "overall_t": 113.53,
-     "race_name": "Quayclean Handicap",
-     "top_spd": 17.58
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-25",
     "distance": 2000,
@@ -513,6 +497,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-13",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.96,
+     "close_ratio": 1.01,
+     "last200_t": 13.16,
+     "last600_t": 36.91,
+     "overall_t": 113.53,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.58
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -568,7 +568,7 @@
      "top_spd": 17.59
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -589,7 +589,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -631,7 +631,7 @@
      "top_spd": 17.21
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -652,7 +652,7 @@
      "top_spd": 17.77
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -694,7 +694,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -715,7 +715,7 @@
      "top_spd": 16.65
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -736,7 +736,7 @@
      "top_spd": 17.41
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -775,22 +775,6 @@
   "name": "Along The River",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1000,
     "race": null,
@@ -821,6 +805,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -841,7 +841,7 @@
      "top_spd": 19.36
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -883,7 +883,7 @@
      "top_spd": 18.23
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -938,22 +938,6 @@
   "name": "Amping Lass",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1200,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.58,
-     "close_ratio": 1.01,
-     "last200_t": 12.24,
-     "last600_t": 34.59,
-     "overall_t": 71.57,
-     "race_name": "Thoroughbred Club of Australia Handicap",
-     "top_spd": 18.61
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-04",
     "distance": 1200,
     "race": null,
@@ -968,6 +952,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.58,
+     "close_ratio": 1.01,
+     "last200_t": 12.24,
+     "last600_t": 34.59,
+     "overall_t": 71.57,
+     "race_name": "Thoroughbred Club of Australia Handicap",
+     "top_spd": 18.61
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -988,7 +988,7 @@
      "top_spd": 17.8
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1038,7 +1038,7 @@
   "name": "Angelic Rise",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -1051,7 +1051,7 @@
      "top_spd": 19.1
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1093,7 +1093,7 @@
      "top_spd": 17.75
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -1158,7 +1158,7 @@
      "top_spd": 17.48
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1211,7 +1211,7 @@
      "top_spd": 17.29
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -1269,7 +1269,7 @@
      "top_spd": 18.78
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1337,7 +1337,7 @@
      "top_spd": 18.26
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -1382,7 +1382,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -1445,7 +1445,7 @@
      "top_spd": 18.17
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -1466,7 +1466,7 @@
      "top_spd": 17.72
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -1531,7 +1531,7 @@
      "top_spd": 18.01
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -1547,7 +1547,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -1610,7 +1610,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -1631,7 +1631,7 @@
      "top_spd": 18.0
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -1652,7 +1652,7 @@
      "top_spd": 17.79
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -1660,7 +1660,7 @@
   "name": "Aston",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -1673,7 +1673,7 @@
      "top_spd": 19.39
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1771,7 +1771,7 @@
      "top_spd": 18.13
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -1792,7 +1792,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1876,7 +1876,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -1918,7 +1918,7 @@
      "top_spd": 18.22
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -1947,22 +1947,6 @@
   "name": "Bankers Choice",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1800,
-    "race": null,
-    "sectional": {
-     "close_rating": 96.22,
-     "close_ratio": 1.0,
-     "last200_t": 13.01,
-     "last600_t": 36.81,
-     "overall_t": 112.39,
-     "race_name": "Quayclean Handicap",
-     "top_spd": 17.55
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 2000,
     "race": null,
@@ -1977,6 +1961,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.22,
+     "close_ratio": 1.0,
+     "last200_t": 13.01,
+     "last600_t": 36.81,
+     "overall_t": 112.39,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.55
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2047,7 +2047,7 @@
   "name": "Barbarino",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -2060,7 +2060,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2128,7 +2128,7 @@
      "top_spd": 17.85
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -2178,22 +2178,6 @@
   "name": "Baywatch",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": 94.35,
-     "close_ratio": 1.03,
-     "last200_t": 13.02,
-     "last600_t": 36.43,
-     "overall_t": 100.92,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": 17.8
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-29",
     "distance": 1600,
     "race": null,
@@ -2207,29 +2191,29 @@
      "top_spd": 17.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.35,
+     "close_ratio": 1.03,
+     "last200_t": 13.02,
+     "last600_t": 36.43,
+     "overall_t": 100.92,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
  "BAZABALL REWARDED": {
   "name": "Bazaball Rewarded",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 100.0,
-     "close_ratio": 1.01,
-     "last200_t": 11.68,
-     "last600_t": 32.63,
-     "overall_t": 56.66,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": 19.82
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-11",
     "distance": 1100,
@@ -2245,6 +2229,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 11.68,
+     "last600_t": 32.63,
+     "overall_t": 56.66,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.82
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2320,22 +2320,6 @@
   "name": "Beast Mode",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.43,
-     "close_ratio": 0.96,
-     "last200_t": 12.14,
-     "last600_t": 33.49,
-     "overall_t": 56.98,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": 19.85
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-11",
     "distance": 1100,
     "race": null,
@@ -2350,6 +2334,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.43,
+     "close_ratio": 0.96,
+     "last200_t": 12.14,
+     "last600_t": 33.49,
+     "overall_t": 56.98,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.85
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2391,7 +2391,7 @@
      "top_spd": 18.0
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -2412,7 +2412,7 @@
      "top_spd": 17.96
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -2449,7 +2449,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -2538,7 +2538,7 @@
      "top_spd": 18.53
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2559,7 +2559,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-15",
@@ -2575,7 +2575,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2603,22 +2603,6 @@
  "BELLE SAVOIR": {
   "name": "Belle Savoir",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.17,
-     "close_ratio": 1.07,
-     "last200_t": 12.51,
-     "last600_t": 35.37,
-     "overall_t": 100.05,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": 18.23
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-25",
     "distance": 2000,
@@ -2661,6 +2645,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.17,
+     "close_ratio": 1.07,
+     "last200_t": 12.51,
+     "last600_t": 35.37,
+     "overall_t": 100.05,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 18.23
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2725,7 +2725,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -2788,29 +2788,13 @@
      "top_spd": 17.13
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "BIG SWINGER": {
   "name": "Big Swinger",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "ive > Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-11",
     "distance": 1400,
@@ -2826,6 +2810,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "ive > Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2846,7 +2846,7 @@
      "top_spd": 17.89
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -2922,22 +2922,6 @@
   "name": "Black Run",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 2400,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Sportsbet Same Race Multi Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 2800,
     "race": 6,
@@ -2962,15 +2946,10 @@
      "underperf": false
     },
     "track": "Flemington"
-   }
-  ]
- },
- "BLANKFIELD": {
-  "name": "Blankfield",
-  "runs": [
+   },
    {
-    "date": "2026-13-06",
-    "distance": 1400,
+    "date": "2026-06-13",
+    "distance": 2400,
     "race": null,
     "sectional": {
      "close_rating": null,
@@ -2978,12 +2957,17 @@
      "last200_t": null,
      "last600_t": null,
      "overall_t": null,
-     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BLANKFIELD": {
+  "name": "Blankfield",
+  "runs": [
    {
     "date": "2026-07-25",
     "distance": 1400,
@@ -3015,6 +2999,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3103,7 +3103,7 @@
      "top_spd": 19.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3124,7 +3124,7 @@
      "top_spd": 18.16
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -3145,29 +3145,13 @@
      "top_spd": 19.45
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "BLUE WILLOW": {
   "name": "Blue Willow",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.92,
-     "close_ratio": 1.06,
-     "last200_t": 12.43,
-     "last600_t": 35.1,
-     "overall_t": 99.88,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": 18.22
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-29",
     "distance": 1600,
@@ -3182,7 +3166,7 @@
      "top_spd": 17.34
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -3198,7 +3182,7 @@
      "top_spd": 17.81
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -3214,7 +3198,23 @@
      "top_spd": 17.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.92,
+     "close_ratio": 1.06,
+     "last200_t": 12.43,
+     "last600_t": 35.1,
+     "overall_t": 99.88,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3235,7 +3235,7 @@
      "top_spd": 17.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3256,7 +3256,7 @@
      "top_spd": 18.12
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3277,7 +3277,7 @@
      "top_spd": 19.67
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3401,7 +3401,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-15",
@@ -3417,7 +3417,7 @@
      "top_spd": 19.48
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3438,29 +3438,13 @@
      "top_spd": 17.8
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
  "BOLTSAVER": {
   "name": "Boltsaver",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 99.62,
-     "close_ratio": 1.12,
-     "last200_t": 11.86,
-     "last600_t": 33.82,
-     "overall_t": 86.31,
-     "race_name": "ive > Handicap",
-     "top_spd": 18.92
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-04",
     "distance": 1600,
@@ -3476,6 +3460,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.62,
+     "close_ratio": 1.12,
+     "last200_t": 11.86,
+     "last600_t": 33.82,
+     "overall_t": 86.31,
+     "race_name": "ive > Handicap",
+     "top_spd": 18.92
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3496,7 +3496,7 @@
      "top_spd": 19.19
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3517,7 +3517,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3525,7 +3525,7 @@
   "name": "Bons To Riches",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -3538,7 +3538,7 @@
      "top_spd": 17.63
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3559,7 +3559,7 @@
      "top_spd": 18.81
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3580,7 +3580,7 @@
      "top_spd": 18.93
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -3601,7 +3601,7 @@
      "top_spd": 17.94
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -3617,7 +3617,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -3657,7 +3657,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3678,7 +3678,7 @@
      "top_spd": 18.84
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -3699,7 +3699,7 @@
      "top_spd": 17.85
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3720,7 +3720,7 @@
      "top_spd": 19.11
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3804,7 +3804,7 @@
      "top_spd": 19.34
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3872,7 +3872,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -4111,22 +4111,6 @@
   "name": "Brilliant Horizon",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1200,
-    "race": null,
-    "sectional": {
-     "close_rating": 96.27,
-     "close_ratio": 0.97,
-     "last200_t": 12.68,
-     "last600_t": 35.42,
-     "overall_t": 72.19,
-     "race_name": "Thoroughbred Club of Australia Handicap",
-     "top_spd": 18.41
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-29",
     "distance": 1400,
     "race": null,
@@ -4140,7 +4124,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -4157,6 +4141,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.27,
+     "close_ratio": 0.97,
+     "last200_t": 12.68,
+     "last600_t": 35.42,
+     "overall_t": 72.19,
+     "race_name": "Thoroughbred Club of Australia Handicap",
+     "top_spd": 18.41
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -4193,7 +4193,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -4214,7 +4214,7 @@
      "top_spd": 17.17
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -4230,7 +4230,7 @@
      "top_spd": 18.37
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -4274,7 +4274,7 @@
      "top_spd": 17.69
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -4282,7 +4282,7 @@
   "name": "Buckets Ridge",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -4295,7 +4295,7 @@
      "top_spd": 18.56
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -4348,7 +4348,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -4369,7 +4369,7 @@
      "top_spd": 17.75
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -4443,7 +4443,7 @@
      "top_spd": 18.98
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -4506,7 +4506,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -4592,7 +4592,7 @@
      "top_spd": 18.77
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -4634,7 +4634,7 @@
      "top_spd": 17.02
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-05",
@@ -4769,7 +4769,7 @@
   "name": "Cardamom",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -4782,7 +4782,7 @@
      "top_spd": 18.89
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -4803,7 +4803,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -4824,7 +4824,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -4890,7 +4890,7 @@
      "top_spd": 16.9
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -4939,7 +4939,7 @@
      "top_spd": 17.66
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -4981,7 +4981,7 @@
      "top_spd": 17.46
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5060,7 +5060,7 @@
      "top_spd": 17.69
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-18",
@@ -5092,7 +5092,7 @@
      "top_spd": 17.81
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -5155,7 +5155,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -5252,22 +5252,6 @@
   "name": "Changing Colours",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1600,
     "race": 3,
@@ -5292,6 +5276,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5312,7 +5312,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -5431,7 +5431,7 @@
      "top_spd": 17.66
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5481,7 +5481,7 @@
      "top_spd": 18.18
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -5568,7 +5568,7 @@
   "name": "Chocolate Royal",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 2400,
     "race": null,
     "sectional": {
@@ -5581,7 +5581,7 @@
      "top_spd": 18.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5633,7 +5633,7 @@
      "top_spd": 18.01
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -5641,7 +5641,7 @@
   "name": "Cicala",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -5654,7 +5654,7 @@
      "top_spd": 19.59
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5675,7 +5675,7 @@
      "top_spd": 17.3
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -5696,7 +5696,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -5712,7 +5712,7 @@
      "top_spd": 18.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -5733,29 +5733,13 @@
      "top_spd": 17.78
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "CLEVOR TREVER": {
   "name": "Clevor Trever",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.46,
-     "close_ratio": 1.06,
-     "last200_t": 11.95,
-     "last600_t": 34.31,
-     "overall_t": 85.46,
-     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
-     "top_spd": 18.5
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-04",
     "distance": 1600,
@@ -5771,6 +5755,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.46,
+     "close_ratio": 1.06,
+     "last200_t": 11.95,
+     "last600_t": 34.31,
+     "overall_t": 85.46,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.5
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5830,22 +5830,6 @@
   "name": "Coeur Volante",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 100.0,
-     "close_ratio": 1.12,
-     "last200_t": 11.7,
-     "last600_t": 33.69,
-     "overall_t": 86.12,
-     "race_name": "ive > Handicap",
-     "top_spd": 18.94
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-11",
     "distance": 1400,
     "race": null,
@@ -5860,6 +5844,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.12,
+     "last200_t": 11.7,
+     "last600_t": 33.69,
+     "overall_t": 86.12,
+     "race_name": "ive > Handicap",
+     "top_spd": 18.94
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5901,7 +5901,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -5909,7 +5909,7 @@
   "name": "Colourful Emperor",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -5922,7 +5922,7 @@
      "top_spd": 19.39
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5930,7 +5930,7 @@
   "name": "Comic Hero",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -5943,7 +5943,7 @@
      "top_spd": 17.56
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5964,7 +5964,7 @@
      "top_spd": 17.93
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -5985,7 +5985,7 @@
      "top_spd": 18.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6006,7 +6006,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -6100,7 +6100,7 @@
   "name": "Cooly",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1600,
     "race": null,
     "sectional": {
@@ -6113,7 +6113,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6187,7 +6187,7 @@
      "top_spd": 17.52
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6208,7 +6208,7 @@
      "top_spd": 17.47
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -6250,7 +6250,7 @@
      "top_spd": 19.61
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -6271,7 +6271,7 @@
      "top_spd": 18.74
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -6292,29 +6292,13 @@
      "top_spd": 18.23
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
  "CRESTA CRYSTAL": {
   "name": "Cresta Crystal",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1200,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.74,
-     "close_ratio": 1.01,
-     "last200_t": 12.61,
-     "last600_t": 34.89,
-     "overall_t": 72.6,
-     "race_name": "Thoroughbred Club of Australia Handicap",
-     "top_spd": 18.52
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-30",
     "distance": 1300,
@@ -6332,6 +6316,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.74,
+     "close_ratio": 1.01,
+     "last200_t": 12.61,
+     "last600_t": 34.89,
+     "overall_t": 72.6,
+     "race_name": "Thoroughbred Club of Australia Handicap",
+     "top_spd": 18.52
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6383,7 +6383,7 @@
      "top_spd": 18.11
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6447,7 +6447,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -6492,7 +6492,7 @@
      "top_spd": 20.07
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -6513,7 +6513,7 @@
      "top_spd": 17.74
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -6534,7 +6534,7 @@
      "top_spd": 17.38
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6576,7 +6576,7 @@
      "top_spd": 17.24
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -6592,7 +6592,7 @@
      "top_spd": 18.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -6608,7 +6608,7 @@
      "top_spd": 17.73
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -6729,29 +6729,13 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
  "DANTOOINE": {
   "name": "Dantooine",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-01",
     "distance": 1400,
@@ -6766,7 +6750,23 @@
      "top_spd": 17.86
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6787,7 +6787,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -6840,7 +6840,7 @@
      "top_spd": 17.77
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -6868,22 +6868,6 @@
  "DAVIDA": {
   "name": "Davida",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1200,
-    "race": null,
-    "sectional": {
-     "close_rating": 94.12,
-     "close_ratio": 0.97,
-     "last200_t": 13.25,
-     "last600_t": 36.23,
-     "overall_t": 73.09,
-     "race_name": "Thoroughbred Club of Australia Handicap",
-     "top_spd": 18.12
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-18",
     "distance": 1400,
@@ -6927,6 +6911,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.12,
+     "close_ratio": 0.97,
+     "last200_t": 13.25,
+     "last600_t": 36.23,
+     "overall_t": 73.09,
+     "race_name": "Thoroughbred Club of Australia Handicap",
+     "top_spd": 18.12
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6947,7 +6947,7 @@
      "top_spd": 18.03
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -6968,7 +6968,7 @@
      "top_spd": 17.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -7028,7 +7028,7 @@
      "top_spd": 16.72
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -7128,7 +7128,7 @@
      "top_spd": 18.05
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -7165,7 +7165,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -7202,7 +7202,7 @@
      "top_spd": 17.85
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -7223,7 +7223,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -7244,7 +7244,7 @@
      "top_spd": 17.84
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -7265,7 +7265,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -7307,7 +7307,7 @@
      "top_spd": 17.93
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -7396,7 +7396,7 @@
      "top_spd": 18.25
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -7417,7 +7417,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -7425,7 +7425,7 @@
   "name": "Didn't Miss Many",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -7438,7 +7438,7 @@
      "top_spd": 17.38
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -7522,7 +7522,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -7617,7 +7617,7 @@
      "top_spd": 17.58
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -7659,7 +7659,7 @@
      "top_spd": 17.31
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -7696,7 +7696,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -7717,7 +7717,7 @@
      "top_spd": 17.98
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -7780,7 +7780,7 @@
      "top_spd": 17.43
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -7867,7 +7867,7 @@
      "top_spd": 18.74
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -7898,22 +7898,6 @@
   "name": "Dreamzel",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 96.2,
-     "close_ratio": 0.98,
-     "last200_t": 12.31,
-     "last600_t": 33.92,
-     "overall_t": 57.94,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": 19.44
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-29",
     "distance": 1000,
     "race": null,
@@ -7927,7 +7911,7 @@
      "top_spd": 18.72
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -7943,7 +7927,23 @@
      "top_spd": 18.89
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.2,
+     "close_ratio": 0.98,
+     "last200_t": 12.31,
+     "last600_t": 33.92,
+     "overall_t": 57.94,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.44
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -7964,7 +7964,7 @@
      "top_spd": 17.79
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -8006,7 +8006,7 @@
      "top_spd": 17.93
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -8085,7 +8085,7 @@
      "top_spd": 19.15
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -8106,7 +8106,7 @@
      "top_spd": 17.49
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -8201,7 +8201,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -8302,7 +8302,7 @@
   "name": "El Rocko",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -8315,7 +8315,7 @@
      "top_spd": 18.28
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -8357,7 +8357,7 @@
      "top_spd": 17.63
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -8373,7 +8373,7 @@
      "top_spd": 17.56
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -8394,7 +8394,7 @@
      "top_spd": 17.87
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -8457,7 +8457,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -8499,29 +8499,13 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
  "ELSIE MAY": {
   "name": "Elsie May",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1800,
-    "race": null,
-    "sectional": {
-     "close_rating": 93.19,
-     "close_ratio": 1.02,
-     "last200_t": 14.14,
-     "last600_t": 38.01,
-     "overall_t": 114.92,
-     "race_name": "Quayclean Handicap",
-     "top_spd": 17.69
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-29",
     "distance": 1600,
@@ -8536,7 +8520,23 @@
      "top_spd": 17.73
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.19,
+     "close_ratio": 1.02,
+     "last200_t": 14.14,
+     "last600_t": 38.01,
+     "overall_t": 114.92,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.69
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -8573,29 +8573,13 @@
      "top_spd": 18.42
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
  "EMMADELLA": {
   "name": "Emmadella",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 96.63,
-     "close_ratio": 1.02,
-     "last200_t": 13.25,
-     "last600_t": 37.38,
-     "overall_t": 89.82,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": 17.38
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-01",
     "distance": 1400,
@@ -8610,7 +8594,23 @@
      "top_spd": 17.39
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.63,
+     "close_ratio": 1.02,
+     "last200_t": 13.25,
+     "last600_t": 37.38,
+     "overall_t": 89.82,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.38
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -8678,7 +8678,7 @@
      "top_spd": 16.87
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -8694,7 +8694,7 @@
      "top_spd": 21.41
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -8710,7 +8710,7 @@
      "top_spd": 17.73
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -8731,7 +8731,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-01",
@@ -8747,7 +8747,7 @@
      "top_spd": 17.94
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -8934,7 +8934,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -8955,29 +8955,13 @@
      "top_spd": 17.62
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "EUPHORIC": {
   "name": "Euphoric",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 2400,
-    "race": null,
-    "sectional": {
-     "close_rating": 94.9,
-     "close_ratio": 1.09,
-     "last200_t": 12.86,
-     "last600_t": 36.45,
-     "overall_t": 157.76,
-     "race_name": "Sportsbet Same Race Multi Handicap",
-     "top_spd": 17.49
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-29",
     "distance": 2400,
@@ -8992,7 +8976,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -9008,7 +8992,23 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.9,
+     "close_ratio": 1.09,
+     "last200_t": 12.86,
+     "last600_t": 36.45,
+     "overall_t": 157.76,
+     "race_name": "Sportsbet Same Race Multi Handicap",
+     "top_spd": 17.49
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -9045,7 +9045,7 @@
      "top_spd": 17.43
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9066,7 +9066,7 @@
      "top_spd": 17.54
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9087,7 +9087,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9238,7 +9238,7 @@
      "top_spd": 18.78
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9301,7 +9301,7 @@
      "top_spd": 19.19
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -9322,7 +9322,7 @@
      "top_spd": 17.5
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9405,7 +9405,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -9471,7 +9471,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -9541,7 +9541,7 @@
      "top_spd": 19.25
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9562,7 +9562,7 @@
      "top_spd": 18.51
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -9625,29 +9625,13 @@
      "top_spd": 18.11
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
  "FIRST CHORUS": {
   "name": "First Chorus",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-25",
     "distance": 1600,
@@ -9679,6 +9663,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -9812,7 +9812,7 @@
      "top_spd": 17.34
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -9962,7 +9962,7 @@
      "top_spd": 17.3
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -9983,7 +9983,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10004,7 +10004,7 @@
      "top_spd": 18.67
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10025,7 +10025,7 @@
      "top_spd": 16.84
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10112,7 +10112,7 @@
      "top_spd": 17.81
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -10133,7 +10133,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -10149,7 +10149,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10280,7 +10280,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -10288,7 +10288,7 @@
   "name": "Freshen",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1200,
     "race": null,
     "sectional": {
@@ -10301,7 +10301,7 @@
      "top_spd": 18.59
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10322,7 +10322,7 @@
      "top_spd": 17.46
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10370,22 +10370,6 @@
   "name": "From A Distance",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 96.29,
-     "close_ratio": 1.02,
-     "last200_t": 13.51,
-     "last600_t": 37.51,
-     "overall_t": 90.33,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": 17.33
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-22",
     "distance": 1600,
     "race": 6,
@@ -10417,7 +10401,23 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.29,
+     "close_ratio": 1.02,
+     "last200_t": 13.51,
+     "last600_t": 37.51,
+     "overall_t": 90.33,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.33
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10438,7 +10438,7 @@
      "top_spd": 17.8
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-04",
@@ -10496,7 +10496,7 @@
      "top_spd": 17.26
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -10517,7 +10517,7 @@
      "top_spd": 16.75
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -10593,7 +10593,7 @@
      "top_spd": 17.73
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -10614,7 +10614,7 @@
      "top_spd": 17.89
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -10635,7 +10635,7 @@
      "top_spd": 17.0
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -10677,7 +10677,7 @@
      "top_spd": 17.93
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -10750,7 +10750,7 @@
      "top_spd": 17.45
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10758,7 +10758,7 @@
   "name": "Gilded Water",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1800,
     "race": null,
     "sectional": {
@@ -10771,7 +10771,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10779,7 +10779,7 @@
   "name": "Gin A Tonic",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -10792,7 +10792,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10829,7 +10829,7 @@
   "name": "Gisella",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1200,
     "race": null,
     "sectional": {
@@ -10842,7 +10842,7 @@
      "top_spd": 18.54
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10910,7 +10910,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -10963,7 +10963,7 @@
      "top_spd": 17.97
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -11038,7 +11038,7 @@
   "name": "Go Daddy",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 2400,
     "race": null,
     "sectional": {
@@ -11051,7 +11051,7 @@
      "top_spd": 17.87
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11093,7 +11093,7 @@
      "top_spd": 17.55
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -11109,7 +11109,7 @@
      "top_spd": 17.77
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-06-06",
@@ -11146,7 +11146,7 @@
      "top_spd": 17.91
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11207,7 +11207,7 @@
   "name": "Golden Horizon",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -11220,7 +11220,7 @@
      "top_spd": 18.3
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11241,7 +11241,7 @@
      "top_spd": 17.81
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11291,7 +11291,7 @@
      "top_spd": 17.81
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -11413,22 +11413,6 @@
   "name": "Grid Girl",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.02,
-     "close_ratio": 1.1,
-     "last200_t": 12.0,
-     "last600_t": 34.37,
-     "overall_t": 86.45,
-     "race_name": "ive > Handicap",
-     "top_spd": 18.4
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-04",
     "distance": 1400,
     "race": null,
@@ -11443,6 +11427,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.02,
+     "close_ratio": 1.1,
+     "last200_t": 12.0,
+     "last600_t": 34.37,
+     "overall_t": 86.45,
+     "race_name": "ive > Handicap",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11463,7 +11463,7 @@
      "top_spd": 17.01
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -11505,7 +11505,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11542,7 +11542,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -11659,22 +11659,6 @@
   "name": "Harry Got Styles",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1000,
     "race": null,
@@ -11689,6 +11673,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11753,7 +11753,7 @@
      "top_spd": 17.68
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -11798,7 +11798,7 @@
      "top_spd": 17.65
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -11819,7 +11819,7 @@
      "top_spd": 17.59
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -11856,7 +11856,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -11898,7 +11898,7 @@
      "top_spd": 16.58
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -11919,7 +11919,7 @@
      "top_spd": 17.98
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11940,7 +11940,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -11948,7 +11948,7 @@
   "name": "Hey Kleine Maus",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1200,
     "race": null,
     "sectional": {
@@ -11961,7 +11961,7 @@
      "top_spd": 18.35
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -11969,7 +11969,7 @@
   "name": "Hi Dubai",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -11982,7 +11982,7 @@
      "top_spd": 19.48
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -12026,7 +12026,7 @@
      "top_spd": 18.39
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12047,7 +12047,7 @@
      "top_spd": 17.68
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -12158,7 +12158,7 @@
      "top_spd": 16.88
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12179,7 +12179,7 @@
      "top_spd": 17.9
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    },
    {
     "date": "2026-06-06",
@@ -12216,7 +12216,7 @@
      "top_spd": 17.77
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -12269,7 +12269,7 @@
      "top_spd": 17.11
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -12340,7 +12340,7 @@
      "top_spd": 17.91
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12361,7 +12361,7 @@
      "top_spd": 17.4
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -12492,7 +12492,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12513,7 +12513,7 @@
      "top_spd": 18.38
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -12521,7 +12521,7 @@
   "name": "Hush Hush",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1600,
     "race": null,
     "sectional": {
@@ -12534,7 +12534,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -12576,7 +12576,7 @@
      "top_spd": 18.1
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12644,7 +12644,7 @@
      "top_spd": 17.87
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -12665,7 +12665,7 @@
      "top_spd": 17.63
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -12686,7 +12686,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -12707,7 +12707,7 @@
      "top_spd": 17.62
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -12728,7 +12728,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12857,7 +12857,7 @@
      "top_spd": 17.94
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12901,7 +12901,7 @@
      "top_spd": 17.9
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -12959,7 +12959,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -12980,7 +12980,7 @@
      "top_spd": 18.75
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -12996,7 +12996,7 @@
      "top_spd": 19.49
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -13038,7 +13038,7 @@
      "top_spd": 18.13
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -13059,7 +13059,7 @@
      "top_spd": 18.08
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -13080,7 +13080,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -13096,7 +13096,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -13171,7 +13171,7 @@
      "top_spd": 17.11
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -13234,7 +13234,7 @@
      "top_spd": 17.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -13250,7 +13250,7 @@
      "top_spd": 18.21
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -13271,7 +13271,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -13443,7 +13443,7 @@
      "top_spd": 17.21
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -13517,7 +13517,7 @@
      "top_spd": 17.03
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -13533,7 +13533,7 @@
      "top_spd": 17.97
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -13549,7 +13549,7 @@
      "top_spd": 17.79
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -13677,7 +13677,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -13778,7 +13778,7 @@
      "top_spd": 17.0
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -13862,7 +13862,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -13974,7 +13974,7 @@
      "top_spd": 17.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -13995,7 +13995,7 @@
      "top_spd": 17.32
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -14055,7 +14055,7 @@
      "top_spd": 17.84
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -14092,7 +14092,7 @@
      "top_spd": 17.89
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -14113,7 +14113,7 @@
      "top_spd": 18.1
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14134,7 +14134,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14239,7 +14239,7 @@
      "top_spd": 17.89
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -14255,7 +14255,7 @@
      "top_spd": 17.66
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    },
    {
     "date": "2026-06-06",
@@ -14366,7 +14366,7 @@
      "top_spd": 17.71
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14387,7 +14387,7 @@
      "top_spd": 18.09
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -14403,7 +14403,7 @@
      "top_spd": 17.8
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -14445,7 +14445,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14498,22 +14498,6 @@
   "name": "Khor",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 2400,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Sportsbet Same Race Multi Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-04",
     "distance": 2600,
     "race": null,
@@ -14528,6 +14512,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Same Race Multi Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -14569,7 +14569,7 @@
      "top_spd": 17.76
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -14590,7 +14590,7 @@
      "top_spd": 18.57
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14756,7 +14756,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -14777,7 +14777,7 @@
      "top_spd": 16.66
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -14864,7 +14864,7 @@
      "top_spd": 18.64
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -14885,7 +14885,7 @@
      "top_spd": 17.21
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -14914,7 +14914,7 @@
   "name": "Kurakka",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 2400,
     "race": null,
     "sectional": {
@@ -14927,7 +14927,7 @@
      "top_spd": 17.98
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -14969,7 +14969,7 @@
      "top_spd": 18.08
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14990,7 +14990,7 @@
      "top_spd": 18.9
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -15032,7 +15032,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -15118,7 +15118,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -15157,22 +15157,6 @@
   "name": "Landmark",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.7,
-     "close_ratio": 0.98,
-     "last200_t": 11.78,
-     "last600_t": 33.06,
-     "overall_t": 57.44,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": 19.54
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1000,
     "race": 9,
@@ -15199,6 +15183,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.7,
+     "close_ratio": 0.98,
+     "last200_t": 11.78,
+     "last600_t": 33.06,
+     "overall_t": 57.44,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.54
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -15243,7 +15243,7 @@
      "top_spd": 18.2
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -15376,7 +15376,7 @@
      "top_spd": 18.83
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -15397,7 +15397,7 @@
      "top_spd": 18.38
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -15465,7 +15465,7 @@
      "top_spd": 17.17
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -15561,7 +15561,7 @@
      "top_spd": 17.06
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-18",
@@ -15606,7 +15606,7 @@
      "top_spd": 18.89
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -15627,7 +15627,7 @@
      "top_spd": 17.34
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -15643,7 +15643,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -15659,7 +15659,7 @@
      "top_spd": 17.21
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -15680,7 +15680,7 @@
      "top_spd": 18.24
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -15709,22 +15709,6 @@
   "name": "Lil Orlov",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 94.57,
-     "close_ratio": 1.02,
-     "last200_t": 12.7,
-     "last600_t": 35.72,
-     "overall_t": 86.45,
-     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
-     "top_spd": 17.89
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-11",
     "distance": 1400,
     "race": null,
@@ -15739,6 +15723,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.57,
+     "close_ratio": 1.02,
+     "last200_t": 12.7,
+     "last600_t": 35.72,
+     "overall_t": 86.45,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -15801,7 +15801,7 @@
      "top_spd": 17.77
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -15838,7 +15838,7 @@
      "top_spd": 19.84
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -15882,7 +15882,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -15903,7 +15903,7 @@
      "top_spd": 18.4
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -15956,7 +15956,7 @@
   "name": "Lovelycut",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -15969,7 +15969,7 @@
      "top_spd": 17.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -15993,22 +15993,6 @@
   "name": "Loveyamore",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1200,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.04,
-     "close_ratio": 1.02,
-     "last200_t": 12.4,
-     "last600_t": 34.78,
-     "overall_t": 72.32,
-     "race_name": "Thoroughbred Club of Australia Handicap",
-     "top_spd": 18.43
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-11",
     "distance": 1400,
     "race": null,
@@ -16023,6 +16007,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.04,
+     "close_ratio": 1.02,
+     "last200_t": 12.4,
+     "last600_t": 34.78,
+     "overall_t": 72.32,
+     "race_name": "Thoroughbred Club of Australia Handicap",
+     "top_spd": 18.43
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -16083,7 +16083,7 @@
   "name": "Lucky Single",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1200,
     "race": null,
     "sectional": {
@@ -16096,7 +16096,7 @@
      "top_spd": 18.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -16164,7 +16164,7 @@
      "top_spd": 18.49
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-15",
@@ -16180,7 +16180,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -16272,7 +16272,7 @@
      "top_spd": 17.72
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -16358,7 +16358,7 @@
      "top_spd": 19.83
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -16379,7 +16379,7 @@
      "top_spd": 19.35
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-14",
@@ -16395,7 +16395,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -16416,7 +16416,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -16432,7 +16432,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-14",
@@ -16448,7 +16448,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -16506,7 +16506,7 @@
      "top_spd": 17.62
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-25",
@@ -16591,29 +16591,13 @@
      "top_spd": 18.59
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
  "MAKDANE": {
   "name": "Makdane",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1800,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.2,
-     "close_ratio": 1.01,
-     "last200_t": 12.8,
-     "last600_t": 36.44,
-     "overall_t": 112.58,
-     "race_name": "Quayclean Handicap",
-     "top_spd": 17.52
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-25",
     "distance": 2000,
@@ -16655,6 +16639,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.2,
+     "close_ratio": 1.01,
+     "last200_t": 12.8,
+     "last600_t": 36.44,
+     "overall_t": 112.58,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.52
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -16740,7 +16740,7 @@
      "top_spd": 19.07
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -16761,7 +16761,7 @@
      "top_spd": 16.92
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -16782,29 +16782,13 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "MARGIES BOY": {
   "name": "Margie'S Boy",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 95.68,
-     "close_ratio": 1.02,
-     "last200_t": 13.61,
-     "last600_t": 37.75,
-     "overall_t": 90.14,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": 17.35
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-29",
     "distance": 1500,
@@ -16819,7 +16803,23 @@
      "top_spd": 17.08
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.68,
+     "close_ratio": 1.02,
+     "last200_t": 13.61,
+     "last600_t": 37.75,
+     "overall_t": 90.14,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.35
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -16840,7 +16840,7 @@
      "top_spd": 19.65
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -16877,7 +16877,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -16898,7 +16898,7 @@
      "top_spd": 18.38
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -16998,7 +16998,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -17019,7 +17019,7 @@
      "top_spd": 17.76
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -17027,7 +17027,7 @@
   "name": "Mbube",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -17040,7 +17040,7 @@
      "top_spd": 19.31
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -17082,7 +17082,7 @@
      "top_spd": 17.6
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -17098,7 +17098,7 @@
      "top_spd": 17.66
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -17119,7 +17119,7 @@
      "top_spd": 17.63
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -17187,7 +17187,7 @@
      "top_spd": 16.93
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -17229,7 +17229,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -17402,7 +17402,7 @@
      "top_spd": 17.41
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -17441,7 +17441,7 @@
      "top_spd": 20.01
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -17462,7 +17462,7 @@
      "top_spd": 18.4
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -17494,7 +17494,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -17515,7 +17515,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -17586,7 +17586,7 @@
      "top_spd": 17.57
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -17623,7 +17623,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    },
    {
     "date": "2026-06-06",
@@ -17691,7 +17691,7 @@
      "top_spd": 17.27
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-18",
@@ -17796,7 +17796,7 @@
      "top_spd": 18.73
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -17993,7 +17993,7 @@
      "top_spd": 17.63
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -18014,7 +18014,7 @@
      "top_spd": 17.91
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -18109,7 +18109,7 @@
      "top_spd": 17.88
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -18130,7 +18130,7 @@
      "top_spd": 17.82
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -18172,7 +18172,7 @@
      "top_spd": 19.38
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -18245,7 +18245,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -18345,7 +18345,7 @@
      "top_spd": 16.67
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -18491,7 +18491,7 @@
      "top_spd": 19.1
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -18578,7 +18578,7 @@
      "top_spd": 17.18
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -18673,7 +18673,7 @@
      "top_spd": 17.85
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -18689,7 +18689,7 @@
      "top_spd": 17.97
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -18710,7 +18710,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -18793,7 +18793,7 @@
      "top_spd": 17.79
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-05",
@@ -18851,7 +18851,7 @@
      "top_spd": 18.4
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -18917,22 +18917,6 @@
   "name": "Nimbustwothousand",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 99.03,
-     "close_ratio": 1.0,
-     "last200_t": 11.7,
-     "last600_t": 32.95,
-     "overall_t": 57.16,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": 19.36
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1000,
     "race": 9,
@@ -18957,6 +18941,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.03,
+     "close_ratio": 1.0,
+     "last200_t": 11.7,
+     "last600_t": 32.95,
+     "overall_t": 57.16,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.36
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -18977,7 +18977,7 @@
      "top_spd": 17.31
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -18998,7 +18998,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -19108,7 +19108,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -19166,7 +19166,7 @@
      "top_spd": 18.77
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -19182,7 +19182,7 @@
      "top_spd": 19.32
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -19253,7 +19253,7 @@
      "top_spd": 19.1
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -19303,7 +19303,7 @@
   "name": "Oceana Dream",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 2400,
     "race": null,
     "sectional": {
@@ -19316,7 +19316,7 @@
      "top_spd": 18.3
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -19408,7 +19408,7 @@
      "top_spd": 18.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -19535,7 +19535,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -19551,7 +19551,7 @@
      "top_spd": 18.12
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -19622,7 +19622,7 @@
   "name": "One Long Day",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -19635,29 +19635,13 @@
      "top_spd": 17.95
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "ORAQUA": {
   "name": "Oraqua",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": 93.93,
-     "close_ratio": 1.03,
-     "last200_t": 13.29,
-     "last600_t": 36.59,
-     "overall_t": 100.88,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": 17.9
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-25",
     "distance": 2000,
@@ -19688,7 +19672,23 @@
      "top_spd": 17.79
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.93,
+     "close_ratio": 1.03,
+     "last200_t": 13.29,
+     "last600_t": 36.59,
+     "overall_t": 100.88,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.9
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -19767,7 +19767,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    },
    {
     "date": "2026-06-06",
@@ -19812,7 +19812,7 @@
   "name": "Our Brave Boy",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -19825,7 +19825,7 @@
      "top_spd": 19.39
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -19941,7 +19941,7 @@
      "top_spd": 19.01
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -19994,7 +19994,7 @@
      "top_spd": 18.01
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -20015,7 +20015,7 @@
      "top_spd": 17.41
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -20036,7 +20036,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -20073,7 +20073,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -20175,22 +20175,6 @@
   "name": "Palm Angel",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 94.83,
-     "close_ratio": 1.03,
-     "last200_t": 12.83,
-     "last600_t": 35.62,
-     "overall_t": 86.7,
-     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
-     "top_spd": 18.49
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1400,
     "race": 4,
@@ -20215,6 +20199,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.83,
+     "close_ratio": 1.03,
+     "last200_t": 12.83,
+     "last600_t": 35.62,
+     "overall_t": 86.7,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -20340,7 +20340,7 @@
      "top_spd": 17.75
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -20427,7 +20427,7 @@
      "top_spd": 17.6
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -20467,22 +20467,6 @@
   "name": "Perfect Ten",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.71,
-     "close_ratio": 1.07,
-     "last200_t": 12.0,
-     "last600_t": 34.82,
-     "overall_t": 99.28,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": 18.13
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-01",
     "distance": 1600,
     "race": null,
@@ -20496,7 +20480,23 @@
      "top_spd": 17.63
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.71,
+     "close_ratio": 1.07,
+     "last200_t": 12.0,
+     "last600_t": 34.82,
+     "overall_t": 99.28,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -20517,7 +20517,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -20538,29 +20538,13 @@
      "top_spd": 18.33
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
  "PIASTRI": {
   "name": "Piastri",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.85,
-     "close_ratio": 1.01,
-     "last200_t": 11.62,
-     "last600_t": 33.01,
-     "overall_t": 57.55,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": 19.35
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-18",
     "distance": 1200,
@@ -20576,6 +20560,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.85,
+     "close_ratio": 1.01,
+     "last200_t": 11.62,
+     "last600_t": 33.01,
+     "overall_t": 57.55,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.35
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -20635,7 +20635,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -20742,7 +20742,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -20763,7 +20763,7 @@
      "top_spd": 17.37
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -20932,29 +20932,13 @@
      "top_spd": 17.47
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
  "PRESTIGE SNITZEL": {
   "name": "Prestige Snitzel",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-29",
     "distance": 1600,
@@ -20969,7 +20953,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -20985,7 +20969,23 @@
      "top_spd": 18.89
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21006,7 +21006,7 @@
      "top_spd": 18.36
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -21048,7 +21048,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21116,7 +21116,7 @@
      "top_spd": 18.02
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -21177,7 +21177,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    },
    {
     "date": "2026-06-06",
@@ -21214,7 +21214,7 @@
      "top_spd": 16.98
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21235,7 +21235,7 @@
      "top_spd": 17.36
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21318,7 +21318,7 @@
      "top_spd": 18.14
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -21360,7 +21360,7 @@
      "top_spd": 16.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21400,7 +21400,7 @@
      "top_spd": 17.43
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -21408,7 +21408,7 @@
   "name": "Pudding",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1800,
     "race": null,
     "sectional": {
@@ -21421,7 +21421,7 @@
      "top_spd": 17.79
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21429,7 +21429,7 @@
   "name": "Pula",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1600,
     "race": null,
     "sectional": {
@@ -21442,7 +21442,7 @@
      "top_spd": 17.96
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21463,7 +21463,7 @@
      "top_spd": 18.84
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -21471,7 +21471,7 @@
   "name": "Punch Lane",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -21484,7 +21484,7 @@
      "top_spd": 18.4
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21505,7 +21505,7 @@
      "top_spd": 18.22
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -21547,7 +21547,7 @@
      "top_spd": 17.94
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -21568,7 +21568,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21589,7 +21589,7 @@
      "top_spd": 17.27
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -21597,7 +21597,7 @@
   "name": "Race For Rule",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1200,
     "race": null,
     "sectional": {
@@ -21610,7 +21610,7 @@
      "top_spd": 18.36
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21683,7 +21683,7 @@
      "top_spd": 18.09
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -21725,7 +21725,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -21769,7 +21769,7 @@
      "top_spd": 18.58
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -21806,7 +21806,7 @@
      "top_spd": 17.86
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -21827,7 +21827,7 @@
      "top_spd": 16.88
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -21848,7 +21848,7 @@
      "top_spd": 16.95
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-06-06",
@@ -22021,7 +22021,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -22037,7 +22037,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -22053,7 +22053,7 @@
      "top_spd": 17.72
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -22074,7 +22074,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -22095,7 +22095,7 @@
      "top_spd": 17.89
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -22111,7 +22111,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -22132,7 +22132,7 @@
      "top_spd": 17.99
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -22153,7 +22153,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -22174,7 +22174,7 @@
      "top_spd": 17.92
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -22195,7 +22195,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -22216,7 +22216,7 @@
      "top_spd": 17.42
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -22356,7 +22356,7 @@
      "top_spd": 17.93
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -22377,7 +22377,7 @@
      "top_spd": 18.08
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -22429,7 +22429,7 @@
   "name": "River Ballad",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -22442,7 +22442,7 @@
      "top_spd": 19.22
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -22563,7 +22563,7 @@
      "top_spd": 17.89
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-05",
@@ -22600,7 +22600,7 @@
      "top_spd": 19.82
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -22642,7 +22642,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -22684,7 +22684,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-14",
@@ -22700,7 +22700,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -22839,7 +22839,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -22860,7 +22860,7 @@
      "top_spd": 17.71
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -22881,7 +22881,7 @@
      "top_spd": 18.1
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -22993,7 +22993,7 @@
   "name": "Run Harry Run",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -23006,7 +23006,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -23027,7 +23027,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-01",
@@ -23043,7 +23043,7 @@
      "top_spd": 17.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -23064,7 +23064,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -23080,7 +23080,7 @@
      "top_spd": 18.11
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -23132,7 +23132,7 @@
      "top_spd": 18.04
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -23320,7 +23320,7 @@
      "top_spd": 19.41
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -23378,7 +23378,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-18",
@@ -23418,7 +23418,7 @@
   "name": "Santa Ana Moon",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -23431,7 +23431,7 @@
      "top_spd": 17.49
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -23484,7 +23484,7 @@
      "top_spd": 17.82
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -23500,7 +23500,7 @@
      "top_spd": 19.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -23558,7 +23558,7 @@
      "top_spd": 18.99
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -23579,7 +23579,7 @@
      "top_spd": 17.12
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -23652,7 +23652,7 @@
      "top_spd": 18.51
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -23696,7 +23696,7 @@
      "top_spd": 17.68
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -23712,7 +23712,7 @@
      "top_spd": 17.93
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -23814,7 +23814,7 @@
      "top_spd": 17.47
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -23856,7 +23856,7 @@
      "top_spd": 18.13
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -23916,7 +23916,7 @@
      "top_spd": 18.13
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -23958,7 +23958,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    },
    {
     "date": "2026-06-06",
@@ -24016,7 +24016,7 @@
      "top_spd": 17.64
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -24037,7 +24037,7 @@
      "top_spd": 17.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -24053,7 +24053,7 @@
      "top_spd": 18.21
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -24236,7 +24236,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -24257,7 +24257,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -24299,7 +24299,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -24315,7 +24315,7 @@
      "top_spd": 17.68
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -24378,7 +24378,7 @@
      "top_spd": 18.21
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -24444,7 +24444,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -24465,7 +24465,7 @@
      "top_spd": 17.94
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -24481,7 +24481,7 @@
      "top_spd": 17.84
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -24578,22 +24578,6 @@
   "name": "Signed By A Kiss",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Sportsbet Fast Form Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-01",
     "distance": 1300,
     "race": null,
@@ -24607,7 +24591,23 @@
      "top_spd": 17.38
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Fast Form Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -24628,7 +24628,7 @@
      "top_spd": 17.98
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-04",
@@ -24712,7 +24712,7 @@
   "name": "Simurgh",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 2400,
     "race": null,
     "sectional": {
@@ -24725,7 +24725,7 @@
      "top_spd": 18.18
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -24746,29 +24746,13 @@
      "top_spd": 17.39
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "SIR ATLAS": {
   "name": "Sir Atlas",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1800,
-    "race": null,
-    "sectional": {
-     "close_rating": 100.0,
-     "close_ratio": 1.07,
-     "last200_t": 12.46,
-     "last600_t": 35.42,
-     "overall_t": 112.43,
-     "race_name": "Quayclean Handicap",
-     "top_spd": 18.26
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-11",
     "distance": 2000,
@@ -24784,6 +24768,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.07,
+     "last200_t": 12.46,
+     "last600_t": 35.42,
+     "overall_t": 112.43,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 18.26
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -24906,7 +24906,7 @@
   "name": "Skippers Canyon",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 2400,
     "race": null,
     "sectional": {
@@ -24919,29 +24919,13 @@
      "top_spd": 17.98
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "SKY WATCHER": {
   "name": "Sky Watcher",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1200,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Thoroughbred Club of Australia Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-18",
     "distance": 1400,
@@ -24969,6 +24953,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Thoroughbred Club of Australia Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -25033,7 +25033,7 @@
      "top_spd": 17.78
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -25094,22 +25094,6 @@
   "name": "Smokin' Romans",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1800,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.28,
-     "close_ratio": 1.02,
-     "last200_t": 12.73,
-     "last600_t": 36.41,
-     "overall_t": 112.39,
-     "race_name": "Quayclean Handicap",
-     "top_spd": 17.56
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 2000,
     "race": 8,
@@ -25134,6 +25118,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.28,
+     "close_ratio": 1.02,
+     "last200_t": 12.73,
+     "last600_t": 36.41,
+     "overall_t": 112.39,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.56
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -25227,7 +25227,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -25292,7 +25292,7 @@
      "top_spd": 18.7
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -25313,7 +25313,7 @@
      "top_spd": 17.09
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-22",
@@ -25375,7 +25375,7 @@
      "top_spd": 19.02
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -25404,22 +25404,6 @@
   "name": "Sought After",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-15",
     "distance": 1400,
     "race": null,
@@ -25433,7 +25417,23 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -25475,7 +25475,7 @@
      "top_spd": 18.49
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -25692,7 +25692,7 @@
      "top_spd": 17.28
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -25713,7 +25713,7 @@
      "top_spd": 17.65
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -25734,7 +25734,7 @@
      "top_spd": 18.06
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -25750,7 +25750,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -25779,22 +25779,6 @@
   "name": "Stars Of Dom",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.42,
-     "close_ratio": 0.99,
-     "last200_t": 11.43,
-     "last600_t": 32.92,
-     "overall_t": 57.56,
-     "race_name": "Sportsbet Fast Form Handicap",
-     "top_spd": 19.31
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-04",
     "distance": 1200,
     "race": null,
@@ -25809,6 +25793,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.42,
+     "close_ratio": 0.99,
+     "last200_t": 11.43,
+     "last600_t": 32.92,
+     "overall_t": 57.56,
+     "race_name": "Sportsbet Fast Form Handicap",
+     "top_spd": 19.31
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -25957,7 +25957,7 @@
      "top_spd": 17.39
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -25973,7 +25973,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -25989,7 +25989,7 @@
      "top_spd": 18.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -26130,7 +26130,7 @@
      "top_spd": 18.0
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -26177,7 +26177,7 @@
      "top_spd": 18.09
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -26267,7 +26267,7 @@
      "top_spd": 18.97
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -26366,22 +26366,6 @@
   "name": "Storm Season",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.46,
-     "close_ratio": 1.03,
-     "last200_t": 12.99,
-     "last600_t": 37.06,
-     "overall_t": 89.47,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": 17.38
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1600,
     "race": 3,
@@ -26421,7 +26405,23 @@
      "top_spd": 17.84
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.46,
+     "close_ratio": 1.03,
+     "last200_t": 12.99,
+     "last600_t": 37.06,
+     "overall_t": 89.47,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.38
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -26429,7 +26429,7 @@
   "name": "Straand Deal",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 2400,
     "race": null,
     "sectional": {
@@ -26442,7 +26442,7 @@
      "top_spd": 18.25
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -26483,22 +26483,6 @@
   "name": "Street Lark",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": 95.87,
-     "close_ratio": 1.04,
-     "last200_t": 12.72,
-     "last600_t": 35.85,
-     "overall_t": 100.67,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": 18.05
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1600,
     "race": 3,
@@ -26538,7 +26522,23 @@
      "top_spd": 17.69
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.87,
+     "close_ratio": 1.04,
+     "last200_t": 12.72,
+     "last600_t": 35.85,
+     "overall_t": 100.67,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -26559,7 +26559,7 @@
      "top_spd": 18.02
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -26580,7 +26580,7 @@
      "top_spd": 18.54
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -26629,7 +26629,7 @@
      "top_spd": 19.45
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -26737,7 +26737,7 @@
      "top_spd": 17.66
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -26782,7 +26782,7 @@
   "name": "Sulek",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -26795,7 +26795,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -26872,7 +26872,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -26893,7 +26893,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -26922,7 +26922,7 @@
   "name": "Superbec",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -26935,7 +26935,7 @@
      "top_spd": 19.42
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -26956,7 +26956,7 @@
      "top_spd": 17.39
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -26977,7 +26977,7 @@
      "top_spd": 18.29
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -27019,7 +27019,7 @@
      "top_spd": 19.25
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -27075,22 +27075,6 @@
   "name": "Sweet Jasmine",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1600,
-    "race": null,
-    "sectional": {
-     "close_rating": 100.0,
-     "close_ratio": 1.1,
-     "last200_t": 11.94,
-     "last600_t": 34.37,
-     "overall_t": 99.35,
-     "race_name": "Evergreen Turf Handicap",
-     "top_spd": 18.46
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-18",
     "distance": 1600,
     "race": 3,
@@ -27117,6 +27101,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.1,
+     "last200_t": 11.94,
+     "last600_t": 34.37,
+     "overall_t": 99.35,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -27158,7 +27158,7 @@
      "top_spd": 18.98
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -27179,7 +27179,7 @@
      "top_spd": 18.68
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -27200,7 +27200,7 @@
      "top_spd": 18.32
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -27221,7 +27221,7 @@
      "top_spd": 19.23
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    },
    {
     "date": "2026-07-11",
@@ -27258,7 +27258,7 @@
      "top_spd": 17.77
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -27279,7 +27279,7 @@
      "top_spd": 18.09
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -27332,7 +27332,7 @@
      "top_spd": 16.93
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-11",
@@ -27403,7 +27403,7 @@
   "name": "Tales Of Time",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -27416,7 +27416,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -27458,7 +27458,7 @@
      "top_spd": 19.19
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -27495,7 +27495,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -27534,7 +27534,7 @@
      "top_spd": 18.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -27626,7 +27626,7 @@
   "name": "Tazima",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1800,
     "race": null,
     "sectional": {
@@ -27639,7 +27639,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -27660,7 +27660,7 @@
      "top_spd": 17.65
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -27725,7 +27725,7 @@
      "top_spd": 17.43
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -27741,7 +27741,7 @@
      "top_spd": 17.48
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -27757,7 +27757,7 @@
      "top_spd": 17.99
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -27828,7 +27828,7 @@
      "top_spd": 18.89
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -27836,7 +27836,7 @@
   "name": "Tennessee Song",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1200,
     "race": null,
     "sectional": {
@@ -27849,7 +27849,7 @@
      "top_spd": 18.92
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -27891,7 +27891,7 @@
      "top_spd": 19.55
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-05",
@@ -27992,7 +27992,7 @@
      "top_spd": 18.03
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -28031,7 +28031,7 @@
      "top_spd": 17.59
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -28125,7 +28125,7 @@
      "top_spd": 17.5
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-18",
@@ -28201,7 +28201,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-01",
@@ -28217,7 +28217,7 @@
      "top_spd": 17.25
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -28238,7 +28238,7 @@
      "top_spd": 17.6
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-05",
@@ -28285,7 +28285,7 @@
      "top_spd": 18.6
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -28356,7 +28356,7 @@
   "name": "Thebelmontgangster",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -28369,29 +28369,13 @@
      "top_spd": 17.94
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "THEDOCTOROFLOVE": {
   "name": "Thedoctoroflove",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1800,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.61,
-     "close_ratio": 1.05,
-     "last200_t": 12.66,
-     "last600_t": 35.92,
-     "overall_t": 113.15,
-     "race_name": "Quayclean Handicap",
-     "top_spd": 18.0
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-18",
     "distance": 2000,
@@ -28407,6 +28391,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.61,
+     "close_ratio": 1.05,
+     "last200_t": 12.66,
+     "last600_t": 35.92,
+     "overall_t": 113.15,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 18.0
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -28526,7 +28526,7 @@
      "top_spd": 17.99
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -28547,7 +28547,7 @@
      "top_spd": 18.34
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -28568,7 +28568,7 @@
      "top_spd": 18.28
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -28673,7 +28673,7 @@
      "top_spd": 17.44
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -28702,7 +28702,7 @@
   "name": "Tikemyson",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -28715,7 +28715,7 @@
      "top_spd": 18.25
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -28746,7 +28746,7 @@
   "name": "Tillya Tepe",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1200,
     "race": null,
     "sectional": {
@@ -28759,7 +28759,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -28801,7 +28801,7 @@
      "top_spd": 17.91
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -28822,7 +28822,7 @@
      "top_spd": 16.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -28843,7 +28843,7 @@
      "top_spd": 17.19
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -28859,7 +28859,7 @@
      "top_spd": 17.84
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -28929,7 +28929,7 @@
      "top_spd": 18.78
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -28950,7 +28950,7 @@
      "top_spd": 18.39
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -28992,7 +28992,7 @@
      "top_spd": 18.07
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -29037,7 +29037,7 @@
      "top_spd": 17.6
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -29058,7 +29058,7 @@
      "top_spd": 20.43
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29123,7 +29123,7 @@
      "top_spd": 18.1
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29144,7 +29144,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -29165,7 +29165,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -29186,7 +29186,7 @@
      "top_spd": 17.04
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-16",
@@ -29202,7 +29202,7 @@
      "top_spd": 18.23
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -29223,7 +29223,7 @@
      "top_spd": 19.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29273,7 +29273,7 @@
   "name": "Triple Salute",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -29286,7 +29286,7 @@
      "top_spd": 17.93
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29294,7 +29294,7 @@
   "name": "Tristate",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -29307,7 +29307,7 @@
      "top_spd": 19.18
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29367,7 +29367,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -29388,7 +29388,7 @@
      "top_spd": 17.05
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -29446,7 +29446,7 @@
      "top_spd": 17.12
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -29519,29 +29519,13 @@
      "top_spd": 18.49
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "UNDISPUTABLE": {
   "name": "Undisputable",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.38,
-     "close_ratio": 1.06,
-     "last200_t": 12.12,
-     "last600_t": 34.69,
-     "overall_t": 85.77,
-     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
-     "top_spd": 18.38
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-11",
     "distance": 1400,
@@ -29557,6 +29541,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.38,
+     "close_ratio": 1.06,
+     "last200_t": 12.12,
+     "last600_t": 34.69,
+     "overall_t": 85.77,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.38
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29564,7 +29564,7 @@
   "name": "Unflinching",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1000,
     "race": null,
     "sectional": {
@@ -29577,7 +29577,7 @@
      "top_spd": 19.54
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29619,7 +29619,7 @@
      "top_spd": 16.87
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -29640,7 +29640,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-18",
@@ -29672,7 +29672,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -29688,7 +29688,7 @@
      "top_spd": 17.28
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -29709,7 +29709,7 @@
      "top_spd": 17.3
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29811,7 +29811,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -29897,7 +29897,7 @@
      "top_spd": 18.0
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -29960,7 +29960,7 @@
      "top_spd": 18.37
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -30005,22 +30005,6 @@
   "name": "Victory Tune",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 97.46,
-     "close_ratio": 1.06,
-     "last200_t": 12.12,
-     "last600_t": 34.66,
-     "overall_t": 86.11,
-     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
-     "top_spd": 18.3
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-16",
     "distance": 1600,
     "race": null,
@@ -30034,7 +30018,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    },
    {
     "date": "2026-07-04",
@@ -30051,6 +30035,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.46,
+     "close_ratio": 1.06,
+     "last200_t": 12.12,
+     "last600_t": 34.66,
+     "overall_t": 86.11,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.3
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -30074,22 +30074,6 @@
   "name": "Vienna Vixen",
   "runs": [
    {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": null,
-     "close_ratio": null,
-     "last200_t": null,
-     "last600_t": null,
-     "overall_t": null,
-     "race_name": "Sportsbet Race Replays Handicap",
-     "top_spd": null
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
-   {
     "date": "2026-07-01",
     "distance": 1300,
     "race": null,
@@ -30103,7 +30087,23 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -30124,7 +30124,7 @@
      "top_spd": 18.04
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -30145,7 +30145,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -30290,7 +30290,7 @@
      "top_spd": 19.15
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -30306,7 +30306,7 @@
      "top_spd": 18.48
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -30406,7 +30406,7 @@
      "top_spd": 18.76
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-15",
@@ -30422,7 +30422,7 @@
      "top_spd": 18.6
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -30430,7 +30430,7 @@
   "name": "Western Legend",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -30443,7 +30443,7 @@
      "top_spd": 18.46
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -30464,7 +30464,7 @@
      "top_spd": 17.89
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -30485,7 +30485,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -30506,7 +30506,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -30550,7 +30550,7 @@
      "top_spd": 19.55
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -30571,7 +30571,7 @@
      "top_spd": 19.76
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -30692,7 +30692,7 @@
      "top_spd": 16.98
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -30713,7 +30713,7 @@
      "top_spd": 17.54
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -30779,7 +30779,7 @@
   "name": "Without Thinking",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -30792,7 +30792,7 @@
      "top_spd": 16.76
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -30861,7 +30861,7 @@
      "top_spd": 18.17
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -30882,7 +30882,7 @@
      "top_spd": 18.24
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -30947,7 +30947,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-04",
@@ -31094,29 +31094,13 @@
      "top_spd": 19.08
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
  "ZEBRA FINCH": {
   "name": "Zebra Finch",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1400,
-    "race": null,
-    "sectional": {
-     "close_rating": 98.31,
-     "close_ratio": 1.07,
-     "last200_t": 12.04,
-     "last600_t": 34.36,
-     "overall_t": 86.0,
-     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
-     "top_spd": 18.71
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-18",
     "distance": 1700,
@@ -31148,6 +31132,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.31,
+     "close_ratio": 1.07,
+     "last200_t": 12.04,
+     "last600_t": 34.36,
+     "overall_t": 86.0,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.71
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -31168,7 +31168,7 @@
      "top_spd": 19.73
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -31189,7 +31189,7 @@
      "top_spd": 17.63
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -31210,7 +31210,7 @@
      "top_spd": 17.81
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-01",
@@ -31226,7 +31226,7 @@
      "top_spd": 17.7
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -31247,7 +31247,7 @@
      "top_spd": 17.48
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-18",
@@ -31354,7 +31354,7 @@
      "top_spd": 18.05
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -31375,7 +31375,7 @@
      "top_spd": 17.25
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-07-14",
@@ -31391,29 +31391,13 @@
      "top_spd": 18.1
     },
     "steward": null,
-    "track": "Sportsbet"
+    "track": "Ballarat Synthetic"
    }
   ]
  },
  "ZOUPER FUND": {
   "name": "Zouper Fund",
   "runs": [
-   {
-    "date": "2026-13-06",
-    "distance": 1000,
-    "race": null,
-    "sectional": {
-     "close_rating": 99.45,
-     "close_ratio": 1.01,
-     "last200_t": 11.66,
-     "last600_t": 32.81,
-     "overall_t": 57.19,
-     "race_name": "Tobin Brothers Celebrating Lives Handicap",
-     "top_spd": 19.59
-    },
-    "steward": null,
-    "track": "Sportsbet Sandown Hillside"
-   },
    {
     "date": "2026-07-11",
     "distance": 1100,
@@ -31429,6 +31413,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-13",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.45,
+     "close_ratio": 1.01,
+     "last200_t": 11.66,
+     "last600_t": 32.81,
+     "overall_t": 57.19,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.59
+    },
+    "steward": null,
+    "track": "Sandown Hillside"
    },
    {
     "date": "2026-06-06",
@@ -31465,7 +31465,7 @@
      "top_spd": 17.79
     },
     "steward": null,
-    "track": "Sportsbet Sandown Lakeside"
+    "track": "Sandown Lakeside"
    }
   ]
  },
@@ -31507,7 +31507,7 @@
      "top_spd": 17.67
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  },
@@ -31515,7 +31515,7 @@
   "name": "Zunna",
   "runs": [
    {
-    "date": "2026-13-06",
+    "date": "2026-06-13",
     "distance": 1400,
     "race": null,
     "sectional": {
@@ -31528,7 +31528,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Sportsbet Sandown Hillside"
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -31570,7 +31570,7 @@
      "top_spd": 18.46
     },
     "steward": null,
-    "track": "Southside Cranbourne"
+    "track": "Cranbourne"
    }
   ]
  }
