@@ -1,5 +1,61 @@
 [
  {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_01.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_02.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_03.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_04.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_05.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_06.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_07.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sportsbet Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_08.csv",
+  "count": 0
+ },
+ {
   "date": "2026-07-04",
   "track": "Flemington",
   "type": "sectional",
