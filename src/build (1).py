@@ -64,6 +64,20 @@ def build():
     # counts real problems and does not read as 196 broken uploads.
     pdf_report = [r for r in pdf_report
                   if not (r["status"] == "skipped" and r["reason"] == "not a pdf")]
+    # A browser that downloads the same report twice writes "x (1).pdf", and
+    # both copies get uploaded. The merge itself is idempotent -- the second
+    # copy overwrites the first with identical values -- but the counters would
+    # report twice the races and twice the runners, which is a lie about
+    # coverage. Keep the first copy of each (date, track, race).
+    seen, uniq, n_dup = set(), [], 0
+    for rec in pdf_recs:
+        rk = (rec["date"], (rec["track"] or "").lower(), rec["race"])
+        if rk in seen:
+            n_dup += 1
+            continue
+        seen.add(rk)
+        uniq.append(rec)
+    pdf_recs = uniq
 
     # run map keyed by (norm_name, date) so both sources merge into one start
     runs = {}
@@ -207,6 +221,9 @@ def build():
         # it reaches, not for alarm when they are low.
         "n_pdf_files": len(pdf_recs), "n_pdf_found": len(pdf_report),
         "n_pdf_failed": len(bad_pdf), "n_pdf_runs": n_pdf_runs,
+        # same race uploaded twice, e.g. "5191079_01 (1).pdf" -- ignored, not
+        # an error, but worth seeing so the folder can be tidied
+        "n_pdf_duplicates": n_dup,
         "n_scratched_marked": n_scratched,
         # runs that exist but have no GPS trace at all (scratchings, tracker
         # failures). Kept in the store, flagged so they are not read as starts.
