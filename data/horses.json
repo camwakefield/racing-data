@@ -7661,6 +7661,27 @@
    }
   ]
  },
+ "CAPITAL": {
+  "name": "Capital",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": null,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "(3rd placegetter)",
+     "condition": "",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Victoria"
+   }
+  ]
+ },
  "CAPPER THIRTYNINE": {
   "name": "Capper Thirtynine",
   "runs": [
@@ -29942,6 +29963,27 @@
    }
   ]
  },
+ "OF JENNI": {
+  "name": "Of Jenni",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": null,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "(3rd placegetter)",
+     "condition": "",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Victoria"
+   }
+  ]
+ },
  "OF THE VIEW": {
   "name": "Of The View",
   "runs": [
@@ -32449,6 +32491,22 @@
      "underperf": false
     },
     "track": "Melbourne"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": null,
+    "race": 10,
+    "sectional": null,
+    "steward": {
+     "comment": "samples from following horses:",
+     "condition": "",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Victoria"
    }
   ]
  },
@@ -32681,6 +32739,22 @@
      "underperf": false
     },
     "track": "Melbourne"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": null,
+    "race": 10,
+    "sectional": null,
+    "steward": {
+     "comment": "urine for post\u2011race analysis:",
+     "condition": "",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Victoria"
    }
   ]
  },
