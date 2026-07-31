@@ -24,15 +24,26 @@ def norm_name(name):
 
 
 def secs(txt):
-    """'0:14.33' -> 14.33 ; '14.33' -> 14.33 ; '' -> None."""
+    """Seconds from any racing.com split-time format.
+
+    Newer exports use M:SS.mm ('0:14.33'); the older ones use HH:MM:SS.mmm
+    ('00:00:08.680'). Handle 1, 2 or 3 colon-separated parts.
+
+        '14.33'        -> 14.33
+        '0:14.33'      -> 14.33
+        '00:00:08.680' -> 8.68
+        '00:01:07.429' -> 67.429
+    """
     if txt is None:
         return None
     txt = str(txt).strip()
     if not txt:
         return None
     if ":" in txt:
-        m, s = txt.split(":")
-        return round(int(m) * 60 + float(s), 3)
+        total = 0.0
+        for part in txt.split(":"):
+            total = total * 60 + float(part)
+        return round(total, 3)
     return round(float(txt), 3)
 
 
