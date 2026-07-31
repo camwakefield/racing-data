@@ -67,6 +67,10 @@ def build():
                 "last600_t": ru["last600_t"], "last200_t": ru["last200_t"],
                 "overall_t": ru["overall_t"], "close_rating": ru["close_rating"],
                 "close_ratio": ru["close_ratio"], "top_spd": ru["top_spd"],
+                # where the horse sat before the turn: 100 = led, 0 = last.
+                # Display-only for now -- measure it before it gates anything.
+                "early_pct": ru.get("early_pct"),
+                "lens_off_600": ru.get("lens_off_600"),
                 "race_name": rec["race_name"],
             }
 
