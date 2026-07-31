@@ -126,11 +126,34 @@ def parse_file(path):
 
 
 def parse_dir(folder):
+    """Every *.csv under `folder`, recursively and case-insensitively.
+
+    The old version globbed "*.csv" in one directory only. Linux globs are
+    case-sensitive, so a file saved as ".CSV" — or dropped in a subfolder —
+    was skipped without a word. Anything ignored is now printed.
+    """
     out = []
-    for p in sorted(Path(folder).glob("*.csv")):
-        rec = parse_file(p)
-        if rec:
+    folder = Path(folder)
+    if not folder.exists():
+        print("  SKIP  %s does not exist" % folder, file=sys.stderr)
+        return out
+    for p in sorted(folder.rglob("*")):
+        if p.is_dir() or p.name.startswith("."):
+            continue
+        if p.suffix.lower() != ".csv":
+            print("  SKIP  %-55s unrecognised extension %r"
+                  % (p.relative_to(folder), p.suffix or "(none)"), file=sys.stderr)
+            continue
+        try:
+            rec = parse_file(p)
+        except Exception as exc:
+            print("  ERROR %-55s %s: %s" % (p.name, type(exc).__name__, exc),
+                  file=sys.stderr)
+            continue
+        if rec and rec["runners"]:
             out.append(rec)
+        else:
+            print("  EMPTY %-55s no runners parsed" % p.name, file=sys.stderr)
     return out
 
 
