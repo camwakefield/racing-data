@@ -1,62 +1,125 @@
 [
  {
-  "date": "11/07/2026",
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_01.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_02.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_03.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_04.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_05.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_06.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_07.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_08.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_09.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_01.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_02.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_03.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_04.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_05.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_06.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_07.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_08.csv",
   "count": 0
  },
  {
-  "date": "11/07/2026",
+  "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
   "source_file": "5191055_09.csv",
@@ -330,68 +393,5 @@
   "source_file": "bendigo_2026-07-30.txt",
   "count": 65,
   "condition": "Soft 6"
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_01.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_02.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_03.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_04.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_05.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_06.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_07.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_08.csv",
-  "count": 0
- },
- {
-  "date": "4/07/2026",
-  "track": "Flemington",
-  "type": "sectional",
-  "source_file": "5191063_09.csv",
-  "count": 0
  }
 ]
