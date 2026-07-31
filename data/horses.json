@@ -150,6 +150,27 @@
    }
   ]
  },
+ "ADRASTOS": {
+  "name": "Adrastos",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.85,
+     "close_ratio": 0.96,
+     "last200_t": 12.76,
+     "last600_t": 36.85,
+     "overall_t": 73.99,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "AEOLIAN": {
   "name": "Aeolian",
   "runs": [
@@ -220,6 +241,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "AHAB": {
+  "name": "Ahab",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.57,
+     "close_ratio": 1.03,
+     "last200_t": 12.91,
+     "last600_t": 37.02,
+     "overall_t": 132.31,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.59
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -594,6 +636,27 @@
    }
   ]
  },
+ "APACHE SUNRISE": {
+  "name": "Apache Sunrise",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.99,
+     "last200_t": 12.34,
+     "last600_t": 35.77,
+     "overall_t": 85.65,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 18.26
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "APPRENTICE JACKSON RADLEY": {
   "name": "Apprentice Jackson Radley",
   "runs": [
@@ -615,6 +678,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "AQUA STORM": {
+  "name": "Aqua Storm",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -680,6 +764,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "ASHAU VALLEY": {
+  "name": "Ashau Valley",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "ASHINA": {
+  "name": "Ashina",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.38,
+     "close_ratio": 1.03,
+     "last200_t": 12.33,
+     "last600_t": 35.85,
+     "overall_t": 92.97,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.0
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -754,6 +880,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.71,
+     "close_ratio": 0.99,
+     "last200_t": 11.96,
+     "last600_t": 34.89,
+     "overall_t": 71.86,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -796,6 +938,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BANGALOW ROAD": {
+  "name": "Bangalow Road",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.55,
+     "close_ratio": 0.94,
+     "last200_t": 13.64,
+     "last600_t": 37.59,
+     "overall_t": 74.73,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -879,6 +1042,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "BARK": {
+  "name": "Bark",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.22,
+     "close_ratio": 0.97,
+     "last200_t": 12.12,
+     "last600_t": 35.42,
+     "overall_t": 72.45,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -1007,6 +1191,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "BEGONIA": {
+  "name": "Begonia",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -1402,6 +1607,48 @@
    }
   ]
  },
+ "BOHEMIAN STAR": {
+  "name": "Bohemian Star",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.99,
+     "last200_t": 12.17,
+     "last600_t": 35.32,
+     "overall_t": 72.49,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.12
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "BOLD PRINT": {
+  "name": "Bold Print",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.33,
+     "close_ratio": 0.91,
+     "last200_t": 12.58,
+     "last600_t": 35.24,
+     "overall_t": 58.99,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.67
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "BOLD SOUL": {
   "name": "Bold Soul",
   "runs": [
@@ -1473,6 +1720,90 @@
    }
   ]
  },
+ "BOLOGNA BABY": {
+  "name": "Bologna Baby",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.13,
+     "close_ratio": 0.97,
+     "last200_t": 13.13,
+     "last600_t": 37.21,
+     "overall_t": 86.83,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "BONFIRE JIMMY": {
+  "name": "Bonfire Jimmy",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.37,
+     "close_ratio": 0.94,
+     "last200_t": 12.3,
+     "last600_t": 34.87,
+     "overall_t": 58.88,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.19
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "BONS BLING": {
+  "name": "Bon'S Bling",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "BORIDI": {
+  "name": "Boridi",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.09,
+     "close_ratio": 0.95,
+     "last200_t": 12.43,
+     "last600_t": 35.18,
+     "overall_t": 59.93,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "BOTANICAL BOY": {
   "name": "Botanical Boy",
   "runs": [
@@ -1531,6 +1862,69 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "BOZZA": {
+  "name": "Bozza",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 1.0,
+     "last200_t": 12.27,
+     "last600_t": 35.51,
+     "overall_t": 72.88,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "BRAVE CAROL": {
+  "name": "Brave Carol",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.62,
+     "close_ratio": 0.97,
+     "last200_t": 12.57,
+     "last600_t": 34.78,
+     "overall_t": 59.23,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.11
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "BRAVE MISSION": {
+  "name": "Brave Mission",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.77,
+     "close_ratio": 0.98,
+     "last200_t": 12.26,
+     "last600_t": 35.7,
+     "overall_t": 90.58,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 19.34
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -1916,6 +2310,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CACCHIONE": {
+  "name": "Cacchione",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.39,
+     "close_ratio": 0.93,
+     "last200_t": 12.6,
+     "last600_t": 35.43,
+     "overall_t": 59.95,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 18.98
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -2480,6 +2895,27 @@
    }
   ]
  },
+ "CHROMEDOME": {
+  "name": "Chromedome",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.11,
+     "close_ratio": 0.96,
+     "last200_t": 12.92,
+     "last600_t": 36.75,
+     "overall_t": 74.19,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "CINTURATO": {
   "name": "Cinturato",
   "runs": [
@@ -2542,6 +2978,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "COLLECTIONNEUR": {
+  "name": "Collectionneur",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "COMMANDEUR": {
+  "name": "Commandeur",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.62,
+     "close_ratio": 0.97,
+     "last200_t": 12.66,
+     "last600_t": 36.18,
+     "overall_t": 72.97,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 17.93
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -2684,6 +3162,48 @@
    }
   ]
  },
+ "COSMIC GRACE": {
+  "name": "Cosmic Grace",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.69,
+     "close_ratio": 0.94,
+     "last200_t": 12.63,
+     "last600_t": 35.11,
+     "overall_t": 59.32,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.61
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "CRAFTY QUEEN": {
+  "name": "Crafty Queen",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 12.07,
+     "last600_t": 35.27,
+     "overall_t": 92.57,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.23
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "CRESTA CRYSTAL": {
   "name": "Cresta Crystal",
   "runs": [
@@ -2812,6 +3332,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "CUMBOOGLE": {
+  "name": "Cumboogle",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.95,
+     "close_ratio": 0.9,
+     "last200_t": 12.88,
+     "last600_t": 35.38,
+     "overall_t": 59.17,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 20.07
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "CUP DAY BABY": {
+  "name": "Cup Day Baby",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.43,
+     "close_ratio": 0.99,
+     "last200_t": 12.81,
+     "last600_t": 36.96,
+     "overall_t": 93.95,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.74
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -3149,6 +3711,27 @@
    }
   ]
  },
+ "DIAMOND DAWN": {
+  "name": "Diamond Dawn",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.61,
+     "close_ratio": 0.96,
+     "last200_t": 12.92,
+     "last600_t": 36.56,
+     "overall_t": 73.59,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.25
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "DIRNASEER": {
   "name": "Dirnaseer",
   "runs": [
@@ -3277,6 +3860,27 @@
    }
   ]
  },
+ "DONE MY JOB": {
+  "name": "Done My Job",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.92,
+     "close_ratio": 1.01,
+     "last200_t": 12.46,
+     "last600_t": 35.8,
+     "overall_t": 85.43,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "DONT DOUBT DARE": {
   "name": "Don'T Doubt Dare",
   "runs": [
@@ -3366,6 +3970,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "DRAMATICUS": {
+  "name": "Dramaticus",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.06,
+     "last600_t": 35.26,
+     "overall_t": 90.85,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 18.74
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -3468,6 +4093,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "DUKE OF ZHOU": {
+  "name": "Duke Of Zhou",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.2,
+     "close_ratio": 0.94,
+     "last200_t": 12.82,
+     "last600_t": 36.8,
+     "overall_t": 85.64,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 19.15
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "DUNDONALD": {
+  "name": "Dundonald",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.84,
+     "last600_t": 36.86,
+     "overall_t": 131.98,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.49
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -3648,6 +4315,27 @@
    }
   ]
  },
+ "ELPHABA": {
+  "name": "Elphaba",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "ELSIE MAY": {
   "name": "Elsie May",
   "runs": [
@@ -3666,6 +4354,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "EMBODIMENT": {
+  "name": "Embodiment",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.13,
+     "close_ratio": 0.98,
+     "last200_t": 12.73,
+     "last600_t": 36.69,
+     "overall_t": 92.97,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.42
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -3847,6 +4556,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "ETCHED IN BLUE": {
+  "name": "Etched In Blue",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -4074,6 +4804,27 @@
    }
   ]
  },
+ "FAST N INZAINE": {
+  "name": "Fast 'N' Inzaine",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.45,
+     "close_ratio": 0.94,
+     "last200_t": 12.3,
+     "last600_t": 34.84,
+     "overall_t": 59.07,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.19
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "FEAR NO EVIL": {
   "name": "Fear No Evil",
   "runs": [
@@ -4208,6 +4959,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "FINE SIERRA": {
+  "name": "Fine Sierra",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.54,
+     "close_ratio": 0.96,
+     "last200_t": 12.64,
+     "last600_t": 36.21,
+     "overall_t": 72.98,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.11
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -4580,6 +5352,27 @@
    }
   ]
  },
+ "FRENCH COURT": {
+  "name": "French Court",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "FRIDGE MONSTER": {
   "name": "Fridge Monster",
   "runs": [
@@ -4692,6 +5485,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "GATES": {
+  "name": "Gates",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.8,
+     "close_ratio": 0.99,
+     "last200_t": 13.27,
+     "last600_t": 37.69,
+     "overall_t": 133.27,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "GEEGEES HISWORD": {
+  "name": "Geegees Hisword",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.96,
+     "close_ratio": 0.97,
+     "last200_t": 13.9,
+     "last600_t": 39.23,
+     "overall_t": 134.9,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.0
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -5046,6 +5881,27 @@
    }
   ]
  },
+ "GRUNNETTAN": {
+  "name": "Grunnettan",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.89,
+     "close_ratio": 1.03,
+     "last200_t": 12.4,
+     "last600_t": 36.9,
+     "overall_t": 133.26,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.01
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "HAALAND": {
   "name": "Haaland",
   "runs": [
@@ -5262,6 +6118,27 @@
    }
   ]
  },
+ "HELLFIRE BAY": {
+  "name": "Hellfire Bay",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "HERES MATILDA": {
   "name": "Here'S Matilda",
   "runs": [
@@ -5306,6 +6183,27 @@
    }
   ]
  },
+ "HIDE YOUR ASSETS": {
+  "name": "Hide Your Assets",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.34,
+     "close_ratio": 0.98,
+     "last200_t": 12.31,
+     "last600_t": 36.6,
+     "overall_t": 92.19,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "HIGHLAND BLAZE": {
   "name": "Highland Blaze",
   "runs": [
@@ -5335,6 +6233,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "HIGHNESS": {
+  "name": "Highness",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.49,
+     "close_ratio": 0.98,
+     "last200_t": 13.4,
+     "last600_t": 38.6,
+     "overall_t": 133.87,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 16.88
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -5412,6 +6331,27 @@
    }
   ]
  },
+ "HOPKINS STAR": {
+  "name": "Hopkins Star",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.51,
+     "close_ratio": 0.98,
+     "last200_t": 13.14,
+     "last600_t": 37.32,
+     "overall_t": 94.28,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "HOTEI SENSHI": {
   "name": "Hotei Senshi",
   "runs": [
@@ -5440,6 +6380,48 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "HUGHIE": {
+  "name": "Hughie",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "HYPER BALLAD": {
+  "name": "Hyper Ballad",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.85,
+     "close_ratio": 0.96,
+     "last200_t": 12.66,
+     "last600_t": 35.92,
+     "overall_t": 73.14,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -5505,6 +6487,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ICE ICE DAISY": {
+  "name": "Ice Ice Daisy",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -5579,6 +6582,27 @@
    }
   ]
  },
+ "IDLING BEHIND": {
+  "name": "Idling Behind",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.78,
+     "close_ratio": 1.03,
+     "last200_t": 12.26,
+     "last600_t": 36.07,
+     "overall_t": 92.56,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.94
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "II": {
   "name": "(ii)",
   "runs": [
@@ -5620,6 +6644,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "IMNODRUMMERBOY": {
+  "name": "I'Mnodrummerboy",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.89,
+     "close_ratio": 0.95,
+     "last200_t": 12.71,
+     "last600_t": 36.92,
+     "overall_t": 86.3,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -6265,6 +7310,48 @@
    }
   ]
  },
+ "JULEP": {
+  "name": "Julep",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.87,
+     "close_ratio": 0.99,
+     "last200_t": 12.73,
+     "last600_t": 36.79,
+     "overall_t": 93.5,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "JUST CURIOUS": {
+  "name": "Just Curious",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "JUST TOO FLY": {
   "name": "Just Too Fly",
   "runs": [
@@ -6328,6 +7415,27 @@
    }
   ]
  },
+ "KAWA": {
+  "name": "Kawa",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.01,
+     "close_ratio": 1.02,
+     "last200_t": 13.09,
+     "last600_t": 37.23,
+     "overall_t": 132.67,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "KEANE ENUFF": {
   "name": "Keane Enuff",
   "runs": [
@@ -6346,6 +7454,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "KEEPY UPPY": {
+  "name": "Keepy Uppy",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -6391,6 +7520,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "KING ALLA": {
+  "name": "King Alla",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.94,
+     "close_ratio": 0.99,
+     "last200_t": 12.02,
+     "last600_t": 36.0,
+     "overall_t": 91.26,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 18.57
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -6491,6 +7641,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "LA REEL DEAL": {
+  "name": "La Reel Deal",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.25,
+     "close_ratio": 1.01,
+     "last200_t": 12.48,
+     "last600_t": 36.04,
+     "overall_t": 85.94,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 18.08
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "LADY IN RED": {
+  "name": "Lady In Red",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -6605,6 +7797,27 @@
    }
   ]
  },
+ "LAST SUMMER": {
+  "name": "Last Summer",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.11,
+     "close_ratio": 0.99,
+     "last200_t": 12.25,
+     "last600_t": 36.09,
+     "overall_t": 85.85,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 18.2
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "LAUBERHORN": {
   "name": "Lauberhorn",
   "runs": [
@@ -6677,6 +7890,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "LE GLACON": {
+  "name": "Le Glacon",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.94,
+     "close_ratio": 0.93,
+     "last200_t": 12.75,
+     "last600_t": 35.96,
+     "overall_t": 60.92,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -6828,6 +8062,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "LIFE SENTENCE": {
+  "name": "Life Sentence",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.66,
+     "close_ratio": 0.99,
+     "last200_t": 12.17,
+     "last600_t": 35.74,
+     "overall_t": 90.86,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -7155,6 +8410,48 @@
    }
   ]
  },
+ "MAFEE": {
+  "name": "Mafee",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.49,
+     "close_ratio": 0.89,
+     "last200_t": 13.52,
+     "last600_t": 36.3,
+     "overall_t": 60.05,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.83
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "MAGIC FIELD": {
+  "name": "Magic Field",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "MAGNARDO": {
   "name": "Magnardo",
   "runs": [
@@ -7173,6 +8470,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -7380,6 +8693,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "MARGIN CALL": {
+  "name": "Margin Call",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.39,
+     "close_ratio": 0.93,
+     "last200_t": 12.58,
+     "last600_t": 34.86,
+     "overall_t": 58.89,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.65
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -7662,6 +8996,27 @@
    }
   ]
  },
+ "MISS MAHJONG": {
+  "name": "Miss Mahjong",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 11.91,
+     "last600_t": 34.79,
+     "overall_t": 72.18,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "MISS MARANDA": {
   "name": "Miss Maranda",
   "runs": [
@@ -7915,6 +9270,27 @@
    }
   ]
  },
+ "MORISU OJO": {
+  "name": "Morisu Ojo",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.95,
+     "close_ratio": 1.03,
+     "last200_t": 12.82,
+     "last600_t": 36.88,
+     "overall_t": 132.73,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.63
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "MOSCOW RED 12YO": {
   "name": "Moscow Red (NZ) 12yo.",
   "runs": [
@@ -7965,6 +9341,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "MR BUTTS BOATS": {
+  "name": "Mr Butt'S Boats",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.3,
+     "close_ratio": 0.98,
+     "last200_t": 12.06,
+     "last600_t": 35.39,
+     "overall_t": 72.46,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 17.88
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -8879,6 +10276,27 @@
    }
   ]
  },
+ "OUTSIDETHESQUARE": {
+  "name": "Outsidethesquare",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.38,
+     "close_ratio": 1.02,
+     "last200_t": 12.09,
+     "last600_t": 35.85,
+     "overall_t": 92.33,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "OUTTA COMPTON": {
   "name": "Outta Compton",
   "runs": [
@@ -9183,6 +10601,27 @@
    }
   ]
  },
+ "PERLAGE": {
+  "name": "Perlage",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.69,
+     "close_ratio": 0.95,
+     "last200_t": 13.27,
+     "last600_t": 36.91,
+     "overall_t": 73.58,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "PIASTRI": {
   "name": "Piastri",
   "runs": [
@@ -9284,6 +10723,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "POISONOUS": {
+  "name": "Poisonous",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.11,
+     "close_ratio": 0.95,
+     "last200_t": 12.91,
+     "last600_t": 36.58,
+     "overall_t": 73.35,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -9510,6 +10970,27 @@
    }
   ]
  },
+ "PRINCE OF SPARTA": {
+  "name": "Prince Of Sparta",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.06,
+     "close_ratio": 0.97,
+     "last200_t": 12.55,
+     "last600_t": 36.02,
+     "overall_t": 72.95,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.02
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "PRINCE TYCOON": {
   "name": "Prince Tycoon",
   "runs": [
@@ -9622,6 +11103,27 @@
    }
   ]
  },
+ "PRIZED MAGIC": {
+  "name": "Prized Magic",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.49,
+     "close_ratio": 0.94,
+     "last200_t": 13.62,
+     "last600_t": 38.26,
+     "overall_t": 88.59,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 18.14
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "PROMISED LAND": {
   "name": "Promised Land",
   "runs": [
@@ -9667,6 +11169,48 @@
    }
   ]
  },
+ "PUMP THE PEDALS": {
+  "name": "Pump The Pedals",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.96,
+     "last200_t": 12.22,
+     "last600_t": 34.86,
+     "overall_t": 59.88,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "QUEEN AMANJENA": {
+  "name": "Queen Amanjena",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.17,
+     "close_ratio": 0.97,
+     "last200_t": 12.0,
+     "last600_t": 35.44,
+     "overall_t": 72.89,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 17.94
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "QUEEN OF CORDOBA": {
   "name": "Queen Of Cordoba",
   "runs": [
@@ -9685,6 +11229,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "QUITE THE LASS": {
+  "name": "Quite The Lass",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.26,
+     "close_ratio": 1.01,
+     "last200_t": 13.36,
+     "last600_t": 37.9,
+     "overall_t": 133.35,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.27
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -9938,6 +11503,27 @@
    }
   ]
  },
+ "RENEGE": {
+  "name": "Renege",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "RESET THE JAZZ": {
   "name": "Reset The Jazz",
   "runs": [
@@ -10012,6 +11598,27 @@
    }
   ]
  },
+ "RHINEGLOW": {
+  "name": "Rhineglow",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.66,
+     "close_ratio": 1.01,
+     "last200_t": 13.03,
+     "last600_t": 36.87,
+     "overall_t": 93.76,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.93
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "RIDER JETT STANLEY": {
   "name": "Rider Jett Stanley",
   "runs": [
@@ -10074,6 +11681,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ROXOLANI": {
+  "name": "Roxolani",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -10157,6 +11785,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "ROYAL MARVEL": {
+  "name": "Royal Marvel",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.92,
+     "close_ratio": 0.94,
+     "last200_t": 13.53,
+     "last600_t": 38.34,
+     "overall_t": 64.95,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -10247,6 +11896,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "SACRAMENTAL": {
+  "name": "Sacramental",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.31,
+     "close_ratio": 0.99,
+     "last200_t": 12.09,
+     "last600_t": 35.03,
+     "overall_t": 72.5,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.04
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -10533,6 +12203,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "SAVAMOON": {
+  "name": "Savamoon",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.53,
+     "close_ratio": 0.95,
+     "last200_t": 12.82,
+     "last600_t": 36.91,
+     "overall_t": 91.94,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 18.99
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -10892,6 +12583,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "SHOW NO DOUBT": {
+  "name": "Show No Doubt",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.28,
+     "close_ratio": 0.97,
+     "last200_t": 13.41,
+     "last600_t": 37.81,
+     "overall_t": 94.33,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.21
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -11336,6 +13048,27 @@
    }
   ]
  },
+ "SOMETHING WHITE": {
+  "name": "Something White",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.27,
+     "close_ratio": 0.91,
+     "last200_t": 13.34,
+     "last600_t": 36.59,
+     "overall_t": 61.3,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 18.7
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "SOMETHINGSOSTRONG": {
   "name": "Somethingsostrong",
   "runs": [
@@ -11398,6 +13131,27 @@
    }
   ]
  },
+ "SONIC BOLT": {
+  "name": "Sonic Bolt",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.17,
+     "close_ratio": 0.94,
+     "last200_t": 12.54,
+     "last600_t": 35.51,
+     "overall_t": 60.48,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 19.02
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "SOTOMAYOR": {
   "name": "Sotomayor",
   "runs": [
@@ -11437,6 +13191,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "SPIDERMAN": {
+  "name": "Spiderman",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.82,
+     "close_ratio": 0.94,
+     "last200_t": 12.94,
+     "last600_t": 36.48,
+     "overall_t": 72.68,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -11551,6 +13326,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "STAR OF TENNYSON": {
+  "name": "Star Of Tennyson",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.67,
+     "close_ratio": 1.01,
+     "last200_t": 12.32,
+     "last600_t": 35.89,
+     "overall_t": 85.95,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 17.65
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -11982,6 +13778,27 @@
    }
   ]
  },
+ "STREET LEGEND": {
+  "name": "Street Legend",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.7,
+     "close_ratio": 0.95,
+     "last200_t": 14.0,
+     "last600_t": 38.1,
+     "overall_t": 74.98,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.02
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "STRIKE GOLD": {
   "name": "Strike Gold (NZ)",
   "runs": [
@@ -12107,6 +13924,27 @@
    }
   ]
  },
+ "SUNNI MOFEED": {
+  "name": "Sunni Mofeed",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "SUPERNIMA": {
   "name": "Supernima",
   "runs": [
@@ -12125,6 +13963,48 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "SUPERSET": {
+  "name": "Superset",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.0,
+     "close_ratio": 0.96,
+     "last200_t": 12.34,
+     "last600_t": 35.5,
+     "overall_t": 72.25,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.29
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "SURREAL I AM": {
+  "name": "Surreal I Am",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.3,
+     "close_ratio": 0.98,
+     "last200_t": 12.35,
+     "last600_t": 35.87,
+     "overall_t": 90.54,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 19.25
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -12206,6 +14086,69 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "SWYCHO": {
+  "name": "Swycho",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.75,
+     "close_ratio": 0.99,
+     "last200_t": 12.37,
+     "last600_t": 36.07,
+     "overall_t": 91.32,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 18.98
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "TA TA TANGO": {
+  "name": "Ta Ta Tango",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.01,
+     "close_ratio": 0.95,
+     "last200_t": 13.38,
+     "last600_t": 37.92,
+     "overall_t": 94.17,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.68
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "TAG THE BRIDE": {
+  "name": "Tag The Bride",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.42,
+     "close_ratio": 0.92,
+     "last200_t": 12.57,
+     "last600_t": 35.42,
+     "overall_t": 60.04,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 19.23
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -12489,6 +14432,27 @@
    }
   ]
  },
+ "TENNESSEE LIGHTS": {
+  "name": "Tennessee Lights",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.66,
+     "close_ratio": 0.94,
+     "last200_t": 12.24,
+     "last600_t": 34.98,
+     "overall_t": 59.98,
+     "race_name": "Mortimer Petroleum Maiden Plate",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "TEST THE LAW": {
   "name": "Test The Law",
   "runs": [
@@ -12518,6 +14482,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "TESTY NIC": {
+  "name": "Testy Nic",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.89,
+     "close_ratio": 0.97,
+     "last200_t": 12.67,
+     "last600_t": 36.54,
+     "overall_t": 85.96,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 18.03
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -12692,6 +14677,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "THE TORONADO KID": {
+  "name": "The Toronado Kid",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.83,
+     "close_ratio": 0.94,
+     "last200_t": 12.71,
+     "last600_t": 36.94,
+     "overall_t": 85.99,
+     "race_name": "Brandt Maiden Plate",
+     "top_spd": 18.6
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -12944,6 +14950,48 @@
    }
   ]
  },
+ "TOLPUDDLE": {
+  "name": "Tolpuddle",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.27,
+     "close_ratio": 1.0,
+     "last200_t": 12.01,
+     "last600_t": 35.52,
+     "overall_t": 90.82,
+     "race_name": "Global Turf BM70 Handicap",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "TOMMYESS": {
+  "name": "Tommyess",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.43,
+     "close_ratio": 1.0,
+     "last200_t": 11.94,
+     "last600_t": 34.99,
+     "overall_t": 72.19,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "TOP CONTI": {
   "name": "Top Conti (NZ)",
   "runs": [
@@ -13051,6 +15099,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "TOUS": {
+  "name": "Tous",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -13367,6 +15436,27 @@
    }
   ]
  },
+ "VEGAS MISSILE": {
+  "name": "Vegas Missile",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.38,
+     "close_ratio": 0.97,
+     "last200_t": 12.34,
+     "last600_t": 35.54,
+     "overall_t": 72.41,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 18.0
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "VENETO STREET": {
   "name": "Veneto Street",
   "runs": [
@@ -13385,6 +15475,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "VERY FAMOUS": {
+  "name": "Very Famous",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.27,
+     "close_ratio": 1.02,
+     "last200_t": 12.49,
+     "last600_t": 36.26,
+     "overall_t": 92.99,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 18.37
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -13554,6 +15665,27 @@
    }
   ]
  },
+ "WHERES POPPY": {
+  "name": "Where'S Poppy",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "WHIMSY SMILE": {
   "name": "Whimsy Smile",
   "runs": [
@@ -13598,6 +15730,48 @@
    }
   ]
  },
+ "WHITE BEAR": {
+  "name": "White Bear",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.64,
+     "close_ratio": 0.89,
+     "last200_t": 14.18,
+     "last600_t": 37.43,
+     "overall_t": 61.43,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.55
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
+ "WHITSON": {
+  "name": "Whitson",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.96,
+     "last200_t": 12.33,
+     "last600_t": 34.3,
+     "overall_t": 58.78,
+     "race_name": "Sportsbet Blackbook BM62 Handicap",
+     "top_spd": 19.76
+    },
+    "steward": null,
+    "track": "Sportsbet"
+   }
+  ]
+ },
  "WINNASEDGE": {
   "name": "Winnasedge",
   "runs": [
@@ -13616,6 +15790,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "WINSTON": {
+  "name": "Winston",
+  "runs": [
+   {
+    "date": "2026-07-14",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.82,
+     "close_ratio": 1.0,
+     "last200_t": 13.24,
+     "last600_t": 37.68,
+     "overall_t": 132.64,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 16.98
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
@@ -13945,6 +16140,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.11,
+     "close_ratio": 0.97,
+     "last200_t": 12.34,
+     "last600_t": 35.46,
+     "overall_t": 72.26,
+     "race_name": "Hygain Edge BM62 Handicap",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Sportsbet"
    }
   ]
  },
