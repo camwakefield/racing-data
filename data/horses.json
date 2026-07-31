@@ -22,6 +22,27 @@
    }
   ]
  },
+ "ACHY BREAKY HEART": {
+  "name": "Achy Breaky Heart",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.69,
+     "close_ratio": 1.1,
+     "last200_t": 12.52,
+     "last600_t": 35.01,
+     "overall_t": 113.96,
+     "race_name": "TAB Byerley Handicap",
+     "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "AEOLIAN": {
   "name": "Aeolian",
   "runs": [
@@ -95,6 +116,48 @@
    }
   ]
  },
+ "ALMONTEGO": {
+  "name": "Almontego",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.62,
+     "close_ratio": 0.98,
+     "last200_t": 12.27,
+     "last600_t": 34.06,
+     "overall_t": 58.75,
+     "race_name": "TAB We're On",
+     "top_spd": 19.61
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "ALONG THE RIVER": {
+  "name": "Along The River",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.19,
+     "close_ratio": 0.99,
+     "last200_t": 11.86,
+     "last600_t": 33.41,
+     "overall_t": 57.87,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.41
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "AMLETO": {
   "name": "Amleto",
   "runs": [
@@ -123,6 +186,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "ANGEL IN BLACK": {
+  "name": "Angel In Black",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.98,
+     "close_ratio": 1.02,
+     "last200_t": 12.62,
+     "last600_t": 35.28,
+     "overall_t": 84.69,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.67
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -180,6 +264,27 @@
    }
   ]
  },
+ "ATAEGINA": {
+  "name": "Ataegina",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.54,
+     "close_ratio": 1.09,
+     "last200_t": 11.84,
+     "last600_t": 34.08,
+     "overall_t": 99.01,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.58
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "AZTEC RULER": {
   "name": "Aztec Ruler",
   "runs": [
@@ -198,6 +303,69 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BANKERS CHOICE": {
+  "name": "Bankers Choice",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.86,
+     "close_ratio": 0.96,
+     "last200_t": 13.33,
+     "last600_t": 37.36,
+     "overall_t": 123.46,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "BARARI": {
+  "name": "Barari",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.2,
+     "close_ratio": 1.01,
+     "last200_t": 12.46,
+     "last600_t": 34.36,
+     "overall_t": 70.96,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 19.23
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "BARBIESDREAMWORLD": {
+  "name": "Barbie'Sdreamworld",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.41,
+     "close_ratio": 1.05,
+     "last200_t": 11.96,
+     "last600_t": 34.84,
+     "overall_t": 98.62,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -327,6 +495,27 @@
    }
   ]
  },
+ "BETWITCHERY": {
+  "name": "Betwitchery",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.05,
+     "close_ratio": 0.98,
+     "last200_t": 11.98,
+     "last600_t": 34.41,
+     "overall_t": 70.45,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 18.29
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "BIRATU": {
   "name": "Biratu",
   "runs": [
@@ -351,6 +540,27 @@
    }
   ]
  },
+ "BLACK RUN": {
+  "name": "Black Run",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.06,
+     "close_ratio": 1.1,
+     "last200_t": 12.27,
+     "last600_t": 35.48,
+     "overall_t": 180.08,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.64
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "BLANKFIELD": {
   "name": "Blankfield",
   "runs": [
@@ -369,6 +579,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BOLD SOUL": {
+  "name": "Bold Soul",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.2,
+     "close_ratio": 1.11,
+     "last200_t": 11.94,
+     "last600_t": 35.07,
+     "overall_t": 179.99,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.65
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -416,6 +647,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "BRAYDEN STAR": {
+  "name": "Brayden Star",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.71,
+     "close_ratio": 1.0,
+     "last200_t": 12.92,
+     "last600_t": 36.27,
+     "overall_t": 123.45,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.08
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -556,6 +808,27 @@
    }
   ]
  },
+ "BRING ME POWER": {
+  "name": "Bring Me Power",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.73,
+     "close_ratio": 0.99,
+     "last200_t": 12.43,
+     "last600_t": 34.26,
+     "overall_t": 58.8,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 18.94
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "BRROOSHA": {
   "name": "Brroosha",
   "runs": [
@@ -576,6 +849,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "BULLETS HIGH": {
+  "name": "Bullets High",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.66,
+     "close_ratio": 1.02,
+     "last200_t": 12.42,
+     "last600_t": 34.55,
+     "overall_t": 71.34,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -683,6 +977,27 @@
    }
   ]
  },
+ "CAT NOIR": {
+  "name": "Cat Noir",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.05,
+     "close_ratio": 1.09,
+     "last200_t": 11.41,
+     "last600_t": 33.56,
+     "overall_t": 98.29,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.43
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "CELTICS": {
   "name": "Celtics",
   "runs": [
@@ -701,6 +1016,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CENSORI": {
+  "name": "Censori",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -769,6 +1105,111 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "CHANGING COLOURS": {
+  "name": "Changing Colours",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.11,
+     "last200_t": 11.18,
+     "last600_t": 33.24,
+     "overall_t": 97.63,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.65
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "CHARMED RUN": {
+  "name": "Charmed Run",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.37,
+     "close_ratio": 1.01,
+     "last200_t": 11.68,
+     "last600_t": 33.35,
+     "overall_t": 58.38,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.12
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "CHERISH ME": {
+  "name": "Cherish Me",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.1,
+     "close_ratio": 1.0,
+     "last200_t": 12.27,
+     "last600_t": 34.87,
+     "overall_t": 83.72,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.5
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "CHIEF LITTLE ROCK": {
+  "name": "Chief Little Rock",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.87,
+     "close_ratio": 1.0,
+     "last200_t": 13.0,
+     "last600_t": 36.21,
+     "overall_t": 123.91,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.41
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "CHOWDOWN": {
+  "name": "Chowdown",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.41,
+     "close_ratio": 1.02,
+     "last200_t": 12.53,
+     "last600_t": 35.53,
+     "overall_t": 103.96,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -987,6 +1428,48 @@
    }
   ]
  },
+ "DARK MATTER": {
+  "name": "Dark Matter",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.46,
+     "close_ratio": 0.96,
+     "last200_t": 12.55,
+     "last600_t": 34.46,
+     "overall_t": 59.08,
+     "race_name": "TAB We're On",
+     "top_spd": 19.4
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "DAVIDA": {
+  "name": "Davida",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.78,
+     "close_ratio": 1.01,
+     "last200_t": 12.25,
+     "last600_t": 34.63,
+     "overall_t": 83.93,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.26
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "DEADLY PRESS": {
   "name": "Deadly Press",
   "runs": [
@@ -1038,6 +1521,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "DELAHRA": {
+  "name": "Delahra",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.88,
+     "close_ratio": 1.11,
+     "last200_t": 12.39,
+     "last600_t": 34.94,
+     "overall_t": 113.99,
+     "race_name": "TAB Byerley Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1173,6 +1677,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.91,
+     "close_ratio": 1.01,
+     "last200_t": 12.25,
+     "last600_t": 35.35,
+     "overall_t": 103.15,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.64
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1220,6 +1740,27 @@
    }
   ]
  },
+ "DUNTULM LASS": {
+  "name": "Duntulm Lass",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.12,
+     "close_ratio": 1.03,
+     "last200_t": 11.7,
+     "last600_t": 34.16,
+     "overall_t": 83.92,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.3
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "DURHAM LEGACY": {
   "name": "Durham Legacy",
   "runs": [
@@ -1264,6 +1805,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "EL PIBE DE ORO": {
+  "name": "El Pibe De Oro",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 11.73,
+     "last600_t": 33.14,
+     "overall_t": 58.06,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 18.87
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "EMPEROR TZU": {
+  "name": "Emperor Tzu",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.21,
+     "close_ratio": 1.01,
+     "last200_t": 12.15,
+     "last600_t": 35.24,
+     "overall_t": 102.75,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1526,6 +2109,90 @@
    }
   ]
  },
+ "FLASH FEELING": {
+  "name": "Flash Feeling",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.91,
+     "close_ratio": 0.99,
+     "last200_t": 13.37,
+     "last600_t": 37.34,
+     "overall_t": 124.25,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "FLYER": {
+  "name": "Flyer",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.14,
+     "close_ratio": 1.03,
+     "last200_t": 12.46,
+     "last600_t": 34.38,
+     "overall_t": 71.15,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 19.24
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "FLYING DONE": {
+  "name": "Flying Done",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.39,
+     "close_ratio": 0.95,
+     "last200_t": 13.28,
+     "last600_t": 37.46,
+     "overall_t": 104.47,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "FLYING KHAN": {
+  "name": "Flying Khan",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.9,
+     "close_ratio": 0.99,
+     "last200_t": 12.63,
+     "last600_t": 36.09,
+     "overall_t": 103.6,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.79
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "FOIX": {
   "name": "Foix (FR)",
   "runs": [
@@ -1547,6 +2214,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "FREEDOM RALLY": {
+  "name": "Freedom Rally",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.14,
+     "close_ratio": 1.0,
+     "last200_t": 13.69,
+     "last600_t": 37.25,
+     "overall_t": 124.4,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.34
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1682,6 +2370,27 @@
    }
   ]
  },
+ "GLORY DAZE": {
+  "name": "Glory Daze",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.96,
+     "close_ratio": 0.99,
+     "last200_t": 12.86,
+     "last600_t": 36.55,
+     "overall_t": 123.43,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.18
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "GRAN PARADISO": {
   "name": "Gran Paradiso",
   "runs": [
@@ -1704,6 +2413,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "GREAT MAXIMUS": {
+  "name": "Great Maximus",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.92,
+     "close_ratio": 1.02,
+     "last200_t": 12.3,
+     "last600_t": 34.11,
+     "overall_t": 70.95,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 19.04
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1757,6 +2487,48 @@
    }
   ]
  },
+ "HARD KICK": {
+  "name": "Hard Kick",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.58,
+     "close_ratio": 0.95,
+     "last200_t": 12.77,
+     "last600_t": 34.77,
+     "overall_t": 59.01,
+     "race_name": "TAB We're On",
+     "top_spd": 19.19
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "HARRY GOT STYLES": {
+  "name": "Harry Got Styles",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.6,
+     "close_ratio": 0.98,
+     "last200_t": 12.11,
+     "last600_t": 33.61,
+     "overall_t": 58.42,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.03
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "HAWK POWER": {
   "name": "Hawk Power (IRE)",
   "runs": [
@@ -1804,6 +2576,48 @@
    }
   ]
  },
+ "HIGHLAND BLAZE": {
+  "name": "Highland Blaze",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 1.12,
+     "last200_t": 11.9,
+     "last600_t": 34.98,
+     "overall_t": 180.02,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.84
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "HOME RULE": {
+  "name": "Home Rule",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.61,
+     "close_ratio": 0.95,
+     "last200_t": 12.49,
+     "last600_t": 35.29,
+     "overall_t": 71.24,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "HOTEI SENSHI": {
   "name": "Hotei Senshi",
   "runs": [
@@ -1832,6 +2646,48 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "I AM VELVET": {
+  "name": "I Am Velvet",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "IMPENDING SHADOW": {
+  "name": "Impending Shadow",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.57,
+     "close_ratio": 1.07,
+     "last200_t": 11.94,
+     "last600_t": 34.42,
+     "overall_t": 99.37,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.16
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1983,6 +2839,27 @@
    }
   ]
  },
+ "JIMMY BEANS": {
+  "name": "Jimmy Beans",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "JIMMY THE BEAR": {
   "name": "Jimmy The Bear",
   "runs": [
@@ -2037,6 +2914,27 @@
    }
   ]
  },
+ "JUGIONG": {
+  "name": "Jugiong",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.51,
+     "close_ratio": 1.02,
+     "last200_t": 13.0,
+     "last600_t": 34.96,
+     "overall_t": 71.86,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 19.54
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "JUST TOO FLY": {
   "name": "Just Too Fly",
   "runs": [
@@ -2055,6 +2953,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "KALEO": {
+  "name": "Kaleo",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 11.94,
+     "last600_t": 34.61,
+     "overall_t": 102.68,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2087,6 +3006,27 @@
    }
   ]
  },
+ "KO PHANGAN": {
+  "name": "Ko Phangan",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.11,
+     "last200_t": 12.03,
+     "last600_t": 34.55,
+     "overall_t": 113.45,
+     "race_name": "TAB Byerley Handicap",
+     "top_spd": 18.35
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "KUHEYLAN": {
   "name": "Kuheylan",
   "runs": [
@@ -2108,6 +3048,48 @@
    }
   ]
  },
+ "LAKE VOSTOK": {
+  "name": "Lake Vostok",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.64,
+     "close_ratio": 1.11,
+     "last200_t": 11.6,
+     "last600_t": 33.7,
+     "overall_t": 98.52,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "LANDMARK": {
+  "name": "Landmark",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.37,
+     "close_ratio": 0.99,
+     "last200_t": 12.13,
+     "last600_t": 33.35,
+     "overall_t": 58.44,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.45
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "LAUBERHORN": {
   "name": "Lauberhorn",
   "runs": [
@@ -2126,6 +3108,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "LAURA ELIZA": {
+  "name": "Laura Eliza",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.58,
+     "close_ratio": 1.01,
+     "last200_t": 11.97,
+     "last600_t": 34.7,
+     "overall_t": 84.03,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2157,6 +3160,48 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "LEOPARD SHARK": {
+  "name": "Leopard Shark",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.94,
+     "close_ratio": 0.97,
+     "last200_t": 12.16,
+     "last600_t": 33.95,
+     "overall_t": 58.48,
+     "race_name": "TAB We're On",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "LICENTIOUS": {
+  "name": "Licentious",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.49,
+     "close_ratio": 1.01,
+     "last200_t": 12.11,
+     "last600_t": 34.73,
+     "overall_t": 83.78,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2228,6 +3273,27 @@
    }
   ]
  },
+ "LUCKY LUCKY BOOM": {
+  "name": "Lucky Lucky Boom",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.35,
+     "close_ratio": 0.98,
+     "last200_t": 12.38,
+     "last600_t": 35.92,
+     "overall_t": 102.97,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "LUDLUM": {
   "name": "Ludlum",
   "runs": [
@@ -2288,6 +3354,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "MADIYYA": {
+  "name": "Madiyya",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.34,
+     "close_ratio": 1.07,
+     "last200_t": 11.68,
+     "last600_t": 34.15,
+     "overall_t": 98.11,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.38
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2419,6 +3506,48 @@
    }
   ]
  },
+ "MARINE EMPRESS": {
+  "name": "Marine Empress",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.68,
+     "close_ratio": 1.09,
+     "last200_t": 11.69,
+     "last600_t": 34.03,
+     "overall_t": 98.54,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.26
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "MARTIAL MUSIC": {
+  "name": "Martial Music",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MENTHON": {
   "name": "Menthon",
   "runs": [
@@ -2526,6 +3655,90 @@
    }
   ]
  },
+ "MISS MARANDA": {
+  "name": "Miss Maranda",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.59,
+     "close_ratio": 1.04,
+     "last200_t": 11.86,
+     "last600_t": 34.0,
+     "overall_t": 84.09,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.79
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "MISSAPPREHEND": {
+  "name": "Missapprehend",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.86,
+     "close_ratio": 1.02,
+     "last200_t": 12.03,
+     "last600_t": 34.6,
+     "overall_t": 83.73,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.3
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "MOBY DICK": {
+  "name": "Moby Dick",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.01,
+     "close_ratio": 1.01,
+     "last200_t": 12.68,
+     "last600_t": 34.78,
+     "overall_t": 71.38,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 19.17
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "MR AVERY": {
+  "name": "Mr Avery",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.91,
+     "close_ratio": 1.02,
+     "last200_t": 12.32,
+     "last600_t": 35.35,
+     "overall_t": 103.29,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.95
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MR SIOUX": {
   "name": "Mr Sioux (IRE)",
   "runs": [
@@ -2544,6 +3757,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "MR VERSE": {
+  "name": "Mr Verse",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.09,
+     "close_ratio": 1.0,
+     "last200_t": 12.06,
+     "last600_t": 34.05,
+     "overall_t": 70.45,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 18.91
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2603,6 +3837,48 @@
    }
   ]
  },
+ "NELLIE LEYLAX": {
+  "name": "Nellie Leylax",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.84,
+     "close_ratio": 0.98,
+     "last200_t": 13.08,
+     "last600_t": 36.98,
+     "overall_t": 123.58,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 17.74
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "NEXT STEP IOWA": {
+  "name": "Next Step Iowa",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.76,
+     "close_ratio": 0.99,
+     "last200_t": 11.86,
+     "last600_t": 33.22,
+     "overall_t": 57.96,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.34
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "NIGHTIME STAR": {
   "name": "Nightime Star",
   "runs": [
@@ -2621,6 +3897,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "NIMBUSTWOTHOUSAND": {
+  "name": "Nimbustwothousand",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.04,
+     "close_ratio": 0.98,
+     "last200_t": 11.92,
+     "last600_t": 33.46,
+     "overall_t": 58.16,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.14
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2655,6 +3952,27 @@
    }
   ]
  },
+ "NOTIFIED": {
+  "name": "Notified",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.0,
+     "close_ratio": 1.09,
+     "last200_t": 12.33,
+     "last600_t": 34.9,
+     "overall_t": 113.84,
+     "race_name": "TAB Byerley Handicap",
+     "top_spd": 18.37
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "OCTANE REIGN": {
   "name": "Octane Reign",
   "runs": [
@@ -2678,6 +3996,27 @@
    }
   ]
  },
+ "OFF THEIR PERCH": {
+  "name": "Off Their Perch",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.05,
+     "close_ratio": 1.02,
+     "last200_t": 12.28,
+     "last600_t": 34.89,
+     "overall_t": 84.37,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "OLIVE ROAD": {
   "name": "Olive Road",
   "runs": [
@@ -2698,6 +4037,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "ONE HARD LADY": {
+  "name": "One Hard Lady",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.9,
+     "close_ratio": 0.99,
+     "last200_t": 12.23,
+     "last600_t": 33.85,
+     "overall_t": 58.5,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.14
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2806,6 +4166,48 @@
    }
   ]
  },
+ "OVERPRICED": {
+  "name": "Overpriced",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.7,
+     "close_ratio": 1.0,
+     "last200_t": 12.52,
+     "last600_t": 35.79,
+     "overall_t": 103.88,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.86
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "OYSTER LANE": {
+  "name": "Oyster Lane",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.21,
+     "close_ratio": 1.03,
+     "last200_t": 12.37,
+     "last600_t": 35.24,
+     "overall_t": 103.48,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PACIFIC GLAMOUR": {
   "name": "Pacific Glamour",
   "runs": [
@@ -2824,6 +4226,48 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PALM ANGEL": {
+  "name": "Palm Angel",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.21,
+     "close_ratio": 1.05,
+     "last200_t": 11.81,
+     "last600_t": 34.13,
+     "overall_t": 83.86,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.92
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "PANCHENKO": {
+  "name": "Panchenko",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.35,
+     "close_ratio": 0.97,
+     "last200_t": 12.82,
+     "last600_t": 34.5,
+     "overall_t": 58.98,
+     "race_name": "TAB We're On",
+     "top_spd": 19.25
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2852,6 +4296,69 @@
    }
   ]
  },
+ "PARVATI PARTY": {
+  "name": "Parvati Party",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.17,
+     "close_ratio": 1.11,
+     "last200_t": 12.13,
+     "last600_t": 35.08,
+     "overall_t": 180.02,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "PER SEMPRE": {
+  "name": "Per Sempre",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.31,
+     "close_ratio": 0.99,
+     "last200_t": 11.82,
+     "last600_t": 33.37,
+     "overall_t": 58.18,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.42
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "PIASTRI": {
+  "name": "Piastri",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.09,
+     "close_ratio": 0.99,
+     "last200_t": 11.97,
+     "last600_t": 34.05,
+     "overall_t": 70.35,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PLACENTIA BAY": {
   "name": "Placentia Bay",
   "runs": [
@@ -2872,6 +4379,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "POCKETFULLOFCASH": {
+  "name": "Pocketfullofcash",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB We're On",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2898,6 +4426,27 @@
    }
   ]
  },
+ "PRAVAHA": {
+  "name": "Pravaha",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.83,
+     "close_ratio": 1.03,
+     "last200_t": 11.96,
+     "last600_t": 34.61,
+     "overall_t": 84.56,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.42
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PRESSURISED": {
   "name": "Pressurised",
   "runs": [
@@ -2916,6 +4465,48 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PRESTIGE FOREVER": {
+  "name": "Prestige Forever",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.34,
+     "close_ratio": 0.99,
+     "last200_t": 13.79,
+     "last600_t": 37.08,
+     "overall_t": 104.82,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 18.15
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "PRIMA BELLA": {
+  "name": "Prima Bella",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.98,
+     "close_ratio": 1.0,
+     "last200_t": 11.89,
+     "last600_t": 33.48,
+     "overall_t": 57.86,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3135,6 +4726,48 @@
    }
   ]
  },
+ "RIVERINA LULU": {
+  "name": "Riverina Lulu",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.97,
+     "last200_t": 12.25,
+     "last600_t": 33.93,
+     "overall_t": 58.27,
+     "race_name": "TAB We're On",
+     "top_spd": 19.07
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "ROYAL INSIGNIA": {
+  "name": "Royal Insignia",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.05,
+     "last600_t": 33.74,
+     "overall_t": 70.42,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 18.74
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ROYAL LASS": {
   "name": "Royal Lass",
   "runs": [
@@ -3208,6 +4841,48 @@
    }
   ]
  },
+ "SAINT GEORGE": {
+  "name": "Saint George",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 12.66,
+     "last600_t": 35.44,
+     "overall_t": 122.9,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SALIZOU": {
+  "name": "Salizou",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.63,
+     "last600_t": 33.86,
+     "overall_t": 83.51,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.52
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SALSA FELLOW": {
   "name": "Salsa Fellow",
   "runs": [
@@ -3255,6 +4930,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SAMUEL LANGHORNE": {
+  "name": "Samuel Langhorne",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.92,
+     "close_ratio": 1.11,
+     "last200_t": 12.24,
+     "last600_t": 35.17,
+     "overall_t": 180.45,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.86
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3433,6 +5129,27 @@
    }
   ]
  },
+ "SHINING SMILE": {
+  "name": "Shining Smile",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SHOWS NO SHAME": {
   "name": "Shows No Shame",
   "runs": [
@@ -3475,6 +5192,69 @@
    }
   ]
  },
+ "SIRIUSLY HOT": {
+  "name": "Siriusly Hot",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.79,
+     "close_ratio": 0.96,
+     "last200_t": 14.0,
+     "last600_t": 38.12,
+     "overall_t": 105.47,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SIXTEEN REASONS": {
+  "name": "Sixteen Reasons",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.17,
+     "close_ratio": 1.0,
+     "last200_t": 12.27,
+     "last600_t": 34.37,
+     "overall_t": 70.86,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 18.65
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SKY WATCHER": {
+  "name": "Sky Watcher",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.19,
+     "close_ratio": 1.01,
+     "last200_t": 12.37,
+     "last600_t": 34.84,
+     "overall_t": 83.76,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.65
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SMART KING": {
   "name": "Smart King",
   "runs": [
@@ -3493,6 +5273,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "SMOKIN PRINCESS": {
+  "name": "Smokin' Princess",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.82,
+     "close_ratio": 1.01,
+     "last200_t": 12.86,
+     "last600_t": 36.23,
+     "overall_t": 123.43,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SMOKIN ROMANS": {
+  "name": "Smokin' Romans",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.7,
+     "close_ratio": 0.99,
+     "last200_t": 12.72,
+     "last600_t": 36.65,
+     "overall_t": 123.08,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3613,6 +5435,27 @@
    }
   ]
  },
+ "STAR OF INDIA": {
+  "name": "Star Of India",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.33,
+     "close_ratio": 1.02,
+     "last200_t": 12.7,
+     "last600_t": 35.68,
+     "overall_t": 123.13,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "STATION ONE": {
   "name": "Station One",
   "runs": [
@@ -3639,6 +5482,48 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "STEEL MOVE": {
+  "name": "Steel Move",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.94,
+     "close_ratio": 1.01,
+     "last200_t": 12.46,
+     "last600_t": 34.45,
+     "overall_t": 71.56,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "STERN IDOL": {
+  "name": "Stern Idol",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.29,
+     "close_ratio": 1.1,
+     "last200_t": 12.6,
+     "last600_t": 35.76,
+     "overall_t": 181.02,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.69
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3670,6 +5555,90 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "STORM SEASON": {
+  "name": "Storm Season",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.68,
+     "close_ratio": 1.08,
+     "last200_t": 11.88,
+     "last600_t": 34.38,
+     "overall_t": 98.63,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.37
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "STREET ARTIST": {
+  "name": "Street Artist",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.79,
+     "close_ratio": 0.96,
+     "last200_t": 12.3,
+     "last600_t": 33.89,
+     "overall_t": 58.2,
+     "race_name": "VRC Member Andrew Bostock Trophy",
+     "top_spd": 19.28
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "STREET LARK": {
+  "name": "Street Lark",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.49,
+     "close_ratio": 1.1,
+     "last200_t": 11.4,
+     "last600_t": 33.75,
+     "overall_t": 97.96,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "STUNNING KITTY": {
+  "name": "Stunning Kitty",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.52,
+     "close_ratio": 1.07,
+     "last200_t": 13.02,
+     "last600_t": 36.17,
+     "overall_t": 114.76,
+     "race_name": "TAB Byerley Handicap",
+     "top_spd": 17.88
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3765,6 +5734,48 @@
    }
   ]
  },
+ "SWEET JASMINE": {
+  "name": "Sweet Jasmine",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.79,
+     "close_ratio": 1.05,
+     "last200_t": 12.16,
+     "last600_t": 34.7,
+     "overall_t": 99.63,
+     "race_name": "RMBL Investments Rising Stars Final",
+     "top_spd": 18.27
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "TAJANIS": {
+  "name": "Tajanis",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.11,
+     "last200_t": 11.89,
+     "last600_t": 34.79,
+     "overall_t": 180.02,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.74
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "TAKEKO": {
   "name": "Takeko",
   "runs": [
@@ -3814,6 +5825,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "TEMPESTI": {
+  "name": "Tempesti",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.71,
+     "close_ratio": 1.13,
+     "last200_t": 12.05,
+     "last600_t": 34.89,
+     "overall_t": 180.03,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 18.2
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3927,6 +5959,90 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "THE MEAN FIDDLER": {
+  "name": "The Mean Fiddler",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.67,
+     "close_ratio": 0.99,
+     "last200_t": 12.95,
+     "last600_t": 36.56,
+     "overall_t": 104.39,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 18.19
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "THE TROUBLESHOOTER": {
+  "name": "The Troubleshooter",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.63,
+     "close_ratio": 0.94,
+     "last200_t": 12.34,
+     "last600_t": 34.4,
+     "overall_t": 58.59,
+     "race_name": "TAB We're On",
+     "top_spd": 19.32
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "THEDOCTOROFLOVE": {
+  "name": "Thedoctoroflove",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.04,
+     "close_ratio": 0.99,
+     "last200_t": 13.16,
+     "last600_t": 36.9,
+     "overall_t": 124.12,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 17.67
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "THINK GIANT": {
+  "name": "Think Giant",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.66,
+     "close_ratio": 1.0,
+     "last200_t": 12.75,
+     "last600_t": 36.29,
+     "overall_t": 123.21,
+     "race_name": "VRC Member Richard John Rowlands Plate",
+     "top_spd": 18.14
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -4117,6 +6233,27 @@
    }
   ]
  },
+ "URBAN OUTLOOK": {
+  "name": "Urban Outlook",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.54,
+     "close_ratio": 1.12,
+     "last200_t": 12.09,
+     "last600_t": 34.95,
+     "overall_t": 180.48,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 18.15
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "VAIN CHAMPAGNE": {
   "name": "Vain Champagne",
   "runs": [
@@ -4184,6 +6321,27 @@
    }
   ]
  },
+ "VENETO STREET": {
+  "name": "Veneto Street",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.39,
+     "close_ratio": 0.96,
+     "last200_t": 12.84,
+     "last600_t": 34.84,
+     "overall_t": 59.64,
+     "race_name": "TAB We're On",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "VESTAS": {
   "name": "Vestas",
   "runs": [
@@ -4205,6 +6363,27 @@
    }
   ]
  },
+ "VIRTUOUS CIRCLE": {
+  "name": "Virtuous Circle",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 2800,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.39,
+     "close_ratio": 1.08,
+     "last200_t": 13.1,
+     "last600_t": 36.47,
+     "overall_t": 181.36,
+     "race_name": "Deane Lester Flemington Cup 1849",
+     "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "WATCHME WIN": {
   "name": "Watchme Win",
   "runs": [
@@ -4223,6 +6402,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "WATT ON EARTH": {
+  "name": "Watt On Earth",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.66,
+     "close_ratio": 1.01,
+     "last200_t": 12.2,
+     "last600_t": 35.08,
+     "overall_t": 103.54,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 18.26
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -4270,6 +6470,69 @@
    }
   ]
  },
+ "WOLFY": {
+  "name": "Wolfy",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "ZEBRA FINCH": {
+  "name": "Zebra Finch",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.95,
+     "close_ratio": 0.99,
+     "last200_t": 12.72,
+     "last600_t": 36.07,
+     "overall_t": 103.35,
+     "race_name": "VRC Member Erica McKissack Trophy",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "ZETHUS": {
+  "name": "Zethus",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.41,
+     "close_ratio": 0.97,
+     "last200_t": 13.37,
+     "last600_t": 36.12,
+     "overall_t": 72.73,
+     "race_name": "VRC Member Brendan Sobozynski Plate",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ZHOU SHU": {
   "name": "Zhou Shu",
   "runs": [
@@ -4311,6 +6574,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "ZUPPA INGLESE": {
+  "name": "Zuppa Inglese",
+  "runs": [
+   {
+    "date": "2026-07-18",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.52,
+     "close_ratio": 1.0,
+     "last200_t": 12.35,
+     "last600_t": 35.08,
+     "overall_t": 84.22,
+     "race_name": "ATA Trainers\u2019 Trust Handicap",
+     "top_spd": 18.11
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  }
