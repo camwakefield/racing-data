@@ -497,14 +497,6 @@
   "count": 15
  },
  {
-  "date": "2026-07-05",
-  "track": "Bendigo",
-  "type": "stewards",
-  "source_file": "Form _ Stewards' Report _ Bendigo _ Sunday _ 5 July 2026 _ VIC _ Racing.com.pdf",
-  "count": 63,
-  "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3"
- },
- {
   "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
@@ -799,22 +791,6 @@
   "count": 14
  },
  {
-  "date": "2026-07-18",
-  "track": "Flemington",
-  "type": "stewards",
-  "source_file": "flemington_20260718.txt",
-  "count": 74,
-  "condition": ""
- },
- {
-  "date": "2026-07-22",
-  "track": "Sandown Hillside",
-  "type": "stewards",
-  "source_file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Wednesday _ 22 July 2026 _ VIC _ Racing.com.pdf",
-  "count": 56,
-  "condition": "Soft 6"
- },
- {
   "date": "2026-07-25",
   "track": "Caulfield",
   "type": "sectional",
@@ -885,14 +861,6 @@
   "count": 15
  },
  {
-  "date": "2026-07-25",
-  "track": "Caulfield",
-  "type": "stewards",
-  "source_file": "caulfield_20260725.txt",
-  "count": 59,
-  "condition": "Soft 6"
- },
- {
   "date": "2026-07-29",
   "track": "Sandown Hillside",
   "type": "sectional",
@@ -947,13 +915,5 @@
   "type": "sectional",
   "source_file": "5191035_08.csv",
   "count": 10
- },
- {
-  "date": "2026-07-30",
-  "track": "Bendigo",
-  "type": "stewards",
-  "source_file": "bendigo_2026-07-30.txt",
-  "count": 65,
-  "condition": "Soft 6"
  }
 ]
