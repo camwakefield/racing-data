@@ -43,6 +43,27 @@
    }
   ]
  },
+ "31 07 2026 20 10 FORM": {
+  "name": "31/07/2026 20:10 Form",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "| Stewards' Report | Bendigo | Sunday | 5 July 2026 | VIC | Racing.com",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "A LONG STORY SHORT": {
   "name": "A Long Story Short",
   "runs": [
@@ -476,6 +497,30 @@
    }
   ]
  },
+ "ANNOTATE": {
+  "name": "Annotate",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Rider Jake Duffy reported he had intended to obtain cover, however when wide in the early stages, he was obliged to restrain to obtain a position behind Naval Force and therefore settled further back than intended.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin",
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "ANT": {
   "name": "Ant",
   "runs": [
@@ -617,6 +662,27 @@
    }
   ]
  },
+ "AS": {
+  "name": "As",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "set weights for this 3YO only race were incorrectly released on the weight scale for an open maiden, the weights were amended after acceptances.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "ATAEGINA": {
   "name": "Ataegina",
   "runs": [
@@ -647,6 +713,24 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -837,6 +921,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "BAZZAR": {
+  "name": "Bazzar",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. https://www.racing.com/form/2026-07-05/bendigo#/stewards-report 3/7",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -1169,6 +1276,29 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BLAZING SWORD": {
+  "name": "Blazing Sword",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Near the 200m was eased when close to the heels of Greatham Boy, which in turn had been taken outwards by Mr",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -1789,6 +1919,29 @@
    }
   ]
  },
+ "CALL TO GLORY UNPLACED": {
+  "name": "Call To Glory Unplaced",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "favourite. ($3.00). Apprentice Caitlin Hollowood reported that the gelding failed to travel throughout and was disappointing. A post-race veterinary examination revealed no abnormalities. Stewards will follow up with the stable.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "CAMP CABLE": {
   "name": "Camp Cable",
   "runs": [
@@ -2145,6 +2298,29 @@
    }
   ]
  },
+ "CHARMING DEEL EXAMINED": {
+  "name": "Charming Deel Examined",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "by the RV Veterinary Surgeon upon arrival on course and was found to be lame in the left fore-leg. Late scratching at 3.26pm. A veterinary clearance is required prior to racing again.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "CHARTWELL HOUSE": {
   "name": "Chartwell House (IRE)",
   "runs": [
@@ -2215,6 +2391,30 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "CHICKY WA WA": {
+  "name": "Chicky Wa Wa",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages. A post-race veterinary examination of Chicky Wa Wa identified the presence of blood at both nostrils. In accordance with AR79, the horse shall not without permission of the Stewards: (a) be trained, exercised https://www.racing.com/form/2026-07-05/bendigo#/stewards-report 1/7",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "keen",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -2322,6 +2522,29 @@
    }
   ]
  },
+ "COBBLESTONE WAY": {
+  "name": "Cobblestone Way",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Laid out under pressure in the straight.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "COMMIT": {
   "name": "Commit",
   "runs": [
@@ -2340,6 +2563,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "COOL": {
+  "name": "Cool",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "As Ice - Which last raced 28 August 2025 after returning from injury, was examined by the RV Veterinary Surgeon and was passed suitable to race.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -2377,6 +2623,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "weight was delayed to allow Stewards to view the official photo for 2nd before declaring correct weight.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -2918,6 +3180,30 @@
    }
   ]
  },
+ "DISMANTLE": {
+  "name": "Dismantle",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Restrained shortly after the start from the wide barrier to find cover towards the rear of the field. Eased down over the concluding stages. Rider Daniel Stackhouse reported that the mare failed to travel throughout the event and was disappointing. A post-race veterinary examination revealed no abnormalities. Stewards will follow up with the stable.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "DIVINE THOUGHTS": {
   "name": "Divine Thoughts",
   "runs": [
@@ -3161,6 +3447,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "DUDLEY": {
+  "name": "Dudley",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "was advised a warning would be placed on the gelding for the poor performance.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -3842,6 +4149,31 @@
    }
   ]
  },
+ "FINAL COUNTDOWN": {
+  "name": "Final Countdown",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. Near the 300m was hampered and eased outwards around the heels of Jenni Intiba (Jett Stanley) which initially shifted in before being taken inwards slightly Powerbound. Jett Stanley was advised to show greater caution in regard to his initial shift inwards. Laid outwards under pressure over the final 200m.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 2,
+     "flags": [
+      "faded",
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "FINAL MOMENT": {
   "name": "Final Moment",
   "runs": [
@@ -4316,6 +4648,30 @@
    }
   ]
  },
+ "GAINSMONT": {
+  "name": "Gainsmont",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and shortly after was hampered by Mission Taichi (NZ), which was carried inwards by",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "GALBALAN": {
   "name": "Galbalan",
   "runs": [
@@ -4388,6 +4744,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "GINAS A STAR": {
+  "name": "Ginas A Star",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Jye McNeil was reminded of his obligations to ride his mounts out to the line fully. In considering the matter",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -4547,6 +4924,30 @@
    }
   ]
  },
+ "GOLD DECREE": {
+  "name": "Gold Decree",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Eased down from the 200m. Rider Jye McNeil reported that the gelding felt uncomfortable in its action in front. A post-race veterinary examination revealed no abnormalities. Stewards will follow up with the stable. Due to the poor performance trainer Paul McVicar will be advised a warning will be placed on the gelding.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "GOLDEN MAGNATE": {
   "name": "Golden Magnate",
   "runs": [
@@ -4565,6 +4966,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "GORDACIOUS": {
+  "name": "Gordacious",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Restrained shortly after the start to find cover at the rear of the field. Rider Lachlan Neindorf reported that the gelding raced greenly in the early and middle stages and failed to maintain contact with the bulk of the field.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -4724,6 +5146,30 @@
      "underperf": true
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "HARDUNBY": {
+  "name": "Hardunby",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "gelding, which was having its first race start, was eased down from the 300m. Rider Jordan Childs reported in his opinion, the gelding failed to handle todays heavy track conditions. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "condition",
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -4892,6 +5338,30 @@
    }
   ]
  },
+ "HOLLYWOODBOULEVARD": {
+  "name": "Hollywoodboulevard (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. Rider Billy Egan reported as a result, the gelding settled further back than intended.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin",
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "HOLMES": {
   "name": "Holmes",
   "runs": [
@@ -4973,6 +5443,29 @@
    }
   ]
  },
+ "I AM A STYLIST": {
+  "name": "I Am A Stylist",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "I AM VELVET": {
   "name": "I Am Velvet",
   "runs": [
@@ -5037,6 +5530,75 @@
      "underperf": true
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "ICED POPPY": {
+  "name": "Iced Poppy",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Shifted out abruptly under pressure over the concluding stages.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "ICONIQUE": {
+  "name": "Iconique",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "Eased down over the final 100m. Rider Teo Nugent could offer no explanation for the poor performance. Traner Rebekah",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "II": {
+  "name": "(ii)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "official trial or jump-out; in the presence, and to the satisfaction of, a Steward. A veterinary clearance is required prior to racing or officially trialling again.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -5287,6 +5849,30 @@
    }
   ]
  },
+ "JASKIER": {
+  "name": "Jaskier",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. Rider Cory Parish reported that it has always been the intention to be positive on the gelding, however it has a tendency to miss the start and as a result today after beginning only fairly, he was positive on his mount which then raced keenly, taking up the lead with little effort in part due to the lack of early speed in the event.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "keen",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "JAYKAYANN": {
   "name": "Jaykayann",
   "runs": [
@@ -5399,6 +5985,31 @@
    }
   ]
  },
+ "JENNI POPPINS": {
+  "name": "Jenni Poppins",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages. Raced wide without cover throughout. Laid outwards under pressure in the straight.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "keen",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "JENNI THE NINJA": {
   "name": "Jenni The Ninja",
   "runs": [
@@ -5448,6 +6059,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "JETT STANLEY": {
+  "name": "Jett Stanley",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "(Jenni Intiba) pleaded guilty to a charge under the provisions of AR132(7)(a)(ii) for using his whip one more time than permitted prior to the 100m. Jett Stanley was fined $400. In assessing penalty, Stewards took into account his guilty plea, record, the totality of his whip use and that his mount placed 3rd.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -6128,6 +6760,29 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "LEWANDOWSKI EXAMINED": {
+  "name": "Lewandowski Examined",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "by the RV Veterinary Surgeon upon arrival on course and was passed suitable to race. Eased down over the concluding stages and beaten 22.46 lengths. A post-race veterinary examination revealed no abnormalities. Stewards advised trainer Keith Hall that acting under AR20(e) the nominations for Lewandowski would be rejected until such time as he shows cause in writing, giving reasons why Lewandowski should be permitted to start following continued uncompetitive performances over a considerable period of time. At this stage Stewards will make a final determination. https://www.racing.com/form/2026-07-05/bendigo#/stewards-report 4/7",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -7078,6 +7733,29 @@
    }
   ]
  },
+ "MISS TOP GUN": {
+  "name": "Miss Top Gun",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "MISSAPPREHEND": {
   "name": "Missapprehend",
   "runs": [
@@ -7112,6 +7790,29 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "MISSION TAICHI": {
+  "name": "Mission Taichi (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -7167,6 +7868,29 @@
    }
   ]
  },
+ "MONTE CASSINO": {
+  "name": "Monte Cassino (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "MONTOSTRATUS": {
   "name": "Montostratus",
   "runs": [
@@ -7188,6 +7912,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "MOSCOW RED 12YO": {
+  "name": "Moscow Red (NZ) 12yo.",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "Underwent a mandatory veterinary examination upon arrival on course and was passed suitable to race.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -7236,6 +7981,29 @@
      "condition": "Soft 6",
      "excuse_index": 0,
      "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "MR TICKLES": {
+  "name": "Mr Tickles",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the middle stages.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
      "gear_change": false,
      "health_flag": false,
      "underperf": false
@@ -7416,6 +8184,27 @@
    }
   ]
  },
+ "NATIONAL CODE": {
+  "name": "National Code",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "When questioned, apprentice Nadia Daniels reported that she was instructed to allow her mount to settle where it was comfortable. She added that after beginning only fairly she was concerned that her mount would be left racing wide if she attempted to go forward and she therefore restrained it to obtain cover towards the rear of the field.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "NATURAL RULER": {
   "name": "Natural Ruler",
   "runs": [
@@ -7434,6 +8223,30 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "NAVAL FORCE": {
+  "name": "Naval Force",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "On jumping away was bumped by Strike Gold (NZ), which shifted out. Laid out under pressure in the straight.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -7829,6 +8642,29 @@
    }
   ]
  },
+ "OLATUNDE": {
+  "name": "Olatunde",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover throughout.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "OLIVE ROAD": {
   "name": "Olive Road",
   "runs": [
@@ -7843,6 +8679,29 @@
      "excuse_index": 1,
      "flags": [
       "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "OLLANDIA BEACH": {
+  "name": "Ollandia Beach",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1500,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "Laid out under pressure in the straight.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
      ],
      "gear_change": false,
      "health_flag": false,
@@ -8145,6 +9004,30 @@
    }
   ]
  },
+ "PALMERAIE": {
+  "name": "Palmeraie (GB)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Eased down from the 100m. Rider Billy Egan reported that the filly made an abnormal respiratory noise and further felt short in its action. A post-race veterinary examination revealed no abnormalities. Stewards will follow up with the stable.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "PANCHENKO": {
   "name": "Panchenko",
   "runs": [
@@ -8425,6 +9308,30 @@
    }
   ]
  },
+ "POWERBOUND": {
+  "name": "Powerbound",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Began very awkwardly and lost ground. (3L). Unplaced favourite ($3.60). Rider Neil Farley reported that the gelding failed to respond when placed under pressure and was disappointing. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "PRAVAHA": {
   "name": "Pravaha",
   "runs": [
@@ -8694,6 +9601,24 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "correct weight connections of Royal Duck (2nd placegetter) lodged an objection against Stakes being declared the winner on the grounds of alleged interference over the concluding stages. After taking evidence from all parties, it was established that near the 50m Royal Duck and Stakes made contact, which resulted in both runners brushing on a number of occasions over the concluding stages. As Stewards were of the belief that the initial contact was a consequence of both runners shifting ground, they https://www.racing.com/form/2026-07-05/bendigo#/stewards-report 2/7",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -8760,6 +9685,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "RAGAZZONE": {
+  "name": "Ragazzone",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -9040,6 +9988,30 @@
    }
   ]
  },
+ "REWARD THE SHERIFF": {
+  "name": "Reward The Sheriff",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Apprentice Makisha Salter reported that over the concluding stages she eased her mount down as she felt there was something amiss with the gelding. Post-race endoscopy of Reward The Sheriff detected a degree of internal exercise induced pulmonary haemorrhage that may have affected the horses racing performance. A veterinary clearance is required prior to racing again.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "RIDER JETT STANLEY": {
   "name": "Rider Jett Stanley",
   "runs": [
@@ -9102,6 +10074,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ROYAL DUCK": {
+  "name": "Royal Duck",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "On straightening near the 350m was eased outwards when racing close to the heels of Siduri, which shifted out. Near the 50m made contact with Stakes due to both runners shifting ground, then brushed with that runner on a number of occasions over the concluding stages.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -9229,6 +10224,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "RUSSIAN FIREBIRD": {
+  "name": "Russian Firebird",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Change of tactics. Connections advised it was intended for the gelding to be ridden more forward if circumstances permit. Settled handy.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -9454,6 +10472,30 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SASHIKO": {
+  "name": "Sashiko",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Performed below market expectations. Rider Harry Coffey reported in his opinion the filly did not handle todays heavy track conditions. A post race Veterinary examination revealed no abnormalities.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "condition",
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -9730,6 +10772,27 @@
    }
   ]
  },
+ "SHAYKHLISLAMOVA": {
+  "name": "Shaykhlislamova (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Fractious in the barriers. Examined by the RV Veterinary Surgeon and was passed suitable to race. A post- race veterinary examination at the request of the stable revealed no abnormalities.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "SHES A GOOD CAUSE": {
   "name": "Shes A Good Cause",
   "runs": [
@@ -9853,6 +10916,30 @@
    }
   ]
  },
+ "SHOYULDACOULDAWOODA": {
+  "name": "Shoyuldacouldawooda",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Stewards, under the circumstances permitted Brad Rawiller to ride the gelding 1/2kg overweight. Raced wide without cover throughout. Laid in under pressure in the straight.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "SHULTZY": {
   "name": "Shultzy",
   "runs": [
@@ -9871,6 +10958,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "SIDURI": {
+  "name": "Siduri",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced greenly under pressure in the straight. Near the 150m was momentarily eased when close to the heels of Royal Duck, which shifted in before being straightened.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -10390,6 +11500,25 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. Near the 50m made contact with Royal Duck due to both runners shifting ground, then brushed with that runner on a number of occasions over the concluding stages.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -10558,6 +11687,29 @@
    }
   ]
  },
+ "STEAMY MIST": {
+  "name": "Steamy Mist",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the lead. Apprentice Rose Hammond reported that as a result of the mare overracing, it failed to finish the race off.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "STEEL MOVE": {
   "name": "Steel Move",
   "runs": [
@@ -10586,6 +11738,29 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "STELLAR MOFEED": {
+  "name": "Stellar Mofeed",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and lost ground.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -10639,6 +11814,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-07-05",
+    "distance": 1100,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "did not believe his actions had impacted the result of the race.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -10788,6 +11979,31 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "STRIKE GOLD": {
+  "name": "Strike Gold (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and bumped Naval Force. Raced keenly in the early stages.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 2,
+     "flags": [
+      "keen",
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -11142,6 +12358,27 @@
    }
   ]
  },
+ "TAPO CAST": {
+  "name": "Tapo Cast",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "both fore plates in running.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "TEMPESTI": {
   "name": "Tempesti",
   "runs": [
@@ -11437,6 +12674,24 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up rounding the home turn.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -11560,6 +12815,27 @@
     "steward": {
      "comment": "Lost its near-fore plate during the race.",
      "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "TICKLES": {
+  "name": "Tickles",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "(Hayley Spitse) which shifted out under pressure. Apprentice Hayley Spitse was notified to exercise far greater care.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -11861,6 +13137,29 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "TWO STROKE BABY": {
+  "name": "Two Stroke Baby",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover for the majority of the race.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
@@ -12320,6 +13619,30 @@
    }
   ]
  },
+ "WOLFOFFITROYSTREET": {
+  "name": "Wolfoffitroystreet",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1600,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "When questioned, apprentice Jabez Johnstone reported that when the pace of the race quickened approaching the home turn the gelding failed to respond when placed under pressure, adding that although it finished off fairly, he had suggested to the connections that it may be suited with the addition of blinkers to its gear.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "gear_change"
+     ],
+     "gear_change": true,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
  "WOLFY": {
   "name": "Wolfy",
   "runs": [
@@ -12382,6 +13705,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "YOUARENOTALONE": {
+  "name": "Youarenotalone (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-05",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Change of tactics. Connections advised it was intended for the gelding to be ridden further back if circumstances permit. Restrained in the early stages to settle at the rear of the field.",
+     "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
    }
   ]
  },
