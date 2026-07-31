@@ -1,5 +1,68 @@
 [
  {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_01.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_02.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_03.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_04.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_05.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_06.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_07.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_08.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_09.csv",
+  "count": 16
+ },
+ {
   "date": "2026-06-06",
   "track": "Flemington",
   "type": "sectional",

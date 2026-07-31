@@ -64,6 +64,27 @@
    }
   ]
  },
+ "A DIVA": {
+  "name": "A Diva",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.68,
+     "close_ratio": 1.0,
+     "last200_t": 13.25,
+     "last600_t": 37.58,
+     "overall_t": 100.6,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": 17.23
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "A LONG STORY SHORT": {
   "name": "A Long Story Short",
   "runs": [
@@ -172,6 +193,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.5,
+     "close_ratio": 1.05,
+     "last200_t": 12.56,
+     "last600_t": 36.76,
+     "overall_t": 128.43,
+     "race_name": "JRA Handicap",
+     "top_spd": 17.45
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -1482,6 +1519,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.33,
+     "close_ratio": 0.94,
+     "last200_t": 12.93,
+     "last600_t": 37.62,
+     "overall_t": 74.1,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.43
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -1993,6 +2046,27 @@
    }
   ]
  },
+ "AUTUMN RAINBOW": {
+  "name": "Autumn Rainbow",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 11.98,
+     "last600_t": 35.27,
+     "overall_t": 74.1,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.15
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "AVENGERS": {
   "name": "Avengers",
   "runs": [
@@ -2095,6 +2169,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "BAJARIA": {
+  "name": "Bajaria",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.15,
+     "close_ratio": 1.0,
+     "last200_t": 12.27,
+     "last600_t": 36.21,
+     "overall_t": 86.74,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -2516,6 +2611,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.68,
+     "close_ratio": 0.95,
+     "last200_t": 12.73,
+     "last600_t": 36.59,
+     "overall_t": 66.15,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 19.63
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -2698,6 +2809,27 @@
    }
   ]
  },
+ "BEDTIME ANGEL": {
+  "name": "Bedtime Angel",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.1,
+     "close_ratio": 0.85,
+     "last200_t": 14.52,
+     "last600_t": 39.36,
+     "overall_t": 74.07,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 19.59
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "BEECHWORTH": {
   "name": "Beechworth",
   "runs": [
@@ -2837,6 +2969,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 11.84,
+     "last600_t": 35.54,
+     "overall_t": 86.7,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -2913,6 +3061,22 @@
      "overall_t": 65.44,
      "race_name": "Sportsbet Sir John Monash Stakes",
      "top_spd": 19.13
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": null
     },
     "steward": null,
     "track": "Caulfield"
@@ -2996,6 +3160,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.58,
+     "close_ratio": 0.99,
+     "last200_t": 12.91,
+     "last600_t": 37.24,
+     "overall_t": 100.67,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": 17.07
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -3019,6 +3199,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BERGASUN": {
+  "name": "Bergasun",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "JRA Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -3828,6 +4029,27 @@
    }
   ]
  },
+ "BOLD STRIKE": {
+  "name": "Bold Strike",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.41,
+     "close_ratio": 1.07,
+     "last200_t": 12.6,
+     "last600_t": 36.42,
+     "overall_t": 128.04,
+     "race_name": "JRA Handicap",
+     "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "BOLD SUITOR": {
   "name": "Bold Suitor",
   "runs": [
@@ -3954,6 +4176,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BON MISTRESS": {
+  "name": "Bon Mistress",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -4241,6 +4484,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -4278,6 +4537,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "JRA Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -4428,6 +4703,27 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "BRED EM ALL": {
+  "name": "Bred 'Em All",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.2,
+     "close_ratio": 0.93,
+     "last200_t": 13.28,
+     "last600_t": 37.19,
+     "overall_t": 66.9,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 18.9
+    },
+    "steward": null,
     "track": "Caulfield"
    }
   ]
@@ -4917,6 +5213,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.98,
+     "close_ratio": 0.97,
+     "last200_t": 12.15,
+     "last600_t": 35.73,
+     "overall_t": 65.78,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -4948,6 +5260,27 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "CABRIOLE": {
+  "name": "Cabriole",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.42,
+     "close_ratio": 0.92,
+     "last200_t": 12.79,
+     "last600_t": 36.73,
+     "overall_t": 66.05,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.42
+    },
+    "steward": null,
     "track": "Caulfield"
    }
   ]
@@ -5238,6 +5571,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.86,
+     "close_ratio": 0.93,
+     "last200_t": 13.32,
+     "last600_t": 36.94,
+     "overall_t": 66.67,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -5428,6 +5777,27 @@
    }
   ]
  },
+ "CARNEVALE": {
+  "name": "Carnevale",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.89,
+     "close_ratio": 0.99,
+     "last200_t": 12.52,
+     "last600_t": 36.03,
+     "overall_t": 74.47,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.59
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "CARNIVAL RICHES": {
   "name": "Carnival Riches",
   "runs": [
@@ -5470,6 +5840,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "CARTOON GRAVEYARD": {
+  "name": "Cartoon Graveyard",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.86,
+     "close_ratio": 1.02,
+     "last200_t": 12.14,
+     "last600_t": 36.21,
+     "overall_t": 99.8,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": 17.5
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -5624,6 +6015,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.51,
+     "close_ratio": 0.93,
+     "last200_t": 13.12,
+     "last600_t": 37.55,
+     "overall_t": 73.74,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.76
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -5658,6 +6065,22 @@
      "overall_t": 85.0,
      "race_name": "Sportsbet Jockey Watch Handicap",
      "top_spd": 18.19
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": null
     },
     "steward": null,
     "track": "Caulfield"
@@ -6256,6 +6679,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.95,
+     "last200_t": 12.73,
+     "last600_t": 36.15,
+     "overall_t": 65.75,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.87
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -6387,6 +6826,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.14,
+     "close_ratio": 1.03,
+     "last200_t": 12.47,
+     "last600_t": 35.85,
+     "overall_t": 86.94,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -6466,6 +6921,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.69,
+     "close_ratio": 1.04,
+     "last200_t": 12.0,
+     "last600_t": 35.65,
+     "overall_t": 86.51,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -6521,6 +6992,27 @@
    }
   ]
  },
+ "COCO JEN": {
+  "name": "Coco Jen",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "COEUR VOLANTE": {
   "name": "Coeur Volante",
   "runs": [
@@ -6571,6 +7063,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.23,
+     "close_ratio": 0.98,
+     "last200_t": 11.92,
+     "last600_t": 35.64,
+     "overall_t": 65.89,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 19.14
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -6865,6 +7373,27 @@
    }
   ]
  },
+ "CORNICHE": {
+  "name": "Corniche",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.21,
+     "close_ratio": 0.98,
+     "last200_t": 12.51,
+     "last600_t": 36.39,
+     "overall_t": 66.71,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 18.92
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "CORRECT": {
   "name": "Correct",
   "runs": [
@@ -7041,6 +7570,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "CRANK": {
+  "name": "Crank",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.21,
+     "close_ratio": 1.0,
+     "last200_t": 12.87,
+     "last600_t": 36.66,
+     "overall_t": 74.98,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -7452,6 +8002,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "DANCELL": {
+  "name": "Dancell",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -8705,6 +9276,27 @@
    }
   ]
  },
+ "DRAGON SCROLL": {
+  "name": "Dragon Scroll",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.26,
+     "close_ratio": 0.93,
+     "last200_t": 12.91,
+     "last600_t": 36.79,
+     "overall_t": 66.18,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.18
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "DRAGONSTONE": {
   "name": "Dragonstone",
   "runs": [
@@ -9314,6 +9906,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.02,
+     "close_ratio": 1.0,
+     "last200_t": 13.11,
+     "last600_t": 37.27,
+     "overall_t": 100.49,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": 17.31
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -9509,6 +10117,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.82,
+     "close_ratio": 0.94,
+     "last200_t": 12.98,
+     "last600_t": 37.43,
+     "overall_t": 73.69,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -9641,6 +10265,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.37,
+     "close_ratio": 0.92,
+     "last200_t": 12.77,
+     "last600_t": 36.85,
+     "overall_t": 72.57,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 18.85
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -9898,6 +10538,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.37,
+     "close_ratio": 1.01,
+     "last200_t": 13.09,
+     "last600_t": 37.32,
+     "overall_t": 100.56,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": 17.42
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -10097,6 +10753,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "EXACTING STANDARD": {
+  "name": "Exacting Standard",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -10847,6 +11524,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 12.58,
+     "last600_t": 36.71,
+     "overall_t": 100.16,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": 17.43
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -10997,6 +11690,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.93,
+     "last200_t": 12.64,
+     "last600_t": 36.25,
+     "overall_t": 72.34,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 19.36
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -11345,6 +12054,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -11640,6 +12365,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.93,
+     "close_ratio": 0.92,
+     "last200_t": 13.65,
+     "last600_t": 38.56,
+     "overall_t": 74.87,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.42
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -12211,6 +12952,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.7,
+     "close_ratio": 0.94,
+     "last200_t": 13.05,
+     "last600_t": 36.97,
+     "overall_t": 66.46,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 19.06
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -12486,6 +13243,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.07,
+     "last200_t": 12.3,
+     "last600_t": 35.85,
+     "overall_t": 127.72,
+     "race_name": "JRA Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -13400,6 +14173,27 @@
    }
   ]
  },
+ "HEARCOMESTHESTAR": {
+  "name": "Hearcomesthestar",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 11.76,
+     "last600_t": 35.01,
+     "overall_t": 65.54,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "HELIZANGEL": {
   "name": "Helizangel",
   "runs": [
@@ -13621,6 +14415,27 @@
    }
   ]
  },
+ "HEZDARNHOTTOO": {
+  "name": "Hezdarnhottoo",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.54,
+     "close_ratio": 0.93,
+     "last200_t": 13.33,
+     "last600_t": 37.16,
+     "overall_t": 73.39,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "HI DUBAI": {
   "name": "Hi Dubai",
   "runs": [
@@ -13741,6 +14556,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.75,
+     "close_ratio": 0.93,
+     "last200_t": 12.42,
+     "last600_t": 36.24,
+     "overall_t": 65.84,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.51
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -14213,6 +15044,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.03,
+     "close_ratio": 1.04,
+     "last200_t": 12.99,
+     "last600_t": 37.32,
+     "overall_t": 128.66,
+     "race_name": "JRA Handicap",
+     "top_spd": 17.43
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -14971,6 +15818,22 @@
     },
     "steward": null,
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -15442,6 +16305,27 @@
    }
   ]
  },
+ "JAZZ AFFAIR": {
+  "name": "Jazz Affair",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.83,
+     "close_ratio": 1.0,
+     "last200_t": 13.26,
+     "last600_t": 37.91,
+     "overall_t": 101.13,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": 17.15
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "JENNI AGOGO": {
   "name": "Jenni Agogo",
   "runs": [
@@ -15852,6 +16736,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 12.41,
+     "last600_t": 36.16,
+     "overall_t": 99.79,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": 17.63
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -16753,6 +17653,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -17035,6 +17951,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.03,
+     "close_ratio": 0.89,
+     "last200_t": 14.58,
+     "last600_t": 39.28,
+     "overall_t": 68.67,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.48
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -17156,6 +18088,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.79,
+     "close_ratio": 0.99,
+     "last200_t": 13.14,
+     "last600_t": 37.36,
+     "overall_t": 100.71,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": 17.05
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -17179,6 +18127,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "LADY SADLER": {
+  "name": "Lady Sadler",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -18490,6 +19459,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.64,
+     "close_ratio": 0.94,
+     "last200_t": 12.67,
+     "last600_t": 36.38,
+     "overall_t": 72.49,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -18673,6 +19658,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -19027,6 +20028,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.87,
+     "close_ratio": 1.05,
+     "last200_t": 12.54,
+     "last600_t": 36.62,
+     "overall_t": 127.91,
+     "race_name": "JRA Handicap",
+     "top_spd": 17.53
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -19203,6 +20220,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "MARBLE NINE": {
+  "name": "Marble Nine",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.67,
+     "close_ratio": 0.95,
+     "last200_t": 13.05,
+     "last600_t": 36.98,
+     "overall_t": 66.55,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 18.98
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -20550,6 +21588,27 @@
    }
   ]
  },
+ "MONUMENTUM": {
+  "name": "Monumentum",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.13,
+     "close_ratio": 1.01,
+     "last200_t": 12.24,
+     "last600_t": 35.58,
+     "overall_t": 74.04,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.06
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "MORISU OJO": {
   "name": "Morisu Ojo",
   "runs": [
@@ -20584,6 +21643,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "MORRYL MORAL": {
+  "name": "Morryl Moral",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "JRA Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -21119,6 +22199,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -21298,6 +22394,22 @@
      "overall_t": 65.88,
      "race_name": "Sportsbet More Places Handicap",
      "top_spd": 19.32
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.52,
+     "close_ratio": 0.92,
+     "last200_t": 13.68,
+     "last600_t": 37.93,
+     "overall_t": 74.35,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.64
     },
     "steward": null,
     "track": "Caulfield"
@@ -21645,6 +22757,22 @@
      "overall_t": 64.85,
      "race_name": "Quayclean Handicap",
      "top_spd": 19.03
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": null
     },
     "steward": null,
     "track": "Caulfield"
@@ -22080,6 +23208,27 @@
    }
   ]
  },
+ "OBAMBULATE": {
+  "name": "Obambulate",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.58,
+     "close_ratio": 1.02,
+     "last200_t": 12.06,
+     "last600_t": 35.42,
+     "overall_t": 73.6,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "OBUCCI": {
   "name": "Obucci",
   "runs": [
@@ -22135,6 +23284,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.36,
+     "close_ratio": 1.02,
+     "last200_t": 12.21,
+     "last600_t": 35.77,
+     "overall_t": 86.66,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.43
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22177,6 +23342,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.57,
+     "close_ratio": 1.09,
+     "last200_t": 12.48,
+     "last600_t": 36.36,
+     "overall_t": 127.71,
+     "race_name": "JRA Handicap",
+     "top_spd": 18.12
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22269,6 +23450,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "OH TOO GOOD": {
+  "name": "Oh Too Good",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.74,
+     "close_ratio": 0.99,
+     "last200_t": 13.28,
+     "last600_t": 37.38,
+     "overall_t": 100.77,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22565,6 +23767,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.56,
+     "close_ratio": 0.98,
+     "last200_t": 13.11,
+     "last600_t": 37.63,
+     "overall_t": 100.57,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": 17.35
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -23395,6 +24613,27 @@
    }
   ]
  },
+ "PASADENA": {
+  "name": "Pasadena",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "PATCHSON": {
   "name": "Patchson",
   "runs": [
@@ -23588,6 +24827,48 @@
    }
   ]
  },
+ "PERSPIRATION": {
+  "name": "Perspiration",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.78,
+     "close_ratio": 0.93,
+     "last200_t": 13.1,
+     "last600_t": 37.83,
+     "overall_t": 74.22,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "PHILOSOPHER": {
+  "name": "Philosopher",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "PIASTRI": {
   "name": "Piastri",
   "runs": [
@@ -23638,6 +24919,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.95,
+     "last200_t": 12.88,
+     "last600_t": 36.99,
+     "overall_t": 73.67,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.3
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -23701,6 +24998,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.73,
+     "close_ratio": 0.95,
+     "last200_t": 12.68,
+     "last600_t": 36.57,
+     "overall_t": 66.53,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 19.59
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -23944,6 +25257,27 @@
      "overall_t": 59.3,
      "race_name": "Sportsbet Race Previews Handicap",
      "top_spd": 18.87
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "POWER AND THE BEAT": {
+  "name": "Power And The Beat",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.66,
+     "close_ratio": 1.01,
+     "last200_t": 12.36,
+     "last600_t": 36.39,
+     "overall_t": 86.96,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.38
     },
     "steward": null,
     "track": "Caulfield"
@@ -24206,6 +25540,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.8,
+     "close_ratio": 0.98,
+     "last200_t": 13.81,
+     "last600_t": 38.32,
+     "overall_t": 101.2,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -24430,6 +25780,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -24793,6 +26159,27 @@
    }
   ]
  },
+ "PURPLE STREAK": {
+  "name": "Purple Streak",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.07,
+     "close_ratio": 0.92,
+     "last200_t": 13.31,
+     "last600_t": 37.24,
+     "overall_t": 66.71,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.28
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "PUT TO THE SWORD": {
   "name": "Put To The Sword",
   "runs": [
@@ -24811,6 +26198,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "QAYED": {
+  "name": "Qayed",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.52,
+     "close_ratio": 1.01,
+     "last200_t": 12.21,
+     "last600_t": 35.8,
+     "overall_t": 74.38,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.83
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -25302,6 +26710,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.31,
+     "close_ratio": 0.96,
+     "last200_t": 12.59,
+     "last600_t": 36.35,
+     "overall_t": 66.04,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 19.47
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -25365,6 +26789,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "RED GALAXY": {
+  "name": "Red Galaxy",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -26058,6 +27503,27 @@
    }
   ]
  },
+ "ROSBERG": {
+  "name": "Rosberg",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "ROWDY EXPRESS": {
   "name": "Rowdy Express",
   "runs": [
@@ -26223,6 +27689,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -26268,6 +27750,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -26462,6 +27960,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.94,
+     "close_ratio": 1.03,
+     "last200_t": 13.01,
+     "last600_t": 36.92,
+     "overall_t": 100.33,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -26977,6 +28491,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -27417,6 +28947,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -27572,6 +29118,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.66,
+     "close_ratio": 0.97,
+     "last200_t": 13.59,
+     "last600_t": 38.2,
+     "overall_t": 101.51,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": 17.27
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -27614,6 +29176,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.38,
+     "close_ratio": 0.91,
+     "last200_t": 14.15,
+     "last600_t": 38.78,
+     "overall_t": 75.05,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.75
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -28026,6 +29604,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Fenwick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -28610,6 +30204,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.47,
+     "close_ratio": 1.07,
+     "last200_t": 12.17,
+     "last600_t": 36.03,
+     "overall_t": 127.59,
+     "race_name": "JRA Handicap",
+     "top_spd": 17.58
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -28836,6 +30446,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.09,
+     "last200_t": 12.13,
+     "last600_t": 35.84,
+     "overall_t": 127.65,
+     "race_name": "JRA Handicap",
+     "top_spd": 18.17
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -28901,6 +30527,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SLY BOOTS": {
+  "name": "Sly Boots",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.96,
+     "close_ratio": 1.03,
+     "last200_t": 13.2,
+     "last600_t": 37.35,
+     "overall_t": 128.65,
+     "race_name": "JRA Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -29170,6 +30817,27 @@
      "health_flag": true,
      "underperf": false
     },
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "SO YOU PENCE": {
+  "name": "So You Pence",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": null
+    },
+    "steward": null,
     "track": "Caulfield"
    }
   ]
@@ -29467,6 +31135,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SOUTHERN CRESCENT": {
+  "name": "Southern Crescent",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.05,
+     "close_ratio": 0.92,
+     "last200_t": 13.55,
+     "last600_t": 37.35,
+     "overall_t": 73.36,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -29785,6 +31474,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.66,
+     "close_ratio": 1.02,
+     "last200_t": 11.82,
+     "last600_t": 35.39,
+     "overall_t": 73.99,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.92
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -30437,6 +32142,27 @@
    }
   ]
  },
+ "STOLI BOLLI": {
+  "name": "Stoli Bolli",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "STONECOAT": {
   "name": "Stonecoat",
   "runs": [
@@ -31066,6 +32792,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.9,
+     "close_ratio": 0.93,
+     "last200_t": 13.43,
+     "last600_t": 37.41,
+     "overall_t": 73.25,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -31108,6 +32850,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SUPER NORWEST": {
+  "name": "Super Norwest",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -31166,6 +32929,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.96,
+     "close_ratio": 0.94,
+     "last200_t": 13.06,
+     "last600_t": 38.15,
+     "overall_t": 74.7,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": 18.37
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -31342,6 +33121,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SWIFT FORCE": {
+  "name": "Swift Force",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.42,
+     "close_ratio": 0.86,
+     "last200_t": 13.31,
+     "last600_t": 37.99,
+     "overall_t": 72.6,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 19.62
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -31892,6 +33692,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.81,
+     "close_ratio": 0.95,
+     "last200_t": 13.22,
+     "last600_t": 37.32,
+     "overall_t": 67.14,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 18.94
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -32335,6 +34151,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "JRA Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -33463,6 +35295,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.29,
+     "close_ratio": 0.97,
+     "last200_t": 12.79,
+     "last600_t": 36.36,
+     "overall_t": 66.68,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -33823,6 +35671,27 @@
    }
   ]
  },
+ "TRES MAGNIFIQUE": {
+  "name": "Tres Magnifique",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.58,
+     "close_ratio": 0.94,
+     "last200_t": 12.84,
+     "last600_t": 36.67,
+     "overall_t": 66.27,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.59
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "TRIPLE SALUTE": {
   "name": "Triple Salute",
   "runs": [
@@ -33862,6 +35731,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darren Gauci Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -34148,6 +36033,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.23,
+     "close_ratio": 1.03,
+     "last200_t": 12.34,
+     "last600_t": 36.18,
+     "overall_t": 86.75,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -34603,6 +36504,27 @@
    }
   ]
  },
+ "VERDAD": {
+  "name": "Verdad",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Griffiths Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "VERY FAMOUS": {
   "name": "Very Famous",
   "runs": [
@@ -34904,6 +36826,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.44,
+     "close_ratio": 0.99,
+     "last200_t": 12.32,
+     "last600_t": 35.83,
+     "overall_t": 73.95,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -35041,6 +36979,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Bel Esprit Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -35099,6 +37053,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "WEST OF DALBY": {
+  "name": "West Of Dalby",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.03,
+     "close_ratio": 0.91,
+     "last200_t": 13.46,
+     "last600_t": 37.75,
+     "overall_t": 73.05,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 19.41
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -35475,6 +37450,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.8,
+     "close_ratio": 0.92,
+     "last200_t": 12.91,
+     "last600_t": 36.59,
+     "overall_t": 66.22,
+     "race_name": "Coolmore & Ireland Funds Australia Handicap",
+     "top_spd": 19.41
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -35623,6 +37614,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "WONBOYN": {
+  "name": "Wonboyn",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -35831,6 +37843,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "YES YOSHI": {
+  "name": "Yes Yoshi",
+  "runs": [
+   {
+    "date": "2026-05-30",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.86,
+     "close_ratio": 1.03,
+     "last200_t": 12.3,
+     "last600_t": 35.95,
+     "overall_t": 86.72,
+     "race_name": "Selangor Turf Club Handicap",
+     "top_spd": 17.79
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -36391,6 +38424,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-05-30",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.81,
+     "close_ratio": 0.91,
+     "last200_t": 13.1,
+     "last600_t": 37.06,
+     "overall_t": 72.71,
+     "race_name": "Ian Miller Handicap",
+     "top_spd": 19.31
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
