@@ -32,7 +32,12 @@ def _track_key(track):
 
 def build():
     sec_recs = parse_sectionals.parse_dir(ROOT / "raw" / "sectionals")
-    stw_recs = parse_stewards.parse_dir(ROOT / "raw" / "stewards")
+    # stewards_report gets one entry per FILE FOUND, including the ones that
+    # were skipped or produced nothing. Without it a file that silently fails
+    # to parse is indistinguishable from a file that was never uploaded.
+    stewards_report = []
+    stw_recs = parse_stewards.parse_dir(ROOT / "raw" / "stewards",
+                                        report=stewards_report)
 
     # run map keyed by (norm_name, date) so both sources merge into one start
     runs = {}
@@ -95,10 +100,16 @@ def build():
         h["runs"].sort(key=lambda x: x["date"], reverse=True)
 
     n_runs = sum(len(h["runs"]) for h in horses.values())
+    bad = [r for r in stewards_report if r["status"] != "ok"]
     index = {
         "generated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "n_horses": len(horses), "n_runs": n_runs,
         "n_sectional_files": len(sec_recs), "n_stewards_files": len(stw_recs),
+        # discovery accounting — n_stewards_files counts only what PARSED, so
+        # compare it against n_stewards_found to spot silently-ignored uploads
+        "n_stewards_found": len(stewards_report),
+        "n_stewards_failed": len(bad),
+        "stewards_problems": bad,
     }
 
     out = ROOT / "data"
@@ -107,12 +118,19 @@ def build():
     (out / "meetings.json").write_text(json.dumps(
         sorted(meetings, key=lambda m: (m["date"], m["type"])), indent=1))
     (out / "index.json").write_text(json.dumps(index, indent=1))
+    (out / "stewards_report.json").write_text(json.dumps(stewards_report, indent=1))
     return index, horses
 
 
 if __name__ == "__main__":
     index, horses = build()
-    print("BUILT:", json.dumps(index))
+    print("BUILT:", json.dumps({k: v for k, v in index.items()
+                                if k != "stewards_problems"}))
+    if index["n_stewards_failed"]:
+        print("\n!! %d stewards file(s) found but NOT used:" % index["n_stewards_failed"])
+        for r in index["stewards_problems"]:
+            print("   %-8s %-55s %s" % (r["status"], r["file"], r["reason"]))
+    print()
     print("\nSample horse records:")
     for key in list(horses)[:4]:
         h = horses[key]
