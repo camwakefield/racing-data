@@ -1,0 +1,17 @@
+[
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_01.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "stewards",
+  "source_file": "bendigo_2026-07-30.txt",
+  "count": 65,
+  "condition": "Soft 6"
+ }
+]

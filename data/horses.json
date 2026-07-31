@@ -1,0 +1,1716 @@
+{
+ "ACE HAZ": {
+  "name": "Ace Haz",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "On straightening was crowded out onto Surviving Star by Challenging (Thomas Stockdale), which shifted out to improve. As a result, Ace Haz was eased by its rider. Thomas Stockdale was severely reprimanded and notified to exercise far greater care. Ridr Chelsea Jokic reported that her mount, which was having its first race start, raced greenly throughout.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "ANGLAND LASS": {
+  "name": "Angland Lass (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover for the majority of the event. Lost its near-fore plate during the race.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "BIRATU": {
+  "name": "Biratu",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages when being restrained to gain cover. On straightening was carried outwards by Jenni Intiba, which shifted out to improve.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "keen",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "BOLD SUITOR": {
+  "name": "Bold Suitor",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Shortly after the start made contact with Vega Blues.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "BOTH SIDES NOW": {
+  "name": "Both Sides Now",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1600,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover for the majority of the event. Rider John Allen reported that although his mount was not suited by racing wide, he was nevertheless disappointed with the finishing effort of his mount, which in his opinion raced flat. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "BRENIN": {
+  "name": "Brenin",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Laid in under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "BRILLIANT BULL ANT": {
+  "name": "Brilliant Bull Ant",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "BRROOSHA": {
+  "name": "Brroosha",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Trainer Ciaron Maher was fined $200 under the provisions of LR63A(2)(b) for the late rider (raceday) notification of Teo Nugent as the rider of the filly. Laid outwards under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CANNY DEFENSE": {
+  "name": "Canny Defense",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1600,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Fractious in the barriers. Began awkwardly. A post-race veterinary examination revealed a small amount of blood in the right nostril, which was attributed to external trauma. Trainer Raharna McDonald was notified a veterinary clearance is required prior to officially trialling or racing again.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CAPTIVATING MOON": {
+  "name": "Captivating Moon",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Laid inwards in the early stages of the straight, at which time it was eased outwards approaching the 200m when close to the heels of Mysterious Master, which shifted out slightly. Approaching the winning was unable to be fully tested when improving onto the heels of She's Loaded.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CARRY TRADE": {
+  "name": "Carry Trade",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced three wide without cover for the majority of the race. Rider Jason Maskiell reported that the filly failed to travel truly throughout the event and in his opinion it may be better suited with the addition of blinkers to its gear.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "gear_change",
+      "wide"
+     ],
+     "gear_change": true,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CHALLENGING": {
+  "name": "Challenging",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CHANCELLOR": {
+  "name": "Chancellor",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Laid in under pressure in the straight. Over the concluding stages improved onto the heels of Quick Finish and was unable to be ridden out to the finish.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CRESTA CRYSTAL": {
+  "name": "Cresta Crystal",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover for the majority of the event.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CRYPT": {
+  "name": "Crypt",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. Laid outwards under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "CUSTOM": {
+  "name": "Custom",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.98,
+     "last200_t": 11.47,
+     "last600_t": 34.2,
+     "overall_t": 70.29,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "CUTE GIRL": {
+  "name": "Cute Girl",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Inclined to lay outwards over the final 200m.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "DEADLY PRESS": {
+  "name": "Deadly Press",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1600,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Daniel Stackhouse reported that his mount raced keenly in the early stages when racing amongst other horses, which detracted from its finishing effort. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "DIVINE THOUGHTS": {
+  "name": "Divine Thoughts",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.03,
+     "close_ratio": 0.88,
+     "last200_t": 13.68,
+     "last600_t": 37.57,
+     "overall_t": 73.1,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "DREAM SUITE": {
+  "name": "Dream Suite (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Restrained from its wide barrier in the early stages and settled towards the rear of the field. When questioned, rider Michael Dee reported he had been instructed to settle his mount with cover and he had envisaged pre-race he would settle in a midfield position, however from the wide barrier his mount eventually settled further back than intended. Co-Trainer C McEvoy confirmed the nature of the instructions and added that it had not been the intention to lead at the filly's first race start.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "DURHAM LEGACY": {
+  "name": "Durham Legacy",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Eased down over the final 100m. Rider Michael Dee reported that he was instructed to ride his mount with cover, however after beginning well no other runner showed intent to lead and his mount was left racing in the lead without being pressured. Post-race endoscopy of Durham Legacy detected a throat condition that may have affected the horses racing performance. A veterinary clearance is required prior to officially trialling or racing again.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "EDGES DIAMOND": {
+  "name": "Edges Diamond",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Shifted in shortly after the start, made contact with Galbalan and became unbalanced.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "ENDLESS FOREVERS": {
+  "name": "Endless Forevers",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Laid inwards under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "ENDLESS SUMMER": {
+  "name": "Endless Summer (JPN)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "On straightening, after initially racing behind Brroosha, then looked to shift in to obtain clear running to that filly's inside, however was restrained when disappointed for this position when Ocean Bay (NZ), which was racing to the inside of Endless Summer (JPN), shifted out.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "ERNIE": {
+  "name": "Ernie",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Change of tactics. Connections advised it was intended for the filly to settle further forward as compared to last start. Settled in a midfield position.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "EYES OF BLUE": {
+  "name": "Eyes Of Blue",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Which last raced 27 October 2025 and had undergone surgery to remove a bone chip from its off-fore fetlock, was examined by the RV Veterinary Surgeon upon arrival on course and was passed suitable to race. Performed below market expectations. Apprentice Emily Pozman could offer no explanation for the performance, stating that she was of the opinion the filly may be better suited on firmer tracks, adding that this was the reason for her racing off the rail as she felt that was the superior going. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "condition",
+      "underperf",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": true
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "FOIX": {
+  "name": "Foix (FR)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Which last raced 7 September 2025 and had undergone arthroscopic surgery to both knees, was examined by the RV Veterinary Surgeon upon arrival on course and was passed suitable to race. Slow to begin (2L).",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "FRIENDZONED": {
+  "name": "Friendzoned",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up when unable to obtain clear running on straightening and approaching the 200m made contact with Is That All on two occasions when attempting a narrow run between that runner and Brroosha. After being disappointed for that run due to Brroosha shifting out, was then shifted to the inside of Ocean Bay approaching the 150m to obtain clear running.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "held_up",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "GALBALAN": {
+  "name": "Galbalan",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Shortly after the start was restrained when crowded for room between Vega Blues and Edges Diamond, which shifted in.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "GLASGOW LASS": {
+  "name": "Glasgow Lass",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.27,
+     "close_ratio": 0.98,
+     "last200_t": 11.69,
+     "last600_t": 34.45,
+     "overall_t": 70.85,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.93
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "GLIDINGDEEL": {
+  "name": "Glidingdeel",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "GRAN PARADISO": {
+  "name": "Gran Paradiso",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Change of tactics. Connections advised it was intended for the gelding to be ridden further back from the wide draw. Settled towards the rear of the field. Eased down over the concluding stages. Rider Fred Kersley reported that in his opinion his mount would appreciate racing on firmer tracks and further it performs best when ridden more positively in the early stages. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "condition",
+      "faded",
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "HAPPY LINK": {
+  "name": "Happy Link",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.96,
+     "close_ratio": 0.94,
+     "last200_t": 12.38,
+     "last600_t": 35.64,
+     "overall_t": 71.66,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.79
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "HAWK POWER": {
+  "name": "Hawk Power (IRE)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1600,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up for clear running rounding the home turn and in the early stages of the straight.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "HE XIANGU": {
+  "name": "He Xiangu",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Overraced in the early stages when being restrained to gain cover. Continued to race keenly in the middle stages. When questioned, rider Declan Bates reported that as the filly had overraced at its first race start he had been instructed to settle with cover. He added that after obtaining a position trailing Sayyidat Al Noor in the early stages his mount was shuffled back and ultimately settled further back than anticipated.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen",
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "IRONIC FORTUNE": {
+  "name": "Ironic Fortune",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Hung outwards under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "IS THAT ALL": {
+  "name": "Is that All",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Bumped on two occasions near the 200m by Friendzoned, which had shifted out when looking to obtain clear running. Near the 100m was eased outwards when awkwardly placed on the heels of Brroosha, which shifted out slightly.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "JINKIES": {
+  "name": "Jinkies",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Bumped on jumping away by Mysterious Master, which shifted in.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "KUHEYLAN": {
+  "name": "Kuheylan",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Trainer Julius Sandhu was fined $100 under the provisions of LR63A(2)(b) for the late notification of apprentice Bailey Kinninmont as rider of the mare.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "LOLLIES GALORE": {
+  "name": "Lollie's Galore",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Commenced awkwardly.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "LOVABLE RASCAL": {
+  "name": "Lovable Rascal",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin and was then hampered by Challenging, which jumped inwards.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "MANGANO": {
+  "name": "Mangano",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Luke Nolen reported that in his opinion the filly did not appreciate today's Soft 6 track conditions.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "condition"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "MR SIOUX": {
+  "name": "Mr Sioux (IRE)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Re-plated after dislodging its off-fore plate in the barriers, which resulted in a delay to the start. Underwent a veterinary examination and was passed suitable to race. Restrained from its wide barrier shortly after the start and settled towards the rear of the field.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "MYSTERIOUS MASTER": {
+  "name": "Mysterious Master",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and made contact with Jinkies. Rider John Keating reported that he was disappointed with his mount's performance and he had recommended to connections it may be better suited with the addition of blinkers.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "gear_change",
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": true,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "MYSTERY N DRAMA": {
+  "name": "Mystery 'N' Drama",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.7,
+     "close_ratio": 0.97,
+     "last200_t": 11.64,
+     "last600_t": 34.65,
+     "overall_t": 71.21,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.72
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "OCTANE REIGN": {
+  "name": "Octane Reign",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Jason Maskiell reported that his mount weakened noticeably over the concluding stages and he was concerned that something may be amiss. A post-race veterinary examination revealed no abnormalities. Stewards will follow up with the stable.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "OLIVE ROAD": {
+  "name": "Olive Road",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced four wide without cover for the majority of the event.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "OUR JUSTIFY": {
+  "name": "Our Justify",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Approaching the 100m shifted in under pressure before being straightened by its rider.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "PARDON MY FRENCH": {
+  "name": "Pardon My French",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages. Eased down over the final 100m. Apprentice Zac Moore reported that the mare failed to respond when placed under pressure and weakened quickly. Post-race endoscopy of Pardon My French detected a throat condition that may have affected the horses racing performance. A veterinary clearance is required prior to officially trialling or racing again.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "keen",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "PLACENTIA BAY": {
+  "name": "Placentia Bay",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1600,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Which last raced 6 December 2024 and was returning from a near-fore tendon injury, was examined by the RV Veterinary Surgeon and was passed suitable to race.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "POINT MOON": {
+  "name": "Point Moon",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "RASPUTINA": {
+  "name": "Rasputina",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1600,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow into stride.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "RECUPERATO": {
+  "name": "Recuperato",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.74,
+     "close_ratio": 0.96,
+     "last200_t": 11.81,
+     "last600_t": 34.99,
+     "overall_t": 71.01,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "ROYAL LASS": {
+  "name": "Royal Lass",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.61,
+     "close_ratio": 0.92,
+     "last200_t": 12.38,
+     "last600_t": 35.4,
+     "overall_t": 70.97,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 19.04
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "SACRED FORT": {
+  "name": "Sacred Fort",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Performed below market expectations. Rider Will Gordon reported that his mount was disappointing and, in his opinion, it may benefit from being freshened up. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SCOOBARTIE": {
+  "name": "Scoobartie",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover for the majority of the event. When questioned, rider Brad Rawiller stated that after riding in previous races, and in particular Race 4, he formed the view that the inside section of the track rounding the turn from the 600m was inferior going. He added after walking the track following that race he felt that the ground approximately five 5 horses from the inside fence was the best going and, for this reason, he allowed his mount to travel wider than other runners in the middle stages.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SEA TRADER": {
+  "name": "Sea Trader",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SETHEUS": {
+  "name": "Setheus (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover for the majority of the event.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SHES A GOOD CAUSE": {
+  "name": "Shes A Good Cause",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and lost ground.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SHOWS NO SHAME": {
+  "name": "Shows No Shame",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Restrained shortly after the start from its wider barrier and settled towards the rear of the field. Approaching the 200m momentarily raced close to the heels of Sayyidat Al Noor.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SMART KING": {
+  "name": "Smart King",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Underwent a pre-race veterinary examination after getting its leg up momentarily in the barriers and was passed suitable to race.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SOMERS GREEN": {
+  "name": "Somers Green",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "STUNTMAN": {
+  "name": "Stuntman (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Michael Dee reported that the gelding did not travel comfortably on the Soft 6 track conditions rounding the home turn. He further added that the gelding laid inwards away from runners in the straight and failed to run on as expected.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "condition",
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SUMALUV": {
+  "name": "Sumaluv",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and lost ground. Laid outwards under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "SUN SETTING": {
+  "name": "Sun Setting",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.53,
+     "close_ratio": 0.97,
+     "last200_t": 11.84,
+     "last600_t": 34.71,
+     "overall_t": 70.73,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "SURVIVING STAR": {
+  "name": "Surviving Star",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover for the majority of the event.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "TAKEKO": {
+  "name": "Takeko",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.88,
+     "close_ratio": 0.92,
+     "last200_t": 12.07,
+     "last600_t": 35.3,
+     "overall_t": 71.06,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 19.28
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "THUNDER PARK": {
+  "name": "Thunder Park",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Lost its near-fore plate during the race.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "TIKIELA": {
+  "name": "Tikiela",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages. A post-race veterinary examination, at the request of the stable, revealed no abnormalities.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "TOP CONTI": {
+  "name": "Top Conti (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1300,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Performed below market expectations. Rider Lachlan King reported the only explanation he could offer was that his mount may appreciate racing on firmer tracks. A post-race veterinary examination revealed no abnormalities.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "condition",
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "VAIN CHAMPAGNE": {
+  "name": "Vain Champagne",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.67,
+     "close_ratio": 0.98,
+     "last200_t": 11.78,
+     "last600_t": 34.66,
+     "overall_t": 71.08,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "VALDA WARRIOR": {
+  "name": "Valda Warrior",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "VEGA BLUES": {
+  "name": "Vega Blues",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1000,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Shortly after the start was crowded for room between Bold Suitor and Galbalan, which had been crowded inwards by Edges Diamond.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "WHISTLER GIRL": {
+  "name": "Whistler Girl",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1600,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "As declared rider Craig Newitt was unavailable and there was no senior rider available at the weight, Stewards permitted Fred Kersley to be substituted as the rider and to ride the mare 1kg overweight. Raced wide without cover for the majority of the event.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ },
+ "ZHOU SHU": {
+  "name": "Zhou Shu",
+  "runs": [
+   {
+    "date": "2026-07-30",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin (2L).",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Bendigo"
+   }
+  ]
+ }
+}
