@@ -70,7 +70,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 97.01,
      "close_ratio": 1.01,
@@ -80,7 +80,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.9
     },
-    "steward": null,
+    "steward": {
+     "comment": "Carried wider near the 250m.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -91,7 +101,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 98.67,
      "close_ratio": 1.02,
@@ -101,7 +111,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.7
     },
-    "steward": null,
+    "steward": {
+     "comment": "Raced wide without cover from the 1600m.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -135,7 +155,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 3,
     "sectional": {
      "close_rating": 98.34,
      "close_ratio": 1.02,
@@ -145,7 +165,17 @@
      "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
      "top_spd": 18.59
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin. Near the 600m got its head up when being eased.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -240,7 +270,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 3,
     "sectional": {
      "close_rating": 99.18,
      "close_ratio": 1.02,
@@ -250,7 +280,17 @@
      "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
      "top_spd": 18.89
     },
-    "steward": null,
+    "steward": {
+     "comment": "Began awkwardly and shifted in. Near the 100m was brushed by Tennessee Bound.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -261,7 +301,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 96.07,
      "close_ratio": 1.0,
@@ -271,7 +311,18 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.43
     },
-    "steward": null,
+    "steward": {
+     "comment": "Bumped near the 250m. Rider Jamie Mott reported his mount raced flat. Trainer Nick Ryan advised that Belle Savoir would be freshened up.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -374,7 +425,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 2,
     "sectional": {
      "close_rating": 97.7,
      "close_ratio": 0.95,
@@ -384,7 +435,17 @@
      "race_name": "Stow Robotics Handicap",
      "top_spd": 19.26
     },
-    "steward": null,
+    "steward": {
+     "comment": "Laid in under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -395,7 +456,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 2,
     "sectional": {
      "close_rating": 93.3,
      "close_ratio": 0.91,
@@ -405,7 +466,17 @@
      "race_name": "Stow Robotics Handicap",
      "top_spd": 19.64
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -439,7 +510,7 @@
    {
     "date": "2026-07-25",
     "distance": 2400,
-    "race": null,
+    "race": 6,
     "sectional": {
      "close_rating": 98.51,
      "close_ratio": 1.06,
@@ -449,7 +520,15 @@
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 18.16
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Dean Yendall reported in his opinion the filly may have come to the end of its preparation. Trainer Patrick Payne advised the filly would be spelled.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -506,7 +585,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 3,
     "sectional": {
      "close_rating": 100.0,
      "close_ratio": 1.04,
@@ -516,7 +595,18 @@
      "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
      "top_spd": 18.71
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin and hampered after the start.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -682,6 +772,27 @@
    }
   ]
  },
+ "CORRECT": {
+  "name": "Correct",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1100,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "weight was delayed to enable rider Jett Stanley and trainer Gavin Bedggood (Behaviour, 2nd placegetter) to view the Stewards' patrol video before deciding not to lodge an objection.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
+   }
+  ]
+ },
  "COSMIC CRUSADER": {
   "name": "Cosmic Crusader",
   "runs": [
@@ -732,7 +843,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 96.8,
      "close_ratio": 1.01,
@@ -742,7 +853,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 18.09
     },
-    "steward": null,
+    "steward": {
+     "comment": "Hampered near the 250m.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -753,7 +874,7 @@
    {
     "date": "2026-07-25",
     "distance": 1400,
-    "race": null,
+    "race": 9,
     "sectional": {
      "close_rating": 97.16,
      "close_ratio": 1.0,
@@ -763,7 +884,18 @@
      "race_name": "MRC Membership Made Of Moments Handicap",
      "top_spd": 17.86
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Craig Williams explained his mount began well, then raced keenly and consequently settled further forward than it had at its most recent starts. C. Williams added Cruiserweight (NZ) continued to race keenly in the middle stages and he felt this was the main reason for the gelding tiring over the latter stages. Co-trainer JD Hayes concurred with the views of C. Williams and advised that in the stable's view, Cruiserweight (NZ) is best ridden with cover. Mr Hayes added that Cruiserweight (NZ) had pleased leading into today's race. A post-race veterinary examination did not reveal any significant findings. Stewards will follow up with the stable.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen",
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -884,7 +1016,7 @@
    {
     "date": "2026-07-25",
     "distance": 2400,
-    "race": null,
+    "race": 6,
     "sectional": {
      "close_rating": 99.06,
      "close_ratio": 1.07,
@@ -894,7 +1026,17 @@
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 17.96
     },
-    "steward": null,
+    "steward": {
+     "comment": "Raced greenly in the straight, laid in and proved difficult to ride. When questioned, rider Jabez Johnstone reported he was instructed to ride the gelding with cover to enable his mount to settle. J. Johnstone explained he was able to obtain a midfield position trailing the race favourite, where Decalogue relaxed. J. Johnstone added he commenced a run from near the 800m where his mount finished the race fairly, however in his opinion Decalogue may have now come to the end of its preparation. Trainer Ciaron Maher advised Decalogue would be spelled.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -905,7 +1047,7 @@
    {
     "date": "2026-07-25",
     "distance": 1600,
-    "race": null,
+    "race": 5,
     "sectional": {
      "close_rating": 98.54,
      "close_ratio": 1.05,
@@ -915,7 +1057,17 @@
      "race_name": "Tobin Brothers Celebrating Lives Handicap",
      "top_spd": 18.43
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin. Rider Jabez Johnstone reported that in his view the gelding, after settling back in the field, was not suited by the way the race was run, in that it appeared to favour on-pace horses. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -941,6 +1093,29 @@
    }
   ]
  },
+ "DIRNASEER THE": {
+  "name": "Dirnaseer The",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": null,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "saddle shifted forward near the 1400m, placing rider John Allen at a disadvantage. As the saddle continued to shift forward, J. Allen removed his feet from both stirrup irons near the 600m and as a result Dirnaseer was not tested thereafter. J. Allen confirmed that his saddle shifted forward in the middle stages and continued to shift further forward where it got to a point, near the 600m, where it became necessary for him to remove his feet from the stirrup irons. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
+   }
+  ]
+ },
  "DIVINE THOUGHTS": {
   "name": "Divine Thoughts",
   "runs": [
@@ -959,6 +1134,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "DIVINE THOUGHTS A": {
+  "name": "Divine Thoughts A",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "post-race veterinary examination identified the presence of blood at both nostrils. Trainer Nelson Smyth was notified that in accordance with AR 79(4), Divine Thoughts shall not without permission of the Stewards: (a) be trained, exercised or galloped on any racecourse, recognised training track, private training establishment, or other place for a period of two months; (b) start in any race for a period of 3 months, and then only after: (i) a gallop of at least 1000 metres; or (ii) an official trial or jump-out; in the presence, and to the satisfaction of a Steward. A veterinary clearance will be required prior to racing or trialling again.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
    }
   ]
  },
@@ -1237,7 +1433,7 @@
    {
     "date": "2026-07-25",
     "distance": 1400,
-    "race": null,
+    "race": 9,
     "sectional": {
      "close_rating": 97.93,
      "close_ratio": 1.02,
@@ -1247,7 +1443,17 @@
      "race_name": "MRC Membership Made Of Moments Handicap",
      "top_spd": 18.1
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1279,7 +1485,7 @@
    {
     "date": "2026-07-25",
     "distance": 2400,
-    "race": null,
+    "race": 6,
     "sectional": {
      "close_rating": 98.7,
      "close_ratio": 1.07,
@@ -1289,7 +1495,15 @@
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 18.12
     },
-    "steward": null,
+    "steward": {
+     "comment": "Near the 200m was brushed by Kings Reflection.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1413,7 +1627,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 2,
     "sectional": {
      "close_rating": 97.78,
      "close_ratio": 0.96,
@@ -1423,7 +1637,17 @@
      "race_name": "Stow Robotics Handicap",
      "top_spd": 19.33
     },
-    "steward": null,
+    "steward": {
+     "comment": "Underwent a veterinary examination after being kicked by Resolutely behind the barriers and was passed suitable to race. Raced wide without cover.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1434,7 +1658,7 @@
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 1,
     "sectional": {
      "close_rating": 99.27,
      "close_ratio": 0.98,
@@ -1444,7 +1668,17 @@
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 18.93
     },
-    "steward": null,
+    "steward": {
+     "comment": "Raced wide without cover.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1524,7 +1758,7 @@
    {
     "date": "2026-07-25",
     "distance": 2400,
-    "race": null,
+    "race": 6,
     "sectional": {
      "close_rating": 98.7,
      "close_ratio": 1.08,
@@ -1534,7 +1768,15 @@
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 18.42
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Craig Williams reported that the gelding may have come to the end of its preparation. Co-trainer JD Hayes advised that Harbour Town would be spelled.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1592,7 +1834,7 @@
    {
     "date": "2026-07-25",
     "distance": 1400,
-    "race": null,
+    "race": 9,
     "sectional": {
      "close_rating": 98.35,
      "close_ratio": 1.02,
@@ -1602,7 +1844,17 @@
      "race_name": "MRC Membership Made Of Moments Handicap",
      "top_spd": 17.86
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1701,7 +1953,7 @@
    {
     "date": "2026-07-25",
     "distance": 1400,
-    "race": null,
+    "race": 9,
     "sectional": {
      "close_rating": 96.51,
      "close_ratio": 1.0,
@@ -1711,7 +1963,15 @@
      "race_name": "MRC Membership Made Of Moments Handicap",
      "top_spd": 17.89
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Jett Stanley explained that his mount travelled well in the lead and he raced away from the rail where he felt the ground was superior.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1722,7 +1982,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 4,
     "sectional": {
      "close_rating": 96.22,
      "close_ratio": 0.93,
@@ -1732,7 +1992,17 @@
      "race_name": "Quayclean Handicap",
      "top_spd": 19.65
     },
-    "steward": null,
+    "steward": {
+     "comment": "Raced wide without cover. Rider Jett Stanley reported the filly felt uncomfortable in its action. A post-race veterinary examination did not reveal any significant findings. Trainer Gavin Bedggood expressed disappointment in the performance of the filly and indicated that Jenni The Ninja would be assessed on return to the stable. Stewards will follow up with the stable.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1743,7 +2013,7 @@
    {
     "date": "2026-07-25",
     "distance": 1600,
-    "race": null,
+    "race": 5,
     "sectional": {
      "close_rating": 98.65,
      "close_ratio": 1.04,
@@ -1753,7 +2023,17 @@
      "race_name": "Tobin Brothers Celebrating Lives Handicap",
      "top_spd": 17.79
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Dakotah Keane could offer no explanation for the disappointing performance, other than the gelding may have come to the end of its preparation. Trainer Patrick Payne advised the gelding would be spelled. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
     "track": "Caulfield"
    }
   ]
@@ -1808,7 +2088,7 @@
    {
     "date": "2026-07-25",
     "distance": 2400,
-    "race": null,
+    "race": 6,
     "sectional": {
      "close_rating": 98.06,
      "close_ratio": 1.07,
@@ -1818,7 +2098,15 @@
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 18.23
     },
-    "steward": null,
+    "steward": {
+     "comment": "Near the 200m shifted in and brushed with Ferrario. Rider Jye McNeil reported the gelding may have come to the end of its preparation. Trainer Taige Weir advised Kings Reflection would be spelled. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1871,7 +2159,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 100.0,
      "close_ratio": 1.04,
@@ -1881,7 +2169,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.9
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -1975,13 +2273,36 @@
    }
   ]
  },
+ "LUDLUM FOR A": {
+  "name": "Ludlum For a",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1400,
+    "race": 9,
+    "sectional": null,
+    "steward": {
+     "comment": "short distance near the 50m was awkwardly placed close to the heels of Jenni Gone Bonkers.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
+   }
+  ]
+ },
  "LUNA CAT": {
   "name": "Luna Cat",
   "runs": [
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 3,
     "sectional": {
      "close_rating": 98.95,
      "close_ratio": 1.02,
@@ -1991,7 +2312,18 @@
      "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
      "top_spd": 18.77
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin and hampered after the start.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2044,7 +2376,7 @@
    {
     "date": "2026-07-25",
     "distance": 1400,
-    "race": null,
+    "race": 9,
     "sectional": {
      "close_rating": 98.77,
      "close_ratio": 1.01,
@@ -2054,7 +2386,18 @@
      "race_name": "MRC Membership Made Of Moments Handicap",
      "top_spd": 18.03
     },
-    "steward": null,
+    "steward": {
+     "comment": "Began awkwardly. Raced keenly in the early stages. (3rd placegetter). Rider Jabez Johnstone was severely reprimanded under the provisions of AR 131(b) and reminded of his obligations to fully ride his mounts through to the finish. Stewards were satisfied his actions did not affect the placings.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "keen",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2065,7 +2408,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 97.33,
      "close_ratio": 1.01,
@@ -2075,7 +2418,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.44
     },
-    "steward": null,
+    "steward": {
+     "comment": "Raced wide before settling outside the leader near the 1600m.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2109,7 +2462,7 @@
    {
     "date": "2026-07-25",
     "distance": 2400,
-    "race": null,
+    "race": 6,
     "sectional": {
      "close_rating": 97.79,
      "close_ratio": 1.06,
@@ -2119,7 +2472,17 @@
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 17.94
     },
-    "steward": null,
+    "steward": {
+     "comment": "Change of tactics: intention to be ridden further back. Began only fairly. Restrained after the start and settled at the rear.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2145,13 +2508,34 @@
    }
   ]
  },
+ "MILSONS POINT RESADDLED": {
+  "name": "Milsons Point Resaddled",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "at the barriers.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
+   }
+  ]
+ },
  "MIRAVAL ROSE": {
   "name": "Miraval Rose",
   "runs": [
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 7,
     "sectional": {
      "close_rating": 97.36,
      "close_ratio": 0.99,
@@ -2161,7 +2545,20 @@
      "race_name": "The Big Screen Company Bletchingly Stakes",
      "top_spd": 18.63
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin and was crowded after the start. Rider Jordan Childs reported after meeting with interference at the start, the mare settled further back than intended which was detrimental to its performance. A post-race endoscopy detected a throat condition that may have affected the mare's racing performance. A veterinary clearance will be required prior to racing or officially trialling again.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "tactics",
+      "trouble",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2218,7 +2615,7 @@
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 1,
     "sectional": {
      "close_rating": 98.7,
      "close_ratio": 0.97,
@@ -2228,7 +2625,17 @@
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 18.72
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Luke Cartwright reported it had been his intention to settle midfield with cover, however due to the genuine early tempo and to avoid racing wide, he elected to ease and settle further back. Co-trainer Katherine Coleman confirmed the nature of the instructions.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2260,7 +2667,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 2,
     "sectional": {
      "close_rating": null,
      "close_ratio": null,
@@ -2270,7 +2677,15 @@
      "race_name": "Stow Robotics Handicap",
      "top_spd": null
     },
-    "steward": null,
+    "steward": {
+     "comment": "Fractious in the barriers, reared and broke through the front of the barriers riderless and galloped a considerable distance. Late scratching at 12:48 pm on veterinary advice. Trainer Simon Zahra was notified No Confetti will be required to compete in a jump-out to the satisfaction of Stewards before being permitted to race again.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2360,6 +2775,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "ORCHID SKY BROKE": {
+  "name": "Orchid Sky Broke",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "through the barriers and was quickly restrained. Underwent a veterinary examination and was passed suitable to race.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
    }
   ]
  },
@@ -2524,7 +2960,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 97.41,
      "close_ratio": 1.01,
@@ -2534,7 +2970,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.98
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2545,7 +2991,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 4,
     "sectional": {
      "close_rating": 98.92,
      "close_ratio": 0.94,
@@ -2555,7 +3001,15 @@
      "race_name": "Quayclean Handicap",
      "top_spd": 19.98
     },
-    "steward": null,
+    "steward": {
+     "comment": "Near the 50m rider Ryan Houston dropped his whip.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2604,13 +3058,36 @@
    }
   ]
  },
+ "REBEL TUESDAY BROKE": {
+  "name": "Rebel Tuesday Broke",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "through the barriers and slipped behind when being quickly restrained. Underwent a veterinary examination and was declared a late scratching at 12:50 pm on veterinary advice, lame near hind. A veterinary clearance is required prior to being permitted to race or officially trial again.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
+   }
+  ]
+ },
  "RECOMMENDATION": {
   "name": "Recommendation",
   "runs": [
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 7,
     "sectional": {
      "close_rating": 97.28,
      "close_ratio": 0.98,
@@ -2620,7 +3097,15 @@
      "race_name": "The Big Screen Company Bletchingly Stakes",
      "top_spd": 18.66
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Thomas Stockdale reported that after his mount began well he was able to settle more prominently.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2631,7 +3116,7 @@
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 1,
     "sectional": {
      "close_rating": 97.74,
      "close_ratio": 0.96,
@@ -2641,7 +3126,17 @@
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 18.83
     },
-    "steward": null,
+    "steward": {
+     "comment": "Held up for clear running for a short distance approaching and passing the 300m.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2652,7 +3147,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 2,
     "sectional": {
      "close_rating": 99.16,
      "close_ratio": 0.96,
@@ -2662,7 +3157,15 @@
      "race_name": "Stow Robotics Handicap",
      "top_spd": 19.23
     },
-    "steward": null,
+    "steward": {
+     "comment": "Underwent a veterinary examination after being kicked by Ghana's Akan behind the barriers and was passed suitable to race. When questioned regarding his riding in the straight, rider Craig Williams explained that on straightening, he commenced to ride his mount along in order to ensure that he could make his run wider in the straight. C. Williams added that Resolutely initially quickened, however then commenced to shift out under pressure. When questioned regarding his riding over the latter stages, C. Williams explained that as Resolutely continued to shift out, he desisted from applying the whip as he felt Resolutely was no longer responding. Rather, he continued to ride his mount along and show the whip to the filly to try to have Resolutely maintain its momentum on a straight course to the line.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2673,7 +3176,7 @@
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 1,
     "sectional": {
      "close_rating": 96.61,
      "close_ratio": 0.92,
@@ -2683,7 +3186,15 @@
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 19.04
     },
-    "steward": null,
+    "steward": {
+     "comment": "When questioned regarding the apparent improved performance, co-trainer Shannon Hope advised that at the mare's most recent start it had tired in a genuinely run race. Mr Hope added that he felt the main reason today for the improved showing was that the mare had derived a fitness benefit from its prior race.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2738,7 +3249,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 3,
     "sectional": {
      "close_rating": 98.63,
      "close_ratio": 1.02,
@@ -2748,7 +3259,15 @@
      "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
      "top_spd": 18.77
     },
-    "steward": null,
+    "steward": {
+     "comment": "Knuckled on jumping away.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2780,7 +3299,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 97.52,
      "close_ratio": 1.04,
@@ -2790,7 +3309,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 18.27
     },
-    "steward": null,
+    "steward": {
+     "comment": "Began awkwardly and got its head up. Raced ungenerously in the early and middle stages.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -2891,7 +3420,7 @@
    {
     "date": "2026-07-25",
     "distance": 1400,
-    "race": null,
+    "race": 9,
     "sectional": {
      "close_rating": 97.3,
      "close_ratio": 1.0,
@@ -2901,7 +3430,17 @@
      "race_name": "MRC Membership Made Of Moments Handicap",
      "top_spd": 17.81
     },
-    "steward": null,
+    "steward": {
+     "comment": "Near the 1200m when racing keenly was steadied when awkwardly placed between the heels of Cruiserweight (NZ) which shifted in marginally and Jenni Gone Bonkers which shifted out. Then continued to race keenly for some distance thereafter.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3013,6 +3552,29 @@
    }
   ]
  },
+ "SNOW MERCY A": {
+  "name": "Snow Mercy A",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1100,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "post-race endoscopy of Snow Mercy at the request of the stable detected a degree of internal exercise-induced pulmonary haemorrhage that may have affected the filly's racing performance. A veterinary clearance will be required prior to being permitted to race or officially trial again.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
+   }
+  ]
+ },
  "SOMERS GREEN": {
   "name": "Somers Green",
   "runs": [
@@ -3042,7 +3604,7 @@
    {
     "date": "2026-07-25",
     "distance": 1600,
-    "race": null,
+    "race": 5,
     "sectional": {
      "close_rating": 99.6,
      "close_ratio": 1.06,
@@ -3052,7 +3614,17 @@
      "race_name": "Tobin Brothers Celebrating Lives Handicap",
      "top_spd": 18.05
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Jamie Mott could offer no explanation for the disappointing performance. A post-race veterinary examination did not reveal any significant findings. Trainer Gavin Bedggood expressed disappointment with the performance of the gelding, albeit it appeared that the race had suited on-pace horses. He added St Lawrence (NZ) would now be freshened up prior to its next race start.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
     "track": "Caulfield"
    }
   ]
@@ -3063,7 +3635,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 2,
     "sectional": {
      "close_rating": 99.94,
      "close_ratio": 0.98,
@@ -3073,7 +3645,18 @@
      "race_name": "Stow Robotics Handicap",
      "top_spd": 19.08
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin. Laid in under pressure in the straight. Near the 150m ran in abruptly and was corrected by its rider.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3084,7 +3667,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 90.38,
      "close_ratio": 0.94,
@@ -3094,7 +3677,15 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.86
     },
-    "steward": null,
+    "steward": {
+     "comment": "Rider Jason Maskiell reported the gelding would be better suited in races of a lesser grade. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3105,7 +3696,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 97.38,
      "close_ratio": 1.02,
@@ -3115,7 +3706,17 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 17.62
     },
-    "steward": null,
+    "steward": {
+     "comment": "Bumped with Belle Savoir near the 250m and then shifted out.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3218,7 +3819,7 @@
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 1,
     "sectional": {
      "close_rating": 96.88,
      "close_ratio": 0.92,
@@ -3228,7 +3829,17 @@
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 19.28
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3260,7 +3871,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 3,
     "sectional": {
      "close_rating": 99.24,
      "close_ratio": 1.02,
@@ -3270,7 +3881,15 @@
      "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
      "top_spd": 18.64
     },
-    "steward": null,
+    "steward": {
+     "comment": "Knuckled on jumping away and became badly unbalanced. Near the 100m shifted out under pressure and brushed Behaviour.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3281,7 +3900,7 @@
    {
     "date": "2026-07-25",
     "distance": 2000,
-    "race": null,
+    "race": 8,
     "sectional": {
      "close_rating": 91.92,
      "close_ratio": 0.99,
@@ -3291,8 +3910,40 @@
      "race_name": "Stow Storage Solutions Handicap",
      "top_spd": 18.26
     },
-    "steward": null,
+    "steward": {
+     "comment": "Slow to begin. Near the 250m when giving ground was crowded for room by Crimson Vine which was taken out by Aftermath (NZ), which in turn was taken wider by Stop The Rock (NZ), which shifted out after making contact with Belle Savoir.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "THE": {
+  "name": "The",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "start of the event was delayed eight minutes after No Confetti broke through the front of the barriers and galloped a considerable distance riderless before being recaptured. Torture, Rebel Tuesday and Orchid Sky, which were in the adjoining barriers, also broke through, however were quickly restrained. During the delay, all remaining runners were removed from the barriers, and the barriers were tested to ensure they then functioned correctly.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
    }
   ]
  },
@@ -3302,7 +3953,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 4,
     "sectional": {
      "close_rating": 97.84,
      "close_ratio": 0.95,
@@ -3312,7 +3963,17 @@
      "race_name": "Quayclean Handicap",
      "top_spd": 19.43
     },
-    "steward": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3367,7 +4028,7 @@
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 7,
     "sectional": {
      "close_rating": 96.07,
      "close_ratio": 0.97,
@@ -3377,7 +4038,19 @@
      "race_name": "The Big Screen Company Bletchingly Stakes",
      "top_spd": 18.91
     },
-    "steward": null,
+    "steward": {
+     "comment": "Shifted the near fore plate in the pre-parade ring. Underwent a veterinary examination at the barriers and passed suitable to race. Change of tactics: intention to be ridden more forward if begins well. Slow to begin. Settled midfield, however raced wide throughout.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "tactics",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
     "track": "Caulfield"
    }
   ]
@@ -3424,6 +4097,29 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "TORTURE BROKE": {
+  "name": "Torture (NZ) Broke",
+  "runs": [
+   {
+    "date": "2026-07-25",
+    "distance": 1100,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "through the barriers and was quickly restrained. Underwent a veterinary examination and was passed suitable to race. Knuckled on jumping away. Near the 150m was checked when crowded for room by Stakes which shifted in abruptly, despite rider Jye McNeil endeavouring to correct his mount.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Caulfield: Melbourne Racing Club"
    }
   ]
  },
