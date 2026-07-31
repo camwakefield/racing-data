@@ -1,269 +1,517 @@
-"""Parse a racing.com sectionals CSV into structured per-runner data.
+"""Parse a racing.com sectionals PDF -- the long-form report behind the CSV.
 
-Input format (semicolon-delimited), one file per race:
+The CSV feed gives (marker, spd, split) triples and nothing else. The PDF that
+accompanies the same race carries a great deal the CSV does not, and two things
+in particular that this data store has never had at all:
 
-    <date> ; <meeting-slug> ; <race name>
-    HORSE ; number ; m1 ; spd1 ; t1 ; m2 ; spd2 ; t2 ; ...    (one row per runner)
+  * THE RESULT. Final finishing rank and beaten margin. Every grade in the
+    system today leans on close_rating precisely because no results were banked.
+  * WHERE THE HORSE RAN. "Avg. Dist. to Rail [m]" per 200m section, and a
+    signed "Distance Travelled [m]" figure. This is the raced-wide signal I
+    previously said was unrecoverable -- true of the CSV, not true of the PDF.
 
-Each (m, spd, t) triple is: cumulative distance-from-start marker (m), a ground
-speed reading for that section (m/s), and the section split time.
+Plus: barrier, jockey, per-section rank, per-section TRUE mean speed (km/h --
+unlike the CSV's spd column, which is a peak), per-section top speed, stride
+frequency and stride length, race state (Finished / DNF / DNT), the track
+rating / weather / rail position, and the scratched list.
 
-WHAT THE spd COLUMN IS -- AND IS NOT.  It is a PEAK (or terminal) reading inside
-the section, not the section mean.  Measured across all 196 files: spd * t comes
-out ~28% above the nominal section length over the first section from the
-barriers, ~5% over the final 200m and ~2.5% mid-race.  A horse cannot cover 256m
-inside the first 200m, so the product is not a path length -- that U-shape is
-exactly what a peak reading produces (speed varies most at the start and at the
-finish).  Two consequences:
-  * There is NO distance-covered / raced-wide signal recoverable from this feed.
-  * Any early-vs-late speed comparison must use section_length / t, not spd.
-    The old close_ratio used spd and so was biased low for every runner: the
-    first section's peak inflated the "early" side of the ratio.  spd is still
-    the right source for top_spd, which genuinely wants a peak.
+That last one matters more than it looks. The store currently banks scratched
+horses as starts, because a scratching still appears in the CSV with an all-zero
+trace. The PDF names them outright, so a run can be marked scratched from
+evidence instead of inferred from missing data.
 
-Derived per runner:
-  - overall_t     : sum of all split times (the horse's running time)
-  - last600_t     : sum of the final three 200m splits
-  - last200_t     : the final 200m split
-  - early_t       : sum of splits before the final 600m
-  - top_spd       : peak section speed (from the spd column -- a peak is wanted)
-  - close_ratio   : mean last-600 section speed / mean earlier section speed,
-                    both computed as section_length / t.  >1 = quickened late.
-                    Runs ~0.046 higher than the old spd-based version and
-                    correlates +0.85 with it, so a consumer's gate has to move
-                    with it: the old 0.95 cut sits at 1.00 on this scale.
+COVERAGE IS PARTIAL AND ALWAYS WILL BE. Not every meeting has a PDF. Every field
+this module produces is therefore optional: a meeting with no PDF must look
+exactly as it does today, and nothing downstream may require a PDF field.
 
-Per race we add field-relative figures so a horse can be compared to the race it
-actually ran in:
-  - close_rating  : 100 * (race best last600_t) / (this horse's last600_t)
-                    100 = fastest closer in the race; 95 = ~5% slower, etc.
-  - early_pct     : where the horse sat at the last marker before the 600m, as a
-                    percentile of the field. 100 = leading, 0 = last, 50 = midfield.
-  - lens_off_600  : lengths behind the leader at that same point (2.4m/length).
+LAYOUT. `pdftotext -layout` output, one form feed per page:
 
-early_pct / lens_off_600 are only valid because every runner in a race shares one
-marker grid and one start gun, so cumulative split times are directly comparable
-across the field -- i.e. position-in-running is reconstructible from the CSV with
-no extra source.  Where the grid is NOT uniform, or the race is too short to have
-a marker before the 600m, both fields are None rather than guessed.
+  pages 1..k   summary table, ~10 runners per page, two text lines each. The
+               table is split ACROSS pages by section group, so the same runner
+               appears on every summary page with different columns. One of
+               those pages carries Margin; the last column is Distance Travelled.
+  pages k+1..n one detail page per runner: a labelled header block, then a
+               section table (Section Times / Average Speed / Top Speed /
+               Avg. Dist. to Rail / Avg. Stride Freq. / Avg. Stride Length),
+               then two charts.
+
+The charts repeat the same numbers and reuse the same axis titles, so every
+value row is matched on "label followed by two or more numbers on ONE line" and
+only the FIRST match per page is taken -- the table always precedes its chart.
+
+SECTION TIMES READ BACKWARDS FROM THE LINE. Under the "1200m" column, 1:11.16 is
+the time from the 1200m-to-go mark to the finish, not the time to reach it. The
+bracketed figure below is the split for the section just completed. Both are
+kept: `to_finish` and `split`.
 """
-import csv
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import norm_name, secs, r2, norm_date, clean_track
+from common import norm_name, secs, r2, clean_track
 
 
-# "Sportsbet-Ballarat Synthetic-Professional-2026-07-14" ->
-#   track slug "Sportsbet-Ballarat Synthetic", date "2026-07-14"
-_SLUG = re.compile(r"^(?P<track>.+)-(?P<grade>[A-Za-z ]+)-(?P<date>\d{4}-\d{2}-\d{2})$")
+LENGTH_M = 2.4
+
+_MONTHS = {m: i + 1 for i, m in enumerate(
+    ["January", "February", "March", "April", "May", "June", "July",
+     "August", "September", "October", "November", "December"])}
+
+# "Race 1: TAB We're On - 1420m"   (race names contain dashes, so anchor on the
+# distance at the end rather than splitting on the first dash)
+_RACE = re.compile(r"^\s*Race\s+(\d+)\s*:\s*(.+?)\s*[-\u2013]\s*(\d+)\s*m\s*$")
+_DATE = re.compile(r"^\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*(?:-\s*(\d{1,2}:\d{2}))?\s*$")
+_COND = re.compile(r"Track Rating:\s*(?P<rating>[^,]+?)\s*,\s*"
+                   r"Weather:\s*(?P<weather>[^,]+?)\s*,\s*"
+                   r"Rail Position:\s*(?P<rail>.+?)\s*$")
+# "FlemingtonProfessional" -> venue + grade, glued together by the layout
+_GRADE = re.compile(r"^(?P<track>.*[a-z\)])(?P<grade>Professional|Amateur|Country|"
+                    r"Provincial|Metropolitan|Trial|Jumpout|Picnic)\s*$")
+# Fallback for a grade word not on that list: any lower->upper join. On its own
+# that would happily match stray body text, so it is only trusted for a short
+# line that repeats on two or more pages -- which is what a page header is.
+_GLUED = re.compile(r"^(?P<track>[A-Z][A-Za-z'\-\. ]*[a-z\)])(?P<grade>[A-Z][a-z]+)\s*$")
+
+_SCRATCH = re.compile(r"([A-Za-z][A-Za-z'\-\. ]+?)\s*\(#(\d+)\)")
+
+# summary line 1: rank, saddlecloth, horse, barrier, top speed, fastest section
+_SUM1 = re.compile(r"^\s*(\d{1,2})\s+(\d{1,2})\s+"
+                   r"(?P<horse>\S.*?)\s{2,}"
+                   r"(?P<barrier>\d{1,2})\s+"
+                   r"(?P<top>\d{2,3}\.\d)\s+"
+                   r"(?P<fast>\d:\d{2}\.\d{2}|NA|-:--\.--)\s+"
+                   r"(?P<rest>.*)$")
+_SUM2 = re.compile(r"^\s{4,}(?P<jockey>[A-Za-z][A-Za-z'\-\.]*(?: [A-Za-z'\-\.]+)*)"
+                   r"\s{2,}(?:Overall|\d+m|NA)\b")
+
+_TRAVEL = re.compile(r"([+-]\d+)\s*$")
+_MARGIN = re.compile(r"(?<![\d.])(\d+(?:\.\d+)?)\s*L(?![A-Za-z])")
+
+_TIMED = re.compile(r"(\d+:\d{2}\.\d{2}|-:--\.--|NA)\s*\[\s*(\d+|NA|-)\s*\]")
+_PAREN = re.compile(r"\((\d+:\d{2}\.\d{2}|-:--\.--|NA)\)")
+_NUM = re.compile(r"(?<![\w.])(-?\d+(?:\.\d+)?)(?![\w.])")
+
+_LABEL = "Horse/Jockey Name"
 
 
-LENGTH_M = 2.4          # one "length" in metres, the standard Australian figure
-MIN_FIELD = 5           # below this a percentile of the field means very little
+def pdf_text(path):
+    """pdftotext -layout, falling back to pdfplumber where poppler is absent."""
+    try:
+        return subprocess.run(["pdftotext", "-layout", str(path), "-"],
+                              capture_output=True, text=True, check=True).stdout
+    except (FileNotFoundError, subprocess.CalledProcessError):
+        import pdfplumber
+        with pdfplumber.open(str(path)) as pdf:
+            return "\f".join((pg.extract_text() or "") for pg in pdf.pages)
 
 
-def _early_position(runners, distance):
-    """Reconstruct where each runner sat before the turn for home.
+def _f(x):
+    try:
+        return float(x)
+    except (TypeError, ValueError):
+        return None
 
-    Every runner in a race is timed off the same start over the same marker
-    grid, so cumulative split times ARE comparable across the field -- this is
-    position-in-running, recovered from the CSV with no second source.
 
-    The read point is the last marker at or before (distance - 600), i.e. the
-    latest point that is still 'before the sprint home'. Sets, per runner:
-      early_pct    100 = led the field there, 0 = last, 50 = midfield
-      lens_off_600 lengths behind the leader at that point
-    Both are None when the grid is not uniform across the field, when the race
-    is too short to have such a marker, or when the field is too small.
+def _rank(tok):
+    return int(tok) if tok and tok.isdigit() else None
+
+
+def _t(tok):
+    """Split/section time, or None for the '-:--.--' / 'NA' no-data markers."""
+    if not tok or tok in ("NA", "-:--.--"):
+        return None
+    return secs(tok)
+
+
+def _labels(line):
+    """The section header row -> ['overall','1200','1000',...].
+
+    'Last 600m' is a summary, not a marker; it is dropped so the label list
+    lines up with the value rows that follow.
     """
-    for ru in runners:
-        ru["early_pct"] = None
-        ru["lens_off_600"] = None
+    rest = line.split("Section", 1)[1]
+    rest = re.sub(r"Last\s+600m\s*$", "", rest)
+    out = []
+    for tok in rest.split():
+        if tok.lower() == "overall":
+            out.append("overall")
+        elif re.fullmatch(r"\d+m", tok):
+            out.append(tok[:-1])
+    return out
 
-    live = [ru for ru in runners if ru.get("_cum")]
-    if len(live) < MIN_FIELD:
-        return
-    grids = set(ru["_grid"] for ru in live)
-    if len(grids) != 1:
-        # Mixed grids mean the markers are not the same physical points for
-        # every runner, so cross-runner time comparison is meaningless. Say
-        # nothing rather than emit a number that looks authoritative.
-        print("  NOTE  mixed marker grids - no early position for this race",
-              file=sys.stderr)
-        return
-    grid = sorted(grids.pop())
-    before = [m for m in grid if m <= distance - 600]
-    if not before:
-        return
-    sp = before[-1]
 
-    tab = [(ru["_cum"][sp], ru) for ru in live if sp in ru["_cum"]]
-    if len(tab) < MIN_FIELD:
-        return
-    tab.sort(key=lambda x: x[0])
-    lead, n = tab[0][0], len(tab)
-    for i, (t_sp, ru) in enumerate(tab):
-        ru["early_pct"] = r2(100.0 * (1.0 - i / (n - 1)))
-        # gap in lengths = time gap x the speed being run there / metres per length
-        ru["lens_off_600"] = r2((t_sp - lead) * (sp / t_sp) / LENGTH_M)
+def _row(lines, label, n):
+    """First line whose text starts with `label` and carries >= 2 numbers.
+
+    The charts under each detail table reuse these exact strings as axis
+    titles, but always on a line of their own, so the numeric guard is what
+    keeps a chart axis from being read as data. First match wins because the
+    table is always printed above its chart.
+    """
+    pat = re.compile(r"^\s*" + re.escape(label) + r"\s{2,}(?P<v>.*\d.*)$")
+    for ln in lines:
+        m = pat.match(ln)
+        if not m:
+            continue
+        vals = _NUM.findall(m.group("v"))
+        if len(vals) < 2:
+            continue
+        vals = [_f(v) for v in vals]
+        # A short row means the layout drifted; pad rather than mis-align, so a
+        # value is never silently attributed to the wrong section.
+        return (vals + [None] * n)[:n]
+    return [None] * n
+
+
+def _detail_page(page):
+    """One runner's detail page -> a record, or None if this is not one."""
+    lines = page.splitlines()
+    name = None
+    for ln in lines:
+        if _LABEL in ln:
+            name = ln.split(_LABEL, 1)[1].strip()
+            break
+    if not name:
+        return None
+
+    def grab(label, pat=r"(\S+)"):
+        rx = re.compile(r"^\s*" + re.escape(label) + r"\s{2,}" + pat)
+        for ln in lines:
+            m = rx.match(ln)
+            if m:
+                return m.groups()
+        return None
+
+    rec = {"name": name, "key": norm_name(name)}
+
+    g = grab("Final Rank", r"(\d+|NA|DNF|DNT|-)")
+    rec["final_rank"] = _rank(g[0]) if g else None
+    g = grab("Race State", r"([A-Za-z ]+?)\s{2,}|([A-Za-z]+)\s*$")
+    rec["race_state"] = next((x.strip() for x in (g or ()) if x), None)
+    g = grab("Fastest Section Time (Section)", r"(\S+)\s+\(([^)]+)\)")
+    rec["fastest_section_t"] = _t(g[0]) if g else None
+    rec["fastest_section"] = g[1] if g else None
+    g = grab("Top Speed [km/h] (Section)", r"([\d.]+)\s+\(([^)]+)\)")
+    rec["top_kmh"] = _f(g[0]) if g else None
+    rec["top_kmh_section"] = g[1] if g else None
+
+    hdr = next((ln for ln in lines
+                if re.match(r"^\s*Section\s{2,}(Overall|\d+m)", ln)), None)
+    if not hdr:
+        rec["sections"] = {}
+        return rec
+    labs = _labels(hdr)
+    n = len(labs)
+
+    times, splits = [None] * n, [None] * n
+    for i, ln in enumerate(lines):
+        m = re.match(r"^\s*Section Times\s{2,}(.*)$", ln)
+        if not m:
+            continue
+        pairs = _TIMED.findall(m.group(1))
+        for j, (tt, rk) in enumerate(pairs[:n]):
+            times[j] = (_t(tt), _rank(rk))
+        for j, sp in enumerate(_PAREN.findall(lines[i + 1] if i + 1 < len(lines) else "")[:n]):
+            splits[j] = _t(sp)
+        break
+
+    avg = _row(lines, "Average Speed [km/h]", n)
+    top = _row(lines, "Top Speed [km/h]", n)
+    rail = _row(lines, "Avg. Dist. to Rail [m]", n)
+    freq = _row(lines, "Avg. Stride Freq. [Hz]", n)
+    leng = _row(lines, "Avg. Stride Length [m]", n)
+
+    sections = {}
+    for i, lab in enumerate(labs):
+        sections[lab] = {
+            "to_finish": times[i][0] if times[i] else None,
+            "rank": times[i][1] if times[i] else None,
+            "split": splits[i],
+            "avg_kmh": avg[i], "top_kmh": top[i],
+            "rail_m": rail[i], "stride_hz": freq[i], "stride_m": leng[i],
+        }
+    rec["sections"] = sections
+    return rec
+
+
+def _summary_page(page, out):
+    """Accumulate summary-table fields into `out`, keyed by saddlecloth number.
+
+    Each runner appears on every summary page with a different slice of the
+    columns, so this merges rather than overwrites: a field already found on an
+    earlier page is not clobbered by a blank on a later one.
+    """
+    lines = page.splitlines()
+    has_margin = any("Margin" in ln for ln in lines)
+    for i, ln in enumerate(lines):
+        m = _SUM1.match(ln)
+        if not m:
+            continue
+        horse = m.group("horse").strip()
+        if not horse or horse.lower().startswith("rank"):
+            continue
+        no = ln.split()[1]
+        r = out.setdefault(no, {"no": no})
+        r.setdefault("name", horse)
+        r.setdefault("key", norm_name(horse))
+        r.setdefault("rank", int(ln.split()[0]))
+        r.setdefault("barrier", int(m.group("barrier")))
+        r.setdefault("top_kmh", _f(m.group("top")))
+        rest = m.group("rest")
+        tm = _TRAVEL.search(rest)
+        if tm and r.get("dist_travelled") is None:
+            r["dist_travelled"] = int(tm.group(1))
+        if has_margin and r.get("margin_len") is None:
+            mm = _MARGIN.search(rest)
+            if mm:
+                r["margin_len"] = _f(mm.group(1))
+            elif r.get("rank") == 1:
+                r["margin_len"] = 0.0
+        if i + 1 < len(lines):
+            jm = _SUM2.match(lines[i + 1])
+            if jm and not r.get("jockey"):
+                r["jockey"] = jm.group("jockey").strip()
+    return out
 
 
 def parse_file(path):
-    rows = [r for r in csv.reader(open(path), delimiter=";") if any(c.strip() for c in r)]
-    if not rows:
-        return None
-    meeting_slug = rows[0][1].strip() if len(rows[0]) > 1 else ""
-    race_name = rows[0][2].strip() if len(rows[0]) > 2 else ""
+    text = pdf_text(path)
+    pages = text.split("\f")
 
-    # The meeting slug carries an unambiguous ISO date and the full track name.
-    # Column 0 does not: older exports write it in US M/D/YYYY order, so
-    # "6/13/2026" would otherwise be read as month 13. Trust the slug; fall back
-    # to column 0 only if the slug is missing or malformed.
-    m = _SLUG.match(meeting_slug)
-    if m:
-        date = m.group("date")
-        track = clean_track(m.group("track"))
-    else:
-        date = norm_date(rows[0][0])
-        track = clean_track(meeting_slug.split("-")[0]) if meeting_slug else ""
+    race = race_name = distance = date = start_time = None
+    track = grade = rating = weather = rail = None
+    scratched, field_times = [], {}
+    seen_scratch = set()
 
-    runners = []
-    max_marker = 0
-    for r in rows[1:]:
-        name = r[0].strip()
-        if not name:
-            continue
-        number = r[1].strip() if len(r) > 1 else ""
-        trips = r[2:]
-        segs = []
-        for i in range(0, len(trips) - 2, 3):
-            try:
-                marker = int(float(trips[i]))
-                spd = float(trips[i + 1])
-                t = secs(trips[i + 2])
-            except (ValueError, IndexError):
+    for page in pages:
+        for ln in page.splitlines():
+            s = ln.strip()
+            if not s:
                 continue
-            segs.append({"m": marker, "spd": spd, "t": t})
-        if not segs:
-            continue
-        segs.sort(key=lambda s: s["m"])
-        max_marker = max(max_marker, segs[-1]["m"])
-        runners.append({"name": name, "key": norm_name(name), "no": number, "segs": segs})
+            if race is None:
+                m = _RACE.match(s)
+                if m:
+                    race = int(m.group(1))
+                    race_name = m.group(2).strip()
+                    distance = int(m.group(3))
+                    continue
+            if date is None:
+                m = _DATE.match(s)
+                if m:
+                    mon = _MONTHS.get(m.group(2).title())
+                    if mon:
+                        date = "%s-%02d-%02d" % (m.group(3), mon, int(m.group(1)))
+                        start_time = m.group(4)
+                        continue
+            if rating is None:
+                m = _COND.search(s)
+                if m:
+                    rating = m.group("rating")
+                    weather = m.group("weather")
+                    rail = m.group("rail")
+                    continue
+            if track is None:
+                m = _GRADE.match(s)
+                if m and len(s) < 60 and " " not in m.group("grade"):
+                    track = clean_track(m.group("track"))
+                    grade = m.group("grade")
+                    continue
+            if s.startswith("Scratched:"):
+                for nm, num in _SCRATCH.findall(s[len("Scratched:"):]):
+                    k = norm_name(nm)
+                    if k and k not in seen_scratch:
+                        seen_scratch.add(k)
+                        scratched.append({"name": nm.strip(), "key": k, "no": num})
 
-    # distance = furthest marker reached in the field
-    distance = max_marker
-    for ru in runners:
-        # A GPS-less runner has every section as speed 0 / time 0:00.00 — drop
-        # those sections so it just gets null sectional metrics (it still exists
-        # as a run, we just have no speed data for it).
-        valid = [s for s in ru["segs"] if s.get("spd") and s.get("t")]
-        ru["no_data"] = len(valid) == 0
-        ru["_grid"] = tuple(s["m"] for s in valid)
-        cum, acc = {}, 0.0
-        for s in valid:
-            acc += s["t"]
-            cum[s["m"]] = acc
-        ru["_cum"] = cum
-        if not valid:
-            for k in ("overall_t", "last600_t", "last200_t", "early_t", "top_spd",
-                      "close_ratio"):
-                ru[k] = None
-            continue
-        ru["overall_t"] = r2(sum(s["t"] for s in valid))
-        last3 = valid[-3:]
-        ru["last600_t"] = r2(sum(s["t"] for s in last3))
-        ru["last200_t"] = last3[-1]["t"]
-        early = valid[:-3]
-        ru["early_t"] = r2(sum(s["t"] for s in early)) if early else None
-        ru["top_spd"] = r2(max(s["spd"] for s in valid))
-        # quickened-vs-faded. Mean section speed = section_length / split time.
-        # NOT the spd column: see the module docstring -- that is a peak, and
-        # using it drags the early side up and every close_ratio down.
-        prev_m, mean_sp = 0, []
-        for s in valid:
-            nominal = s["m"] - prev_m
-            prev_m = s["m"]
-            mean_sp.append((nominal / s["t"]) if (nominal > 0 and s["t"]) else None)
-        early_sp = [x for x in mean_sp[:-3] if x]
-        late_sp = [x for x in mean_sp[-3:] if x]
-        early_mean = (sum(early_sp) / len(early_sp)) if early_sp else 0
-        late_mean = (sum(late_sp) / len(late_sp)) if late_sp else 0
-        ru["close_ratio"] = r2(late_mean / early_mean) if early_mean else None
+    if track is None:
+        counts = {}
+        for page in pages:
+            for s in {ln.strip() for ln in page.splitlines() if ln.strip()}:
+                if len(s) < 40 and _GLUED.match(s):
+                    counts[s] = counts.get(s, 0) + 1
+        best = max((s for s, n in counts.items() if n >= 2), key=len, default=None)
+        if best:
+            m = _GLUED.match(best)
+            track, grade = clean_track(m.group("track")), m.group("grade")
 
-    # field-relative closing rating
-    l600 = [ru["last600_t"] for ru in runners if ru["last600_t"]]
-    best = min(l600) if l600 else None
+    # The rail position wraps onto a second line ("Out 11m Entire / Circuit") on
+    # the detail pages; the summary pages carry it whole, so prefer the longest.
+    for page in pages:
+        for ln in page.splitlines():
+            m = _COND.search(ln)
+            if m and len(m.group("rail")) > len(rail or ""):
+                rating, weather, rail = (m.group("rating"), m.group("weather"),
+                                         m.group("rail"))
+
+    summary, runners = {}, []
+    for page in pages:
+        if _LABEL in page:
+            rec = _detail_page(page)
+            if rec:
+                runners.append(rec)
+        elif "Horse/Jockey" in page:
+            _summary_page(page, summary)
+            hdr = next((ln for ln in page.splitlines()
+                        if re.match(r"^\s*Section\s{2,}(Overall|\d+m)", ln)), None)
+            ft = next((ln for ln in page.splitlines()
+                       if re.match(r"^\s*Field Times\s{2,}", ln)), None)
+            if hdr and ft:
+                labs = _labels(hdr)
+                vals = re.findall(r"\d+:\d{2}\.\d{2}", ft)
+                for lab, v in zip(labs, vals):
+                    field_times.setdefault(lab, secs(v))
+
+    # merge summary columns onto the detail records (join on saddlecloth, then
+    # on the normalised name -- a PDF is one race, so both are unique)
+    by_no = {r["no"]: r for r in summary.values()}
+    by_key = {r["key"]: r for r in summary.values() if r.get("key")}
     for ru in runners:
-        if best and ru["last600_t"]:
-            ru["close_rating"] = r2(100.0 * best / ru["last600_t"])
+        s = by_key.get(ru["key"])
+        if s is None:
+            s = next((v for v in by_no.values() if v.get("key") == ru["key"]), None)
+        if s:
+            for f in ("no", "barrier", "jockey", "margin_len", "dist_travelled"):
+                ru.setdefault(f, s.get(f))
+            if ru.get("final_rank") is None:
+                ru["final_rank"] = s.get("rank")
+            if ru.get("top_kmh") is None:
+                ru["top_kmh"] = s.get("top_kmh")
         else:
-            ru["close_rating"] = None
+            for f in ("no", "barrier", "jockey", "margin_len", "dist_travelled"):
+                ru.setdefault(f, None)
 
-    _early_position(runners, distance)
-    for ru in runners:                      # scratch fields, not part of the record
-        ru.pop("_cum", None)
-        ru.pop("_grid", None)
+    # Summary-only runners: a horse that has a row in the table but no detail
+    # page (it happens when the tracker lost it). Keep it -- the rank and margin
+    # are still real results.
+    have = {ru["key"] for ru in runners}
+    for s in summary.values():
+        if s.get("key") and s["key"] not in have:
+            runners.append({"name": s["name"], "key": s["key"], "no": s.get("no"),
+                            "final_rank": s.get("rank"), "barrier": s.get("barrier"),
+                            "jockey": s.get("jockey"), "margin_len": s.get("margin_len"),
+                            "dist_travelled": s.get("dist_travelled"),
+                            "top_kmh": s.get("top_kmh"), "race_state": None,
+                            "fastest_section_t": None, "fastest_section": None,
+                            "top_kmh_section": None, "sections": {}})
 
+    for ru in runners:
+        _derive(ru, distance)
+
+    runners.sort(key=lambda r: (r.get("final_rank") is None, r.get("final_rank") or 0))
     return {
-        "date": date,
-        "track": track,
-        "meeting_slug": meeting_slug,
-        "race_name": race_name,
-        "distance": distance,
+        "date": date, "start_time": start_time,
+        "track": track, "grade": grade,
+        "race": race, "race_name": race_name, "distance": distance,
+        "track_rating": rating, "weather": weather, "rail_position": rail,
+        "field_times": field_times,
+        "scratched": scratched,
         "source_file": Path(path).name,
         "runners": runners,
     }
 
 
-def parse_dir(folder):
-    """Every *.csv under `folder`, recursively and case-insensitively.
+def _derive(ru, distance):
+    """Per-runner figures worth having precomputed.
 
-    The old version globbed "*.csv" in one directory only. Linux globs are
-    case-sensitive, so a file saved as ".CSV" — or dropped in a subfolder —
-    was skipped without a word. Anything ignored is now printed.
+    rail_avg is taken from the Overall column (the report's own whole-race mean)
+    and falls back to the mean of the per-section values. rail_early / rail_late
+    split at the 600m so a horse that was wide early but saved ground late is
+    distinguishable from one that came off the fence to make its run -- those are
+    opposite stories and a single average hides both.
+    """
+    sec = ru.get("sections") or {}
+    marks = {k: v for k, v in sec.items() if k != "overall"}
+    ov = sec.get("overall") or {}
+
+    rails = [(int(k), v["rail_m"]) for k, v in marks.items() if v.get("rail_m") is not None]
+    rails.sort(key=lambda x: -x[0])
+    ru["rail_avg"] = r2(ov.get("rail_m") if ov.get("rail_m") is not None
+                        else (sum(v for _, v in rails) / len(rails) if rails else None))
+    ru["rail_max"] = r2(max((v for _, v in rails), default=None) if rails else None)
+    early = [v for m, v in rails if m > 600]
+    late = [v for m, v in rails if m <= 600]
+    ru["rail_early"] = r2(sum(early) / len(early)) if early else None
+    ru["rail_late"] = r2(sum(late) / len(late)) if late else None
+
+    ru["stride_m"] = r2(ov.get("stride_m"))
+    ru["stride_hz"] = r2(ov.get("stride_hz"))
+    ru["overall_t"] = ov.get("to_finish")
+    ru["avg_kmh"] = r2(ov.get("avg_kmh"))
+
+    # position in running, straight from the report's own per-section ranks
+    ranks = [(int(k), v["rank"]) for k, v in marks.items() if v.get("rank")]
+    ranks.sort(key=lambda x: -x[0])
+    ru["rank_at_800"] = next((r for m, r in ranks if m == 800), None)
+    ru["rank_at_600"] = next((r for m, r in ranks if m == 600), None)
+    ru["settled"] = ranks[0][1] if ranks else None
+
+    ru["margin_m"] = r2(ru["margin_len"] * LENGTH_M) if ru.get("margin_len") else (
+        0.0 if ru.get("final_rank") == 1 else None)
+    ru["won"] = (ru.get("final_rank") == 1) if ru.get("final_rank") else None
+    ru["placed"] = (ru["final_rank"] <= 3) if ru.get("final_rank") else None
+
+
+def parse_dir(folder, report=None):
+    """Every *.pdf under `folder`, recursively. Anything skipped is printed.
+
+    A PDF that fails to parse must never take the build down with it -- the
+    whole point of this source is that it is optional.
     """
     out = []
     folder = Path(folder)
     if not folder.exists():
-        print("  SKIP  %s does not exist" % folder, file=sys.stderr)
         return out
     for p in sorted(folder.rglob("*")):
         if p.is_dir() or p.name.startswith("."):
             continue
-        if p.suffix.lower() != ".csv":
-            print("  SKIP  %-55s unrecognised extension %r"
-                  % (p.relative_to(folder), p.suffix or "(none)"), file=sys.stderr)
+        if p.suffix.lower() != ".pdf":
+            print("  SKIP  %-55s not a pdf" % p.name, file=sys.stderr)
+            if report is not None:
+                report.append({"file": p.name, "status": "skipped", "reason": "not a pdf"})
             continue
         try:
             rec = parse_file(p)
         except Exception as exc:
             print("  ERROR %-55s %s: %s" % (p.name, type(exc).__name__, exc),
                   file=sys.stderr)
+            if report is not None:
+                report.append({"file": p.name, "status": "error",
+                               "reason": "%s: %s" % (type(exc).__name__, exc)})
             continue
-        if rec and rec["runners"]:
+        if rec and rec["runners"] and rec["date"]:
             out.append(rec)
+            if report is not None:
+                report.append({"file": p.name, "status": "ok",
+                               "reason": "%s %s R%s, %d runners" %
+                               (rec["date"], rec["track"], rec["race"], len(rec["runners"]))})
         else:
-            print("  EMPTY %-55s no runners parsed" % p.name, file=sys.stderr)
+            why = "no runners" if not (rec and rec["runners"]) else "no date in header"
+            print("  EMPTY %-55s %s" % (p.name, why), file=sys.stderr)
+            if report is not None:
+                report.append({"file": p.name, "status": "empty", "reason": why})
     return out
 
 
 if __name__ == "__main__":
-    target = sys.argv[1] if len(sys.argv) > 1 else "raw/sectionals"
+    target = sys.argv[1] if len(sys.argv) > 1 else "raw/sectionals_pdf"
     p = Path(target)
     recs = [parse_file(p)] if p.is_file() else parse_dir(p)
     for rec in recs:
-        print("== %s  %s  %s  (%dm, %d runners)" % (
-            rec["date"], rec["track"], rec["race_name"], rec["distance"], len(rec["runners"])))
-        ranked = sorted([r for r in rec["runners"] if r["last600_t"]], key=lambda r: r["last600_t"])
-        for r in ranked:
-            pos = ("%3.0f%%  %4.1fL back" % (r["early_pct"], r["lens_off_600"])
-                   if r["early_pct"] is not None else "   -            ")
-            print("   %-20s no%-3s L600 %5.2f  L200 %5.2f  close_rating %5.1f  "
-                  "close_ratio %-5s  early %s"
-                  % (r["name"], r["no"], r["last600_t"], r["last200_t"] or 0,
-                     r["close_rating"] or 0, r["close_ratio"], pos))
-    print(json.dumps(recs)[:0])  # keep import side-effect free
+        print("== %s  %s  R%s %s  (%sm)  %s / %s / rail %s" % (
+            rec["date"], rec["track"], rec["race"], rec["race_name"],
+            rec["distance"], rec["track_rating"], rec["weather"], rec["rail_position"]))
+        if rec["scratched"]:
+            print("   scratched: %s" % ", ".join(
+                "%s (#%s)" % (s["name"], s["no"]) for s in rec["scratched"]))
+        print("   %-3s %-20s %-16s %-3s %6s %7s %6s %6s %6s %5s"
+              % ("fin", "horse", "jockey", "bar", "mgn L", "trav m",
+                 "rail", "early", "late", "s800"))
+        for r in rec["runners"]:
+            print("   %-3s %-20s %-16s %-3s %6s %7s %6s %6s %6s %5s" % (
+                r["final_rank"], r["name"][:20], (r["jockey"] or "")[:16],
+                r["barrier"], r["margin_len"], r["dist_travelled"],
+                r["rail_avg"], r["rail_early"], r["rail_late"], r["rank_at_800"]))
+    print(json.dumps(recs)[:0])
