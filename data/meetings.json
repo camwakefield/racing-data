@@ -365,6 +365,62 @@
   "count": 20
  },
  {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_01.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_02.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_03.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_05.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_06.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_07.csv",
+  "count": 19
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Southside Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_08.csv",
+  "count": 16
+ },
+ {
   "date": "2026-07-18",
   "track": "Flemington",
   "type": "sectional",

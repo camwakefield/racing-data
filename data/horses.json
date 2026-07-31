@@ -192,6 +192,27 @@
    }
   ]
  },
+ "AFRICAN GREY": {
+  "name": "African Grey",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.92,
+     "close_ratio": 1.02,
+     "last200_t": 12.72,
+     "last600_t": 37.66,
+     "overall_t": 102.28,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.71
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "AFTERBERNA": {
   "name": "Afterberna",
   "runs": [
@@ -283,6 +304,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ALIEN ANGEL": {
+  "name": "Alien Angel",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.97,
+     "last200_t": 12.28,
+     "last600_t": 36.93,
+     "overall_t": 80.27,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -398,6 +440,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ALPINE FOX": {
+  "name": "Alpine Fox",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.35,
+     "close_ratio": 0.9,
+     "last200_t": 12.87,
+     "last600_t": 36.72,
+     "overall_t": 61.05,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.36
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -702,6 +765,48 @@
    }
   ]
  },
+ "ARDESHA": {
+  "name": "Ardesha",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.33,
+     "close_ratio": 0.86,
+     "last200_t": 14.06,
+     "last600_t": 40.5,
+     "overall_t": 89.52,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.17
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "AREAAN": {
+  "name": "Areaan",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 89.26,
+     "close_ratio": 0.89,
+     "last200_t": 17.24,
+     "last600_t": 43.5,
+     "overall_t": 92.3,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 17.72
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "ARIZONA LUCK": {
   "name": "Arizona Luck",
   "runs": [
@@ -743,6 +848,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -806,6 +927,27 @@
     },
     "steward": null,
     "track": "Sportsbet"
+   }
+  ]
+ },
+ "ASKMUMASKDAD": {
+  "name": "Askmumaskdad",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 88.33,
+     "close_ratio": 0.89,
+     "last200_t": 16.07,
+     "last600_t": 42.94,
+     "overall_t": 99.42,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.79
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -1271,6 +1413,22 @@
   "name": "Bellabama",
   "runs": [
    {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.82,
+     "close_ratio": 0.94,
+     "last200_t": 12.2,
+     "last600_t": 37.87,
+     "overall_t": 87.19,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
+   {
     "date": "2026-07-15",
     "distance": 1600,
     "race": null,
@@ -1340,6 +1498,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BEST TIME": {
+  "name": "Best Time",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.92,
+     "close_ratio": 0.95,
+     "last200_t": 12.2,
+     "last600_t": 36.85,
+     "overall_t": 74.18,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -1528,6 +1707,27 @@
    }
   ]
  },
+ "BLUE BANDIT": {
+  "name": "Blue Bandit",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.74,
+     "close_ratio": 0.89,
+     "last200_t": 14.26,
+     "last600_t": 40.14,
+     "overall_t": 88.19,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.16
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "BLUE HUMMA": {
   "name": "Blue Humma",
   "runs": [
@@ -1703,6 +1903,22 @@
     "track": "Bendigo"
    },
    {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
+   {
     "date": "2026-07-15",
     "distance": 1000,
     "race": null,
@@ -1804,6 +2020,27 @@
    }
   ]
  },
+ "BOSSY BABE": {
+  "name": "Bossy Babe",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.24,
+     "close_ratio": 0.96,
+     "last200_t": 12.45,
+     "last600_t": 35.87,
+     "overall_t": 60.92,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": 18.93
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "BOTANICAL BOY": {
   "name": "Botanical Boy",
   "runs": [
@@ -1862,6 +2099,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "BOURDETO": {
+  "name": "Bourdeto",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.58,
+     "close_ratio": 0.93,
+     "last200_t": 13.23,
+     "last600_t": 37.26,
+     "overall_t": 61.69,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -1956,6 +2214,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "BRAZEN BOLD": {
+  "name": "Brazen Bold",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -2213,6 +2492,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.12,
+     "close_ratio": 0.86,
+     "last200_t": 14.33,
+     "last600_t": 40.82,
+     "overall_t": 88.81,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.37
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -2334,6 +2629,27 @@
    }
   ]
  },
+ "CALEANA": {
+  "name": "Caleana",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "CALL TO GLORY UNPLACED": {
   "name": "Call To Glory Unplaced",
   "runs": [
@@ -2354,6 +2670,27 @@
      "underperf": true
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "CALLING TOM": {
+  "name": "Calling Tom",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.11,
+     "close_ratio": 0.9,
+     "last200_t": 12.78,
+     "last600_t": 37.05,
+     "overall_t": 61.96,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": 18.77
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -2426,6 +2763,27 @@
    }
   ]
  },
+ "CARLOW ROSE": {
+  "name": "Carlow Rose",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "CARRY TRADE": {
   "name": "Carry Trade",
   "runs": [
@@ -2447,6 +2805,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "CASH CONVERTER": {
+  "name": "Cash Converter",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.51,
+     "close_ratio": 0.99,
+     "last200_t": 13.36,
+     "last600_t": 38.2,
+     "overall_t": 101.97,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.9
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -2583,6 +2962,27 @@
    }
   ]
  },
+ "CHADLINGTON": {
+  "name": "Chadlington",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "CHALLENGING": {
   "name": "Challenging",
   "runs": [
@@ -2679,6 +3079,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "CHARLECOTE MILL": {
+  "name": "Charlecote Mill",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -3044,6 +3465,27 @@
    }
   ]
  },
+ "COMPRESSING": {
+  "name": "Compressing",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "COOL": {
   "name": "Cool",
   "runs": [
@@ -3180,6 +3622,27 @@
     },
     "steward": null,
     "track": "Sportsbet"
+   }
+  ]
+ },
+ "COVERT ACTION": {
+  "name": "Covert Action",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.24,
+     "close_ratio": 0.96,
+     "last200_t": 12.1,
+     "last600_t": 35.51,
+     "overall_t": 59.89,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": 18.74
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -3563,6 +4026,27 @@
    }
   ]
  },
+ "DAZZLING SECRET": {
+  "name": "Dazzling Secret",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.28,
+     "close_ratio": 0.95,
+     "last200_t": 13.03,
+     "last600_t": 37.85,
+     "overall_t": 75.26,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.03
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "DE ASCOT": {
   "name": "De Ascot",
   "runs": [
@@ -3604,6 +4088,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.79,
+     "close_ratio": 0.99,
+     "last200_t": 12.81,
+     "last600_t": 37.71,
+     "overall_t": 101.78,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.72
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -3638,6 +4138,48 @@
    }
   ]
  },
+ "DECANTED": {
+  "name": "Decanted",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.29,
+     "close_ratio": 0.89,
+     "last200_t": 13.8,
+     "last600_t": 39.91,
+     "overall_t": 88.14,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "DEEPSEEK": {
+  "name": "Deepseek",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "DELAHRA": {
   "name": "Delahra",
   "runs": [
@@ -3659,6 +4201,27 @@
    }
   ]
  },
+ "DELAVEGA": {
+  "name": "Delavega",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "DELICATE LADY": {
   "name": "Delicate Lady",
   "runs": [
@@ -3677,6 +4240,48 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "DELTAKAI": {
+  "name": "Deltakai",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "DENY ENTRY": {
+  "name": "Deny Entry",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.58,
+     "close_ratio": 0.93,
+     "last200_t": 12.9,
+     "last600_t": 38.09,
+     "overall_t": 94.36,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.93
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -3732,6 +4337,27 @@
    }
   ]
  },
+ "DIAMOND MILA": {
+  "name": "Diamond Mila",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.82,
+     "close_ratio": 0.94,
+     "last200_t": 13.22,
+     "last600_t": 38.54,
+     "overall_t": 81.19,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "DIRNASEER": {
   "name": "Dirnaseer",
   "runs": [
@@ -3766,6 +4392,22 @@
  "DISMANTLE": {
   "name": "Dismantle",
   "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
    {
     "date": "2026-07-05",
     "distance": 1100,
@@ -4214,6 +4856,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -4443,6 +5101,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ENCHANTED JENNI": {
+  "name": "Enchanted Jenni",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -4900,6 +5579,27 @@
    }
   ]
  },
+ "FIERCE RUBY": {
+  "name": "Fierce Ruby",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "FINAL COUNTDOWN": {
   "name": "Final Countdown",
   "runs": [
@@ -4959,6 +5659,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "FINANCE SHOGUN": {
+  "name": "Finance Shogun",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.63,
+     "close_ratio": 0.88,
+     "last200_t": 13.52,
+     "last600_t": 39.37,
+     "overall_t": 87.12,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.51
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -5066,6 +5787,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "FLYING BEROUKA": {
+  "name": "Flying Berouka",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.5,
+     "close_ratio": 0.88,
+     "last200_t": 14.42,
+     "last600_t": 41.91,
+     "overall_t": 99.22,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.34
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -5441,6 +6183,48 @@
    }
   ]
  },
+ "FROM YESTERDAY": {
+  "name": "From Yesterday",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.15,
+     "close_ratio": 0.93,
+     "last200_t": 15.03,
+     "last600_t": 41.16,
+     "overall_t": 98.0,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "FYRELINE": {
+  "name": "Fyreline",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.68,
+     "close_ratio": 1.02,
+     "last200_t": 12.78,
+     "last600_t": 37.75,
+     "overall_t": 102.11,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.75
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "GAINSMONT": {
   "name": "Gainsmont",
   "runs": [
@@ -5485,6 +6269,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "GALZAIN": {
+  "name": "Galzain",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.33,
+     "close_ratio": 0.94,
+     "last200_t": 12.9,
+     "last600_t": 38.74,
+     "overall_t": 82.46,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -5735,6 +6540,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.11,
+     "close_ratio": 0.95,
+     "last200_t": 12.46,
+     "last600_t": 37.15,
+     "overall_t": 74.25,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -5822,6 +6643,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "GRACEFUL MIST": {
+  "name": "Graceful Mist",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.35,
+     "close_ratio": 0.93,
+     "last200_t": 13.52,
+     "last600_t": 39.56,
+     "overall_t": 82.83,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.81
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -6073,6 +6915,27 @@
    }
   ]
  },
+ "HAYAI TSURU": {
+  "name": "Hayai Tsuru",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.31,
+     "close_ratio": 0.91,
+     "last200_t": 15.02,
+     "last600_t": 42.0,
+     "overall_t": 98.53,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.68
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "HE XIANGU": {
   "name": "He Xiangu",
   "runs": [
@@ -6136,6 +6999,27 @@
     },
     "steward": null,
     "track": "Sportsbet"
+   }
+  ]
+ },
+ "HELPING HANDS": {
+  "name": "Helping Hands",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.9,
+     "close_ratio": 0.97,
+     "last200_t": 13.59,
+     "last600_t": 39.24,
+     "overall_t": 103.67,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.58
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -6254,6 +7138,27 @@
     },
     "steward": null,
     "track": "Sportsbet"
+   }
+  ]
+ },
+ "HIRARKEE": {
+  "name": "Hirarkee",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.77,
+     "close_ratio": 0.92,
+     "last200_t": 13.06,
+     "last600_t": 39.06,
+     "overall_t": 88.62,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -6469,6 +7374,48 @@
    }
   ]
  },
+ "IAMLEVI": {
+  "name": "Iamlevi",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.74,
+     "close_ratio": 0.9,
+     "last200_t": 13.67,
+     "last600_t": 40.7,
+     "overall_t": 84.52,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.63
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "IBERIAN LYNX": {
+  "name": "Iberian Lynx",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "ICARO": {
   "name": "Icaro",
   "runs": [
@@ -6626,6 +7573,48 @@
    }
   ]
  },
+ "ILLUMINANCE": {
+  "name": "Illuminance",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.63,
+     "close_ratio": 0.95,
+     "last200_t": 12.51,
+     "last600_t": 37.33,
+     "overall_t": 74.21,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 17.9
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "IMFALLINFORYOU": {
+  "name": "I'Mfallinforyou",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.53,
+     "close_ratio": 0.94,
+     "last200_t": 12.58,
+     "last600_t": 37.48,
+     "overall_t": 81.03,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "IMMINANCE": {
   "name": "Imminance",
   "runs": [
@@ -6644,6 +7633,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.86,
+     "close_ratio": 0.91,
+     "last200_t": 12.54,
+     "last600_t": 36.53,
+     "overall_t": 60.61,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.49
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -6761,6 +7766,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.95,
+     "last200_t": 12.16,
+     "last600_t": 36.82,
+     "overall_t": 74.54,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.21
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -7006,7 +8027,7 @@
   ]
  },
  "JENNI MULTABELLA": {
-  "name": "Jenni Multabella (NZ)",
+  "name": "Jenni Multabella",
   "runs": [
    {
     "date": "2026-07-22",
@@ -7027,6 +8048,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -7125,6 +8162,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "JEWEL BAY": {
+  "name": "Jewel Bay",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.49,
+     "close_ratio": 0.89,
+     "last200_t": 13.79,
+     "last600_t": 39.83,
+     "overall_t": 87.76,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -7573,6 +8631,48 @@
    }
   ]
  },
+ "KISS THE KING": {
+  "name": "Kiss The King",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "KIWI JENNI": {
+  "name": "Kiwi Jenni",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 12.86,
+     "last600_t": 37.63,
+     "overall_t": 102.29,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.66
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "KO PHANGAN": {
   "name": "Ko Phangan",
   "runs": [
@@ -7599,6 +8699,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "KOKO": {
+  "name": "Koko",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.38,
+     "close_ratio": 0.95,
+     "last200_t": 12.07,
+     "last600_t": 35.46,
+     "overall_t": 60.11,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -7665,6 +8786,27 @@
    }
   ]
  },
+ "LA VELOCITA": {
+  "name": "La Velocita",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.68,
+     "close_ratio": 0.93,
+     "last200_t": 12.53,
+     "last600_t": 36.45,
+     "overall_t": 61.1,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": 18.9
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "LADY IN RED": {
   "name": "Lady In Red",
   "runs": [
@@ -7706,6 +8848,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "LAKE GILLEAR": {
+  "name": "Lake Gillear",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -8123,6 +9286,27 @@
    }
   ]
  },
+ "LIGHTNING JOEY": {
+  "name": "Lightning Joey",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.68,
+     "close_ratio": 0.89,
+     "last200_t": 14.3,
+     "last600_t": 40.28,
+     "overall_t": 83.33,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "LOGAM": {
   "name": "Logam",
   "runs": [
@@ -8201,6 +9385,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "LOPE DE LARDO": {
+  "name": "Lope De Lardo",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.42,
+     "close_ratio": 0.93,
+     "last200_t": 12.42,
+     "last600_t": 37.41,
+     "overall_t": 75.0,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -8283,6 +9488,22 @@
  "LUMINAZA": {
   "name": "Luminaza",
   "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.81,
+     "close_ratio": 0.88,
+     "last200_t": 13.64,
+     "last600_t": 39.87,
+     "overall_t": 89.04,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
    {
     "date": "2026-07-15",
     "distance": 1600,
@@ -8435,6 +9656,22 @@
   "name": "Magic Field",
   "runs": [
    {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.73,
+     "close_ratio": 0.9,
+     "last200_t": 13.11,
+     "last600_t": 36.95,
+     "overall_t": 60.88,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.35
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
+   {
     "date": "2026-07-14",
     "distance": 1000,
     "race": null,
@@ -8470,6 +9707,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    },
    {
     "date": "2026-07-14",
@@ -8579,6 +9832,27 @@
    }
   ]
  },
+ "MAJESTIC SON": {
+  "name": "Majestic Son",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.97,
+     "last200_t": 11.84,
+     "last600_t": 35.24,
+     "overall_t": 60.19,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": 18.59
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "MAKDANE": {
   "name": "Makdane",
   "runs": [
@@ -8630,6 +9904,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "MANHATTAN THUNDER": {
+  "name": "Manhattan Thunder",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.93,
+     "last200_t": 12.86,
+     "last600_t": 36.48,
+     "overall_t": 60.77,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.07
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -8735,6 +10030,43 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "MARINE GRADE": {
+  "name": "Marine Grade",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.91,
+     "close_ratio": 0.94,
+     "last200_t": 12.6,
+     "last600_t": 37.72,
+     "overall_t": 80.59,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 18.38
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -8756,6 +10088,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "MASTER POLANSKI": {
+  "name": "Master Polanski",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -8829,6 +10182,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "MILBRAE": {
+  "name": "Milbrae",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -8972,6 +10346,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.58,
+     "close_ratio": 0.88,
+     "last200_t": 13.45,
+     "last600_t": 37.77,
+     "overall_t": 61.06,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 20.01
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -9291,6 +10681,27 @@
    }
   ]
  },
+ "MORTAL PEAK": {
+  "name": "Mortal Peak",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.83,
+     "close_ratio": 0.93,
+     "last200_t": 13.53,
+     "last600_t": 39.17,
+     "overall_t": 95.99,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "MOSCOW RED 12YO": {
   "name": "Moscow Red (NZ) 12yo.",
   "runs": [
@@ -9389,6 +10800,22 @@
  "MR TICKLES": {
   "name": "Mr Tickles",
   "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.27,
+     "close_ratio": 0.9,
+     "last200_t": 12.82,
+     "last600_t": 36.75,
+     "overall_t": 60.28,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.38
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
    {
     "date": "2026-07-05",
     "distance": 1000,
@@ -9581,6 +11008,27 @@
    }
   ]
  },
+ "NASRAAWY": {
+  "name": "Nasraawy",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.67,
+     "close_ratio": 0.92,
+     "last200_t": 13.07,
+     "last600_t": 36.97,
+     "overall_t": 60.73,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.1
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "NATIONAL CODE": {
   "name": "National Code",
   "runs": [
@@ -9748,6 +11196,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "NIGHT GUARD": {
+  "name": "Night Guard",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.65,
+     "close_ratio": 0.92,
+     "last200_t": 13.12,
+     "last600_t": 38.21,
+     "overall_t": 81.0,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -10318,6 +11787,27 @@
    }
   ]
  },
+ "OVERFLIRT": {
+  "name": "Overflirt",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "OVERPRICED": {
   "name": "Overpriced",
   "runs": [
@@ -10336,6 +11826,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -10894,6 +12400,43 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.97,
+     "close_ratio": 0.86,
+     "last200_t": 14.78,
+     "last600_t": 41.32,
+     "overall_t": 88.92,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "PRIDE OF MANDY": {
+  "name": "Pride Of Mandy",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.28,
+     "close_ratio": 0.89,
+     "last200_t": 13.3,
+     "last600_t": 39.26,
+     "overall_t": 88.51,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.36
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -11190,6 +12733,27 @@
    }
   ]
  },
+ "PUNIC WAR": {
+  "name": "Punic War",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.06,
+     "close_ratio": 0.92,
+     "last200_t": 12.64,
+     "last600_t": 37.55,
+     "overall_t": 75.12,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "QUEEN AMANJENA": {
   "name": "Queen Amanjena",
   "runs": [
@@ -11320,6 +12884,27 @@
    }
   ]
  },
+ "RAYYAN": {
+  "name": "Rayyan",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.15,
+     "close_ratio": 0.95,
+     "last200_t": 12.93,
+     "last600_t": 38.41,
+     "overall_t": 81.65,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.86
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "RAZANNE": {
   "name": "Razanne",
   "runs": [
@@ -11338,6 +12923,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "REAL ALLIANCE": {
+  "name": "Real Alliance",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.68,
+     "close_ratio": 1.03,
+     "last200_t": 12.79,
+     "last600_t": 37.75,
+     "overall_t": 102.54,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.95
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -11482,6 +13088,27 @@
    }
   ]
  },
+ "REEL DEADLY": {
+  "name": "Reel Deadly",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "REGAL MIGHT": {
   "name": "Regal Might",
   "runs": [
@@ -11500,6 +13127,48 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "REINA DEL RIO": {
+  "name": "Reina Del Rio",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "REINA ISABELLA": {
+  "name": "Reina Isabella",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.18,
+     "close_ratio": 0.9,
+     "last200_t": 13.48,
+     "last600_t": 39.55,
+     "overall_t": 88.01,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 17.92
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -11619,6 +13288,27 @@
    }
   ]
  },
+ "RHODESIAN RED": {
+  "name": "Rhodesian Red",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.3,
+     "close_ratio": 0.86,
+     "last200_t": 15.52,
+     "last600_t": 42.07,
+     "overall_t": 90.68,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.08
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "RIDER JETT STANLEY": {
   "name": "Rider Jett Stanley",
   "runs": [
@@ -11684,9 +13374,67 @@
    }
   ]
  },
+ "ROOM FOR BINGO": {
+  "name": "Room For Bingo",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.67,
+     "close_ratio": 0.88,
+     "last200_t": 13.45,
+     "last600_t": 37.35,
+     "overall_t": 60.65,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.82
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "ROSANGELA": {
+  "name": "Rosangela",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "ROXOLANI": {
   "name": "Roxolani",
   "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
    {
     "date": "2026-07-14",
     "distance": 1500,
@@ -11809,6 +13557,27 @@
    }
   ]
  },
+ "ROYAL STORM": {
+  "name": "Royal Storm",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.71,
+     "close_ratio": 0.93,
+     "last200_t": 13.69,
+     "last600_t": 39.22,
+     "overall_t": 95.76,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "RUAKAKA RAIDER": {
   "name": "Ruakaka Raider (NZ)",
   "runs": [
@@ -11855,6 +13624,27 @@
    }
   ]
  },
+ "RUSSIAN BENEFITS": {
+  "name": "Russian Benefits",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "RUSSIAN DUCHESS": {
   "name": "Russian Duchess",
   "runs": [
@@ -11873,6 +13663,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.08,
+     "close_ratio": 0.88,
+     "last200_t": 13.84,
+     "last600_t": 39.59,
+     "overall_t": 87.66,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.11
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -12279,6 +14085,27 @@
    }
   ]
  },
+ "SCHRODERS MISTAKE": {
+  "name": "Schroder'S Mistake",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.05,
+     "close_ratio": 0.92,
+     "last200_t": 12.89,
+     "last600_t": 37.94,
+     "overall_t": 74.81,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.51
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "SCOOBARTIE": {
   "name": "Scoobartie",
   "runs": [
@@ -12388,8 +14215,29 @@
    }
   ]
  },
+ "SEMELLE ROUGE": {
+  "name": "Semelle Rouge",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.56,
+     "close_ratio": 0.94,
+     "last200_t": 12.52,
+     "last600_t": 37.74,
+     "overall_t": 74.94,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "SETHEUS": {
-  "name": "Setheus (NZ)",
+  "name": "Setheus",
   "runs": [
    {
     "date": "2026-07-30",
@@ -12408,6 +14256,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.57,
+     "close_ratio": 0.94,
+     "last200_t": 12.25,
+     "last600_t": 36.98,
+     "overall_t": 74.32,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -12429,6 +14293,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.93,
+     "last200_t": 12.24,
+     "last600_t": 37.8,
+     "overall_t": 87.01,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.21
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -12525,6 +14405,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "SHINES DISCREETLY": {
+  "name": "Shines Discreetly",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -12918,6 +14819,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SMART MOVES": {
+  "name": "Smart Moves",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.42,
+     "close_ratio": 0.92,
+     "last200_t": 13.59,
+     "last600_t": 39.75,
+     "overall_t": 96.11,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -13368,6 +15290,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -13541,6 +15479,22 @@
   "name": "Stellar Mofeed",
   "runs": [
    {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.9,
+     "close_ratio": 0.93,
+     "last200_t": 12.67,
+     "last600_t": 37.61,
+     "overall_t": 74.39,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.0
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
+   {
     "date": "2026-07-05",
     "distance": 1100,
     "race": 5,
@@ -13557,6 +15511,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "STELLETTA": {
+  "name": "Stelletta",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.65,
+     "close_ratio": 0.92,
+     "last200_t": 13.21,
+     "last600_t": 38.71,
+     "overall_t": 88.34,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.09
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -13626,6 +15601,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "STIRRUP": {
+  "name": "Stirrup",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.98,
+     "close_ratio": 0.89,
+     "last200_t": 13.76,
+     "last600_t": 38.41,
+     "overall_t": 62.34,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -13800,8 +15796,24 @@
   ]
  },
  "STRIKE GOLD": {
-  "name": "Strike Gold (NZ)",
+  "name": "Strike Gold",
   "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.02,
+     "close_ratio": 0.91,
+     "last200_t": 12.9,
+     "last600_t": 37.95,
+     "overall_t": 75.1,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   },
    {
     "date": "2026-07-05",
     "distance": 1300,
@@ -13821,6 +15833,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "STRUGGLE STREET": {
+  "name": "Struggle Street",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.81,
+     "close_ratio": 0.92,
+     "last200_t": 13.05,
+     "last600_t": 36.92,
+     "overall_t": 60.74,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.45
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -14131,6 +16164,27 @@
    }
   ]
  },
+ "TACTFULL": {
+  "name": "Tactfull",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.5,
+     "close_ratio": 0.89,
+     "last200_t": 14.16,
+     "last600_t": 40.24,
+     "overall_t": 88.71,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.32
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "TAG THE BRIDE": {
   "name": "Tag The Bride",
   "runs": [
@@ -14149,6 +16203,27 @@
     },
     "steward": null,
     "track": "Sportsbet"
+   }
+  ]
+ },
+ "TAGAMATE": {
+  "name": "Tagamate",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.94,
+     "close_ratio": 0.91,
+     "last200_t": 13.44,
+     "last600_t": 39.4,
+     "overall_t": 88.61,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.09
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -14322,6 +16397,27 @@
    }
   ]
  },
+ "TEMPERED EDGE": {
+  "name": "Tempered Edge",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.96,
+     "last200_t": 12.73,
+     "last600_t": 37.93,
+     "overall_t": 94.8,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 17.65
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "TEMPESTI": {
   "name": "Tempesti",
   "runs": [
@@ -14450,6 +16546,27 @@
     },
     "steward": null,
     "track": "Sportsbet"
+   }
+  ]
+ },
+ "TESORO MIO": {
+  "name": "Tesoro Mio",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.28,
+     "close_ratio": 0.88,
+     "last200_t": 13.19,
+     "last600_t": 37.12,
+     "overall_t": 60.59,
+     "race_name": "Summerset Retirement Village Cranbourne North Handicap",
+     "top_spd": 19.55
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -14641,6 +16758,27 @@
    }
   ]
  },
+ "THE NARRATOR": {
+  "name": "The Narrator",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "THE QUIET IMMORTAL": {
   "name": "The Quiet Immortal",
   "runs": [
@@ -14810,6 +16948,48 @@
    }
   ]
  },
+ "THINKIMACELEBRITY": {
+  "name": "Thinkimacelebrity",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.71,
+     "close_ratio": 0.92,
+     "last200_t": 13.58,
+     "last600_t": 39.41,
+     "overall_t": 82.64,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.99
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "THINKYAHOT": {
+  "name": "Thinkyahot",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.67,
+     "close_ratio": 0.91,
+     "last200_t": 12.71,
+     "last600_t": 38.31,
+     "overall_t": 87.3,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.34
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "THUNDER PARK": {
   "name": "Thunder Park",
   "runs": [
@@ -14852,6 +17032,27 @@
    }
   ]
  },
+ "TIGHT GRIP": {
+  "name": "Tight Grip",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.58,
+     "close_ratio": 0.99,
+     "last200_t": 12.95,
+     "last600_t": 37.79,
+     "overall_t": 101.68,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 17.44
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "TIKIELA": {
   "name": "Tikiela",
   "runs": [
@@ -14872,6 +17073,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "TIPPING RAIN": {
+  "name": "Tipping Rain",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.39,
+     "close_ratio": 0.86,
+     "last200_t": 15.16,
+     "last600_t": 41.58,
+     "overall_t": 89.88,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -14989,6 +17211,27 @@
     },
     "steward": null,
     "track": "Sportsbet"
+   }
+  ]
+ },
+ "TOO TOUGH": {
+  "name": "Too Tough",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.33,
+     "close_ratio": 0.93,
+     "last200_t": 12.71,
+     "last600_t": 37.83,
+     "overall_t": 75.09,
+     "race_name": "Computer Talk - Business I.T Experts Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -15141,6 +17384,22 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.9,
+     "last200_t": 13.14,
+     "last600_t": 38.83,
+     "overall_t": 87.04,
+     "race_name": "Become A Southside Racing Member Handicap",
+     "top_spd": 18.23
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -15271,6 +17530,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "UP AND UNDER": {
+  "name": "Up And Under",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.0,
+     "close_ratio": 1.01,
+     "last200_t": 13.16,
+     "last600_t": 38.01,
+     "overall_t": 102.07,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": 16.87
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -15520,6 +17800,69 @@
    }
   ]
  },
+ "VICTORY TUNE": {
+  "name": "Victory Tune",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Core Protective Group Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "VINOS BELLE": {
+  "name": "Vino'S Belle",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 84.97,
+     "close_ratio": 0.83,
+     "last200_t": 16.61,
+     "last600_t": 44.64,
+     "overall_t": 101.32,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 18.04
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
+ "VINTELL": {
+  "name": "Vintell",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Summerset Retirement Village Cranbourne North Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "VIRTUOUS CIRCLE": {
   "name": "Virtuous Circle",
   "runs": [
@@ -15662,6 +18005,27 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "WHATITTAKES": {
+  "name": "Whatittakes",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.18,
+     "close_ratio": 0.95,
+     "last200_t": 13.02,
+     "last600_t": 38.0,
+     "overall_t": 81.09,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -15856,6 +18220,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "WOLVES DEN": {
+  "name": "Wolves' Den",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.27,
+     "close_ratio": 0.91,
+     "last200_t": 13.33,
+     "last600_t": 39.4,
+     "overall_t": 95.65,
+     "race_name": "Frankston Sand Soil & Mini Mix Maiden Plate",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  },
@@ -16122,6 +18507,27 @@
    }
   ]
  },
+ "ZOUDEADLY": {
+  "name": "Zoudeadly",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.4,
+     "close_ratio": 0.94,
+     "last200_t": 12.56,
+     "last600_t": 38.03,
+     "overall_t": 87.54,
+     "race_name": "Ladbrokes Popular SRM 3YO Maiden Plate",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "ZOULETTE": {
   "name": "Zoulette",
   "runs": [
@@ -16159,6 +18565,27 @@
    }
   ]
  },
+ "ZOUZENNA": {
+  "name": "Zouzenna",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.15,
+     "close_ratio": 0.94,
+     "last200_t": 12.95,
+     "last600_t": 38.41,
+     "overall_t": 81.87,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 17.67
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
+   }
+  ]
+ },
  "ZUPPA INGLESE": {
   "name": "Zuppa Inglese",
   "runs": [
@@ -16177,6 +18604,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ZWASP": {
+  "name": "Zwasp",
+  "runs": [
+   {
+    "date": "2026-07-16",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.62,
+     "close_ratio": 0.95,
+     "last200_t": 12.7,
+     "last600_t": 37.83,
+     "overall_t": 81.68,
+     "race_name": "Settlers Run Maiden Plate",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Southside Cranbourne"
    }
   ]
  }
