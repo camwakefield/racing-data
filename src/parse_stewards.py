@@ -58,8 +58,9 @@ RULES = {
                    "did not appreciate", "may appreciate racing", "wet track",
                    "heavy track", "suited on firmer", "soft 6 track conditions",
                    "did not travel comfortably on the soft"],
-    "vet_health": ["bled", "blood in", "throat condition", "endoscopy",
-                   "veterinary clearance is required", "lame", "cardiac",
+    "vet_health": ["bled", "blood in", "blood at", "nostril", "haemorrhage",
+                   "hemorrhage", "eiph", "pulmonary", "throat", "endoscopy",
+                   "veterinary clearance", "lame", "cardiac", "jump-out",
                    "abnormality was detected", "returning from", "tendon",
                    "surgery", "suspended"],
     "underperf":  ["below market expectations", "performed below market",
@@ -119,6 +120,10 @@ def _extract_name(line):
         if core[:1].isupper() or core[:1].isdigit():
             name.append(core); idx = i + 1; continue
         break                                 # lowercase, non-connector -> comment
+    # A name never ends in a connector — if we swept one up because the comment
+    # began "A post-race…" / "The mare…", drop it (fixes "Divine Thoughts A").
+    while len(name) > 1 and name[-1].lower().strip("()'’.") in CONNECTORS:
+        name.pop()
     name_str = " ".join(name).strip(" -—–")
     comment = " ".join(toks[idx:]).strip(" -—–\t")
     return name_str, comment
