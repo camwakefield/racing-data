@@ -182,6 +182,14 @@
   "count": 14
  },
  {
+  "date": "2026-07-18",
+  "track": "Flemington: Victoria Racing Club",
+  "type": "stewards",
+  "source_file": "flemington_20260718.txt",
+  "count": 74,
+  "condition": "Soft 6"
+ },
+ {
   "date": "2026-07-25",
   "track": "Caulfield",
   "type": "sectional",
