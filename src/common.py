@@ -66,3 +66,19 @@ def norm_date(s):
     if m:
         return "%s-%02d-%02d" % (m.group(1), int(m.group(2)), int(m.group(3)))
     return s
+
+# Sponsor prefixes racing.com bolts onto venue names ("Sportsbet Sandown
+# Hillside", "Southside Cranbourne", "Sportsbet-Ballarat Synthetic"). Strip them
+# so a sectionals track name matches the same venue in a stewards report.
+_SPONSOR = re.compile(
+    r"^(?:Sportsbet|Southside|Ladbrokes|Neds|TAB|BetEasy|Racing\.com)[\s-]+", re.I)
+
+
+def clean_track(track):
+    """'Sportsbet-Ballarat Synthetic' -> 'Ballarat Synthetic'."""
+    t = (track or "").strip()
+    prev = None
+    while t != prev:
+        prev = t
+        t = _SPONSOR.sub("", t).strip()
+    return t
