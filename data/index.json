@@ -1,29 +1,10 @@
 {
- "generated_utc": "2026-07-31T20:50:04Z",
- "n_horses": 1831,
- "n_runs": 2643,
+ "generated_utc": "2026-07-31T21:33:15Z",
+ "n_horses": 1725,
+ "n_runs": 2511,
  "n_sectional_files": 196,
- "n_stewards_files": 17,
- "n_stewards_found": 19,
- "n_stewards_failed": 2,
- "stewards_problems": [
-  {
-   "file": "Form _ Stewards' Report _ Flemington _ Race 9 _ Saturday _ 4 July 2026 _ VIC _ Racing.com.html",
-   "status": "empty",
-   "races": 0,
-   "horses": 0,
-   "date": "",
-   "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc).",
-   "reason": "no horse comments extracted \u2014 check the report layout, or that the PDF has a text layer (a scanned image will produce nothing)"
-  },
-  {
-   "file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Race 8 _ Wednesday _ 29 July 2026 _ VIC _ Racing.com.html",
-   "status": "empty",
-   "races": 0,
-   "horses": 0,
-   "date": "",
-   "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc).",
-   "reason": "no horse comments extracted \u2014 check the report layout, or that the PDF has a text layer (a scanned image will produce nothing)"
-  }
- ]
+ "n_stewards_files": 20,
+ "n_stewards_found": 20,
+ "n_stewards_failed": 0,
+ "stewards_problems": []
 }
