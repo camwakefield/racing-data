@@ -656,6 +656,27 @@
    }
   ]
  },
+ "ACT NATURAL": {
+  "name": "Act Natural",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.39,
+     "close_ratio": 1.0,
+     "last200_t": 12.76,
+     "last600_t": 36.43,
+     "overall_t": 77.76,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.52
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "ACTUALITY": {
   "name": "Actuality",
   "runs": [
@@ -674,6 +695,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "ADAKITE": {
+  "name": "Adakite",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.2,
+     "close_ratio": 0.95,
+     "last200_t": 12.82,
+     "last600_t": 37.32,
+     "overall_t": 87.42,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -795,6 +837,27 @@
      "underperf": false
     },
     "track": "Melbourne"
+   }
+  ]
+ },
+ "AFFAIRE VUE": {
+  "name": "Affaire Vue",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.98,
+     "last200_t": 12.89,
+     "last600_t": 37.17,
+     "overall_t": 98.5,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.45
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -1392,6 +1455,27 @@
    }
   ]
  },
+ "ALPHA STREET": {
+  "name": "Alpha Street",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.83,
+     "close_ratio": 0.89,
+     "last200_t": 13.32,
+     "last600_t": 37.13,
+     "overall_t": 61.66,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "ALPINE FOX": {
   "name": "Alpine Fox",
   "runs": [
@@ -1620,6 +1704,27 @@
    }
   ]
  },
+ "AND THERE YOU GO": {
+  "name": "And There You Go",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.96,
+     "close_ratio": 0.92,
+     "last200_t": 13.14,
+     "last600_t": 37.8,
+     "overall_t": 87.65,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "ANDRES GIRL": {
   "name": "Andres Girl",
   "runs": [
@@ -1832,6 +1937,27 @@
    }
   ]
  },
+ "ANNIHILATE": {
+  "name": "Annihilate",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.43,
+     "close_ratio": 0.95,
+     "last200_t": 13.03,
+     "last600_t": 37.59,
+     "overall_t": 88.04,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.39
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "ANNOTATE": {
   "name": "Annotate",
   "runs": [
@@ -1861,6 +1987,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "ANOTHERHOUSE": {
+  "name": "Anotherhouse",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.69,
+     "close_ratio": 1.0,
+     "last200_t": 12.44,
+     "last600_t": 35.95,
+     "overall_t": 77.48,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.48
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -2156,6 +2303,27 @@
    }
   ]
  },
+ "AQUAHOLIC": {
+  "name": "Aquaholic",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "AR131 A": {
   "name": "AR131(a)",
   "runs": [
@@ -2258,6 +2426,48 @@
    }
   ]
  },
+ "ARAMOSO": {
+  "name": "Aramoso",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "ARCTURUS STAR": {
+  "name": "Arcturus Star",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.31,
+     "close_ratio": 1.0,
+     "last200_t": 12.47,
+     "last600_t": 36.28,
+     "overall_t": 81.05,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.69
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "ARDESHA": {
   "name": "Ardesha",
   "runs": [
@@ -2303,6 +2513,22 @@
  "ARISTONOUS": {
   "name": "Aristonous",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.89,
+     "close_ratio": 1.0,
+     "last200_t": 13.06,
+     "last600_t": 37.47,
+     "overall_t": 126.2,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 17.22
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   },
    {
     "date": "2026-06-06",
     "distance": 1600,
@@ -2664,6 +2890,27 @@
    }
   ]
  },
+ "ATTAIN": {
+  "name": "Attain",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.07,
+     "close_ratio": 0.93,
+     "last200_t": 12.82,
+     "last600_t": 37.73,
+     "overall_t": 88.59,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.83
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "AUDIO POP CAM": {
   "name": "Audio Pop Cam",
   "runs": [
@@ -2826,6 +3073,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "BACK ME UP BENNY": {
+  "name": "Back Me Up Benny",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.66,
+     "close_ratio": 0.96,
+     "last200_t": 13.36,
+     "last600_t": 38.28,
+     "overall_t": 89.13,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.4
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -3127,6 +3395,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "BARDIGRUB": {
+  "name": "Bardigrub",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.49,
+     "close_ratio": 0.92,
+     "last200_t": 12.56,
+     "last600_t": 35.75,
+     "overall_t": 59.85,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.23
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -3871,6 +4160,27 @@
    }
   ]
  },
+ "BELLE FROM HELL": {
+  "name": "Belle From Hell",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.1,
+     "close_ratio": 0.92,
+     "last200_t": 14.67,
+     "last600_t": 40.36,
+     "overall_t": 101.55,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.52
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "BELLE SAVOIR": {
   "name": "Belle Savoir",
   "runs": [
@@ -4561,6 +4871,27 @@
    }
   ]
  },
+ "BLONDIES AWARD": {
+  "name": "Blondie'S Award",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.11,
+     "close_ratio": 0.92,
+     "last200_t": 12.55,
+     "last600_t": 35.89,
+     "overall_t": 60.73,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "BLUE BANDIT": {
   "name": "Blue Bandit",
   "runs": [
@@ -4727,6 +5058,27 @@
    }
   ]
  },
+ "BOHEMIAN ANGEL": {
+  "name": "Bohemian Angel",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "BOHEMIAN STAR": {
   "name": "Bohemian Star",
   "runs": [
@@ -4787,6 +5139,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.25,
+     "close_ratio": 0.94,
+     "last200_t": 12.96,
+     "last600_t": 37.66,
+     "overall_t": 87.51,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -5609,6 +5977,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "BREVITAS": {
+  "name": "Brevitas",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.54,
+     "close_ratio": 0.95,
+     "last200_t": 12.54,
+     "last600_t": 36.82,
+     "overall_t": 87.28,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.43
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "BREWSTER BUCK": {
+  "name": "Brewster Buck",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.7,
+     "close_ratio": 0.93,
+     "last200_t": 13.15,
+     "last600_t": 37.9,
+     "overall_t": 88.03,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -6485,6 +6895,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.79,
+     "close_ratio": 0.97,
+     "last200_t": 12.82,
+     "last600_t": 37.25,
+     "overall_t": 98.32,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -6522,6 +6948,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CANYON WIND": {
+  "name": "Canyon Wind",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -7042,6 +7489,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CELTIC MALEY": {
+  "name": "Celtic Maley",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.12,
+     "close_ratio": 1.0,
+     "last200_t": 12.91,
+     "last600_t": 37.1,
+     "overall_t": 81.99,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.27
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -8223,6 +8691,27 @@
    }
   ]
  },
+ "COLLATED": {
+  "name": "Collated",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "COLLECTIONNEUR": {
   "name": "Collectionneur",
   "runs": [
@@ -8411,6 +8900,27 @@
    }
   ]
  },
+ "CONTRARY": {
+  "name": "Contrary",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.58,
+     "close_ratio": 0.96,
+     "last200_t": 13.09,
+     "last600_t": 37.56,
+     "overall_t": 88.3,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "CONVAAYA": {
   "name": "Convaaya",
   "runs": [
@@ -8523,6 +9033,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "CORK HARBOUR": {
+  "name": "Cork Harbour",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -8914,6 +9445,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.53,
+     "close_ratio": 1.02,
+     "last200_t": 12.68,
+     "last600_t": 36.75,
+     "overall_t": 100.08,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.41
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -9288,6 +9835,27 @@
    }
   ]
  },
+ "DAMIZER": {
+  "name": "Damizer",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.09,
+     "close_ratio": 0.93,
+     "last200_t": 13.33,
+     "last600_t": 38.14,
+     "overall_t": 88.56,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.21
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "DANAUSTAR": {
   "name": "Danaustar",
   "runs": [
@@ -9624,6 +10192,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.82,
+     "close_ratio": 0.97,
+     "last200_t": 12.5,
+     "last600_t": 36.46,
+     "overall_t": 80.21,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1200,
     "race": 2,
@@ -9925,6 +10509,27 @@
    }
   ]
  },
+ "DEEPFLOAT DIVA": {
+  "name": "Deepfloat Diva",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.17,
+     "close_ratio": 0.96,
+     "last200_t": 11.83,
+     "last600_t": 34.44,
+     "overall_t": 59.57,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "DEEPSEEK": {
   "name": "Deepseek",
   "runs": [
@@ -9943,6 +10548,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "DEFICIT": {
+  "name": "Deficit",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -11186,6 +11812,27 @@
    }
   ]
  },
+ "EAGLELOU": {
+  "name": "Eaglelou",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.42,
+     "close_ratio": 1.02,
+     "last200_t": 12.76,
+     "last600_t": 37.27,
+     "overall_t": 126.55,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 16.81
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "EDGES DIAMOND": {
   "name": "Edges Diamond",
   "runs": [
@@ -11278,6 +11925,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "EIGHT ON THE DOT": {
+  "name": "Eight On The Dot",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.42,
+     "close_ratio": 1.01,
+     "last200_t": 13.2,
+     "last600_t": 37.65,
+     "overall_t": 126.37,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 17.03
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -11750,6 +12418,27 @@
    }
   ]
  },
+ "EMBELLISHER": {
+  "name": "Embellisher",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.11,
+     "close_ratio": 1.03,
+     "last200_t": 12.32,
+     "last600_t": 35.8,
+     "overall_t": 77.93,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 18.7
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "EMBODIMENT": {
   "name": "Embodiment",
   "runs": [
@@ -11907,6 +12596,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "EMPIRE GRACE": {
+  "name": "Empire Grace",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.86,
+     "close_ratio": 0.97,
+     "last200_t": 12.98,
+     "last600_t": 37.6,
+     "overall_t": 99.13,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.45
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -12366,6 +13076,27 @@
    }
   ]
  },
+ "EXALTED FIRE": {
+  "name": "Exalted Fire",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.05,
+     "close_ratio": 0.97,
+     "last200_t": 13.37,
+     "last600_t": 38.59,
+     "overall_t": 127.33,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 17.27
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "EXPLOIT": {
   "name": "Exploit",
   "runs": [
@@ -12405,6 +13136,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "EXTRA HOT": {
+  "name": "Extra Hot",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.3,
+     "close_ratio": 1.0,
+     "last200_t": 12.26,
+     "last600_t": 35.73,
+     "overall_t": 77.77,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.66
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -12451,6 +13203,48 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "FALAISE": {
+  "name": "Falaise",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.67,
+     "close_ratio": 1.05,
+     "last200_t": 12.65,
+     "last600_t": 36.33,
+     "overall_t": 99.89,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.54
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "FALANGHINA": {
+  "name": "Falanghina",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.98,
+     "last200_t": 12.83,
+     "last600_t": 37.0,
+     "overall_t": 87.31,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -12615,6 +13409,22 @@
  "FARHH FLUNG": {
   "name": "Farhh Flung",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 12.33,
+     "last600_t": 36.21,
+     "overall_t": 99.59,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.25
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   },
    {
     "date": "2026-06-20",
     "distance": 1620,
@@ -14493,6 +15303,27 @@
    }
   ]
  },
+ "GEETEE FORTY": {
+  "name": "Geetee Forty",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.84,
+     "close_ratio": 1.03,
+     "last200_t": 12.51,
+     "last600_t": 36.74,
+     "overall_t": 126.35,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 16.84
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "GEFFINA": {
   "name": "Geffina",
   "runs": [
@@ -14645,7 +15476,7 @@
   "runs": [
    {
     "date": "2026-06-27",
-    "distance": 1100,
+    "distance": 1000,
     "race": null,
     "sectional": {
      "close_rating": null,
@@ -14657,7 +15488,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Caulfield"
+    "track": "Morphettville Parks"
    },
    {
     "date": "2026-06-20",
@@ -14952,6 +15783,27 @@
    }
   ]
  },
+ "GLITZY GOLDEN GIRL": {
+  "name": "Glitzy Golden Girl",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.98,
+     "close_ratio": 0.96,
+     "last200_t": 13.18,
+     "last600_t": 37.79,
+     "overall_t": 88.76,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 17.86
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "GLORY DAZE": {
   "name": "Glory Daze",
   "runs": [
@@ -15192,6 +16044,22 @@
  "GOLDEN HORIZON": {
   "name": "Golden Horizon",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.01,
+     "close_ratio": 0.99,
+     "last200_t": 13.08,
+     "last600_t": 36.76,
+     "overall_t": 81.08,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.29
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   },
    {
     "date": "2026-06-20",
     "distance": 1620,
@@ -15639,6 +16507,27 @@
    }
   ]
  },
+ "GUSTY WAY": {
+  "name": "Gusty Way",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.02,
+     "close_ratio": 0.93,
+     "last200_t": 12.71,
+     "last600_t": 36.29,
+     "overall_t": 61.05,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "HAALAND": {
   "name": "Haaland",
   "runs": [
@@ -15673,6 +16562,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "HALLIWELL": {
+  "name": "Halliwell",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -16132,6 +17042,27 @@
    }
   ]
  },
+ "HELLO WORLD": {
+  "name": "Hello World",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.96,
+     "close_ratio": 0.96,
+     "last200_t": 12.31,
+     "last600_t": 34.87,
+     "overall_t": 60.31,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.57
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "HELLS SPIRIT": {
   "name": "Hells Spirit",
   "runs": [
@@ -16346,6 +17277,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "HIDDEN BOUNTY": {
+  "name": "Hidden Bounty",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.05,
+     "close_ratio": 0.94,
+     "last200_t": 13.76,
+     "last600_t": 39.52,
+     "overall_t": 100.64,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -16820,6 +17772,22 @@
   "name": "Hot Too Go",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.19,
+     "close_ratio": 1.02,
+     "last200_t": 12.78,
+     "last600_t": 36.98,
+     "overall_t": 125.95,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 17.13
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -17155,6 +18123,48 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "I CATCHEM FOX": {
+  "name": "I Catchem Fox",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.42,
+     "close_ratio": 1.01,
+     "last200_t": 12.98,
+     "last600_t": 37.65,
+     "overall_t": 126.65,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 16.73
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "I WILL SHINE": {
+  "name": "I Will Shine",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.58,
+     "close_ratio": 0.91,
+     "last200_t": 13.32,
+     "last600_t": 38.31,
+     "overall_t": 87.58,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 18.26
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -19132,6 +20142,27 @@
    }
   ]
  },
+ "JUSTICAS BONUS": {
+  "name": "Justica'S Bonus",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "KA YING CHEER": {
   "name": "Ka Ying Cheer",
   "runs": [
@@ -19501,6 +20532,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "KIKORANGI": {
+  "name": "Kikorangi",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.36,
+     "close_ratio": 0.91,
+     "last200_t": 13.65,
+     "last600_t": 38.8,
+     "overall_t": 88.39,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -20367,6 +21419,27 @@
    }
   ]
  },
+ "LALOR": {
+  "name": "Lalor",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.24,
+     "close_ratio": 0.92,
+     "last200_t": 13.76,
+     "last600_t": 38.89,
+     "overall_t": 88.98,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "LANDMARK": {
   "name": "Landmark",
   "runs": [
@@ -21165,6 +22238,27 @@
    }
   ]
  },
+ "LIVE FOREVER": {
+  "name": "Live Forever",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.88,
+     "close_ratio": 0.99,
+     "last200_t": 12.94,
+     "last600_t": 36.81,
+     "overall_t": 81.36,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.18
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "LOGAM": {
   "name": "Logam",
   "runs": [
@@ -21317,6 +22411,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "LOST HIS BEANS": {
+  "name": "Lost His Beans",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.72,
+     "close_ratio": 0.96,
+     "last200_t": 12.49,
+     "last600_t": 35.32,
+     "overall_t": 61.15,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.62
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -21825,6 +22940,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "MADAM JEANETTE": {
+  "name": "Madam Jeanette",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.73,
+     "close_ratio": 0.9,
+     "last200_t": 13.48,
+     "last600_t": 37.17,
+     "overall_t": 61.62,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.15
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -22572,6 +23708,27 @@
    }
   ]
  },
+ "MARACOURT": {
+  "name": "Maracourt",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "MARBLE NINE": {
   "name": "Marble Nine",
   "runs": [
@@ -23222,6 +24379,27 @@
    }
   ]
  },
+ "MINE ALL MINE": {
+  "name": "Mine All Mine",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.13,
+     "close_ratio": 0.93,
+     "last200_t": 12.62,
+     "last600_t": 35.88,
+     "overall_t": 60.94,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.99
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "MIRACLE SPIN": {
   "name": "Miracle Spin",
   "runs": [
@@ -23680,6 +24858,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "MISS SGHIRRIPA": {
+  "name": "Miss Sghirripa",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.91,
+     "close_ratio": 0.97,
+     "last200_t": 12.77,
+     "last600_t": 36.8,
+     "overall_t": 80.77,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.92
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -24237,6 +25436,27 @@
    }
   ]
  },
+ "MOUNTJOY": {
+  "name": "Mountjoy",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.14,
+     "close_ratio": 0.96,
+     "last200_t": 13.09,
+     "last600_t": 37.73,
+     "overall_t": 88.02,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "MR AVERY": {
   "name": "Mr Avery",
   "runs": [
@@ -24515,6 +25735,27 @@
    }
   ]
  },
+ "MURPH": {
+  "name": "Murph",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.44,
+     "close_ratio": 1.01,
+     "last200_t": 12.24,
+     "last600_t": 35.68,
+     "overall_t": 77.54,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.69
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "MUTHABARA": {
   "name": "Muthabara",
   "runs": [
@@ -24679,6 +25920,22 @@
   "name": "Mystic Wonder",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.31,
+     "close_ratio": 1.02,
+     "last200_t": 12.47,
+     "last600_t": 36.46,
+     "overall_t": 99.27,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.19
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   },
+   {
     "date": "2026-06-20",
     "distance": 1420,
     "race": null,
@@ -24735,6 +25992,27 @@
    }
   ]
  },
+ "NARALINGA": {
+  "name": "Naralinga",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.58,
+     "close_ratio": 0.92,
+     "last200_t": 13.58,
+     "last600_t": 38.71,
+     "overall_t": 88.8,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 18.35
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "NARBOLD": {
   "name": "Narbold",
   "runs": [
@@ -24753,6 +26031,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "NASHO": {
+  "name": "Nasho",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -25315,6 +26614,27 @@
    }
   ]
  },
+ "NICISH": {
+  "name": "Nicish",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.55,
+     "close_ratio": 1.01,
+     "last200_t": 12.27,
+     "last600_t": 35.64,
+     "overall_t": 77.28,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 18.37
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "NIGHT GUARD": {
   "name": "Night Guard",
   "runs": [
@@ -25762,6 +27082,27 @@
    }
   ]
  },
+ "NOSTRYIA": {
+  "name": "Nostryia",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.86,
+     "close_ratio": 0.92,
+     "last200_t": 12.72,
+     "last600_t": 35.98,
+     "overall_t": 60.9,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.9
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "NOTHINGELSEMATTERS": {
   "name": "Nothingelsematters",
   "runs": [
@@ -25809,6 +27150,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "OAK PARK MADDISON": {
+  "name": "Oak Park Maddison",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.48,
+     "close_ratio": 1.0,
+     "last200_t": 12.52,
+     "last600_t": 36.22,
+     "overall_t": 80.77,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.62
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -26088,6 +27450,27 @@
    }
   ]
  },
+ "OIE DE TOULOUSE": {
+  "name": "Oie De Toulouse",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.54,
+     "close_ratio": 0.91,
+     "last200_t": 12.51,
+     "last600_t": 35.73,
+     "overall_t": 60.64,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "OLATUNDE": {
   "name": "Olatunde",
   "runs": [
@@ -26222,6 +27605,27 @@
    }
   ]
  },
+ "OMAHA DAWN": {
+  "name": "Omaha Dawn",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.56,
+     "close_ratio": 0.98,
+     "last200_t": 11.8,
+     "last600_t": 33.96,
+     "overall_t": 59.18,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.51
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "OMAMORI": {
   "name": "Omamori",
   "runs": [
@@ -26340,6 +27744,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "OOPS I PELTZED": {
+  "name": "Oops I Peltzed",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.5,
+     "close_ratio": 0.96,
+     "last200_t": 13.07,
+     "last600_t": 37.59,
+     "overall_t": 88.64,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -27578,6 +29003,27 @@
    }
   ]
  },
+ "PETIT EAGLE": {
+  "name": "Petit Eagle",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.97,
+     "last200_t": 12.63,
+     "last600_t": 37.17,
+     "overall_t": 98.74,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.42
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "PHILOSOPHER": {
   "name": "Philosopher",
   "runs": [
@@ -27596,6 +29042,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PHINEAS": {
+  "name": "Phineas",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.61,
+     "close_ratio": 1.03,
+     "last200_t": 12.4,
+     "last600_t": 36.35,
+     "overall_t": 99.38,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.2
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -27665,6 +29132,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PIERROPLANE": {
+  "name": "Pierroplane",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.91,
+     "close_ratio": 0.96,
+     "last200_t": 13.11,
+     "last600_t": 37.58,
+     "overall_t": 98.42,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -27793,6 +29281,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "PLACO": {
+  "name": "Placo",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.61,
+     "close_ratio": 1.02,
+     "last200_t": 12.58,
+     "last600_t": 36.72,
+     "overall_t": 99.38,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 16.92
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -28172,6 +29681,27 @@
    }
   ]
  },
+ "POWER PLAN": {
+  "name": "Power Plan",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.89,
+     "close_ratio": 0.99,
+     "last200_t": 12.69,
+     "last600_t": 36.69,
+     "overall_t": 87.74,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 17.54
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "POWERBOUND": {
   "name": "Powerbound",
   "runs": [
@@ -28529,6 +30059,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PRETTY BABY": {
+  "name": "Pretty Baby",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.97,
+     "last200_t": 12.57,
+     "last600_t": 36.65,
+     "overall_t": 87.18,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.17
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -28929,6 +30480,27 @@
    }
   ]
  },
+ "PRODIGAL LAD": {
+  "name": "Prodigal Lad",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.6,
+     "close_ratio": 0.95,
+     "last200_t": 14.98,
+     "last600_t": 39.16,
+     "overall_t": 80.71,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.74
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "PROFUMO": {
   "name": "Profumo",
   "runs": [
@@ -29181,6 +30753,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "PURE BLISS": {
+  "name": "Pure Bliss",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.82,
+     "close_ratio": 0.99,
+     "last200_t": 12.44,
+     "last600_t": 34.92,
+     "overall_t": 60.34,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -30005,6 +31598,27 @@
    }
   ]
  },
+ "REDWINELOVER": {
+  "name": "Redwinelover",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.86,
+     "close_ratio": 0.9,
+     "last200_t": 12.87,
+     "last600_t": 36.35,
+     "overall_t": 60.77,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.2
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "REEL DEADLY": {
   "name": "Reel Deadly",
   "runs": [
@@ -30060,6 +31674,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "REGAL RIPPER": {
+  "name": "Regal Ripper",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 12.37,
+     "last600_t": 36.03,
+     "overall_t": 80.95,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.53
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -30123,6 +31758,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "REINE OF NINE": {
+  "name": "Reine Of Nine",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.38,
+     "close_ratio": 0.94,
+     "last200_t": 12.66,
+     "last600_t": 35.79,
+     "overall_t": 60.97,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.91
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -30346,6 +32002,48 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "RICHE DAMOUR": {
+  "name": "Riche D'Amour",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.0,
+     "last600_t": 35.48,
+     "overall_t": 77.5,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "RIDEAU": {
+  "name": "Rideau",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.15,
+     "close_ratio": 0.91,
+     "last200_t": 13.85,
+     "last600_t": 39.3,
+     "overall_t": 89.57,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -31065,6 +32763,27 @@
    }
   ]
  },
+ "ROYAL SCRIPTURE": {
+  "name": "Royal Scripture",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.09,
+     "close_ratio": 0.99,
+     "last200_t": 12.4,
+     "last600_t": 36.17,
+     "overall_t": 77.82,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.32
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "ROYAL STORM": {
   "name": "Royal Storm",
   "runs": [
@@ -31083,6 +32802,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "ROYAL SWAY": {
+  "name": "Royal Sway",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.17,
+     "close_ratio": 1.0,
+     "last200_t": 12.52,
+     "last600_t": 36.33,
+     "overall_t": 80.94,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -31531,6 +33271,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SAINT BOOM": {
+  "name": "Saint Boom",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.77,
+     "close_ratio": 0.94,
+     "last200_t": 13.58,
+     "last600_t": 38.81,
+     "overall_t": 100.21,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.54
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -32175,7 +33936,7 @@
    },
    {
     "date": "2026-06-27",
-    "distance": 2000,
+    "distance": 1973,
     "race": null,
     "sectional": {
      "close_rating": 96.57,
@@ -32187,7 +33948,7 @@
      "top_spd": 17.52
     },
     "steward": null,
-    "track": "Caulfield"
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -32466,6 +34227,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SEE YA LATER BABY": {
+  "name": "See Ya Later Baby",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.97,
+     "close_ratio": 0.98,
+     "last200_t": 12.87,
+     "last600_t": 36.59,
+     "overall_t": 77.67,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.48
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -32802,6 +34584,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "SHARENDIPITY": {
+  "name": "Sharendipity",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.2,
+     "close_ratio": 0.93,
+     "last200_t": 14.19,
+     "last600_t": 37.78,
+     "overall_t": 62.91,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.59
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -33714,6 +35517,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.72,
+     "close_ratio": 0.95,
+     "last200_t": 12.0,
+     "last600_t": 34.6,
+     "overall_t": 59.21,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.87
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -33824,6 +35643,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SKADOOSH": {
+  "name": "Skadoosh",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.53,
+     "close_ratio": 1.02,
+     "last200_t": 12.85,
+     "last600_t": 36.2,
+     "overall_t": 81.07,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.86
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -34254,6 +36094,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.45,
+     "close_ratio": 1.04,
+     "last200_t": 12.6,
+     "last600_t": 36.41,
+     "overall_t": 99.13,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.45
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -34285,6 +36141,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SO POLITE": {
+  "name": "So Polite",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.68,
+     "close_ratio": 0.89,
+     "last200_t": 13.34,
+     "last600_t": 36.8,
+     "overall_t": 60.95,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.53
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -34681,6 +36558,27 @@
    }
   ]
  },
+ "SPEEDTAIL": {
+  "name": "Speedtail",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.58,
+     "close_ratio": 0.99,
+     "last200_t": 12.74,
+     "last600_t": 36.36,
+     "overall_t": 77.53,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "SPIDERMAN": {
   "name": "Spiderman",
   "runs": [
@@ -34749,6 +36647,27 @@
      "underperf": false
     },
     "track": "Melbourne"
+   }
+  ]
+ },
+ "SQUAD": {
+  "name": "Squad",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -35169,6 +37088,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "STARLITE VALLEY": {
+  "name": "Starlite Valley",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.99,
+     "close_ratio": 1.03,
+     "last200_t": 12.57,
+     "last600_t": 36.58,
+     "overall_t": 99.85,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.11
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -35732,6 +37672,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1973,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 12.38,
+     "last600_t": 36.68,
+     "overall_t": 125.92,
+     "race_name": "PFD Food Services Handicap",
+     "top_spd": 16.96
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -35941,6 +37897,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "STRATUM PRIDE": {
+  "name": "Stratum Pride",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -36505,6 +38482,27 @@
    }
   ]
  },
+ "SUPER ALANA": {
+  "name": "Super Alana",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.74,
+     "close_ratio": 0.97,
+     "last200_t": 12.13,
+     "last600_t": 34.95,
+     "overall_t": 59.91,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.45
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "SUPER NORWEST": {
   "name": "Super Norwest",
   "runs": [
@@ -36659,6 +38657,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SURPRISE COMING": {
+  "name": "Surprise Coming",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.87,
+     "close_ratio": 1.0,
+     "last200_t": 12.75,
+     "last600_t": 37.38,
+     "overall_t": 100.24,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 16.96
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -36876,6 +38895,22 @@
      "underperf": false
     },
     "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.07,
+     "close_ratio": 0.9,
+     "last200_t": 13.76,
+     "last600_t": 38.92,
+     "overall_t": 88.86,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -37140,6 +39175,27 @@
    }
   ]
  },
+ "TAKE A PICK": {
+  "name": "Take A Pick",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.72,
+     "close_ratio": 0.95,
+     "last200_t": 12.86,
+     "last600_t": 37.48,
+     "overall_t": 88.41,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "TAKEKO": {
   "name": "Takeko",
   "runs": [
@@ -37323,6 +39379,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "TAPINFORPAR": {
+  "name": "Tapinforpar",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -37891,7 +39968,7 @@
    },
    {
     "date": "2026-06-27",
-    "distance": 2000,
+    "distance": 1973,
     "race": null,
     "sectional": {
      "close_rating": null,
@@ -37903,7 +39980,7 @@
      "top_spd": null
     },
     "steward": null,
-    "track": "Caulfield"
+    "track": "Morphettville Parks"
    },
    {
     "date": "2026-06-06",
@@ -38169,6 +40246,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "THE MAGISTRATE": {
+  "name": "The Magistrate",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -38790,6 +40888,27 @@
    }
   ]
  },
+ "THORIN": {
+  "name": "Thorin",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 86.29,
+     "close_ratio": 0.84,
+     "last200_t": 16.07,
+     "last600_t": 42.88,
+     "overall_t": 92.05,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 18.48
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "THUNDER PARK": {
   "name": "Thunder Park",
   "runs": [
@@ -39198,6 +41317,27 @@
    }
   ]
  },
+ "TOBIKKO": {
+  "name": "Tobikko",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.93,
+     "last200_t": 12.14,
+     "last600_t": 35.21,
+     "overall_t": 59.89,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.08
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "TOLPUDDLE": {
   "name": "Tolpuddle",
   "runs": [
@@ -39382,6 +41522,27 @@
    }
   ]
  },
+ "TORRITA": {
+  "name": "Torrita",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.83,
+     "close_ratio": 0.94,
+     "last200_t": 13.3,
+     "last600_t": 38.21,
+     "overall_t": 88.9,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.51
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "TORTURE": {
   "name": "Torture",
   "runs": [
@@ -39423,6 +41584,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "TOTTORI": {
+  "name": "Tottori",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.2,
+     "close_ratio": 0.94,
+     "last200_t": 12.68,
+     "last600_t": 37.3,
+     "overall_t": 87.58,
+     "race_name": "Festival Hire Handicap",
+     "top_spd": 17.64
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -39610,6 +41792,27 @@
    }
   ]
  },
+ "TRIOMPHE": {
+  "name": "Triomphe",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1250,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.01,
+     "close_ratio": 1.01,
+     "last200_t": 12.5,
+     "last600_t": 36.2,
+     "overall_t": 78.06,
+     "race_name": "Sportsbet Green Tick Handicap",
+     "top_spd": 17.46
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "TRIPLE SALUTE": {
   "name": "Triple Salute",
   "runs": [
@@ -39694,6 +41897,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "TRUE ATOMIC": {
+  "name": "True Atomic",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.82,
+     "close_ratio": 0.94,
+     "last200_t": 13.33,
+     "last600_t": 38.25,
+     "overall_t": 89.06,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -39838,6 +42062,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "TWEETER": {
+  "name": "Tweeter",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.09,
+     "close_ratio": 0.92,
+     "last200_t": 13.08,
+     "last600_t": 37.75,
+     "overall_t": 87.57,
+     "race_name": "Sportsbet David Peacock Oaklands Plate",
+     "top_spd": 18.42
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -39994,6 +42239,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1300,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.23,
+     "close_ratio": 1.0,
+     "last200_t": 12.46,
+     "last600_t": 36.31,
+     "overall_t": 80.59,
+     "race_name": "SAJC Membership Now Open Handicap",
+     "top_spd": 17.52
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    },
    {
     "date": "2026-06-13",
@@ -40285,6 +42546,27 @@
    }
   ]
  },
+ "VALABING": {
+  "name": "Valabing",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "VALDA WARRIOR": {
   "name": "Valda Warrior",
   "runs": [
@@ -40326,6 +42608,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "VANINETTI": {
+  "name": "Vaninetti",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.58,
+     "close_ratio": 0.94,
+     "last200_t": 13.53,
+     "last600_t": 38.89,
+     "overall_t": 100.35,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -40944,6 +43247,27 @@
    }
   ]
  },
+ "VOLCANIC EXPRESS": {
+  "name": "Volcanic Express",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 11.82,
+     "last600_t": 33.81,
+     "overall_t": 59.76,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "VOSSTANIYA": {
   "name": "Vosstaniya",
   "runs": [
@@ -41420,6 +43744,48 @@
    }
   ]
  },
+ "WILLYBEAFACTOR": {
+  "name": "Willybeafactor",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.81,
+     "close_ratio": 1.03,
+     "last200_t": 12.33,
+     "last600_t": 36.28,
+     "overall_t": 99.27,
+     "race_name": "Sportsbet Blackbook Handicap",
+     "top_spd": 17.01
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "WIND RUSH": {
+  "name": "Wind Rush",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1568,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.39,
+     "close_ratio": 0.97,
+     "last200_t": 13.32,
+     "last600_t": 37.78,
+     "overall_t": 98.73,
+     "race_name": "Dominant Clean Sweep Handicap",
+     "top_spd": 17.74
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
+   }
+  ]
+ },
  "WINDSTORM": {
   "name": "Windstorm",
   "runs": [
@@ -41544,6 +43910,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "WINNING REVOLUTION": {
+  "name": "Winning Revolution",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.92,
+     "close_ratio": 1.0,
+     "last200_t": 12.0,
+     "last600_t": 34.18,
+     "overall_t": 60.02,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
@@ -42218,6 +44605,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "ZATANNA": {
+  "name": "Zatanna",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.27,
+     "close_ratio": 0.91,
+     "last200_t": 13.62,
+     "last600_t": 37.35,
+     "overall_t": 61.84,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.86
+    },
+    "steward": null,
+    "track": "Morphettville Parks"
    }
   ]
  },
