@@ -573,6 +573,70 @@
   "condition": ""
  },
  {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_01.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_02.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_03.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_04.csv",
+  "count": 6
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_05.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_06.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_07.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_08.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Synthetic",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Sportsbet-Ballarat Synthetic _ Wednesday _ 24 June 2026 _ VIC _ Racing.com.html",
+  "count": 2,
+  "condition": "Synthetic"
+ },
+ {
   "date": "2026-06-27",
   "track": "Morphettville Parks",
   "type": "sectional",
@@ -639,8 +703,22 @@
   "date": "2026-06-27",
   "track": "Caulfield",
   "type": "sectional",
+  "source_file": "5191071_01 (1).csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
   "source_file": "5191071_01.csv",
   "count": 16
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_02 (1).csv",
+  "count": 13
  },
  {
   "date": "2026-06-27",
@@ -653,8 +731,22 @@
   "date": "2026-06-27",
   "track": "Caulfield",
   "type": "sectional",
+  "source_file": "5191071_03 (1).csv",
+  "count": 12
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
   "source_file": "5191071_03.csv",
   "count": 12
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_04 (1).csv",
+  "count": 18
  },
  {
   "date": "2026-06-27",
@@ -667,8 +759,22 @@
   "date": "2026-06-27",
   "track": "Caulfield",
   "type": "sectional",
+  "source_file": "5191071_05 (1).csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
   "source_file": "5191071_05.csv",
   "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_06 (1).csv",
+  "count": 18
  },
  {
   "date": "2026-06-27",
@@ -681,6 +787,13 @@
   "date": "2026-06-27",
   "track": "Caulfield",
   "type": "sectional",
+  "source_file": "5191071_07 (1).csv",
+  "count": 19
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
   "source_file": "5191071_07.csv",
   "count": 19
  },
@@ -688,8 +801,22 @@
   "date": "2026-06-27",
   "track": "Caulfield",
   "type": "sectional",
+  "source_file": "5191071_08 (1).csv",
+  "count": 20
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
   "source_file": "5191071_08.csv",
   "count": 20
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_09 (1).csv",
+  "count": 16
  },
  {
   "date": "2026-06-27",

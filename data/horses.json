@@ -1524,6 +1524,27 @@
    }
   ]
  },
+ "ALL THE MOVES": {
+  "name": "All The Moves",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.57,
+     "close_ratio": 1.0,
+     "last200_t": 12.68,
+     "last600_t": 37.03,
+     "overall_t": 95.36,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "ALLEGRO MISS": {
   "name": "Allegro Miss",
   "runs": [
@@ -1631,6 +1652,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ALOISI": {
+  "name": "Aloisi",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Brandt 3YO BM64 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -1745,6 +1787,27 @@
    }
   ]
  },
+ "ALPHABET": {
+  "name": "Alphabet",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.5,
+     "close_ratio": 0.97,
+     "last200_t": 12.27,
+     "last600_t": 36.11,
+     "overall_t": 73.9,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "ALPINE FOX": {
   "name": "Alpine Fox",
   "runs": [
@@ -1784,6 +1847,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ALZARO": {
+  "name": "Alzaro",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.28,
+     "close_ratio": 1.08,
+     "last200_t": 11.87,
+     "last600_t": 34.82,
+     "overall_t": 87.26,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.06
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -2918,6 +3002,22 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.27,
+     "close_ratio": 0.96,
+     "last200_t": 12.64,
+     "last600_t": 36.57,
+     "overall_t": 74.69,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -3443,6 +3543,27 @@
    }
   ]
  },
+ "AUCKLAND": {
+  "name": "Auckland",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.3,
+     "close_ratio": 0.97,
+     "last200_t": 12.73,
+     "last600_t": 35.61,
+     "overall_t": 61.1,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "AUDIO POP CAM": {
   "name": "Audio Pop Cam",
   "runs": [
@@ -3476,6 +3597,22 @@
      "overall_t": 71.86,
      "race_name": "Hygain Edge BM62 Handicap",
      "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 11.83,
+     "last600_t": 35.12,
+     "overall_t": 72.66,
+     "race_name": "Brandt 3YO BM64 Handicap",
+     "top_spd": 18.19
     },
     "steward": null,
     "track": "Ballarat Synthetic"
@@ -4180,6 +4317,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BAROSSA VALLEY": {
+  "name": "Barossa Valley",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.6,
+     "close_ratio": 1.04,
+     "last200_t": 12.77,
+     "last600_t": 37.07,
+     "overall_t": 135.11,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 17.2
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -5644,6 +5802,27 @@
    }
   ]
  },
+ "BLACK HEX": {
+  "name": "Black Hex",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.41,
+     "close_ratio": 1.02,
+     "last200_t": 12.67,
+     "last600_t": 36.71,
+     "overall_t": 95.42,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.53
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "BLACK PEPPERMINT": {
   "name": "Black Peppermint",
   "runs": [
@@ -6117,6 +6296,27 @@
    }
   ]
  },
+ "BODY OF VENUS": {
+  "name": "Body Of Venus",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.84,
+     "close_ratio": 1.01,
+     "last200_t": 11.97,
+     "last600_t": 34.32,
+     "overall_t": 60.3,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.63
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "BOEUF": {
   "name": "Boeuf",
   "runs": [
@@ -6486,6 +6686,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BON AURELIA": {
+  "name": "Bon Aurelia",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.22,
+     "close_ratio": 0.99,
+     "last200_t": 13.66,
+     "last600_t": 38.36,
+     "overall_t": 96.47,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.26
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -7493,6 +7714,27 @@
    }
   ]
  },
+ "BROTHER QUICKIE": {
+  "name": "Brother Quickie",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.35,
+     "close_ratio": 0.99,
+     "last200_t": 14.83,
+     "last600_t": 39.58,
+     "overall_t": 99.01,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 16.93
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "BROWN NOSE DAY GAL": {
   "name": "Brown Nose Day Gal",
   "runs": [
@@ -7550,6 +7792,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.28,
+     "close_ratio": 0.93,
+     "last200_t": 13.03,
+     "last600_t": 37.25,
+     "overall_t": 74.52,
+     "race_name": "Brandt 3YO BM64 Handicap",
+     "top_spd": 18.3
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -7629,6 +7887,48 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BUCKS NIGHT": {
+  "name": "Bucks Night",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.14,
+     "close_ratio": 0.95,
+     "last200_t": 13.34,
+     "last600_t": 38.05,
+     "overall_t": 93.46,
+     "race_name": "Whitford Liquid Waste BM66 Handicap",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "BULL RUN": {
+  "name": "Bull Run",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 12.35,
+     "last600_t": 36.55,
+     "overall_t": 134.76,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 17.01
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -9767,6 +10067,27 @@
    }
   ]
  },
+ "CHIMED": {
+  "name": "Chimed",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 89.73,
+     "close_ratio": 0.92,
+     "last200_t": 15.27,
+     "last600_t": 41.4,
+     "overall_t": 137.0,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.56
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "CHOCOLATE ROYAL": {
   "name": "Chocolate Royal",
   "runs": [
@@ -10499,6 +10820,22 @@
  "COMIC HERO": {
   "name": "Comic Hero",
   "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.98,
+     "last200_t": 12.94,
+     "last600_t": 36.96,
+     "overall_t": 92.18,
+     "race_name": "Whitford Liquid Waste BM66 Handicap",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   },
    {
     "date": "2026-06-13",
     "distance": 1400,
@@ -11445,6 +11782,22 @@
      "underperf": false
     },
     "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.36,
+     "close_ratio": 0.98,
+     "last200_t": 12.0,
+     "last600_t": 34.49,
+     "overall_t": 59.79,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.58
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -11704,6 +12057,27 @@
    }
   ]
  },
+ "DAME I AM": {
+  "name": "Dame I Am",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.37,
+     "close_ratio": 0.98,
+     "last200_t": 12.29,
+     "last600_t": 35.21,
+     "overall_t": 61.01,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.18
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "DAMIZER": {
   "name": "Damizer",
   "runs": [
@@ -11743,6 +12117,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "DANCE AND SHOUT": {
+  "name": "Dance And Shout",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -12660,6 +13055,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "DEMPSEY": {
+  "name": "Dempsey",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.92,
+     "close_ratio": 1.0,
+     "last200_t": 12.86,
+     "last600_t": 37.28,
+     "overall_t": 95.1,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.16
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14029,6 +14445,27 @@
    }
   ]
  },
+ "DYNAMITE DANCER": {
+  "name": "Dynamite Dancer",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.54,
+     "close_ratio": 0.97,
+     "last200_t": 12.11,
+     "last600_t": 35.64,
+     "overall_t": 72.72,
+     "race_name": "Brandt 3YO BM64 Handicap",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "EAGLELOU": {
   "name": "Eaglelou",
   "runs": [
@@ -14263,6 +14700,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.42,
+     "last600_t": 33.58,
+     "overall_t": 59.83,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.75
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14497,6 +14950,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "ELEGANT FORCE": {
+  "name": "Elegant Force",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.13,
+     "close_ratio": 1.01,
+     "last200_t": 12.93,
+     "last600_t": 37.2,
+     "overall_t": 96.36,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.22
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -14818,6 +15292,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.02,
+     "close_ratio": 0.99,
+     "last200_t": 12.9,
+     "last600_t": 37.9,
+     "overall_t": 134.05,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.07
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    },
    {
     "date": "2026-06-06",
@@ -17530,6 +18020,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -18161,6 +18667,22 @@
      "overall_t": 134.9,
      "race_name": "Hygain Edge BM66 Handicap",
      "top_spd": 17.0
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.23,
+     "close_ratio": 1.0,
+     "last200_t": 13.11,
+     "last600_t": 37.82,
+     "overall_t": 134.45,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.11
     },
     "steward": null,
     "track": "Ballarat Synthetic"
@@ -19434,6 +19956,27 @@
    }
   ]
  },
+ "GREY SECRET": {
+  "name": "Grey Secret",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.88,
+     "close_ratio": 0.95,
+     "last200_t": 12.89,
+     "last600_t": 37.38,
+     "overall_t": 93.19,
+     "race_name": "Whitford Liquid Waste BM66 Handicap",
+     "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "GRID GIRL": {
   "name": "Grid Girl",
   "runs": [
@@ -20652,6 +21195,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "HIGHABOVEME": {
+  "name": "Highaboveme",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.5,
+     "close_ratio": 0.95,
+     "last200_t": 12.77,
+     "last600_t": 36.86,
+     "overall_t": 74.62,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": 18.25
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -22242,6 +22806,27 @@
    }
   ]
  },
+ "INARTICULATE": {
+  "name": "Inarticulate",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.57,
+     "close_ratio": 1.05,
+     "last200_t": 12.31,
+     "last600_t": 36.28,
+     "overall_t": 95.06,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.36
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "INDISPENSABLE": {
   "name": "Indispensable",
   "runs": [
@@ -23661,6 +24246,22 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 12.01,
+     "last600_t": 35.76,
+     "overall_t": 95.15,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.65
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -24072,6 +24673,22 @@
      "underperf": false
     },
     "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 1.02,
+     "last200_t": 12.77,
+     "last600_t": 37.35,
+     "overall_t": 133.61,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 16.97
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -24443,6 +25060,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.28,
+     "close_ratio": 1.03,
+     "last200_t": 12.7,
+     "last600_t": 37.19,
+     "overall_t": 135.1,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 16.74
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -25220,6 +25853,27 @@
    }
   ]
  },
+ "LAKES ENTRANCE": {
+  "name": "Lakes Entrance",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.11,
+     "close_ratio": 0.97,
+     "last200_t": 13.89,
+     "last600_t": 39.68,
+     "overall_t": 137.51,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 17.21
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "LALOR": {
   "name": "Lalor",
   "runs": [
@@ -25337,6 +25991,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "LARSEN BAY": {
+  "name": "Larsen Bay",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.14,
+     "close_ratio": 0.95,
+     "last200_t": 14.46,
+     "last600_t": 40.32,
+     "overall_t": 136.62,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -25578,6 +26253,27 @@
    }
   ]
  },
+ "LE PLUS RAPIDE": {
+  "name": "Le Plus Rapide",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.94,
+     "close_ratio": 1.04,
+     "last200_t": 12.29,
+     "last600_t": 37.32,
+     "overall_t": 135.64,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 16.75
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "LEGACY BEL": {
   "name": "Legacy Bel",
   "runs": [
@@ -25779,6 +26475,27 @@
    }
   ]
  },
+ "LETHAL THOUGHTS": {
+  "name": "Lethal Thoughts",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.06,
+     "close_ratio": 0.95,
+     "last200_t": 13.34,
+     "last600_t": 37.69,
+     "overall_t": 92.59,
+     "race_name": "Whitford Liquid Waste BM66 Handicap",
+     "top_spd": 18.14
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "LEWANDOWSKI": {
   "name": "Lewandowski",
   "runs": [
@@ -25883,6 +26600,27 @@
      "overall_t": 90.86,
      "race_name": "Global Turf BM70 Handicap",
      "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "LIFT NET": {
+  "name": "Lift Net",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 12.21,
+     "last600_t": 35.57,
+     "overall_t": 73.47,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": 18.0
     },
     "steward": null,
     "track": "Ballarat Synthetic"
@@ -26860,6 +27598,27 @@
    }
   ]
  },
+ "LYTTELTON": {
+  "name": "Lyttelton",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.16,
+     "close_ratio": 0.99,
+     "last200_t": 12.89,
+     "last600_t": 38.41,
+     "overall_t": 136.75,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 17.12
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "MACHINE GUN GRACIE": {
   "name": "Machine Gun Gracie",
   "runs": [
@@ -27660,6 +28419,27 @@
    }
   ]
  },
+ "MALE MODEL": {
+  "name": "Male Model",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.09,
+     "last200_t": 11.76,
+     "last600_t": 34.57,
+     "overall_t": 87.24,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "MANGANO": {
   "name": "Mangano",
   "runs": [
@@ -28352,6 +29132,27 @@
    }
   ]
  },
+ "MERRY JACK": {
+  "name": "Merry Jack",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.58,
+     "close_ratio": 1.01,
+     "last200_t": 13.3,
+     "last600_t": 37.81,
+     "overall_t": 96.18,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.12
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "MERTENS": {
   "name": "Mertens)",
   "runs": [
@@ -28950,6 +29751,22 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.79,
+     "close_ratio": 1.06,
+     "last200_t": 12.13,
+     "last600_t": 35.35,
+     "overall_t": 87.71,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.82
+    },
+    "steward": null,
     "track": "Ballarat Synthetic"
    }
   ]
@@ -31478,6 +32295,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.83,
+     "close_ratio": 0.96,
+     "last200_t": 12.28,
+     "last600_t": 35.9,
+     "overall_t": 73.37,
+     "race_name": "Brandt 3YO BM64 Handicap",
+     "top_spd": 18.09
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   },
+   {
     "date": "2026-05-30",
     "distance": 1100,
     "race": null,
@@ -33967,6 +34800,27 @@
    }
   ]
  },
+ "PEIRIANT": {
+  "name": "Peiriant",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.65,
+     "close_ratio": 0.92,
+     "last200_t": 13.37,
+     "last600_t": 37.58,
+     "overall_t": 75.02,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": 18.67
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "PENTLE BAY": {
   "name": "Pentle Bay",
   "runs": [
@@ -34997,6 +35851,22 @@
     "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc)."
    },
    {
+    "date": "2026-06-24",
+    "distance": null,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "samples from following horses:",
+     "condition": "Synthetic",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Synthetic"
+   },
+   {
     "date": "2026-06-20",
     "distance": null,
     "race": 5,
@@ -35317,6 +36187,22 @@
      "underperf": false
     },
     "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc)."
+   },
+   {
+    "date": "2026-06-24",
+    "distance": null,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "urine for post\u2011race analysis:",
+     "condition": "Synthetic",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Synthetic"
    },
    {
     "date": "2026-06-20",
@@ -35859,6 +36745,27 @@
    }
   ]
  },
+ "PRINCE SONIC": {
+  "name": "Prince Sonic",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.78,
+     "close_ratio": 0.98,
+     "last200_t": 12.49,
+     "last600_t": 35.06,
+     "overall_t": 60.92,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "PRINCE TYCOON": {
   "name": "Prince Tycoon",
   "runs": [
@@ -35970,6 +36877,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.72,
+     "close_ratio": 0.95,
+     "last200_t": 12.99,
+     "last600_t": 37.44,
+     "overall_t": 92.04,
+     "race_name": "Whitford Liquid Waste BM66 Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -36222,6 +37145,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PROPRIETARY": {
+  "name": "Proprietary",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.7,
+     "close_ratio": 0.99,
+     "last200_t": 12.27,
+     "last600_t": 35.09,
+     "overall_t": 61.5,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.08
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -37621,6 +38565,22 @@
      "overall_t": null,
      "race_name": "Global Turf Maiden Plate",
      "top_spd": null
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.08,
+     "close_ratio": 0.95,
+     "last200_t": 12.8,
+     "last600_t": 36.64,
+     "overall_t": 74.46,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": 18.43
     },
     "steward": null,
     "track": "Ballarat Synthetic"
@@ -39152,6 +40112,22 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.8,
+     "close_ratio": 0.99,
+     "last200_t": 12.46,
+     "last600_t": 35.91,
+     "overall_t": 73.45,
+     "race_name": "Brandt 3YO BM64 Handicap",
+     "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -40261,6 +41237,27 @@
    }
   ]
  },
+ "SAVVIE BLANC": {
+  "name": "Savvie Blanc",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.89,
+     "close_ratio": 1.05,
+     "last200_t": 12.21,
+     "last600_t": 35.68,
+     "overall_t": 87.71,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.95
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "SCANDALIZE": {
   "name": "Scandalize",
   "runs": [
@@ -40478,6 +41475,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.72,
+     "close_ratio": 0.98,
+     "last200_t": 11.83,
+     "last600_t": 35.22,
+     "overall_t": 73.05,
+     "race_name": "Brandt 3YO BM64 Handicap",
+     "top_spd": 18.38
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -40605,6 +41618,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SECOND NATURE": {
+  "name": "Second Nature",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 12.58,
+     "last600_t": 37.15,
+     "overall_t": 133.79,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.09
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -41803,6 +42837,27 @@
     },
     "steward": null,
     "track": "Morphettville"
+   }
+  ]
+ },
+ "SHOOTER MCGAVIN": {
+  "name": "Shooter Mcgavin",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.74,
+     "close_ratio": 1.06,
+     "last200_t": 12.05,
+     "last600_t": 35.37,
+     "overall_t": 87.25,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -43221,6 +44276,22 @@
   "name": "Soldier Boi",
   "runs": [
    {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.82,
+     "close_ratio": 0.98,
+     "last200_t": 13.31,
+     "last600_t": 38.37,
+     "overall_t": 134.33,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.53
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   },
+   {
     "date": "2026-06-20",
     "distance": 2000,
     "race": null,
@@ -43699,6 +44770,27 @@
      "underperf": false
     },
     "track": "Melbourne"
+   }
+  ]
+ },
+ "SPOT THE GREY": {
+  "name": "Spot The Grey",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.17,
+     "close_ratio": 1.04,
+     "last200_t": 12.17,
+     "last600_t": 36.06,
+     "overall_t": 95.06,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.43
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -45796,6 +46888,22 @@
   "name": "Sunsets",
   "runs": [
    {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.51,
+     "close_ratio": 0.99,
+     "last200_t": 12.83,
+     "last600_t": 37.71,
+     "overall_t": 133.59,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   },
+   {
     "date": "2026-02-14",
     "distance": 2000,
     "race": null,
@@ -46808,6 +47916,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -47268,6 +48392,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -48474,6 +49614,22 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.81,
+     "close_ratio": 0.95,
+     "last200_t": 12.15,
+     "last600_t": 36.0,
+     "overall_t": 73.52,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -49823,6 +50979,27 @@
    }
   ]
  },
+ "TUBBS LEGACY": {
+  "name": "Tubbs Legacy",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.1,
+     "close_ratio": 0.99,
+     "last200_t": 13.71,
+     "last600_t": 38.41,
+     "overall_t": 96.97,
+     "race_name": "Manhari Maiden Plate",
+     "top_spd": 17.38
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "TUFF TU MUS": {
   "name": "Tuff Tu Mus",
   "runs": [
@@ -49998,6 +51175,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ULTRA BLUE": {
+  "name": "Ultra Blue",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.55,
+     "close_ratio": 0.91,
+     "last200_t": 13.79,
+     "last600_t": 39.09,
+     "overall_t": 93.0,
+     "race_name": "Whitford Liquid Waste BM66 Handicap",
+     "top_spd": 18.41
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -50348,6 +51546,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.05,
+     "close_ratio": 0.99,
+     "last200_t": 13.0,
+     "last600_t": 38.28,
+     "overall_t": 134.67,
+     "race_name": "Sportsbet Race Replays BM66 Handicap",
+     "top_spd": 17.31
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    },
    {
     "date": "2026-03-09",
@@ -50962,6 +52176,27 @@
    }
   ]
  },
+ "VICTORY BLUES": {
+  "name": "Victory Blues",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 88.89,
+     "close_ratio": 0.95,
+     "last200_t": 14.77,
+     "last600_t": 41.12,
+     "overall_t": 139.62,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 16.53
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
+   }
+  ]
+ },
  "VICTORY TUNE": {
   "name": "Victory Tune",
   "runs": [
@@ -51365,6 +52600,22 @@
     },
     "steward": null,
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-24",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Porter Plant Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -51770,6 +53021,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "WET N DRY": {
+  "name": "Wet 'N' Dry",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 2100,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.1,
+     "close_ratio": 0.99,
+     "last200_t": 13.4,
+     "last600_t": 38.84,
+     "overall_t": 137.52,
+     "race_name": "Global Turf Maiden Plate",
+     "top_spd": 16.58
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
@@ -52487,6 +53759,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "WOLF TWENTY ONE": {
+  "name": "Wolf Twenty One",
+  "runs": [
+   {
+    "date": "2026-06-24",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.27,
+     "close_ratio": 1.0,
+     "last200_t": 12.19,
+     "last600_t": 34.88,
+     "overall_t": 60.31,
+     "race_name": "Hygain Edge BM66 Handicap",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Ballarat Synthetic"
    }
   ]
  },
