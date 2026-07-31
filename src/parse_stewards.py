@@ -176,23 +176,236 @@ def parse_header(text):
     return h
 
 
+def _horse_record(name, comment, rno):
+    """Flag/score one horse comment. Shared by the text and HTML paths."""
+    low = comment.lower()
+    flags = {}
+    for bucket, kws in RULES.items():
+        hit = [kw for kw in kws if kw in low]
+        if hit:
+            flags[bucket] = hit
+    forg = sum(1 for b in FORGIVE if b in flags)
+    excuse_index = forg - (1 if ("faded" in flags and forg == 0) else 0)
+    return {
+        "name": name, "key": norm_name(name), "race": rno,
+        "flags": sorted(flags.keys()), "excuse_index": excuse_index,
+        "health_flag": "vet_health" in flags, "gear_change": "gear_change" in flags,
+        "underperf": "underperf" in flags, "comment": comment,
+    }
+
+
+# ------------------------------------------------------- racing.com HTML
+#
+# A saved racing.com stewards page is ~1.5 MB, of which the report is ~30 KB
+# inside <div class="stewards-report">. The old path flattened the WHOLE
+# document to text, so:
+#
+#   * parse_header read line 0 of the page chrome and returned the Racing.com
+#     copyright notice as the track name, and found no date at all;
+#   * the report body is a Word export where a horse name is wrapped in <b>
+#     and hard-wrapped mid-name -- "<b><span>Flying\nKhan </span></b>" -- so
+#     after tag-stripping the name arrived as two lines, "Flying" then
+#     "Khan Slow to begin.". unwrap() only rejoins lines starting lowercase,
+#     so most horses were lost and a few survived by luck. That is the
+#     2-and-3-horse meetings.
+#   * a single-race page (".../Race 9/...") carries no <h1> and no header
+#     table, so there was no "Race N" line to anchor on and the file
+#     extracted nothing at all.
+#
+# So: cut out the report div, walk its <p> elements, and use the <b>
+# boundary that the document already provides instead of guessing where the
+# name stops. Take the date and track from the header table when present and
+# from the filename when it is not.
+
+_SR_START = re.compile(r"<div\b[^>]*class=\"[^\"]*stewards-report[^\"]*\"[^>]*>", re.I)
+_DIV_TOK = re.compile(r"<div\b|</div\s*>", re.I)
+_P_BLOCK = re.compile(r"<p\b[^>]*>(.*?)</p\s*>", re.I | re.S)
+_LEAD_BOLD = re.compile(r"\A\s*(?:<(b|strong)\b[^>]*>.*?</\1\s*>\s*)+", re.I | re.S)
+_NUM_ENT = re.compile(r"&#(\d+);")
+_MONTHS = {m.lower(): i for i, m in enumerate(
+    ["", "January", "February", "March", "April", "May", "June", "July",
+     "August", "September", "October", "November", "December"])}
+
+
+# The <h1> is written a different way almost every meeting -- "Caulfield",
+# "Caulfield: Melbourne Racing Club", "Victoria Racing Club @ Flemington",
+# "Sportsbet-Ballarat Synthetic: Ballarat Turf Club", "Southside Racing
+# Cranbourne". The sectionals side of the store uses the bare venue, so
+# anything else forks meetings.json into near-duplicates. Longest first:
+# Sandown Hillside must win over Sandown, Ballarat Synthetic over Ballarat,
+# Morphettville Parks over Morphettville.
+CANON_TRACKS = [
+    "Sandown Hillside", "Sandown Lakeside", "Ballarat Synthetic",
+    "Morphettville Parks", "Moonee Valley", "Flemington", "Caulfield",
+    "Cranbourne", "Morphettville", "Ballarat", "Bendigo", "Geelong",
+    "Pakenham", "Werribee", "Mornington", "Warrnambool", "Traralgon",
+    "Bairnsdale", "Wangaratta", "Swan Hill", "Kyneton", "Seymour", "Kilmore",
+    "Horsham", "Benalla", "Echuca", "Wodonga", "Tatura", "Ararat", "Colac",
+    "Terang", "Hamilton", "Sale", "Moe", "Gawler", "Murray Bridge",
+    "Strathalbyn", "Naracoorte", "Port Lincoln", "Mount Gambier",
+]
+_SPONSOR = re.compile(
+    r"^(sportsbet|tab|tabcorp|ladbrokes|neds|beteasy|bet365|southside racing|"
+    r"southside|racing\.com|the valley)[\s\-]+", re.I)
+
+
+def normalise_track(s):
+    """'Sportsbet-Ballarat Synthetic: Ballarat Turf Club' -> 'Ballarat Synthetic'."""
+    s = (s or "").strip()
+    if not s:
+        return ""
+    s = s.split(":")[0].strip()
+    if "@" in s:                                  # 'Victoria Racing Club @ Flemington'
+        s = s.split("@")[-1].strip()
+    for canon in CANON_TRACKS:                    # trust the known venue over the prose
+        if re.search(r"\b" + re.escape(canon) + r"\b", s, re.I):
+            return canon
+    prev = None
+    while prev != s:                              # 'Sportsbet-Ballarat', 'TAB Bendigo'
+        prev = s
+        s = _SPONSOR.sub("", s).strip()
+    s = re.sub(r"\s+(Jockey|Turf|Racing)\s+Club$", "", s, flags=re.I).strip()
+    return s
+
+
+def _plain(fragment):
+    """Tags out, entities in, all whitespace (including hard wraps) to single spaces."""
+    s = re.sub(r"<[^>]+>", " ", fragment)
+    for k, v in _ENTITY.items():
+        s = s.replace(k, v)
+    s = _NUM_ENT.sub(lambda m: chr(int(m.group(1))) if int(m.group(1)) != 160 else " ", s)
+    s = re.sub(r"&[a-zA-Z]+;", " ", s)
+    return re.sub(r"\s+", " ", s.replace("\xa0", " ")).strip()
+
+
+def _report_div(raw):
+    """The inner HTML of <div class="stewards-report">, or None."""
+    m = _SR_START.search(raw)
+    if not m:
+        return None
+    depth, start = 1, m.end()
+    for tok in _DIV_TOK.finditer(raw, start):
+        depth += 1 if tok.group(0).lower().startswith("<div") else -1
+        if depth == 0:
+            return raw[start:tok.start()]
+    return raw[start:]
+
+
+def _iso_date(s):
+    m = re.search(r"(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})", s or "")
+    if not m:
+        return ""
+    mo = _MONTHS.get(m.group(2).lower(), 0)
+    return "%s-%02d-%02d" % (m.group(3), mo, int(m.group(1))) if mo else ""
+
+
+def _from_filename(name):
+    """'Form _ Stewards' Report _ Flemington _ Race 9 _ Saturday _ 4 July 2026 _ VIC _ ...'
+
+    The single-race pages carry no header table, so the filename is the only
+    place the date and track exist. It is a weaker source than the document,
+    so it is only ever used to fill a gap.
+    """
+    stem = re.sub(r"\.(html?|xhtml)$", "", name, flags=re.I)
+    parts = [p.strip() for p in re.split(r"\s+_\s+|_", stem) if p.strip()]
+    out = {"date": _iso_date(stem), "track": "", "race": None}
+    for i, p in enumerate(parts):
+        m = re.fullmatch(r"Race\s*(\d+)", p, re.I)
+        if m:
+            out["race"] = int(m.group(1))
+        if re.search(r"Stewards.{0,3}\s*Report", p, re.I) and i + 1 < len(parts):
+            cand = parts[i + 1]
+            if not re.fullmatch(r"Race\s*\d+", cand, re.I):
+                out["track"] = cand
+    return out
+
+
+def parse_racingcom_html(path, body):
+    """Structured parse of the report div. Returns the same record parse_file does."""
+    fn = _from_filename(Path(path).name)
+
+    # --- header: <h1>Flemington: Victoria Racing Club</h1> + a label/value table
+    header = {"track": "", "condition": "", "going_stick": "", "weather": "",
+              "rail": "", "date": "", "club": ""}
+    mh1 = re.search(r"<h1\b[^>]*>(.*?)</h1\s*>", body, re.I | re.S)
+    if mh1:
+        header["club"] = _plain(mh1.group(1))
+    cells = [_plain(c) for c in re.findall(r"<t[dh]\b[^>]*>(.*?)</t[dh]\s*>", body, re.I | re.S)]
+    for i, c in enumerate(cells[:-1]):
+        lab = c.rstrip(":").strip().lower()
+        val = cells[i + 1]
+        if lab == "date":
+            header["date"] = _iso_date(val)
+        elif lab == "track":
+            header["condition"] = val
+        elif lab.startswith("going"):
+            header["going_stick"] = val
+        elif lab == "weather":
+            header["weather"] = val
+        elif lab == "rail":
+            header["rail"] = val
+    if not header["date"]:
+        header["date"] = fn["date"]
+
+    track = normalise_track(header["club"]) or normalise_track(fn["track"])
+
+    # --- body: one <p> per horse, the name in the leading <b>
+    races, cur, seen = [], None, set()
+
+    def open_race(rno, dist, label):
+        nonlocal cur
+        if cur is not None:
+            races.append(cur)
+        cur = {"race": rno, "distance": dist, "name": label, "horses": []}
+
+    for frag in _P_BLOCK.findall(body):
+        mb = _LEAD_BOLD.match(frag)
+        head = _plain(mb.group(0)) if mb else ""
+        rest = _plain(frag[mb.end():]) if mb else ""
+        if not head:
+            continue                                   # penalty notices, notes
+        mr = re.match(r"Race\s+(\d+)\b(.*)$", head, re.I)
+        if mr:
+            md = re.search(r"(\d{3,4})\s*met", mr.group(2), re.I)
+            open_race(int(mr.group(1)), int(md.group(1)) if md else None, head)
+            continue
+        if not rest or head.endswith(":") or len(head) < 2:
+            continue                                   # section heading, e.g.
+        if re.match(r"^(Rider|Trainer|Apprentice|Stewards|Co-trainer)\b", head, re.I):
+            continue                                   # bolded person, not a horse
+        if cur is None:                                # pre-Race-1 or single-race page
+            open_race(fn["race"] or 0, None, "Race %s" % (fn["race"] or "?"))
+        name = head.strip(" -–—,")
+        if not name:
+            continue
+        k = (cur["race"], norm_name(name))
+        if k in seen:
+            continue
+        seen.add(k)
+        cur["horses"].append(_horse_record(name, rest, cur["race"]))
+    if cur is not None:
+        races.append(cur)
+
+    return {"track": track, "date": header["date"], "header": header,
+            "source_file": Path(path).name, "races": races}
+
+
 def parse_file(path):
     path = Path(path)
     ext = path.suffix.lower()
     if ext in PDF_EXTS:
         text = pdf_text(path)
     elif ext in HTML_EXTS:
+        raw = open(path, encoding="utf-8", errors="replace").read()
+        body = _report_div(raw)
+        if body is not None:
+            return parse_racingcom_html(path, body)
         text = html_text(path)
     else:
         text = open(path, encoding="utf-8", errors="replace").read()
     text = unwrap(text)
     header = parse_header(text)
-    club = header.get("club", "")
-    if ":" in club:
-        track = club.split(":")[0].strip()
-    else:
-        track = re.sub(r"\s+(Jockey|Turf|Racing)\s+Club$", "", club).strip()
-    track = re.sub(r"^(Sportsbet|TAB|Ladbrokes|Neds|BetEasy)\s+", "", track, flags=re.I).strip()
+    track = normalise_track(header.get("club", "")) or normalise_track(path.name)
 
     lines = text.splitlines()
     idxs = [i for i, l in enumerate(lines) if RACE_ANY.match(l.strip())]
