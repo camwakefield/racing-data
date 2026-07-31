@@ -63,6 +63,14 @@
   "count": 16
  },
  {
+  "date": "2026-05-30",
+  "track": "Melbourne",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Caulfield _ Saturday _ 30 May 2026 _ VIC _ Racing.com.html",
+  "count": 66,
+  "condition": "Heavy 8"
+ },
+ {
   "date": "2026-06-06",
   "track": "Flemington",
   "type": "sectional",
@@ -124,6 +132,14 @@
   "type": "sectional",
   "source_file": "5191092_09.csv",
   "count": 16
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Victoria",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 6 June 2026 _ VIC _ Racing.com.html",
+  "count": 2,
+  "condition": ""
  },
  {
   "date": "2026-06-13",
@@ -189,6 +205,14 @@
   "count": 17
  },
  {
+  "date": "2026-06-13",
+  "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc).",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Saturday _ 13 June 2026 _ VIC _ Racing.com.html",
+  "count": 59,
+  "condition": "Heavy 8 upgraded to Soft 7 at"
+ },
+ {
   "date": "2026-06-20",
   "track": "Flemington",
   "type": "sectional",
@@ -250,6 +274,14 @@
   "type": "sectional",
   "source_file": "5191079_09.csv",
   "count": 13
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Victoria",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 20 June 2026 _ VIC _ Racing.com.html",
+  "count": 3,
+  "condition": ""
  },
  {
   "date": "2026-06-27",
@@ -497,6 +529,14 @@
   "count": 15
  },
  {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Bendigo _ Sunday _ 5 July 2026 _ VIC _ Racing.com.pdf",
+  "count": 63,
+  "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3"
+ },
+ {
   "date": "2026-07-11",
   "track": "Caulfield",
   "type": "sectional",
@@ -560,6 +600,14 @@
   "count": 16
  },
  {
+  "date": "2026-07-11",
+  "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc).",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Caulfield _ Saturday _ 11 July 2026 _ VIC _ Racing.com.html",
+  "count": 97,
+  "condition": "Soft 7"
+ },
+ {
   "date": "2026-07-14",
   "track": "Ballarat Synthetic",
   "type": "sectional",
@@ -614,6 +662,14 @@
   "type": "sectional",
   "source_file": "5191052_08.csv",
   "count": 16
+ },
+ {
+  "date": "2026-07-14",
+  "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc).",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Sportsbet-Ballarat Synthetic _ Tuesday _ 14 July 2026 _ VIC _ Racing.com.html",
+  "count": 70,
+  "condition": "Synthetic"
  },
  {
   "date": "2026-07-15",
@@ -672,6 +728,14 @@
   "count": 20
  },
  {
+  "date": "2026-07-15",
+  "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc).",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Wednesday _ 15 July 2026 _ VIC _ Racing.com.html",
+  "count": 3,
+  "condition": "Heavy 9"
+ },
+ {
   "date": "2026-07-16",
   "track": "Cranbourne",
   "type": "sectional",
@@ -726,6 +790,14 @@
   "type": "sectional",
   "source_file": "5191022_08.csv",
   "count": 16
+ },
+ {
+  "date": "2026-07-16",
+  "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc).",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Southside Cranbourne _ Thursday _ 16 July 2026 _ VIC _ Racing.com.html",
+  "count": 1,
+  "condition": "Heavy 9"
  },
  {
   "date": "2026-07-18",
@@ -789,6 +861,30 @@
   "type": "sectional",
   "source_file": "5191049_09.csv",
   "count": 14
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "stewards",
+  "source_file": "flemington_20260718.txt",
+  "count": 74,
+  "condition": ""
+ },
+ {
+  "date": "2026-07-22",
+  "track": "Sandown Hillside",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Wednesday _ 22 July 2026 _ VIC _ Racing.com.html",
+  "count": 2,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-22",
+  "track": "Sandown Hillside",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Wednesday _ 22 July 2026 _ VIC _ Racing.com.pdf",
+  "count": 56,
+  "condition": "Soft 6"
  },
  {
   "date": "2026-07-25",
@@ -861,6 +957,14 @@
   "count": 15
  },
  {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "stewards",
+  "source_file": "caulfield_20260725.txt",
+  "count": 59,
+  "condition": "Soft 6"
+ },
+ {
   "date": "2026-07-29",
   "track": "Sandown Hillside",
   "type": "sectional",
@@ -915,5 +1019,13 @@
   "type": "sectional",
   "source_file": "5191035_08.csv",
   "count": 10
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "stewards",
+  "source_file": "bendigo_2026-07-30.txt",
+  "count": 65,
+  "condition": "Soft 6"
  }
 ]
