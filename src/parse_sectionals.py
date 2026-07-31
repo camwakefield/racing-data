@@ -65,23 +65,29 @@ def parse_file(path):
     # distance = furthest marker reached in the field
     distance = max_marker
     for ru in runners:
-        segs = ru["segs"]
-        times = [s["t"] for s in segs if s["t"] is not None]
-        ru["overall_t"] = r2(sum(times)) if times else None
-        last3 = segs[-3:]
-        ru["last600_t"] = r2(sum(s["t"] for s in last3 if s["t"] is not None)) if len(last3) >= 1 else None
-        ru["last200_t"] = last3[-1]["t"] if last3 else None
-        early = segs[:-3]
-        early_t = sum(s["t"] for s in early if s["t"] is not None) if early else None
-        ru["early_t"] = r2(early_t) if early_t else None
-        ru["top_spd"] = r2(max((s["spd"] for s in segs), default=None))
+        # A GPS-less runner has every section as speed 0 / time 0:00.00 — drop
+        # those sections so it just gets null sectional metrics (it still exists
+        # as a run, we just have no speed data for it).
+        valid = [s for s in ru["segs"] if s.get("spd") and s.get("t")]
+        ru["no_data"] = len(valid) == 0
+        if not valid:
+            for k in ("overall_t", "last600_t", "last200_t", "early_t", "top_spd",
+                      "close_ratio"):
+                ru[k] = None
+            continue
+        ru["overall_t"] = r2(sum(s["t"] for s in valid))
+        last3 = valid[-3:]
+        ru["last600_t"] = r2(sum(s["t"] for s in last3))
+        ru["last200_t"] = last3[-1]["t"]
+        early = valid[:-3]
+        ru["early_t"] = r2(sum(s["t"] for s in early)) if early else None
+        ru["top_spd"] = r2(max(s["spd"] for s in valid))
         # quickened-vs-faded: mean section speed over final 600 vs earlier
         late_sp = [s["spd"] for s in last3]
         early_sp = [s["spd"] for s in early]
-        if late_sp and early_sp:
-            ru["close_ratio"] = r2((sum(late_sp) / len(late_sp)) / (sum(early_sp) / len(early_sp)))
-        else:
-            ru["close_ratio"] = None
+        early_mean = (sum(early_sp) / len(early_sp)) if early_sp else 0
+        late_mean = (sum(late_sp) / len(late_sp)) if late_sp else 0
+        ru["close_ratio"] = r2(late_mean / early_mean) if early_mean else None
 
     # field-relative closing rating
     l600 = [ru["last600_t"] for ru in runners if ru["last600_t"]]
