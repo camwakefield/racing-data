@@ -126,6 +126,69 @@
   "count": 17
  },
  {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_01.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_02.csv",
+  "count": 19
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_03.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_05.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_06.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_07.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_08.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_09.csv",
+  "count": 13
+ },
+ {
   "date": "2026-07-01",
   "track": "Sandown Lakeside",
   "type": "sectional",

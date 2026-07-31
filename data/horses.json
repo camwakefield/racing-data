@@ -611,6 +611,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.58,
+     "close_ratio": 0.99,
+     "last200_t": 12.75,
+     "last600_t": 35.99,
+     "overall_t": 98.7,
+     "race_name": "The David Bourke",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -632,6 +648,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "ALDER": {
+  "name": "Alder",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.43,
+     "close_ratio": 1.07,
+     "last200_t": 13.19,
+     "last600_t": 36.87,
+     "overall_t": 165.03,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.64
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1115,6 +1152,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.32,
+     "close_ratio": 0.96,
+     "last200_t": 13.2,
+     "last600_t": 36.66,
+     "overall_t": 86.65,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1317,6 +1370,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.66,
+     "close_ratio": 0.96,
+     "last200_t": 12.59,
+     "last600_t": 36.44,
+     "overall_t": 87.27,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.28
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1410,6 +1479,22 @@
  "ARABIAN PRINCE": {
   "name": "Arabian Prince",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.67,
+     "close_ratio": 1.07,
+     "last200_t": 12.4,
+     "last600_t": 36.06,
+     "overall_t": 127.65,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.37
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 2000,
@@ -1835,6 +1920,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BACCANO": {
+  "name": "Baccano",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.97,
+     "close_ratio": 0.93,
+     "last200_t": 13.45,
+     "last600_t": 37.33,
+     "overall_t": 87.69,
+     "race_name": "TAB We're On",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -2313,6 +2419,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.75,
+     "close_ratio": 1.02,
+     "last200_t": 12.57,
+     "last600_t": 35.57,
+     "overall_t": 99.56,
+     "race_name": "The David Bourke",
+     "top_spd": 18.2
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3069,6 +3191,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.39,
+     "close_ratio": 0.99,
+     "last200_t": 12.54,
+     "last600_t": 35.35,
+     "overall_t": 66.49,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.26
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1200,
     "race": null,
@@ -3080,6 +3218,27 @@
      "overall_t": 71.84,
      "race_name": "VRC Community Race Day Sprint",
      "top_spd": 18.45
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "BLINDATO": {
+  "name": "Blindato",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": null
     },
     "steward": null,
     "track": "Flemington"
@@ -3344,6 +3503,22 @@
      "overall_t": 169.26,
      "race_name": "Banjo Paterson Series Final",
      "top_spd": 18.0
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.32,
+     "close_ratio": 1.06,
+     "last200_t": 13.1,
+     "last600_t": 36.91,
+     "overall_t": 164.94,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.45
     },
     "steward": null,
     "track": "Flemington"
@@ -4282,6 +4457,22 @@
   "name": "Buckets Ridge",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.36,
+     "close_ratio": 1.0,
+     "last200_t": 12.87,
+     "last600_t": 36.07,
+     "overall_t": 99.69,
+     "race_name": "The David Bourke",
+     "top_spd": 17.88
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -4391,6 +4582,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -4682,6 +4889,22 @@
   "name": "Capper Thirtynine",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.97,
+     "close_ratio": 0.93,
+     "last200_t": 13.1,
+     "last600_t": 36.79,
+     "overall_t": 85.6,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1400,
     "race": null,
@@ -4891,6 +5114,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "CASTLE ON HIGH": {
+  "name": "Castle On High",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.67,
+     "close_ratio": 0.95,
+     "last200_t": 13.1,
+     "last600_t": 36.53,
+     "overall_t": 86.11,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.27
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -5278,6 +5522,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.8,
+     "close_ratio": 1.02,
+     "last200_t": 12.07,
+     "last600_t": 34.93,
+     "overall_t": 86.17,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -5585,6 +5845,27 @@
    }
   ]
  },
+ "CHOIR POINT": {
+  "name": "Choir Point",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.61,
+     "close_ratio": 0.99,
+     "last200_t": 13.0,
+     "last600_t": 35.63,
+     "overall_t": 66.46,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.28
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "CHOWDOWN": {
   "name": "Chowdown",
   "runs": [
@@ -5881,6 +6162,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.11,
+     "close_ratio": 1.06,
+     "last200_t": 12.7,
+     "last600_t": 36.27,
+     "overall_t": 128.03,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.55
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -6028,6 +6325,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CONTEMPORARY": {
+  "name": "Contemporary",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.07,
+     "close_ratio": 0.98,
+     "last200_t": 12.98,
+     "last600_t": 35.91,
+     "overall_t": 66.71,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.37
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -6990,6 +7308,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.02,
+     "last200_t": 12.08,
+     "last600_t": 34.15,
+     "overall_t": 65.44,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.61
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -7089,6 +7423,22 @@
      "overall_t": null,
      "race_name": "Sharp EIT Mahogany Challenge Final",
      "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.11,
+     "last200_t": 12.05,
+     "last600_t": 34.86,
+     "overall_t": 126.42,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 18.16
     },
     "steward": null,
     "track": "Flemington"
@@ -7376,6 +7726,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.98,
+     "close_ratio": 1.01,
+     "last200_t": 13.0,
+     "last600_t": 36.21,
+     "overall_t": 100.17,
+     "race_name": "The David Bourke",
+     "top_spd": 18.23
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -7486,6 +7852,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.49,
+     "close_ratio": 1.02,
+     "last200_t": 12.62,
+     "last600_t": 35.47,
+     "overall_t": 99.99,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 18.58
+    },
+    "steward": null,
+    "track": "Flemington"
    },
    {
     "date": "2026-06-06",
@@ -7829,6 +8211,27 @@
    }
   ]
  },
+ "DRAGONSTONE": {
+  "name": "Dragonstone",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.39,
+     "close_ratio": 0.98,
+     "last200_t": 12.66,
+     "last600_t": 35.42,
+     "overall_t": 65.94,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.58
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "DRAGOON": {
   "name": "Dragoon",
   "runs": [
@@ -8025,6 +8428,22 @@
      "overall_t": 84.01,
      "race_name": "Shore Goggles Leilani Series Final",
      "top_spd": 18.43
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.14,
+     "close_ratio": 1.0,
+     "last200_t": 12.34,
+     "last600_t": 35.52,
+     "overall_t": 86.01,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.42
     },
     "steward": null,
     "track": "Flemington"
@@ -9267,6 +9686,22 @@
   "name": "Farhh Flung",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The David Bourke",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -9385,6 +9820,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "FEHMARN": {
+  "name": "Fehmarn",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.76,
+     "close_ratio": 0.97,
+     "last200_t": 13.42,
+     "last600_t": 36.32,
+     "overall_t": 67.16,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.41
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -9665,6 +10121,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.92,
+     "close_ratio": 1.0,
+     "last200_t": 12.22,
+     "last600_t": 35.24,
+     "overall_t": 86.29,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1600,
     "race": null,
@@ -9792,6 +10264,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.28,
+     "close_ratio": 1.0,
+     "last200_t": 12.63,
+     "last600_t": 35.47,
+     "overall_t": 86.92,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -9858,6 +10346,22 @@
      "overall_t": 98.15,
      "race_name": "Silver Bowl Series Final",
      "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.08,
+     "close_ratio": 0.99,
+     "last200_t": 12.82,
+     "last600_t": 36.35,
+     "overall_t": 100.15,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 17.59
     },
     "steward": null,
     "track": "Flemington"
@@ -10092,6 +10596,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.26,
+     "close_ratio": 0.95,
+     "last200_t": 13.24,
+     "last600_t": 36.47,
+     "overall_t": 86.26,
+     "race_name": "TAB We're On",
+     "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -10171,6 +10691,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB We're On",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -10213,6 +10749,22 @@
      "overall_t": 97.44,
      "race_name": "VRC-CRV Winter Championship Series Final",
      "top_spd": 18.04
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.26,
+     "close_ratio": 1.0,
+     "last200_t": 12.75,
+     "last600_t": 36.11,
+     "overall_t": 99.3,
+     "race_name": "The David Bourke",
+     "top_spd": 17.61
     },
     "steward": null,
     "track": "Flemington"
@@ -10323,6 +10875,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.93,
+     "close_ratio": 0.88,
+     "last200_t": 14.23,
+     "last600_t": 39.18,
+     "overall_t": 87.46,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -10455,6 +11023,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB We're On",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -10573,6 +11157,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "GALLANTRY": {
+  "name": "Gallantry",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.46,
+     "close_ratio": 0.93,
+     "last200_t": 13.57,
+     "last600_t": 37.53,
+     "overall_t": 87.02,
+     "race_name": "TAB We're On",
+     "top_spd": 18.73
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -10778,6 +11383,22 @@
  "GIN A TONIC": {
   "name": "Gin A Tonic",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-13",
     "distance": 1000,
@@ -11207,6 +11828,22 @@
   "name": "Golden Horizon",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -11588,6 +12225,43 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.25,
+     "close_ratio": 1.09,
+     "last200_t": 12.42,
+     "last600_t": 35.48,
+     "overall_t": 127.2,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "HARD EVIDENCE": {
+  "name": "Hard Evidence",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.32,
+     "close_ratio": 1.08,
+     "last200_t": 12.16,
+     "last600_t": 35.1,
+     "overall_t": 127.25,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -11902,6 +12576,27 @@
    }
   ]
  },
+ "HELVECCHIO": {
+  "name": "Helvecchio",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.96,
+     "last200_t": 12.64,
+     "last600_t": 36.2,
+     "overall_t": 86.47,
+     "race_name": "TAB We're On",
+     "top_spd": 18.11
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "HERES MATILDA": {
   "name": "Here'S Matilda",
   "runs": [
@@ -12117,6 +12812,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.89,
+     "close_ratio": 1.07,
+     "last200_t": 12.99,
+     "last600_t": 36.7,
+     "overall_t": 165.26,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.56
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -12135,6 +12846,22 @@
      "overall_t": 98.57,
      "race_name": "VRC-CRV Winter Championship Series Final",
      "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.41,
+     "close_ratio": 1.0,
+     "last200_t": 12.68,
+     "last600_t": 35.69,
+     "overall_t": 98.72,
+     "race_name": "The David Bourke",
+     "top_spd": 18.03
     },
     "steward": null,
     "track": "Flemington"
@@ -12159,6 +12886,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "HIGHVOL": {
+  "name": "Highvol",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.08,
+     "close_ratio": 0.96,
+     "last200_t": 13.75,
+     "last600_t": 37.51,
+     "overall_t": 100.98,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 17.88
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -12472,6 +13220,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.7,
+     "close_ratio": 1.03,
+     "last200_t": 13.6,
+     "last600_t": 37.91,
+     "overall_t": 165.46,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.42
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -12541,6 +13305,22 @@
  "HUSK": {
   "name": "Husk",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.54,
+     "close_ratio": 0.98,
+     "last200_t": 12.48,
+     "last600_t": 35.74,
+     "overall_t": 86.64,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.52
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 1400,
@@ -12729,6 +13509,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "ICE KOOL": {
+  "name": "Ice Kool",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -12939,6 +13740,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "IMATEEZ": {
+  "name": "I'mateez",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 12.37,
+     "last600_t": 34.78,
+     "overall_t": 65.84,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -13217,6 +14039,27 @@
    }
   ]
  },
+ "INSOLENCE": {
+  "name": "Insolence",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.7,
+     "close_ratio": 0.97,
+     "last200_t": 13.05,
+     "last600_t": 36.31,
+     "overall_t": 86.38,
+     "race_name": "TAB We're On",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "INTIMEOFNEED": {
   "name": "Intimeofneed",
   "runs": [
@@ -13408,6 +14251,22 @@
  "ITS A KNOCKOUT": {
   "name": "It's A Knockout",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.84,
+     "close_ratio": 1.01,
+     "last200_t": 12.25,
+     "last600_t": 35.27,
+     "overall_t": 86.33,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 17.99
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 1400,
@@ -13758,6 +14617,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.15,
+     "close_ratio": 0.99,
+     "last200_t": 13.18,
+     "last600_t": 35.8,
+     "overall_t": 66.77,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.6
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -13928,6 +14803,22 @@
      "overall_t": 97.88,
      "race_name": "VRC-CRV Winter Championship Series Final",
      "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.22,
+     "close_ratio": 1.01,
+     "last200_t": 12.6,
+     "last600_t": 35.76,
+     "overall_t": 99.17,
+     "race_name": "The David Bourke",
+     "top_spd": 17.94
     },
     "steward": null,
     "track": "Flemington"
@@ -14156,6 +15047,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The David Bourke",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -14306,6 +15213,22 @@
      "overall_t": 99.05,
      "race_name": "Silver Bowl Series Final",
      "top_spd": 18.08
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.88,
+     "close_ratio": 1.03,
+     "last200_t": 12.68,
+     "last600_t": 35.69,
+     "overall_t": 100.04,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 18.11
     },
     "steward": null,
     "track": "Flemington"
@@ -14635,6 +15558,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.2,
+     "close_ratio": 1.05,
+     "last200_t": 14.36,
+     "last600_t": 38.51,
+     "overall_t": 167.23,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 18.04
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -14712,6 +15651,22 @@
      "overall_t": 160.09,
      "race_name": "Sharp EIT Mahogany Challenge Final",
      "top_spd": 16.86
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.09,
+     "last200_t": 12.01,
+     "last600_t": 34.87,
+     "overall_t": 127.12,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 18.05
     },
     "steward": null,
     "track": "Flemington"
@@ -14844,6 +15799,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.26,
+     "close_ratio": 0.97,
+     "last200_t": 13.42,
+     "last600_t": 36.84,
+     "overall_t": 86.45,
+     "race_name": "TAB We're On",
+     "top_spd": 18.41
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -14865,6 +15836,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "KOMACHI": {
+  "name": "Komachi",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -14946,6 +15938,22 @@
      "overall_t": 72.3,
      "race_name": "A.R. Creswick Stakes",
      "top_spd": 18.2
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.67,
+     "close_ratio": 0.98,
+     "last200_t": 12.85,
+     "last600_t": 35.61,
+     "overall_t": 66.14,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.58
     },
     "steward": null,
     "track": "Flemington"
@@ -15054,6 +16062,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -15149,6 +16173,22 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.77,
+     "close_ratio": 1.01,
+     "last200_t": 12.0,
+     "last600_t": 34.94,
+     "overall_t": 86.5,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.06
+    },
+    "steward": null,
     "track": "Flemington"
    }
   ]
@@ -15925,6 +16965,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.87,
+     "close_ratio": 1.02,
+     "last200_t": 12.33,
+     "last600_t": 34.53,
+     "overall_t": 65.73,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 19.05
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -16057,6 +17113,22 @@
      "overall_t": 98.91,
      "race_name": "Silver Bowl Series Final",
      "top_spd": 17.68
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.44,
+     "close_ratio": 0.99,
+     "last200_t": 12.61,
+     "last600_t": 35.85,
+     "overall_t": 99.61,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 17.83
     },
     "steward": null,
     "track": "Flemington"
@@ -16289,6 +17361,43 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.74,
+     "close_ratio": 0.9,
+     "last200_t": 13.61,
+     "last600_t": 38.03,
+     "overall_t": 86.66,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "MADESIAN": {
+  "name": "Madesian",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -16542,6 +17651,27 @@
    }
   ]
  },
+ "MAHERS LANDING": {
+  "name": "Mahers Landing",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.65,
+     "close_ratio": 1.06,
+     "last200_t": 12.64,
+     "last600_t": 36.07,
+     "overall_t": 128.22,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.67
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MAHERSHALA": {
   "name": "Mahershala",
   "runs": [
@@ -16658,9 +17788,46 @@
    }
   ]
  },
+ "MAKE EM ALL": {
+  "name": "Make 'Em All",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.79,
+     "close_ratio": 0.93,
+     "last200_t": 13.41,
+     "last600_t": 37.4,
+     "overall_t": 88.01,
+     "race_name": "TAB We're On",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MAKE IT SWEET": {
   "name": "Make It Sweet",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 1400,
@@ -16682,6 +17849,22 @@
  "MALDINI": {
   "name": "Maldini",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 1600,
@@ -17368,6 +18551,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.39,
+     "close_ratio": 1.0,
+     "last200_t": 12.46,
+     "last600_t": 35.43,
+     "overall_t": 85.99,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.68
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1400,
     "race": null,
@@ -17626,6 +18825,22 @@
     "track": "Sandown Lakeside"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -17726,6 +18941,22 @@
      "overall_t": null,
      "race_name": "Banjo Paterson Series Final",
      "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.62,
+     "close_ratio": 1.07,
+     "last200_t": 13.22,
+     "last600_t": 36.8,
+     "overall_t": 165.04,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.72
     },
     "steward": null,
     "track": "Flemington"
@@ -17841,6 +19072,22 @@
      "overall_t": 73.77,
      "race_name": "Santa Ana Lane Sprint Series Final",
      "top_spd": 19.26
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.02,
+     "close_ratio": 0.99,
+     "last200_t": 12.46,
+     "last600_t": 34.83,
+     "overall_t": 65.91,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.72
     },
     "steward": null,
     "track": "Flemington"
@@ -17994,6 +19241,22 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.9,
+     "close_ratio": 1.05,
+     "last200_t": 12.81,
+     "last600_t": 36.35,
+     "overall_t": 128.17,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.58
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -18249,6 +19512,27 @@
    }
   ]
  },
+ "MR WATERVILLE": {
+  "name": "Mr Waterville",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.84,
+     "close_ratio": 1.07,
+     "last200_t": 12.96,
+     "last600_t": 36.72,
+     "overall_t": 165.29,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 18.0
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MS PORT MELBOURNE": {
   "name": "Ms Port Melbourne",
   "runs": [
@@ -18427,6 +19711,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "MYSTIC WONDER": {
+  "name": "Mystic Wonder",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -18745,6 +20050,27 @@
    }
   ]
  },
+ "NEW YORK LUSTRE": {
+  "name": "New York Lustre",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.07,
+     "close_ratio": 1.0,
+     "last200_t": 12.65,
+     "last600_t": 35.17,
+     "overall_t": 65.92,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "NEXT STEP IOWA": {
   "name": "Next Step Iowa",
   "runs": [
@@ -18891,6 +20217,22 @@
      "overall_t": null,
      "race_name": "Sharp EIT Mahogany Challenge Final",
      "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.78,
+     "close_ratio": 1.05,
+     "last200_t": 12.54,
+     "last600_t": 36.02,
+     "overall_t": 128.41,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.76
     },
     "steward": null,
     "track": "Flemington"
@@ -19111,6 +20453,22 @@
     "track": "Sandown Hillside"
    },
    {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.46,
+     "close_ratio": 1.05,
+     "last200_t": 12.61,
+     "last600_t": 36.14,
+     "overall_t": 128.18,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.47
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -19272,6 +20630,22 @@
      "overall_t": 98.3,
      "race_name": "Silver Bowl Series Final",
      "top_spd": 17.6
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.45,
+     "last600_t": 35.29,
+     "overall_t": 99.2,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 18.02
     },
     "steward": null,
     "track": "Flemington"
@@ -19865,6 +21239,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.45,
+     "close_ratio": 1.09,
+     "last200_t": 12.28,
+     "last600_t": 35.41,
+     "overall_t": 126.74,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -20016,6 +21406,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.66,
+     "close_ratio": 0.91,
+     "last200_t": 14.03,
+     "last600_t": 38.06,
+     "overall_t": 87.16,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -20147,12 +21553,44 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.07,
+     "close_ratio": 1.02,
+     "last200_t": 12.5,
+     "last600_t": 35.62,
+     "overall_t": 99.68,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 17.81
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
  "PALLADIUM": {
   "name": "Palladium",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.92,
+     "close_ratio": 0.99,
+     "last200_t": 12.87,
+     "last600_t": 36.41,
+     "overall_t": 100.75,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 1600,
@@ -20600,6 +22038,27 @@
    }
   ]
  },
+ "PISANELLO": {
+  "name": "Pisanello",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.99,
+     "close_ratio": 1.02,
+     "last200_t": 12.6,
+     "last600_t": 34.84,
+     "overall_t": 65.83,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.57
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PLACENTIA BAY": {
   "name": "Placentia Bay",
   "runs": [
@@ -20746,6 +22205,27 @@
    }
   ]
  },
+ "POKER": {
+  "name": "Poker",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.23,
+     "close_ratio": 0.96,
+     "last200_t": 12.91,
+     "last600_t": 35.77,
+     "overall_t": 66.43,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.76
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "POLAR PERSPECTIVE": {
   "name": "Polar Perspective",
   "runs": [
@@ -20764,6 +22244,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "PORTARLINGTON": {
+  "name": "Portarlington",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.0,
+     "close_ratio": 0.92,
+     "last200_t": 13.65,
+     "last600_t": 37.71,
+     "overall_t": 87.31,
+     "race_name": "TAB We're On",
+     "top_spd": 18.52
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -20888,6 +22389,27 @@
    }
   ]
  },
+ "PRESTAR": {
+  "name": "Prestar",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.03,
+     "close_ratio": 1.0,
+     "last200_t": 12.81,
+     "last600_t": 35.48,
+     "overall_t": 66.18,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.48
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PRESTIGE FOREVER": {
   "name": "Prestige Forever",
   "runs": [
@@ -20970,6 +22492,22 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.18,
+     "close_ratio": 0.99,
+     "last200_t": 13.38,
+     "last600_t": 36.69,
+     "overall_t": 100.76,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 18.09
+    },
+    "steward": null,
+    "track": "Flemington"
    },
    {
     "date": "2026-06-13",
@@ -21471,6 +23009,22 @@
   "name": "Punch Lane",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.82,
+     "close_ratio": 0.96,
+     "last200_t": 13.43,
+     "last600_t": 37.42,
+     "overall_t": 100.01,
+     "race_name": "The David Bourke",
+     "top_spd": 17.93
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -21702,6 +23256,22 @@
      "overall_t": 161.19,
      "race_name": "Sharp EIT Mahogany Challenge Final",
      "top_spd": 17.16
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": null
     },
     "steward": null,
     "track": "Flemington"
@@ -21954,6 +23524,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.73,
+     "close_ratio": 1.01,
+     "last200_t": 12.19,
+     "last600_t": 34.58,
+     "overall_t": 65.52,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -21998,6 +23584,22 @@
      "overall_t": 71.82,
      "race_name": "A.R. Creswick Stakes",
      "top_spd": 18.86
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.81,
+     "close_ratio": 0.99,
+     "last200_t": 12.82,
+     "last600_t": 35.56,
+     "overall_t": 66.29,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.28
     },
     "steward": null,
     "track": "Flemington"
@@ -22608,6 +24210,22 @@
   "name": "Rosa Aotearoa",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.49,
+     "close_ratio": 0.92,
+     "last200_t": 13.23,
+     "last600_t": 36.97,
+     "overall_t": 85.49,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1200,
     "race": null,
@@ -22781,6 +24399,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.33,
+     "close_ratio": 1.03,
+     "last200_t": 12.18,
+     "last600_t": 34.37,
+     "overall_t": 65.74,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.85
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1200,
     "race": null,
@@ -22923,6 +24557,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.07,
+     "close_ratio": 0.95,
+     "last200_t": 13.22,
+     "last600_t": 36.75,
+     "overall_t": 86.61,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -22986,6 +24636,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.55,
+     "close_ratio": 0.99,
+     "last200_t": 13.27,
+     "last600_t": 36.37,
+     "overall_t": 99.77,
+     "race_name": "The David Bourke",
+     "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23007,6 +24673,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "RUNNING RICH": {
+  "name": "Running Rich",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.65,
+     "close_ratio": 0.9,
+     "last200_t": 14.68,
+     "last600_t": 39.07,
+     "overall_t": 88.35,
+     "race_name": "TAB We're On",
+     "top_spd": 19.06
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23198,6 +24885,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.78,
+     "close_ratio": 1.02,
+     "last200_t": 12.64,
+     "last600_t": 35.56,
+     "overall_t": 99.16,
+     "race_name": "The David Bourke",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23258,6 +24961,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SALT SPRAY": {
+  "name": "Salt Spray",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.13,
+     "close_ratio": 1.06,
+     "last200_t": 12.6,
+     "last600_t": 35.89,
+     "overall_t": 127.6,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.62
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23358,6 +25082,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.94,
+     "last600_t": 34.14,
+     "overall_t": 65.81,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.58
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23408,6 +25148,22 @@
      "overall_t": 169.38,
      "race_name": "Banjo Paterson Series Final",
      "top_spd": 18.19
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.4,
+     "close_ratio": 1.06,
+     "last200_t": 13.12,
+     "last600_t": 36.88,
+     "overall_t": 165.18,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.97
     },
     "steward": null,
     "track": "Flemington"
@@ -23520,6 +25276,27 @@
    }
   ]
  },
+ "SATONOS SHOUT": {
+  "name": "Satono's Shout",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.18,
+     "close_ratio": 0.96,
+     "last200_t": 13.15,
+     "last600_t": 36.5,
+     "overall_t": 86.57,
+     "race_name": "TAB We're On",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SAUVITUDE": {
   "name": "Sauvitude",
   "runs": [
@@ -23538,6 +25315,22 @@
     },
     "steward": null,
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23794,6 +25587,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 12.48,
+     "last600_t": 35.48,
+     "overall_t": 98.69,
+     "race_name": "The David Bourke",
+     "top_spd": 17.93
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23836,6 +25645,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The David Bourke",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -23860,9 +25685,46 @@
    }
   ]
  },
+ "SEMILLION": {
+  "name": "Semillion",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.1,
+     "close_ratio": 0.89,
+     "last200_t": 14.4,
+     "last600_t": 39.11,
+     "overall_t": 87.43,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SET ME FREE": {
   "name": "Set Me Free",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 82.61,
+     "close_ratio": 0.97,
+     "last200_t": 17.04,
+     "last600_t": 42.2,
+     "overall_t": 133.64,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.02
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 2000,
@@ -24181,6 +26043,22 @@
   "name": "She's Got The Cash",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.89,
+     "close_ratio": 1.07,
+     "last200_t": 12.56,
+     "last600_t": 35.61,
+     "overall_t": 127.57,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -24282,6 +26160,27 @@
    }
   ]
  },
+ "SHINSIENA": {
+  "name": "Shinsiena",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.0,
+     "close_ratio": 0.94,
+     "last200_t": 13.73,
+     "last600_t": 37.32,
+     "overall_t": 87.27,
+     "race_name": "TAB We're On",
+     "top_spd": 18.61
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SHINY NEW DEEL": {
   "name": "Shiny New Deel",
   "runs": [
@@ -24334,6 +26233,27 @@
      "overall_t": 129.42,
      "race_name": "Flemington Community Plate",
      "top_spd": 17.91
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SHOMA": {
+  "name": "Shoma",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.25,
+     "close_ratio": 1.02,
+     "last200_t": 12.6,
+     "last600_t": 35.92,
+     "overall_t": 100.52,
+     "race_name": "Country Racing Victoria Trophy",
+     "top_spd": 18.27
     },
     "steward": null,
     "track": "Flemington"
@@ -24642,6 +26562,22 @@
      "overall_t": 84.33,
      "race_name": "Shore Goggles Leilani Series Final",
      "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.22,
+     "close_ratio": 1.01,
+     "last200_t": 12.53,
+     "last600_t": 35.49,
+     "overall_t": 86.66,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.24
     },
     "steward": null,
     "track": "Flemington"
@@ -25235,6 +27171,22 @@
   "name": "Soldier Boi",
   "runs": [
    {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -25420,6 +27372,22 @@
     "track": "Sandown Hillside"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.41,
+     "close_ratio": 0.93,
+     "last200_t": 13.5,
+     "last600_t": 37.0,
+     "overall_t": 86.43,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.28
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -25434,6 +27402,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SOUTH YARRA MISS": {
+  "name": "South Yarra Miss",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.9,
+     "close_ratio": 0.92,
+     "last200_t": 15.06,
+     "last600_t": 39.39,
+     "overall_t": 89.71,
+     "race_name": "TAB We're On",
+     "top_spd": 18.2
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -25544,6 +27533,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1620,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The David Bourke",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -25669,6 +27674,22 @@
      "overall_t": 98.87,
      "race_name": "Taj Rossi Series Final",
      "top_spd": 18.09
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.83,
+     "close_ratio": 0.94,
+     "last200_t": 12.82,
+     "last600_t": 36.26,
+     "overall_t": 86.41,
+     "race_name": "TAB We're On",
+     "top_spd": 18.65
     },
     "steward": null,
     "track": "Flemington"
@@ -26761,6 +28782,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.23,
+     "close_ratio": 0.99,
+     "last200_t": 12.11,
+     "last600_t": 35.13,
+     "overall_t": 85.84,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.56
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1400,
     "race": null,
@@ -26957,6 +28994,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.7,
+     "close_ratio": 0.92,
+     "last200_t": 13.06,
+     "last600_t": 36.89,
+     "overall_t": 85.54,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -27100,6 +29153,22 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.59,
+     "close_ratio": 0.99,
+     "last200_t": 12.27,
+     "last600_t": 35.36,
+     "overall_t": 86.61,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 17.96
+    },
+    "steward": null,
     "track": "Flemington"
    },
    {
@@ -27311,6 +29380,22 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.94,
+     "close_ratio": 1.05,
+     "last200_t": 13.24,
+     "last600_t": 37.43,
+     "overall_t": 165.69,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.84
+    },
+    "steward": null,
     "track": "Flemington"
    }
   ]
@@ -27598,6 +29683,43 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.17,
+     "close_ratio": 0.99,
+     "last200_t": 12.95,
+     "last600_t": 35.43,
+     "overall_t": 66.31,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "TAUNTING": {
+  "name": "Taunting",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 89.23,
+     "close_ratio": 0.93,
+     "last200_t": 14.86,
+     "last600_t": 38.26,
+     "overall_t": 68.65,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -27643,6 +29765,27 @@
    }
   ]
  },
+ "TEARS OF HAPPINESS": {
+  "name": "Tears Of Happiness",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB We're On",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "TEMPERED EDGE": {
   "name": "Tempered Edge",
   "runs": [
@@ -27679,6 +29822,22 @@
      "overall_t": 180.03,
      "race_name": "Deane Lester Flemington Cup 1849",
      "top_spd": 18.2
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.16,
+     "close_ratio": 1.05,
+     "last200_t": 13.67,
+     "last600_t": 37.73,
+     "overall_t": 166.07,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 18.02
     },
     "steward": null,
     "track": "Flemington"
@@ -27779,6 +29938,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.94,
+     "last200_t": 12.96,
+     "last600_t": 36.41,
+     "overall_t": 85.06,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.52
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -28221,6 +30396,27 @@
    }
   ]
  },
+ "THE PENDRAGON": {
+  "name": "The Pendragon",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "THE QUIET IMMORTAL": {
   "name": "The Quiet Immortal",
   "runs": [
@@ -28349,12 +30545,44 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.68,
+     "close_ratio": 1.05,
+     "last200_t": 13.26,
+     "last600_t": 37.15,
+     "overall_t": 164.85,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.46
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
  "THEBELMONTGANGSTER": {
   "name": "Thebelmontgangster",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.59,
+     "close_ratio": 0.94,
+     "last200_t": 13.12,
+     "last600_t": 36.56,
+     "overall_t": 85.43,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.47
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-13",
     "distance": 1400,
@@ -28492,6 +30720,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-20",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.32,
+     "close_ratio": 1.09,
+     "last200_t": 12.69,
+     "last600_t": 35.82,
+     "overall_t": 127.65,
+     "race_name": "Ken Cox Handicap",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -28575,6 +30819,22 @@
  "THIS TIME GIRL": {
   "name": "This Time Girl",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.04,
+     "last600_t": 34.86,
+     "overall_t": 86.56,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": 18.25
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-06",
     "distance": 1400,
@@ -29502,6 +31762,27 @@
    }
   ]
  },
+ "ULFBERHT": {
+  "name": "Ulfberht",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.4,
+     "close_ratio": 0.98,
+     "last200_t": 13.23,
+     "last600_t": 36.08,
+     "overall_t": 66.94,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "UMGAWA": {
   "name": "Umgawa",
   "runs": [
@@ -29713,6 +31994,27 @@
    }
   ]
  },
+ "UYUNI": {
+  "name": "Uyuni",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rod Johnson Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "VAIN BEAUTY": {
   "name": "Vain Beauty",
   "runs": [
@@ -29874,6 +32176,22 @@
      "overall_t": 169.65,
      "race_name": "Banjo Paterson Series Final",
      "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.07,
+     "last200_t": 12.97,
+     "last600_t": 36.66,
+     "overall_t": 164.65,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 17.55
     },
     "steward": null,
     "track": "Flemington"
@@ -30188,6 +32506,22 @@
      "overall_t": 170.09,
      "race_name": "Banjo Paterson Series Final",
      "top_spd": 18.11
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 2540,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.77,
+     "close_ratio": 1.04,
+     "last200_t": 14.06,
+     "last600_t": 38.28,
+     "overall_t": 166.69,
+     "race_name": "Country Racing It's Got It All Trophy",
+     "top_spd": 18.0
     },
     "steward": null,
     "track": "Flemington"
@@ -30672,6 +33006,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.65,
+     "close_ratio": 1.0,
+     "last200_t": 12.53,
+     "last600_t": 34.96,
+     "overall_t": 65.7,
+     "race_name": "Brian Beattie Handicap",
+     "top_spd": 18.29
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -30904,6 +33254,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.35,
+     "close_ratio": 0.92,
+     "last200_t": 13.33,
+     "last600_t": 37.4,
+     "overall_t": 86.64,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": 18.38
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -31008,6 +33374,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "2026 Country Achiever Cindy Alderson",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -31053,6 +33435,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "YOUMZAIN EXPRESS": {
+  "name": "Youmzain Express",
+  "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.02,
+     "close_ratio": 0.95,
+     "last200_t": 13.13,
+     "last600_t": 36.93,
+     "overall_t": 87.67,
+     "race_name": "TAB We're On",
+     "top_spd": 18.12
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -31514,6 +33917,22 @@
  "ZUNNA": {
   "name": "Zunna",
   "runs": [
+   {
+    "date": "2026-06-20",
+    "distance": 1420,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Bruce Gadsden Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-13",
     "distance": 1400,
