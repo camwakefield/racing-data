@@ -2,6 +2,76 @@
  {
   "date": "2026-02-14",
   "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_01.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_02.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_03.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_05.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_06.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_07.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_08.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_09.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_10.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 14 February 2026 _ VIC _ Racing.com.html",
   "count": 54,
@@ -10,10 +80,276 @@
  {
   "date": "2026-03-07",
   "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_01.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_02.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_03.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_04.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_05.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_06.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_07.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_08.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_09.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191184_10.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-03-07",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 7 March 2026 _ VIC _ Racing.com.html",
   "count": 56,
   "condition": "Good 4, upgraded to a Good 3 at 3:18 pm after Race 6"
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_01.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_02.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_05.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_06.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_07.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_08.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_09.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_01.csv",
+  "count": 5
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_02.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_05.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_06.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_07.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_08.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_09.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-03-28",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190751_10.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_01.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_02.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_03.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_04.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_05.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_06.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_07.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_08.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191101_09.csv",
+  "count": 16
  },
  {
   "date": "2026-05-30",
@@ -26,10 +362,136 @@
  {
   "date": "2026-06-06",
   "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_01.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_02.csv",
+  "count": 20
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_03.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_04.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_05.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_06.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_07.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_08.csv",
+  "count": 20
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191092_09.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-06",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 6 June 2026 _ VIC _ Racing.com.html",
   "count": 80,
   "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_01.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_02.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_04.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_05.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_06.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_07.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_08.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-06-13",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_09.csv",
+  "count": 17
  },
  {
   "date": "2026-06-13",
@@ -42,10 +504,129 @@
  {
   "date": "2026-06-20",
   "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_01.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_02.csv",
+  "count": 19
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_03.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_05.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_06.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_07.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_08.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191079_09.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-06-20",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 20 June 2026 _ VIC _ Racing.com.html",
   "count": 74,
   "condition": "Heavy 8, upgraded to a Soft 7 at 1:45 pm after Race 4"
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_01.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_02.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_03.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_04.csv",
+  "count": 6
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_05.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_06.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_07.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-06-24",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5197103_08.csv",
+  "count": 8
  },
  {
   "date": "2026-06-24",
@@ -57,11 +638,319 @@
  },
  {
   "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_01.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_02.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_03.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_05.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_06.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_07.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_08.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Morphettville Parks",
+  "type": "sectional",
+  "source_file": "5190810_09.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_01 (1).csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_01.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_02 (1).csv",
+  "count": 13
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_02.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_03 (1).csv",
+  "count": 12
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_04 (1).csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_04.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_05 (1).csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_05.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_06 (1).csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_06.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_07 (1).csv",
+  "count": 19
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_07.csv",
+  "count": 19
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_08 (1).csv",
+  "count": 20
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_08.csv",
+  "count": 20
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_09 (1).csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-27",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191071_09.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-06-27",
   "track": "Caulfield",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Caulfield _ Saturday _ 27 June 2026 _ VIC _ Racing.com.html",
   "count": 82,
   "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_01.csv",
+  "count": 6
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_02.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_03.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_04.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_05.csv",
+  "count": 19
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_06.csv",
+  "count": 20
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_07.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-01",
+  "track": "Sandown Lakeside",
+  "type": "sectional",
+  "source_file": "5191067_08.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_01.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_02.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_03.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_04.csv",
+  "count": 20
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_05.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_06.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_07.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_08.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191063_09.csv",
+  "count": 13
  },
  {
   "date": "2026-07-04",
@@ -74,10 +963,136 @@
  {
   "date": "2026-07-05",
   "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_01.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_02.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_03.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_05.csv",
+  "count": 20
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_06.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_07.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_08.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional",
+  "source_file": "5191053_09.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Bendigo _ Sunday _ 5 July 2026 _ VIC _ Racing.com.pdf",
   "count": 63,
   "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3"
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_01.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_02.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_03.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_05.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_06.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_07.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_08.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-11",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191055_09.csv",
+  "count": 16
  },
  {
   "date": "2026-07-11",
@@ -90,10 +1105,122 @@
  {
   "date": "2026-07-14",
   "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_01.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_02.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_03.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_04.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_05.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_06.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_07.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
+  "type": "sectional",
+  "source_file": "5191052_08.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-14",
+  "track": "Ballarat Synthetic",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Sportsbet-Ballarat Synthetic _ Tuesday _ 14 July 2026 _ VIC _ Racing.com.html",
   "count": 50,
   "condition": "Synthetic"
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_01.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_02.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_03.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_04.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_05.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_06.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_07.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-15",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191051_08.csv",
+  "count": 20
  },
  {
   "date": "2026-07-15",
@@ -106,10 +1233,129 @@
  {
   "date": "2026-07-16",
   "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_01.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_02.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_03.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_05.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_06.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_07.csv",
+  "count": 19
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
+  "type": "sectional",
+  "source_file": "5191022_08.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-16",
+  "track": "Cranbourne",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Southside Cranbourne _ Thursday _ 16 July 2026 _ VIC _ Racing.com.html",
   "count": 56,
   "condition": "Heavy 9"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_01 (1).csv",
+  "count": 5
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_02.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_05.csv",
+  "count": 17
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_06.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_07.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_08.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5191049_09.csv",
+  "count": 14
  },
  {
   "date": "2026-07-18",
@@ -138,10 +1384,136 @@
  {
   "date": "2026-07-25",
   "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_01 (1).csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_01.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_02.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_03.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_05.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_06.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_07.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_08.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional",
+  "source_file": "5191040_09.csv",
+  "count": 15
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
   "type": "stewards",
   "source_file": "caulfield_20260725.txt",
   "count": 59,
   "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_01.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_02.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_05.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_06.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_07.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_08.csv",
+  "count": 10
  },
  {
   "date": "2026-07-29",
