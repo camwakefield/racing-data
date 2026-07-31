@@ -475,6 +475,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 83.28,
+     "close_ratio": 0.92,
+     "last200_t": 16.01,
+     "last600_t": 41.1,
+     "overall_t": 102.8,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": 17.29
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -1187,6 +1203,27 @@
    }
   ]
  },
+ "ALAA PLENTY": {
+  "name": "Alaa Plenty",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.93,
+     "close_ratio": 1.01,
+     "last200_t": 12.07,
+     "last600_t": 34.25,
+     "overall_t": 64.91,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 18.69
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ALBANIAN I AM": {
   "name": "Albanian I Am",
   "runs": [
@@ -1226,6 +1263,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ALEPPO PINE": {
+  "name": "Aleppo Pine",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.0,
+     "close_ratio": 1.0,
+     "last200_t": 12.08,
+     "last600_t": 34.06,
+     "overall_t": 61.75,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -1383,6 +1441,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "ALMOST AN ANGEL": {
+  "name": "Almost An Angel",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.03,
+     "last200_t": 11.75,
+     "last600_t": 34.02,
+     "overall_t": 61.88,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -1659,6 +1738,27 @@
    }
   ]
  },
+ "ANAHORISH": {
+  "name": "Anahorish",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 87.62,
+     "close_ratio": 0.97,
+     "last200_t": 16.24,
+     "last600_t": 40.79,
+     "overall_t": 98.01,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.36
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ANASTASIAS FLAME": {
   "name": "Anastasia'S Flame",
   "runs": [
@@ -1764,6 +1864,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ANGEL TORQUE": {
+  "name": "Angel Torque",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 11.68,
+     "last600_t": 33.54,
+     "overall_t": 64.89,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 19.14
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -2465,6 +2586,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -2567,6 +2704,48 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "ARKANSAW KID": {
+  "name": "Arkansaw Kid",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.53,
+     "close_ratio": 1.01,
+     "last200_t": 11.74,
+     "last600_t": 33.77,
+     "overall_t": 70.35,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": 18.82
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "ARTISSI": {
+  "name": "Artissi",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.91,
+     "close_ratio": 1.0,
+     "last200_t": 11.89,
+     "last600_t": 34.16,
+     "overall_t": 71.19,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.59
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -4371,6 +4550,27 @@
    }
   ]
  },
+ "BETTER REIN IT IN": {
+  "name": "Better Rein It In",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.16,
+     "close_ratio": 0.97,
+     "last200_t": 12.78,
+     "last600_t": 35.74,
+     "overall_t": 63.2,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 18.94
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "BETWITCHERY": {
   "name": "Betwitchery",
   "runs": [
@@ -4431,6 +4631,48 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "BIG BRUTE": {
+  "name": "Big Brute",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "BIG RITA JUNE": {
+  "name": "Big Rita June",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.03,
+     "close_ratio": 1.04,
+     "last200_t": 12.17,
+     "last600_t": 35.11,
+     "overall_t": 98.69,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 18.18
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -4516,6 +4758,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BILLIE BRONX": {
+  "name": "Billie Bronx",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -4692,6 +4955,27 @@
    }
   ]
  },
+ "BLANC VISAGE": {
+  "name": "Blanc Visage",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.91,
+     "close_ratio": 1.01,
+     "last200_t": 11.97,
+     "last600_t": 33.91,
+     "overall_t": 65.01,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 18.95
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "BLANKFIELD": {
   "name": "Blankfield",
   "runs": [
@@ -4826,6 +5110,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.52,
+     "close_ratio": 1.04,
+     "last200_t": 11.89,
+     "last600_t": 33.88,
+     "overall_t": 61.73,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.21
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -5482,6 +5782,27 @@
    }
   ]
  },
+ "BOOTLEGGER": {
+  "name": "Bootlegger",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.16,
+     "close_ratio": 1.1,
+     "last200_t": 11.37,
+     "last600_t": 34.4,
+     "overall_t": 99.8,
+     "race_name": "The Junction Handicap",
+     "top_spd": 18.23
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "BORIDI": {
   "name": "Boridi",
   "runs": [
@@ -5729,6 +6050,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BRAVE FORTUNE": {
+  "name": "Brave Fortune",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.81,
+     "close_ratio": 0.94,
+     "last200_t": 12.17,
+     "last600_t": 35.21,
+     "overall_t": 71.81,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.76
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -6310,6 +6652,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "BROWN NOSE DAY GAL": {
+  "name": "Brown Nose Day Gal",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.8,
+     "close_ratio": 1.01,
+     "last200_t": 11.94,
+     "last600_t": 35.0,
+     "overall_t": 96.44,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": 17.95
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -7277,6 +7640,27 @@
    }
   ]
  },
+ "CASH": {
+  "name": "Cash",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.7,
+     "last600_t": 34.23,
+     "overall_t": 95.78,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": 18.28
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "CASH CONVERTER": {
   "name": "Cash Converter",
   "runs": [
@@ -7295,6 +7679,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "CASINO SHOWGIRL": {
+  "name": "Casino Showgirl",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.47,
+     "close_ratio": 0.98,
+     "last200_t": 12.27,
+     "last600_t": 34.66,
+     "overall_t": 71.22,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.61
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -7431,6 +7836,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CELESTARIA": {
+  "name": "Celestaria",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.33,
+     "close_ratio": 1.01,
+     "last200_t": 11.82,
+     "last600_t": 34.24,
+     "overall_t": 62.25,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 19.22
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -8040,6 +8466,27 @@
    }
   ]
  },
+ "CHICAGO STORM": {
+  "name": "Chicago Storm",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.7,
+     "close_ratio": 1.01,
+     "last200_t": 11.6,
+     "last600_t": 33.71,
+     "overall_t": 70.45,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": 18.79
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "CHICKY WA WA": {
   "name": "Chicky Wa Wa",
   "runs": [
@@ -8116,6 +8563,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CHILLCUZ": {
+  "name": "Chillcuz",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.54,
+     "close_ratio": 1.0,
+     "last200_t": 12.83,
+     "last600_t": 36.64,
+     "overall_t": 93.29,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.65
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -8260,6 +8728,27 @@
    }
   ]
  },
+ "CHURCHILL ROSE": {
+  "name": "Churchill Rose",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.42,
+     "close_ratio": 1.02,
+     "last200_t": 12.41,
+     "last600_t": 34.91,
+     "overall_t": 62.97,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "CICALA": {
   "name": "Cicala",
   "runs": [
@@ -8383,6 +8872,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "CLARENCE": {
+  "name": "Clarence",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.14,
+     "close_ratio": 1.03,
+     "last200_t": 12.19,
+     "last600_t": 33.83,
+     "overall_t": 65.11,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -8837,6 +9347,27 @@
    }
   ]
  },
+ "COMMON INTEREST": {
+  "name": "Common Interest",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.08,
+     "close_ratio": 1.01,
+     "last200_t": 11.66,
+     "last600_t": 33.69,
+     "overall_t": 61.68,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.21
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "COMPRESSING": {
   "name": "Compressing",
   "runs": [
@@ -8983,6 +9514,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "COOL MAGNUM": {
+  "name": "Cool Magnum",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.04,
+     "close_ratio": 1.0,
+     "last200_t": 11.9,
+     "last600_t": 34.21,
+     "overall_t": 64.94,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -10348,6 +10900,22 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -10506,6 +11074,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "DECLARED": {
+  "name": "Declared",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.73,
+     "close_ratio": 0.99,
+     "last200_t": 12.11,
+     "last600_t": 33.97,
+     "overall_t": 64.92,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 19.55
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -10987,6 +11576,48 @@
    }
   ]
  },
+ "DIRTY GRIN": {
+  "name": "Dirty Grin",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.82,
+     "close_ratio": 1.01,
+     "last200_t": 12.02,
+     "last600_t": 34.01,
+     "overall_t": 70.84,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "DIRTY OLD TOWN": {
+  "name": "Dirty Old Town",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.92,
+     "close_ratio": 1.05,
+     "last200_t": 12.0,
+     "last600_t": 35.15,
+     "overall_t": 98.55,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.96
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "DISMANTLE": {
   "name": "Dismantle",
   "runs": [
@@ -11121,6 +11752,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "DOBBINAIR": {
+  "name": "Dobbinair",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.5,
+     "close_ratio": 0.98,
+     "last200_t": 12.01,
+     "last600_t": 34.3,
+     "overall_t": 71.0,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 19.03
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -11522,6 +12174,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "DRESS TO IMPRESS": {
+  "name": "Dress To Impress",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.69,
+     "close_ratio": 0.93,
+     "last200_t": 13.01,
+     "last600_t": 36.37,
+     "overall_t": 72.65,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.77
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -12846,6 +13519,27 @@
    }
   ]
  },
+ "ENUFF SEDUCTION": {
+  "name": "Enuff Seduction",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.68,
+     "close_ratio": 1.0,
+     "last200_t": 12.44,
+     "last600_t": 34.69,
+     "overall_t": 65.33,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 18.88
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ERNIE": {
   "name": "Ernie",
   "runs": [
@@ -13157,6 +13851,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.09,
+     "close_ratio": 0.99,
+     "last200_t": 12.86,
+     "last600_t": 36.81,
+     "overall_t": 93.46,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.96
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -13245,6 +13955,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.76,
+     "close_ratio": 0.97,
+     "last200_t": 12.22,
+     "last600_t": 34.56,
+     "overall_t": 71.01,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.52
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -13456,6 +14182,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "FAST BUBBLES": {
+  "name": "Fast Bubbles",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -13994,6 +14741,27 @@
    }
   ]
  },
+ "FLASH ALICE": {
+  "name": "Flash Alice",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 12.55,
+     "last600_t": 35.74,
+     "overall_t": 92.8,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.31
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "FLASH FEELING": {
   "name": "Flash Feeling",
   "runs": [
@@ -14189,6 +14957,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "FLYING BRANT": {
+  "name": "Flying Brant",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.59,
+     "close_ratio": 1.11,
+     "last200_t": 11.19,
+     "last600_t": 34.25,
+     "overall_t": 99.77,
+     "race_name": "The Junction Handicap",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -14637,6 +15426,27 @@
    }
   ]
  },
+ "FRANCES BOY": {
+  "name": "France'S Boy",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.26,
+     "close_ratio": 0.95,
+     "last200_t": 12.99,
+     "last600_t": 37.52,
+     "overall_t": 92.89,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.02
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "FRANKELS WORD": {
   "name": "Frankel's Word",
   "runs": [
@@ -14671,6 +15481,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "FREEDOM FLAME": {
+  "name": "Freedom Flame",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.37,
+     "close_ratio": 1.04,
+     "last200_t": 11.91,
+     "last600_t": 34.99,
+     "overall_t": 98.33,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.95
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -14962,6 +15793,27 @@
    }
   ]
  },
+ "FRINGES": {
+  "name": "Fringes",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.67,
+     "close_ratio": 1.02,
+     "last200_t": 12.31,
+     "last600_t": 35.6,
+     "overall_t": 98.94,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.7
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "FROM A DISTANCE": {
   "name": "From A Distance",
   "runs": [
@@ -15098,6 +15950,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "FROTHY MACAW": {
+  "name": "Frothy Macaw",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.09,
+     "close_ratio": 1.02,
+     "last200_t": 12.15,
+     "last600_t": 34.38,
+     "overall_t": 62.33,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -15804,6 +16677,27 @@
    }
   ]
  },
+ "GLOBAL TURN": {
+  "name": "Global Turn",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "GLORY DAZE": {
   "name": "Glory Daze",
   "runs": [
@@ -16020,6 +16914,27 @@
    }
   ]
  },
+ "GOLD SPIRIT": {
+  "name": "Gold Spirit",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.19,
+     "close_ratio": 0.95,
+     "last200_t": 12.03,
+     "last600_t": 34.76,
+     "overall_t": 70.64,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 19.77
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "GOLD TOPAZ": {
   "name": "Gold Topaz",
   "runs": [
@@ -16038,6 +16953,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "GOLDEN CLOUD": {
+  "name": "Golden Cloud",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.97,
+     "last200_t": 11.6,
+     "last600_t": 34.44,
+     "overall_t": 71.18,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -16325,6 +17261,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -16420,6 +17372,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "GRINZINGER ACE": {
+  "name": "Grinzinger Ace",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.1,
+     "close_ratio": 0.95,
+     "last200_t": 12.08,
+     "last600_t": 34.79,
+     "overall_t": 71.02,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.92
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -16562,6 +17535,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "HAARACAINE": {
+  "name": "Haaracaine",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -16797,6 +17791,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "HARRINO": {
+  "name": "Harrino",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.82,
+     "close_ratio": 0.97,
+     "last200_t": 11.84,
+     "last600_t": 34.85,
+     "overall_t": 71.72,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -17340,6 +18355,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "HIGH ON SUGAR": {
+  "name": "High On Sugar",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.94,
+     "close_ratio": 1.0,
+     "last200_t": 11.76,
+     "last600_t": 33.9,
+     "overall_t": 64.75,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -18298,6 +19334,27 @@
    }
   ]
  },
+ "ICE SYMPHONY": {
+  "name": "Ice Symphony",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.47,
+     "close_ratio": 0.98,
+     "last200_t": 12.0,
+     "last600_t": 34.66,
+     "overall_t": 70.98,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ICED POPPY": {
   "name": "Iced Poppy",
   "runs": [
@@ -18521,6 +19578,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "IMAGE ARTIST": {
+  "name": "Image Artist",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.38,
+     "close_ratio": 1.0,
+     "last200_t": 11.92,
+     "last600_t": 34.57,
+     "overall_t": 62.28,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 18.92
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -20253,6 +21331,27 @@
    }
   ]
  },
+ "KAKADU SUNSET": {
+  "name": "Kakadu Sunset",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.34,
+     "close_ratio": 1.01,
+     "last200_t": 12.49,
+     "last600_t": 35.72,
+     "overall_t": 98.63,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "KALEO": {
   "name": "Kaleo",
   "runs": [
@@ -21162,6 +22261,27 @@
    }
   ]
  },
+ "LA ROUX": {
+  "name": "La Roux",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.18,
+     "close_ratio": 1.02,
+     "last200_t": 11.78,
+     "last600_t": 34.0,
+     "overall_t": 61.79,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "LA VELOCITA": {
   "name": "La Velocita",
   "runs": [
@@ -21348,6 +22468,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "LAGUNANINI": {
+  "name": "Lagunanini",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -22922,6 +24063,27 @@
    }
   ]
  },
+ "MACHINEGUN MIKE": {
+  "name": "Machinegun Mike",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.23,
+     "close_ratio": 0.94,
+     "last200_t": 12.22,
+     "last600_t": 35.42,
+     "overall_t": 71.99,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.73
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "MAD ABOUT MAGNUS": {
   "name": "Mad About Magnus",
   "runs": [
@@ -23643,6 +24805,27 @@
    }
   ]
  },
+ "MALDIVICA": {
+  "name": "Maldivica",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.67,
+     "close_ratio": 0.93,
+     "last200_t": 12.15,
+     "last600_t": 35.26,
+     "overall_t": 71.32,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 19.45
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "MANGANO": {
   "name": "Mangano",
   "runs": [
@@ -24026,6 +25209,48 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "MATAHGA": {
+  "name": "Matahga",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.56,
+     "close_ratio": 1.12,
+     "last200_t": 11.43,
+     "last600_t": 34.26,
+     "overall_t": 99.86,
+     "race_name": "The Junction Handicap",
+     "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "MATING CALL": {
+  "name": "Mating Call",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.68,
+     "close_ratio": 1.05,
+     "last200_t": 11.92,
+     "last600_t": 34.88,
+     "overall_t": 98.31,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 18.2
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -25436,6 +26661,27 @@
    }
   ]
  },
+ "MOSTLY FOR SHOW": {
+  "name": "Mostly For Show",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.1,
+     "last200_t": 11.08,
+     "last600_t": 34.11,
+     "overall_t": 99.71,
+     "race_name": "The Junction Handicap",
+     "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "MOUNTJOY": {
   "name": "Mountjoy",
   "runs": [
@@ -25454,6 +26700,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "MOUSE IN THE HOUSE": {
+  "name": "Mouse In The House",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.1,
+     "close_ratio": 0.94,
+     "last200_t": 13.25,
+     "last600_t": 36.6,
+     "overall_t": 73.33,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.98
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -25732,6 +26999,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "MT NISEKO": {
+  "name": "Mt Niseko",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.0,
+     "close_ratio": 1.01,
+     "last200_t": 11.75,
+     "last600_t": 33.95,
+     "overall_t": 70.73,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -26488,6 +27776,48 @@
    }
   ]
  },
+ "NEVER ORDINARY": {
+  "name": "Never Ordinary",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 11.74,
+     "last600_t": 34.01,
+     "overall_t": 61.48,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "NEVER SURRENDER": {
+  "name": "Never Surrender",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.43,
+     "close_ratio": 0.96,
+     "last200_t": 12.27,
+     "last600_t": 35.03,
+     "overall_t": 71.09,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 19.04
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "NEW YORK LUSTRE": {
   "name": "New York Lustre",
   "runs": [
@@ -27024,6 +28354,27 @@
    }
   ]
  },
+ "NOLABELL": {
+  "name": "Nolabell",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.43,
+     "close_ratio": 0.93,
+     "last200_t": 12.45,
+     "last600_t": 35.27,
+     "overall_t": 62.94,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 19.71
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "NORDIC STRIKE": {
   "name": "Nordic Strike",
   "runs": [
@@ -27171,6 +28522,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.28,
+     "close_ratio": 1.02,
+     "last200_t": 12.12,
+     "last600_t": 35.38,
+     "overall_t": 98.15,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.99
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -28035,6 +29402,27 @@
    }
   ]
  },
+ "OUI OUI MA CHERIE": {
+  "name": "Oui Oui Ma Cherie",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.0,
+     "close_ratio": 1.05,
+     "last200_t": 12.37,
+     "last600_t": 35.12,
+     "overall_t": 98.74,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "OUR BRAVE BOY": {
   "name": "Our Brave Boy",
   "runs": [
@@ -28370,6 +29758,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "OXFORD BLUE": {
+  "name": "Oxford Blue",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.82,
+     "close_ratio": 1.05,
+     "last200_t": 12.0,
+     "last600_t": 34.64,
+     "overall_t": 96.39,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -29000,6 +30409,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PETAS HEART": {
+  "name": "Peta'S Heart",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.24,
+     "close_ratio": 0.96,
+     "last200_t": 12.17,
+     "last600_t": 34.74,
+     "overall_t": 71.5,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.93
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -29678,6 +31108,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "POWER BEAU": {
+  "name": "Power Beau",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 11.65,
+     "last600_t": 33.61,
+     "overall_t": 70.1,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": 18.71
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -30777,6 +32228,48 @@
    }
   ]
  },
+ "PURE PELT": {
+  "name": "Pure Pelt",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.61,
+     "close_ratio": 0.97,
+     "last200_t": 12.63,
+     "last600_t": 35.57,
+     "overall_t": 63.4,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 19.58
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "PURFECT LINE": {
+  "name": "Purfect Line",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.16,
+     "close_ratio": 0.97,
+     "last200_t": 12.01,
+     "last600_t": 34.42,
+     "overall_t": 70.73,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.93
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "PURPLE STREAK": {
   "name": "Purple Streak",
   "runs": [
@@ -31716,6 +33209,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -32576,6 +34085,27 @@
    }
   ]
  },
+ "ROYAL FOX": {
+  "name": "Royal Fox",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ROYAL INSIGNIA": {
   "name": "Royal Insignia",
   "runs": [
@@ -32823,6 +34353,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.16,
+     "close_ratio": 0.95,
+     "last200_t": 11.73,
+     "last600_t": 34.73,
+     "overall_t": 71.17,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 19.06
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -32927,6 +34473,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -32948,6 +34510,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "RUE DE ROYALE": {
+  "name": "Rue De Royale",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -33646,6 +35229,27 @@
    }
   ]
  },
+ "SANDASTAN": {
+  "name": "Sandastan",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.87,
+     "close_ratio": 0.98,
+     "last200_t": 12.82,
+     "last600_t": 37.28,
+     "overall_t": 94.1,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.54
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SANTA ANA MOON": {
   "name": "Santa Ana Moon",
   "runs": [
@@ -33949,6 +35553,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "SCANDALIZE": {
+  "name": "Scandalize",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.01,
+     "last200_t": 12.07,
+     "last600_t": 35.75,
+     "overall_t": 91.63,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -34508,6 +36133,48 @@
    }
   ]
  },
+ "SHADHAVAR": {
+  "name": "Shadhavar",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.64,
+     "close_ratio": 0.99,
+     "last200_t": 11.54,
+     "last600_t": 33.73,
+     "overall_t": 69.94,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": 18.61
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "SHADOW EAGLE": {
+  "name": "Shadow Eagle",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 11.9,
+     "last600_t": 34.13,
+     "overall_t": 70.73,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.7
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SHAH JAHAN": {
   "name": "Shah Jahan",
   "runs": [
@@ -34694,6 +36361,27 @@
    }
   ]
  },
+ "SHE REX": {
+  "name": "She Rex",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SHES A GOOD CAUSE": {
   "name": "Shes A Good Cause",
   "runs": [
@@ -34812,6 +36500,27 @@
    }
   ]
  },
+ "SHES MY EX": {
+  "name": "She'S My Ex",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.99,
+     "close_ratio": 1.02,
+     "last200_t": 11.54,
+     "last600_t": 33.72,
+     "overall_t": 61.17,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.05
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SHES PRETTY RICH": {
   "name": "She'S Pretty Rich",
   "runs": [
@@ -34830,6 +36539,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SHES STARGAZING": {
+  "name": "She'S Stargazing",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.24,
+     "close_ratio": 1.01,
+     "last200_t": 12.55,
+     "last600_t": 36.13,
+     "overall_t": 99.06,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -34946,6 +36676,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SHOCAP": {
+  "name": "Shocap",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.92,
+     "close_ratio": 1.02,
+     "last200_t": 11.88,
+     "last600_t": 34.09,
+     "overall_t": 61.58,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -35147,6 +36898,27 @@
    }
   ]
  },
+ "SICILIAN PRINCESS": {
+  "name": "Sicilian Princess",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.61,
+     "close_ratio": 1.05,
+     "last200_t": 12.31,
+     "last600_t": 35.62,
+     "overall_t": 98.66,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SIDURI": {
   "name": "Siduri",
   "runs": [
@@ -35233,6 +37005,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 11.49,
+     "last600_t": 33.38,
+     "overall_t": 61.11,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.94
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -35270,6 +37058,43 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.12,
+     "close_ratio": 1.02,
+     "last200_t": 12.28,
+     "last600_t": 34.66,
+     "overall_t": 62.75,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 19.07
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "SILENT ANSWER": {
+  "name": "Silent Answer",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.64,
+     "close_ratio": 1.03,
+     "last200_t": 12.66,
+     "last600_t": 35.61,
+     "overall_t": 99.27,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.96
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -35323,6 +37148,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SILVASISTA": {
+  "name": "Silvasista",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.03,
+     "close_ratio": 1.05,
+     "last200_t": 11.96,
+     "last600_t": 35.11,
+     "overall_t": 99.02,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -36975,6 +38821,27 @@
    }
   ]
  },
+ "STAR OF OMAHA": {
+  "name": "Star Of Omaha",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.06,
+     "close_ratio": 1.04,
+     "last200_t": 12.07,
+     "last600_t": 35.1,
+     "overall_t": 98.85,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.84
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "STAR OF ROSSA": {
   "name": "Star Of Rossa",
   "runs": [
@@ -37014,6 +38881,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "STAR SIRIUS": {
+  "name": "Star Sirius",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.16,
+     "close_ratio": 1.02,
+     "last200_t": 12.19,
+     "last600_t": 34.87,
+     "overall_t": 96.73,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": 18.08
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -37691,6 +39579,27 @@
    }
   ]
  },
+ "STOLEN KISS": {
+  "name": "Stolen Kiss",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.1,
+     "close_ratio": 0.97,
+     "last200_t": 12.08,
+     "last600_t": 34.44,
+     "overall_t": 71.14,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.75
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "STOLI BOLLI": {
   "name": "Stoli Bolli",
   "runs": [
@@ -37918,6 +39827,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.02,
+     "close_ratio": 1.01,
+     "last200_t": 12.02,
+     "last600_t": 35.28,
+     "overall_t": 97.19,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -38178,6 +40103,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "STUNG": {
+  "name": "Stung",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.75,
+     "last600_t": 34.77,
+     "overall_t": 97.87,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -38914,6 +40860,48 @@
    }
   ]
  },
+ "SYNCHRO": {
+  "name": "Synchro",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.82,
+     "close_ratio": 0.97,
+     "last200_t": 12.35,
+     "last600_t": 34.89,
+     "overall_t": 70.99,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.58
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "SYNTHESISE": {
+  "name": "Synthesise",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.63,
+     "close_ratio": 1.05,
+     "last200_t": 11.82,
+     "last600_t": 34.9,
+     "overall_t": 98.31,
+     "race_name": "Sportsbet Clare Lindop Stakes",
+     "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "TA TA TANGO": {
   "name": "Ta Ta Tango",
   "runs": [
@@ -39261,6 +41249,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "TALISAY": {
+  "name": "Talisay",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.4,
+     "close_ratio": 1.01,
+     "last200_t": 12.42,
+     "last600_t": 36.32,
+     "overall_t": 93.16,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -40249,6 +42258,27 @@
    }
   ]
  },
+ "THE JOURNO": {
+  "name": "The Journo",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.82,
+     "close_ratio": 0.96,
+     "last200_t": 12.43,
+     "last600_t": 35.25,
+     "overall_t": 71.29,
+     "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "THE MAGISTRATE": {
   "name": "The Magistrate",
   "runs": [
@@ -40673,6 +42703,27 @@
    }
   ]
  },
+ "THERMODYNAMIC": {
+  "name": "Thermodynamic",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.8,
+     "close_ratio": 0.95,
+     "last200_t": 12.7,
+     "last600_t": 36.92,
+     "overall_t": 92.1,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "THINK GIANT": {
   "name": "Think Giant",
   "runs": [
@@ -40930,6 +42981,27 @@
    }
   ]
  },
+ "THUNDER SHOC": {
+  "name": "Thunder Shoc",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.2,
+     "close_ratio": 1.02,
+     "last200_t": 11.98,
+     "last600_t": 33.88,
+     "overall_t": 70.94,
+     "race_name": "Sportsbet Matrice Stakes",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "THUNDERBOLT WAY": {
   "name": "Thunderbolt Way",
   "runs": [
@@ -41145,6 +43217,27 @@
    }
   ]
  },
+ "TIPTOP TORI": {
+  "name": "Tiptop Tori",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.34,
+     "close_ratio": 0.96,
+     "last200_t": 11.76,
+     "last600_t": 34.67,
+     "overall_t": 71.05,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "TISHMAN": {
   "name": "Tishman",
   "runs": [
@@ -41335,6 +43428,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Junction Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -42632,6 +44741,27 @@
    }
   ]
  },
+ "VANITEUX": {
+  "name": "Vaniteux",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.39,
+     "close_ratio": 1.01,
+     "last200_t": 12.24,
+     "last600_t": 35.96,
+     "overall_t": 92.05,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 18.03
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "VEGA BLUES": {
   "name": "Vega Blues",
   "runs": [
@@ -42888,6 +45018,27 @@
    }
   ]
  },
+ "VERZAIN": {
+  "name": "Verzain",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.92,
+     "close_ratio": 1.0,
+     "last200_t": 11.82,
+     "last600_t": 34.38,
+     "overall_t": 61.64,
+     "race_name": "Sportsbet Dequetteville Stakes",
+     "top_spd": 19.07
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "VESTAS": {
   "name": "Vestas",
   "runs": [
@@ -43094,6 +45245,27 @@
    }
   ]
  },
+ "VIRTUAL ILLUSION": {
+  "name": "Virtual Illusion",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.52,
+     "close_ratio": 1.08,
+     "last200_t": 11.64,
+     "last600_t": 33.54,
+     "overall_t": 61.53,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 19.39
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "VIRTUOUS CIRCLE": {
   "name": "Virtuous Circle",
   "runs": [
@@ -43289,6 +45461,27 @@
    }
   ]
  },
+ "WALK LIKE AN ANGEL": {
+  "name": "Walk Like An Angel",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.71,
+     "close_ratio": 1.04,
+     "last200_t": 11.96,
+     "last600_t": 33.98,
+     "overall_t": 65.23,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 19.01
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "WALKING PAINTING": {
   "name": "Walking Painting",
   "runs": [
@@ -43307,6 +45500,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "WALLY WEST": {
+  "name": "Wally West",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.01,
+     "close_ratio": 0.99,
+     "last200_t": 12.14,
+     "last600_t": 34.22,
+     "overall_t": 65.14,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 18.68
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -43617,6 +45831,27 @@
    }
   ]
  },
+ "WHISKEY TUMBLER": {
+  "name": "Whiskey Tumbler",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.4,
+     "close_ratio": 0.94,
+     "last200_t": 12.17,
+     "last600_t": 35.36,
+     "overall_t": 71.63,
+     "race_name": "Winning Edge Presentations Maiden Plate",
+     "top_spd": 18.86
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "WHISTLER GIRL": {
   "name": "Whistler Girl",
   "runs": [
@@ -43762,6 +45997,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "WILTSHIRE SQUARE": {
+  "name": "Wiltshire Square",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1050,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 1.01,
+     "last200_t": 11.7,
+     "last600_t": 33.56,
+     "overall_t": 61.4,
+     "race_name": "Fleurieu Milk Company Handicap",
+     "top_spd": 18.72
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -44446,6 +46702,27 @@
    }
   ]
  },
+ "YASUKE": {
+  "name": "Yasuke",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.59,
+     "close_ratio": 1.03,
+     "last200_t": 12.03,
+     "last600_t": 34.72,
+     "overall_t": 96.74,
+     "race_name": "Adelaide Galvanising Industries Handicap",
+     "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "YES YOSHI": {
   "name": "Yes Yoshi",
   "runs": [
@@ -44587,6 +46864,27 @@
    }
   ]
  },
+ "ZANTHRON": {
+  "name": "Zanthron",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.32,
+     "close_ratio": 0.94,
+     "last200_t": 12.45,
+     "last600_t": 34.82,
+     "overall_t": 65.04,
+     "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
+     "top_spd": 19.84
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ZAREENEE": {
   "name": "Zareenee",
   "runs": [
@@ -44605,6 +46903,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "ZARKANA": {
+  "name": "Zarkana",
+  "runs": [
+   {
+    "date": "2026-03-28",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.95,
+     "close_ratio": 1.02,
+     "last200_t": 12.59,
+     "last600_t": 36.12,
+     "overall_t": 93.03,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.7
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
