@@ -246,10 +246,18 @@
  },
  {
   "date": "2026-07-18",
-  "track": "Flemington: Victoria Racing Club",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "flemington_20260718.txt",
   "count": 74,
+  "condition": ""
+ },
+ {
+  "date": "2026-07-22",
+  "track": "Sandown Hillside",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Wednesday _ 22 July 2026 _ VIC _ Racing.com.pdf",
+  "count": 56,
   "condition": "Soft 6"
  },
  {
@@ -324,7 +332,7 @@
  },
  {
   "date": "2026-07-25",
-  "track": "Caulfield: Melbourne Racing Club",
+  "track": "Caulfield",
   "type": "stewards",
   "source_file": "caulfield_20260725.txt",
   "count": 59,

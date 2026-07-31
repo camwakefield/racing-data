@@ -1,4 +1,48 @@
 {
+ "200M": {
+  "name": "200m",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "was brushed and carried wider by Audio Pop Cam which shifted out.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "31 07 2026 19 01 FORM": {
+  "name": "31/07/2026 19:01 Form",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 2400,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "| Stewards' Report | Sportsbet Sandown Hillside | Wednesday | 22 July 2026 | VIC | Racing.com",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "A LONG STORY SHORT": {
   "name": "A Long Story Short",
   "runs": [
@@ -260,7 +304,7 @@
     },
     "steward": {
      "comment": "Near the 250m was tightened and hampered when crowded for room between Dark Matter and Hard Kick (J. Radley) which shifted out under pressure.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble"
@@ -515,7 +559,7 @@
     "sectional": null,
     "steward": {
      "comment": "(Hard Kick) pleaded guilty to a charge of careless riding under the provisions of AR 131(a), in that near the 250 metres he made insufficient effort to prevent his mount from shifting out, which resulted in Almontego being tightened out onto Dark Matter, which resulted in both horses being hampered. Jackson Radley had his permit to ride in races suspended for 8 race meetings, with the period to commence on Thursday 23 July 2026 and expire on Thursday 30 July 2026. Accordingly, Jackson Radley will be able to ride on Friday 31 July 2026. In assessing penalty, account was taken of his guilty plea, record and that the incident was in the low range.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble",
@@ -525,7 +569,30 @@
      "health_flag": true,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
+   }
+  ]
+ },
+ "ARIZONA LUCK": {
+  "name": "Arizona Luck",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow into stride.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -568,7 +635,7 @@
     },
     "steward": {
      "comment": "Began awkwardly, getting its head up and then was crowded after the start. Raced keenly, got its head up and refused to settle in the early and middle stages.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "keen",
@@ -580,6 +647,29 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "AUDIO POP CAM": {
+  "name": "Audio Pop Cam",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up for clear running from the 500m to the 200m. https://www.racing.com/form/2026-07-22/sportsbet-sandown-hillside#/stewards-report 2/4",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -664,7 +754,7 @@
     },
     "steward": {
      "comment": "Began awkwardly. Apprentice Jabez Johnstone reported that the filly raced towards the inside section of track, did not finish its race off as expected and in his view may have come to the end of its preparation. Stable representative Jack Turnbull reported that the filly would more than likely be spelled. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -695,7 +785,7 @@
     },
     "steward": {
      "comment": "Made contact with Sweet Jasmine at the start.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble"
@@ -918,6 +1008,29 @@
    }
   ]
  },
+ "BELMIA": {
+  "name": "Belmia",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin (3L). Near the 50m was shifted out away from the heels of Written Story to continue into clear running.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "BETWITCHERY": {
   "name": "Betwitchery",
   "runs": [
@@ -984,6 +1097,29 @@
    }
   ]
  },
+ "BLACK PEPPERMINT": {
+  "name": "Black Peppermint",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Approaching the winning post was awkwardly placed on the heels of Pentle Bay (IRE) and was unable to be fully ridden out to the end of the race.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "BLACK RUN": {
   "name": "Black Run",
   "runs": [
@@ -1002,7 +1138,7 @@
     },
     "steward": {
      "comment": "Over the concluding stages was steadied when crowded for room between Tajanis (IRE) and Tempesti (ITY) which, after being brushed by Bold Soul (NZ) (J. Noonan), then shifted in away from that horse. Rider Jake Noonan was advised to exercise more care.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble"
@@ -1154,7 +1290,7 @@
     },
     "steward": {
      "comment": "Began awkwardly, shifted in and was bumped on the hindquarters by Stern Idol (IRE), resulting in both Bold Soul (NZ) and rider Jake Noonan becoming unbalanced. Shifted in over the concluding stages and brushed with Tempesti (ITY). A post-race veterinary examination revealed a slower than expected recovery rate.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "slow_begin",
@@ -1286,7 +1422,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until the 300m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up"
@@ -1384,6 +1520,29 @@
    }
   ]
  },
+ "BRIGHTERDAYSAHEAD": {
+  "name": "Brighterdaysahead",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the lead.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "BRILLANTEZZA": {
   "name": "Brillantezza",
   "runs": [
@@ -1433,6 +1592,24 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1723,7 +1900,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Laid in under pressure in the straight. Apprentice Ryan Houston reported he had been asked to ride the mare with cover, however after being slow to begin, it settled further back than intended.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "faded",
@@ -1861,6 +2038,27 @@
    }
   ]
  },
+ "CHAMPAGNE ANYONE": {
+  "name": "Champagne Anyone",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Approaching the 200m was eased away from the heels of Patchson which shifted out abruptly. Rider Michael Dee reported his mount raced greenly throughout.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "CHANCELLOR": {
   "name": "Chancellor",
   "runs": [
@@ -1903,7 +2101,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until the 250m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up"
@@ -1934,7 +2132,7 @@
     },
     "steward": {
      "comment": "Slow to begin.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -1944,6 +2142,29 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "CHARTWELL HOUSE": {
+  "name": "Chartwell House (IRE)",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 2400,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Underwent a veterinary examination upon arrival, after being beaten 35.5L at Coleraine, Sunday 19 July 2026. Raced keenly in the lead in the early and middle stages.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -1986,7 +2207,7 @@
     },
     "steward": {
      "comment": "Shifted out under pressure over the final 300m. When questioned regarding Cherish Me settling more forward, apprentice Emily Pozman explained she had been instructed to ride her mount positively and anticipated settling midfield. E. Pozman added however that Cherish Me began particularly well and for this reason, after being positive, the filly settled more forward than she had anticipated.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -2015,7 +2236,7 @@
     },
     "steward": {
      "comment": "Change of tactics: intention to be ridden further back. Settled at the rear of the field.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [
       "tactics"
@@ -2046,7 +2267,7 @@
     },
     "steward": {
      "comment": "Rider Harry Coffey reported the gelding made an abnormal respiratory noise. A post-race veterinary examination revealed the gelding to be lame in the off hind leg. A veterinary clearance is required prior to being permitted to race or officially trial again.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [
       "vet_health"
@@ -2139,7 +2360,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    },
    {
     "date": "2026-07-18",
@@ -2148,14 +2369,14 @@
     "sectional": null,
     "steward": {
      "comment": "weight was delayed to enable rider Harry Coffey (Prima Bella [NZ], equal 1st placegetter) to view the Stewards' patrol video before deciding not to lodge an objection.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
      "health_flag": false,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
    }
   ]
  },
@@ -2471,7 +2692,7 @@
     },
     "steward": {
      "comment": "Began awkwardly and made contact with Hard Kick. Near the 250m was tightened and was hampered when awkwardly placed on the heels of Panchenko when taken wider by Almontego which had been crowded and taken out by Hard Kick.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "slow_begin",
@@ -2503,7 +2724,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Held up for clear running from the 400m and near the 150m was steadied when disappointed for a run between Misapprehend and Cherish Me (E. Pozman) which shifted out. Apprentice Emily Pozman was reprimanded. Was then awkwardly placed in between the heels of Cherish Me and Misapprehend for the remainder of the race and was not fully tested. When questioned regarding his riding in the straight, rider Michael Dee explained that after being held up in the early part of the straight, near the 300m he commenced to move wider to improve into a run between Cherish Me and Misapprehend. He added that soon after passing the 200m he was in a position to take advantage of that run, however, Cherish Me continued to shift out, resulting in him being disappointed for that position and then being awkwardly placed to the outside of that horse's heels for the remainder of the race.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 3,
      "flags": [
       "held_up",
@@ -2804,7 +3025,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until the 250m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up"
@@ -2835,6 +3056,30 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "DOUBTLAND DIVA": {
+  "name": "Doubtland Diva",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the lead in the early stages. Laid out under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -2937,7 +3182,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Held up for clear running from the 400m to the 300m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "held_up",
@@ -2998,6 +3243,30 @@
    }
   ]
  },
+ "EGYPTIAN DANCER": {
+  "name": "Egyptian Dancer",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early and middle stages. Approaching the 600m shifted out and away from the heels of Brighterdaysahead when laying out and continued to lay out under pressure in the straight. Rider Craig Williams reported that whilst he had planned to make his run wider on the track, Egyptian Dancer hung out and shifted out further than he would have preferred and raced greenly in the straight. Trainer Gavin Bedggood indicated that the filly would now be sent for a spell.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "EL PIBE DE ORO": {
   "name": "El Pibe De Oro",
   "runs": [
@@ -3016,7 +3285,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until near the 250m. Apprentice Luke Cartwright explained he had been asked to ride the horse with cover albeit he settled a little further back than he would have liked. He added that after initially trailing Next Step Iowa he then moved wider from the 300m. L. Cartwright added in accordance with the instructions and as reported at the horse's most recent start at Ballarat Synthetic, 24 June 2026, he had been asked to hold the horse up for as long as possible as it only has a short sprint. L. Cartwright added once clear passing the 250m, El Pibe De Oro quickened, despite being inclined to lay in, however made good ground when under pressure.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up",
@@ -3111,7 +3380,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Shifted out under pressure inside the final 200m. When questioned regarding the apparent improved performance, stable representative Jack Turnbull advised that Emperor Tzu had benefited from dropping back in distance and also being freshened up prior to today's race.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -3248,6 +3517,29 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "ESCARPA": {
+  "name": "Escarpa",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Shortly after the start was bumped on the hindquarters by Smart Little Miss which was taken out by Saluted.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3496,6 +3788,31 @@
    }
   ]
  },
+ "FEDERER": {
+  "name": "Federer",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Underwent a veterinary examination upon arrival, having not raced since October 2025 after off fore tendonitis, and was passed suitable to race. Began awkwardly and was then restrained from the wide barrier to obtain cover at the rear of the field. Held up for clear running from the 500m to the 300m.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "held_up",
+      "slow_begin",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "FERRARIO": {
   "name": "Ferrario",
   "runs": [
@@ -3604,6 +3921,29 @@
    }
   ]
  },
+ "FLASHHEART": {
+  "name": "Flashheart",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "FLYER": {
   "name": "Flyer",
   "runs": [
@@ -3643,7 +3983,7 @@
     },
     "steward": {
      "comment": "Raced wide in the early stages before settling outside the leader near the 1000m. Near the 200m was hampered by Don't Doubt Dare which shifted in. Rider Dean Yendall reported the gelding may have come to the end of its preparation. Trainer Matthew Williams confirmed Flying Done would be spelled. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "trouble",
@@ -3675,7 +4015,7 @@
     },
     "steward": {
      "comment": "Rider Teo Nugent reported from the inside barrier settled more forward than anticipated, where it travelled well in the early and middle stages, however failed to respond to his riding when placed under pressure in the straight. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded"
@@ -3685,6 +4025,29 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "FLYING MIKKI": {
+  "name": "Flying Mikki",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3830,7 +4193,7 @@
     },
     "steward": {
      "comment": "Rider Jett Stanley reported that in his view the gelding did not run out the distance of today's race. A post-race veterinary examination at the request of the stable did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -3838,6 +4201,50 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "FRENCH ACCORD": {
+  "name": "French Accord",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "FRENCH ACCORD AND CHAMPAGNE ANYONE": {
+  "name": "French Accord and Champagne Anyone",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "which shifted out.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -3883,6 +4290,29 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "FROM A DISTANCE": {
+  "name": "From A Distance",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. Rider Thomas Stockdale reported that he was satisfied with the position in which he settled, however when placed under pressure over the final 100m the gelding failed to finish the race off and he expressed disappointment with the performance. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -4005,6 +4435,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "GLIDING LIGHTENING": {
+  "name": "Gliding Lightening",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up for clear running from the 500m until approaching the 300m. Near the 100m was taken wider by Miss Cotoletta which in turn had been taken out by Saluted (J. Radley) which shifted out before being corrected. Rider Jackson Radley was advised to exercise more care.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -4158,7 +4611,7 @@
     },
     "steward": {
      "comment": "Began awkwardly.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -4260,7 +4713,7 @@
     },
     "steward": {
      "comment": "Reared on jumping and made contact with Dark Matter. Rider Jackson Radley could offer no explanation for the disappointing performance. A post-race veterinary examination did not reveal any significant findings. Co-trainer Ben Hayes advised that in his view, Hard Kick, which was resuming, raced too keenly and as a result did not finish its race off. Mr Hayes added that Hard Kick would derive benefit from its first-up performance. Stewards will follow up with the stable.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble",
@@ -4384,6 +4837,29 @@
    }
   ]
  },
+ "HI VAL": {
+  "name": "Hi Val",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "HIGHLAND BLAZE": {
   "name": "Highland Blaze",
   "runs": [
@@ -4402,7 +4878,7 @@
     },
     "steward": {
      "comment": "Laid in under pressure in the straight. Near the 100m was struck over the nose by the whip of Jake Noonan (Bold Soul [NZ]). A post-race veterinary examination revealed the gelding to be lame in the left fetlock. A veterinary clearance is required prior to being permitted to race or officially trial again.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded",
@@ -4455,7 +4931,7 @@
     },
     "steward": {
      "comment": "Underwent a veterinary examination upon arrival, having not raced since September 2025 after POD lesions of both fore fetlocks, and was passed suitable to race.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -4539,6 +5015,31 @@
    }
   ]
  },
+ "ICE QUAKE": {
+  "name": "Ice Quake",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages when being restrained to gain cover behind Doubtland Diva. Eased down from the 100m. Rider Jamie Mott reported when placed under pressure the filly failed to respond and was disappointing. Trainer Clayton Douglas indicated they would consider if they continue with the filly's current preparation in the coming days. A post-race veterinary examination did not reveal any significant findings. Stewards will follow up with the stable.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "keen",
+      "underperf"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": true
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "IMMINANCE": {
   "name": "Imminance",
   "runs": [
@@ -4599,7 +5100,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Near the 400m was steadied when disappointed for a run between Sweet Jasmine and Cat Noir which shifted out slightly. A post-race veterinary examination revealed an abrasion to its off hind fetlock.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 3,
      "flags": [
       "held_up",
@@ -4823,6 +5324,27 @@
    }
   ]
  },
+ "JENNI AGOGO": {
+  "name": "Jenni Agogo",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Jett Stanley reported in his opinion the filly may have come to the end of its current preparation. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "JENNI GONE BONKERS": {
   "name": "Jenni Gone Bonkers",
   "runs": [
@@ -4849,6 +5371,31 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "JENNI MULTABELLA": {
+  "name": "Jenni Multabella (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and lost ground. Raced wide in the early stages from the wide barrier. Approaching the 800m was carried wider by Tanganyika (NZ).",
+     "condition": "Soft 6",
+     "excuse_index": 3,
+     "flags": [
+      "slow_begin",
+      "trouble",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5021,6 +5568,29 @@
    }
   ]
  },
+ "JOIN THE QUE": {
+  "name": "Join The Que",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide in the early stages before striding forward and settling outside the leader passing the 1000m.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "JUDAS TREE": {
   "name": "Judas Tree",
   "runs": [
@@ -5147,6 +5717,30 @@
    }
   ]
  },
+ "KENGERO": {
+  "name": "Kengero (FR)",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Raced keenly in the lead in the early stages.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "keen",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "KILLENAULE": {
   "name": "Killenaule",
   "runs": [
@@ -5215,7 +5809,7 @@
     },
     "steward": {
      "comment": "Rounding the home turn approaching the 400m raced in restricted room between Notified and Stunning Kitty (J. Stanley) which shifted away from the rail when laying out. Rider Jett Stanley was advised to exercise more care.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -5268,6 +5862,29 @@
    }
   ]
  },
+ "LADY MOSCATO": {
+  "name": "Lady Moscato",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Knuckled on jumping away. Rider Jett Stanley reported that the filly failed to travel throughout and, in his opinion, did not appreciate today's Soft 6 track conditions. A post-race veterinary examination did not reveal any significant findings. Stewards will follow up with the stable.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "condition"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "LAKE VOSTOK": {
   "name": "Lake Vostok",
   "runs": [
@@ -5286,7 +5903,7 @@
     },
     "steward": {
      "comment": "Apprentice Bailey Kinninmont reported the mare appeared to race flat second up from a spell and he indicated that in his view, Lake Vostok would be suited in races over a longer journey. A post-race veterinary examination did not reveal any significant findings. Trainer Luke Oliver advised that in his view Lake Vostok raced flat and the intention would be to continue on with the mare's preparation.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded"
@@ -5317,7 +5934,7 @@
     },
     "steward": {
      "comment": "Slow to begin and was hampered after the start by Street Artist (NZ) which shifted in. A post-race veterinary examination revealed the horse to be lame in the left foreleg. A veterinary clearance is required prior to being permitted to race or officially trial again.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "slow_begin",
@@ -5329,6 +5946,30 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "LANTANA": {
+  "name": "Lantana (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Rider Dean Yendall reported the filly raced flat and may have come to the end of its current preparation. Trainer Matthew Williams confirmed that the filly would now be sent for a spell.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5371,7 +6012,7 @@
     },
     "steward": {
      "comment": "Raced keenly in the early stages. Near the 1200m when overracing got its head up and shifted out abruptly when crossed by Misapprehend which shifted in. Rider Craig Williams reported his mount did not begin well and then overraced. C. Williams added that in the straight his mount did not quicken and did not finish the race off as expected. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [
       "keen"
@@ -5381,6 +6022,29 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "LAVANDULA": {
+  "name": "Lavandula",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Near the 75m was momentarily hampered by Escarpa, which had been taken out by Gliding Lightening, which in turn had been taken out by Miss Cotoletta, which had shifted out away from Saluted.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -5454,7 +6118,7 @@
     },
     "steward": {
      "comment": "Began awkwardly.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -5501,7 +6165,7 @@
     },
     "steward": {
      "comment": "Near the 200m, apprentice Holly Durnan dropped her whip.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -5759,6 +6423,29 @@
    }
   ]
  },
+ "LUSCOMBE": {
+  "name": "Luscombe",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Approaching the 200m laid out under pressure before being corrected by its rider.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "MADERO": {
   "name": "Madero",
   "runs": [
@@ -5798,7 +6485,7 @@
     },
     "steward": {
      "comment": "Raced wide without cover in the early stages before striding forward and settling outside the leader near the 1200m. Near the 150m shifted in abruptly and made contact with Street Lark. Apprentice Jackson Radley reported he had been asked to ride his mount with cover, however when caught wide, he allowed the mare to stride forward and ultimately settled outside the leader which was further forward than anticipated.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "tactics",
@@ -6194,7 +6881,30 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "MIRADOR": {
+  "name": "Mirador",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 2,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6253,6 +6963,29 @@
    }
   ]
  },
+ "MISS COTOLETTA": {
+  "name": "Miss Cotoletta",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Approaching the 100m was carried wider by Saluted which shifted out.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "MISS LOLA": {
   "name": "Miss Lola",
   "runs": [
@@ -6292,7 +7025,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until the 200m. Near the 50m was steadied when awkwardly placed between the heels of Laura Eliza and Palm Angel which shifted in slightly. When questioned, apprentice Luke Cartwright explained that it was the intention to ride the filly, which was resuming, with cover. L. Cartwright added that soon after the start he found a trailing position behind Pravaha at the rear of the field. When questioned as to the reason why he then left the trailing position behind Pravaha and shifted towards the inside near the 1100m, L. Cartwright explained that as he felt the inside ground was superior, his plan was to try and seek runs through the inside and this was the reason why he shifted towards the rail. L. Cartwright added in the early part of the straight, his plan was to follow the eventual winner, Salizou, through, however when it appeared that he would be held up for clear running, he elected to shift out and seek a clear passage wider on the track. He added, however, that he still had difficulty obtaining clear running until near the 200m and, once clear, Miss Maranda commenced to run on well before meeting with some interference near the 50m. He added that he expected that Miss Maranda would now step up in distance where it may be suited by being ridden more forward if circumstances allow.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "held_up",
@@ -6309,6 +7042,24 @@
  "MISS NIAGARA": {
   "name": "Miss Niagara",
   "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 2400,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   },
    {
     "date": "2026-07-15",
     "distance": 2400,
@@ -6403,7 +7154,7 @@
     },
     "steward": {
      "comment": "Change of tactics: intention to be ridden more forward. Settled on pace. Rider Jett Stanley reported that as notified the plan had been to ride the horse further forward, however the gelding did not travel comfortably, albeit he felt he raced on the inside section of track which he felt was inferior. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [
       "tactics"
@@ -6413,6 +7164,30 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "MONTOSTRATUS": {
+  "name": "Montostratus",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Bumped on the hindquarters shortly after the start. Raced greenly and three wide without cover throughout. When weakening near the 400m was momentarily hampered between",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "trouble",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -6434,7 +7209,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Near the 1500m got its head up when being steadied away from the heels of Don't Doubt Dare.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "slow_begin",
@@ -6487,7 +7262,7 @@
     },
     "steward": {
      "comment": "Underwent a veterinary examination upon arrival, having not raced since October 2025 after kissing spine surgery, and was passed suitable to race.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [
       "vet_health"
@@ -6593,6 +7368,54 @@
    }
   ]
  },
+ "MYSTIC REIGN": {
+  "name": "Mystic Reign",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover throughout. Over the latter stages was eased and unable to be ridden out when awkwardly placed between the heels of Soju and Escarpa which was taken out by Gliding Lightening, which in turn was taken out.",
+     "condition": "Soft 6",
+     "excuse_index": 3,
+     "flags": [
+      "held_up",
+      "trouble",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "NAINA": {
+  "name": "Naina",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "NATURAL RULER": {
   "name": "Natural Ruler",
   "runs": [
@@ -6653,7 +7476,7 @@
     },
     "steward": {
      "comment": "Apprentice Ryan Houston reported that his mount raced flat and he could offer no other explanation for the performance. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded"
@@ -6684,7 +7507,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until passing the 200m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up"
@@ -6757,7 +7580,7 @@
     },
     "steward": {
      "comment": "Began awkwardly and got its head up.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -6919,7 +7742,7 @@
     },
     "steward": {
      "comment": "Rounding the home turn approaching the 400m raced in restricted room between Ko Phangan which had been taken wider by Stunning Kitty which shifted out and Achy Breaky Heart which shifted in marginally. As a result, Notified was eased and shifted to the outside of Achy Breaky Heart to continue into clear running.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -6992,7 +7815,7 @@
     },
     "steward": {
      "comment": "Raced keenly in the early and middle stages. Near the 1200m was eased away from the heels of Laura Eliza. When questioned regarding settling further back, rider Teo Nugent explained he had been asked to ride the horse with cover. He added he felt the tempo in the early stages was strong and he was able to obtain a trailing position behind the favoured Laura Eliza soon after the start, however in the middle stages when the tempo eased his mount then commenced to overrace and as a result did not finish the race off as expected.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [
       "keen",
@@ -7130,7 +7953,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
@@ -7257,7 +8080,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until the 200m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up"
@@ -7309,7 +8132,7 @@
     },
     "steward": {
      "comment": "Raced wide without cover throughout.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "wide"
@@ -7340,7 +8163,7 @@
     },
     "steward": {
      "comment": "Began awkwardly and shifted out. Laid in from the 300m and raced greenly. Rider Craig Williams advised his mount was unable to obtain cover and raced greenly. A post-race veterinary examination revealed a slower than expected recovery rate.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "faded",
@@ -7400,6 +8223,30 @@
    }
   ]
  },
+ "PATCHSON": {
+  "name": "Patchson",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the middle stages. Approaching the 500m when racing keenly was steadied outwards when awkwardly placed close to the heels of Cosmic Command. Near the 200m shifted out abruptly before being corrected by its rider.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "keen",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "PER SEMPRE": {
   "name": "Per Sempre",
   "runs": [
@@ -7418,7 +8265,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Held up for clear running from the 400m until passing the 200m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "held_up",
@@ -7596,7 +8443,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Near the 300m was taken off its course and raced close to the heels of Duntulm Lass (J. Stanley) which shifted out when not clear.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -7648,7 +8495,7 @@
     },
     "steward": {
      "comment": "Rider Jamie Mott reported the plan was to settle in a forward position, however after beginning fairly his mount did not muster early speed and as a result settled further back than intended. He added when placed under pressure in the straight, Prestige Forever failed to respond to his riding and gave ground.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded",
@@ -7837,7 +8684,7 @@
     "sectional": null,
     "steward": {
      "comment": "correct weight, after viewing the patrol video, rider Harry Coffey (Tempesti [ITY], 3rd placegetter) lodged an objection against Bold Soul (NZ) (Jake Noonan, 1st placegetter) being declared the winner on the grounds of alleged interference over the concluding stages. After taking evidence from all parties, it was established that inside the 50m, Bold Soul (NZ) shifted in and made contact with Tempesti (ITY). Bearing in mind the margin between Bold Soul (NZ) and Tempesti (ITY) and the proximity of the interference to the winning post, as Stewards could not be comfortably satisfied that had the interference not occurred, Tempesti (ITY) would have finished in front of Bold Soul (NZ), the objection was dismissed and correct weight was declared.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble"
@@ -7846,7 +8693,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
    }
   ]
  },
@@ -7868,6 +8715,30 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "PROVEN SOUL": {
+  "name": "Proven Soul",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages. Laid in under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -7997,7 +8868,7 @@
      "health_flag": true,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
@@ -8179,7 +9050,7 @@
     "sectional": null,
     "steward": {
      "comment": "(Duntulm Lass) was found guilty of a charge of careless riding under the provisions of AR 131(a), in that near the 300 metres, he permitted his mount to shift out when not sufficiently clear of Pravaha, which was taken out off its course and raced close to the heels of Duntulm Lass for some distance. Jett Stanley had his licence to ride in races suspended for 9 race meetings, with the period to commence on Monday 27 July 2026 and expire on Tuesday 4 August 2026. Accordingly, Jett Stanley will be able to ride on Wednesday 5 August 2026. In assessing penalty, account was taken of his record and that the incident was in the low range.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [
       "vet_health"
@@ -8188,7 +9059,7 @@
      "health_flag": true,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
    }
   ]
  },
@@ -8252,7 +9123,7 @@
     },
     "steward": {
      "comment": "Slow to begin.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -8291,6 +9162,31 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "RUAKAKA RAIDER": {
+  "name": "Ruakaka Raider (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early and middle stages. Near the 700m was steadied when disappointed for a run between Oriental Smoke and Sotomayor.",
+     "condition": "Soft 6",
+     "excuse_index": 2,
+     "flags": [
+      "held_up",
+      "keen",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -8398,7 +9294,7 @@
     },
     "steward": {
      "comment": "Held up for clear running from the 400m until the 300m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up"
@@ -8440,9 +9336,51 @@
    }
   ]
  },
+ "SALUDAR": {
+  "name": "Saludar",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1200,
+    "race": 1,
+    "sectional": null,
+    "steward": {
+     "comment": "($2.10 unplaced favourite). Rider Jordan Childs reported that whilst his mount raced greenly and is inexperienced, he felt that the primary reason for today's poor performance was that the gelding did not handle today's Soft 6 track conditions. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "condition"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "SALUTED": {
   "name": "Saluted",
   "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early and middle stages. Laid out under pressure in the straight.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   },
    {
     "date": "2026-07-15",
     "distance": 1000,
@@ -8978,6 +9916,29 @@
    }
   ]
  },
+ "SILVER MAGNATE": {
+  "name": "Silver Magnate",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "SING FOR PEACE": {
   "name": "Sing For Peace",
   "runs": [
@@ -9017,7 +9978,7 @@
     },
     "steward": {
      "comment": "Rider Michael Dee explained that Siriusly Hot travelled well, however weakened noticeably in the straight and whilst appearing to return to scale in a normal manner, he could off no explanation for the performance. Stable representative Jack Turnbull reported that Siriusly Hot would be spelled. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded"
@@ -9048,7 +10009,7 @@
     },
     "steward": {
      "comment": "Slow to begin.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -9079,7 +10040,7 @@
     },
     "steward": {
      "comment": "Laid out under pressure in the straight. When questioned regarding Sky Watcher settling more forward, rider Dean Yendall explained, as reported last start, the filly had settled further back than intended after being slow to begin. D. Yendall added that the filly began better today and was able to lead with little effort.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "faded",
@@ -9112,6 +10073,29 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "SMART LITTLE MISS": {
+  "name": "Smart Little Miss",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1000,
+    "race": 5,
+    "sectional": null,
+    "steward": {
+     "comment": "Shortly after the start was crowded for room and made contact with the hindquarters of Escarpa.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9154,7 +10138,7 @@
     },
     "steward": {
      "comment": "Near the 200m was bumped and became unbalanced by Star Of India (IRE) which had been taken out by Bankers Choice (NZ).",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble"
@@ -9260,6 +10244,68 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   },
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Near the 200m was hampered and carried wider by That's All Good.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SOMEWHERE": {
+  "name": "Somewhere",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover throughout.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SOTOMAYOR": {
+  "name": "Sotomayor",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced ungenerously in the early stages, getting its head up on several occasions.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9365,7 +10411,7 @@
     },
     "steward": {
      "comment": "Slow to begin. Held up for clear running from the 400m and near the 300m improved into a narrow run between Bankers Choice (NZ) and Smokin' Romans (NZ). Then near the 200m was buffeted for room between Smokin' Romans (NZ) and Bankers Choice (NZ) which shifted out.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "held_up",
@@ -9429,6 +10475,52 @@
    }
   ]
  },
+ "STAUNCH": {
+  "name": "Staunch",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 2400,
+    "race": 3,
+    "sectional": null,
+    "steward": {
+     "comment": "After being caught wide from the wide barrier in the early stages was allowed to stride forward and settle outside the leader approaching the 1700m. Rider Michael Dee reported when caught wide he allowed the gelding to stride forward and as a result, his mount settled further forward than intended.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "STAY HUMBLE": {
+  "name": "Stay Humble",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Jabez Johnstone reported that the gelding, when placed under pressure, failed to respond. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "STAY SILENT": {
   "name": "Stay Silent",
   "runs": [
@@ -9484,7 +10576,7 @@
     },
     "steward": {
      "comment": "Began awkwardly. Rider Harry Coffey reported that after his mount began awkwardly, his saddle shifted and for this reason he was placed at a disadvantage for a short distance before the saddle shifted back to its original position.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -9515,7 +10607,7 @@
     },
     "steward": {
      "comment": "Slow to begin and then was crowded after the start.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "slow_begin",
@@ -9526,6 +10618,50 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "STEWARDS": {
+  "name": "Stewards",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 4,
+    "sectional": null,
+    "steward": {
+     "comment": "will follow up with the stable.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "STONECOAT": {
+  "name": "Stonecoat",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1600,
+    "race": 6,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -9578,7 +10714,7 @@
     },
     "steward": {
      "comment": "Began awkwardly and got its head up. Apprentice Olivia East reported that she was under no specific instructions. Olivia East added after Storm Season began awkwardly, it then mustered speed and as a result settled on pace without being ridden along. Olivia East further added that the mare felt short in its action on pulling up. A post-race veterinary examination did not reveal any significant findings. Co-trainer Michael Kent (Jnr) explained Storm Season appeared to recover well and the mare will be assessed by the stable veterinarian in the coming days. Stewards will follow up with the stable.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "slow_begin"
@@ -9609,7 +10745,7 @@
     },
     "steward": {
      "comment": "Began awkwardly, shifted in and made contact with Landmark. Rider Jamie Mott reported that with the blinkers on today, Street Artist (NZ) raced too keenly and as a result did not finish the race off as expected. A post-race veterinary examination did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "gear_change",
@@ -9642,7 +10778,7 @@
     },
     "steward": {
      "comment": "Near the 150m was brushed and hampered by Madiyya (NZ) which shifted in abruptly.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "trouble"
@@ -9673,7 +10809,7 @@
     },
     "steward": {
      "comment": "Made the home turn awkwardly and laid out.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded"
@@ -9799,6 +10935,31 @@
    }
   ]
  },
+ "SUZE SPRITZ": {
+  "name": "Suze Spritz",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Change of tactics: intention to be ridden with cover. Settled behind the leaders with cover. Raced keenly in the early stages. Approaching the 50m was steadied when crowded for room between Tsarine (NZ), which shifted in and Drone Attack, which had been taken out by Iced Poppy, which in turn was taken out by Queen Amanjena (NZ) which shifted out.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "keen",
+      "tactics",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "SWEET JASMINE": {
   "name": "Sweet Jasmine",
   "runs": [
@@ -9817,7 +10978,7 @@
     },
     "steward": {
      "comment": "Got its head up shortly after the start after being bumped by Barbie'sdreamworld. Raced keenly and near the 1200m shifted out away from the heels of Cat Noir, then raced wide without cover thereafter.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "keen",
@@ -9850,7 +11011,7 @@
     },
     "steward": {
      "comment": "Began awkwardly, shifted out and was bumped on the hindquarters by Stern Idol (IRE) resulting in Tajanis (IRE) becoming unbalanced. Over the concluding stages was brushed on the hindquarters by Black Run (FR) which had been crowded for room.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "slow_begin",
@@ -9958,6 +11119,29 @@
    }
   ]
  },
+ "TANGANYIKA": {
+  "name": "Tanganyika (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1400,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the middle stages, getting its head up on several occasions. Approaching the 800m when racing keenly shifted out and away from the heels of Stay Silent.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "TEMPESTI": {
   "name": "Tempesti",
   "runs": [
@@ -9989,7 +11173,7 @@
     "sectional": null,
     "steward": {
      "comment": "was held up for clear running. Brushed over the concluding stages by Bold Soul (NZ) which shifted in.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "held_up"
@@ -9998,7 +11182,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
    }
   ]
  },
@@ -10100,6 +11284,29 @@
    }
   ]
  },
+ "THATS ALL GOOD": {
+  "name": "That's All Good",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Near the 500m was brushed by Audio Pop Cam and became unbalanced. In the circumstances, as Stewards were satisfied no rider was to blame, no action was taken. Near the",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "THE": {
   "name": "The",
   "runs": [
@@ -10117,7 +11324,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
@@ -10199,7 +11406,7 @@
     "sectional": null,
     "steward": {
      "comment": "approval on the day of acceptances to ride 0.5 kg overweight, rider Jye McNeil was ultimately able to ride The Mean Fiddler at its handicap weight. Raced wide without cover from the 900m.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 1,
      "flags": [
       "wide"
@@ -10208,7 +11415,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
    }
   ]
  },
@@ -10264,14 +11471,14 @@
     "sectional": null,
     "steward": {
      "comment": "approval on the day of acceptances to ride 0.5 kg overweight, rider Luke Nolen was ultimately able to ride the gelding at its handicap weight.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
      "health_flag": false,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
    }
   ]
  },
@@ -10327,7 +11534,7 @@
     "sectional": null,
     "steward": {
      "comment": "at the barriers. Slow to begin. Raced wide without cover. Laid out from the 700m and made the home turn awkwardly.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 2,
      "flags": [
       "faded",
@@ -10338,7 +11545,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Flemington: Victoria Racing Club"
+    "track": "Flemington"
    }
   ]
  },
@@ -10546,7 +11753,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
@@ -10610,6 +11817,29 @@
     },
     "steward": null,
     "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "TSARINE": {
+  "name": "Tsarine (NZ)",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly for a short distance in the early stages. Rider Damien Thornton could offer no explanation for the poor performance. A post-race veterinary examination did not reveal any significant findings.",
+     "condition": "Soft 6",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
    }
   ]
  },
@@ -10898,7 +12128,7 @@
     },
     "steward": {
      "comment": "When caught wide in the early stages was allowed to stride forward to settle outside the leader near the 2300m. A post-race endoscopic examination at the request of the stable did not reveal any significant findings.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": 0,
      "flags": [],
      "gear_change": false,
@@ -11111,6 +12341,29 @@
    }
   ]
  },
+ "WRITTEN STORY": {
+  "name": "Written Story",
+  "runs": [
+   {
+    "date": "2026-07-22",
+    "distance": 1300,
+    "race": 7,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover throughout.",
+     "condition": "Soft 6",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Sandown Hillside"
+   }
+  ]
+ },
  "WUDDZZ": {
   "name": "Wuddzz",
   "runs": [
@@ -11271,7 +12524,7 @@
     },
     "steward": {
      "comment": "Rider Teo Nugent reported Zethus hung out during the event and he felt there may be something amiss. A post-race veterinary examination did not reveal any significant findings. Stewards will follow up with the stable.",
-     "condition": "Soft 6",
+     "condition": "",
      "excuse_index": -1,
      "flags": [
       "faded"
