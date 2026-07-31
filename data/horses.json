@@ -105,6 +105,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.76,
+     "close_ratio": 0.99,
+     "last200_t": 12.67,
+     "last600_t": 36.63,
+     "overall_t": 106.44,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.68
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -416,6 +432,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.65,
+     "close_ratio": 1.03,
+     "last200_t": 11.55,
+     "last600_t": 34.57,
+     "overall_t": 72.5,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 18.38
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-13",
@@ -844,6 +876,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.63,
+     "close_ratio": 0.95,
+     "last200_t": 12.9,
+     "last600_t": 35.94,
+     "overall_t": 66.01,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.05
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1000,
     "race": null,
@@ -968,6 +1016,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.64,
+     "close_ratio": 1.05,
+     "last200_t": 12.3,
+     "last600_t": 35.96,
+     "overall_t": 126.28,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.55
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -1074,6 +1138,22 @@
  "ANGELIC RISE": {
   "name": "Angelic Rise",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.86,
+     "close_ratio": 0.95,
+     "last200_t": 12.26,
+     "last600_t": 34.98,
+     "overall_t": 59.24,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 18.94
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-13",
     "distance": 1000,
@@ -1265,6 +1345,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.05,
+     "close_ratio": 1.07,
+     "last200_t": 12.24,
+     "last600_t": 35.81,
+     "overall_t": 126.83,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.84
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-06",
@@ -1745,6 +1841,22 @@
   "name": "Aston",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.8,
+     "close_ratio": 0.95,
+     "last200_t": 11.86,
+     "last600_t": 34.65,
+     "overall_t": 59.17,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 19.06
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1000,
     "race": null,
@@ -1818,6 +1930,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "ATOMIC GOLD": {
+  "name": "Atomic Gold",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Quayclean Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -2067,6 +2200,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.43,
+     "close_ratio": 1.01,
+     "last200_t": 12.77,
+     "last600_t": 36.95,
+     "overall_t": 125.78,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.04
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-13",
@@ -2337,6 +2486,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.24,
+     "close_ratio": 0.94,
+     "last200_t": 12.78,
+     "last600_t": 35.72,
+     "overall_t": 65.32,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.13
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1000,
     "race": null,
@@ -2416,6 +2581,22 @@
      "overall_t": 107.95,
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 17.7
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": null
     },
     "steward": null,
     "track": "Caulfield"
@@ -2619,6 +2800,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -2769,6 +2966,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.44,
+     "close_ratio": 1.07,
+     "last200_t": 11.92,
+     "last600_t": 35.67,
+     "overall_t": 125.81,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.58
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1600,
     "race": null,
@@ -2872,6 +3085,27 @@
    }
   ]
  },
+ "BIANCELLI": {
+  "name": "Biancelli",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.8,
+     "close_ratio": 0.98,
+     "last200_t": 12.63,
+     "last600_t": 36.17,
+     "overall_t": 66.44,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.7
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "BIANCO VILANO": {
   "name": "Bianco Vilano",
   "runs": [
@@ -2934,6 +3168,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.89,
+     "close_ratio": 1.01,
+     "last200_t": 12.13,
+     "last600_t": 35.62,
+     "overall_t": 85.35,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -2975,6 +3225,22 @@
  "BIOLOGICS": {
   "name": "Biologics",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.48,
+     "close_ratio": 1.02,
+     "last200_t": 11.94,
+     "last600_t": 35.34,
+     "overall_t": 73.33,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 17.8
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-06",
     "distance": 1200,
@@ -3084,6 +3350,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BLACK STORM": {
+  "name": "Black Storm",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.34,
+     "close_ratio": 0.96,
+     "last200_t": 13.1,
+     "last600_t": 37.56,
+     "overall_t": 106.62,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -3637,6 +3924,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Quayclean Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -3944,6 +4247,22 @@
  "BRAVE MISS": {
   "name": "Brave Miss",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.8,
+     "close_ratio": 0.96,
+     "last200_t": 13.53,
+     "last600_t": 38.59,
+     "overall_t": 108.56,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-06",
     "distance": 2000,
@@ -4658,6 +4977,22 @@
   "name": "Cadmus",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.73,
+     "close_ratio": 1.01,
+     "last200_t": 13.33,
+     "last600_t": 37.6,
+     "overall_t": 127.29,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.26
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -4885,6 +5220,27 @@
    }
   ]
  },
+ "CANNYWORTH": {
+  "name": "Cannyworth",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.59,
+     "close_ratio": 0.94,
+     "last200_t": 12.72,
+     "last600_t": 35.32,
+     "overall_t": 59.22,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.28
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "CAPPER THIRTYNINE": {
   "name": "Capper Thirtynine",
   "runs": [
@@ -4985,6 +5341,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "CARBONADOS": {
+  "name": "Carbonados",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.9,
+     "close_ratio": 0.93,
+     "last200_t": 13.01,
+     "last600_t": 36.59,
+     "overall_t": 66.57,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.44
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -5604,6 +5981,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.83,
+     "close_ratio": 1.01,
+     "last200_t": 11.71,
+     "last600_t": 34.35,
+     "overall_t": 64.9,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.57
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -6018,6 +6411,27 @@
    }
   ]
  },
+ "CLAYMORE MINE": {
+  "name": "Claymore Mine",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.13,
+     "close_ratio": 1.01,
+     "last200_t": 12.08,
+     "last600_t": 34.59,
+     "overall_t": 65.68,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.73
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "CLEVOR TREVER": {
   "name": "Clevor Trever",
   "runs": [
@@ -6122,6 +6536,22 @@
      "overall_t": 87.12,
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 12.18,
+     "last600_t": 35.58,
+     "overall_t": 85.17,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.6
     },
     "steward": null,
     "track": "Caulfield"
@@ -6636,6 +7066,22 @@
     "track": "Bendigo"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1200,
     "race": null,
@@ -6871,6 +7317,22 @@
      "overall_t": 70.29,
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.48,
+     "close_ratio": 1.04,
+     "last200_t": 11.49,
+     "last600_t": 34.63,
+     "overall_t": 72.57,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 18.46
     },
     "steward": null,
     "track": "Caulfield"
@@ -7177,6 +7639,22 @@
      "overall_t": 88.17,
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 17.54
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.93,
+     "close_ratio": 0.98,
+     "last200_t": 13.23,
+     "last600_t": 37.48,
+     "overall_t": 87.82,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.7
     },
     "steward": null,
     "track": "Caulfield"
@@ -7595,6 +8073,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.53,
+     "close_ratio": 1.0,
+     "last200_t": 11.91,
+     "last600_t": 34.8,
+     "overall_t": 65.32,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.69
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -8333,6 +8827,22 @@
     "track": "Sandown Hillside"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.58,
+     "close_ratio": 0.98,
+     "last200_t": 12.42,
+     "last600_t": 35.14,
+     "overall_t": 65.28,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.71
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1000,
     "race": null,
@@ -8561,6 +9071,27 @@
    }
   ]
  },
+ "DURBAN HARBOUR": {
+  "name": "Durban Harbour",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "DURHAM LEGACY": {
   "name": "Durham Legacy",
   "runs": [
@@ -8661,6 +9192,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.86,
+     "close_ratio": 0.95,
+     "last200_t": 12.22,
+     "last600_t": 34.98,
+     "overall_t": 59.12,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 18.92
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -8679,6 +9226,22 @@
      "overall_t": 67.48,
      "race_name": "Sportsbet Race Previews Handicap",
      "top_spd": 18.62
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": null
     },
     "steward": null,
     "track": "Caulfield"
@@ -8721,6 +9284,22 @@
   "name": "El Rocko",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.41,
+     "close_ratio": 0.94,
+     "last200_t": 13.37,
+     "last600_t": 37.29,
+     "overall_t": 86.09,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 18.32
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -8741,6 +9320,22 @@
  "EL SOLEADO": {
   "name": "El Soleado",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 89.94,
+     "close_ratio": 0.94,
+     "last200_t": 15.04,
+     "last600_t": 39.56,
+     "overall_t": 89.51,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.59
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-06",
     "distance": 1200,
@@ -8883,6 +9478,22 @@
  "ELOUYOU": {
   "name": "Elouyou",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.03,
+     "close_ratio": 0.97,
+     "last200_t": 12.97,
+     "last600_t": 36.67,
+     "overall_t": 85.58,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-06",
     "distance": 1400,
@@ -9556,6 +10167,27 @@
    }
   ]
  },
+ "FACE THE WILD": {
+  "name": "Face The Wild",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.24,
+     "close_ratio": 0.92,
+     "last200_t": 12.65,
+     "last600_t": 35.56,
+     "overall_t": 59.52,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 19.25
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "FALSET STAR": {
   "name": "Falset Star",
   "runs": [
@@ -9637,6 +10269,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Quayclean Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -9676,6 +10324,22 @@
      "overall_t": 64.63,
      "race_name": "Quayclean Handicap",
      "top_spd": 19.54
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.37,
+     "close_ratio": 0.96,
+     "last200_t": 12.35,
+     "last600_t": 34.69,
+     "overall_t": 58.87,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.01
     },
     "steward": null,
     "track": "Caulfield"
@@ -10121,6 +10785,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.78,
+     "close_ratio": 1.03,
+     "last200_t": 12.08,
+     "last600_t": 35.89,
+     "overall_t": 106.34,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.56
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-20",
     "distance": 1420,
     "race": null,
@@ -10206,6 +10886,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.63,
+     "close_ratio": 1.02,
+     "last200_t": 12.88,
+     "last600_t": 37.09,
+     "overall_t": 127.04,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.01
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -10243,6 +10939,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "FLY BY LIGHT": {
+  "name": "Fly By Light",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.12,
+     "close_ratio": 0.9,
+     "last200_t": 12.87,
+     "last600_t": 35.86,
+     "overall_t": 59.58,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.57
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -10530,6 +11247,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.45,
+     "close_ratio": 1.05,
+     "last200_t": 12.09,
+     "last600_t": 36.03,
+     "overall_t": 126.66,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.44
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -10752,6 +11485,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.46,
+     "close_ratio": 1.02,
+     "last200_t": 12.73,
+     "last600_t": 36.94,
+     "overall_t": 126.35,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.14
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-20",
@@ -11283,6 +12032,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -11363,6 +12128,22 @@
   "name": "Gilded Water",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.61,
+     "close_ratio": 1.01,
+     "last200_t": 13.04,
+     "last600_t": 37.26,
+     "overall_t": 126.66,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.14
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1800,
     "race": null,
@@ -11383,6 +12164,22 @@
  "GIN A TONIC": {
   "name": "Gin A Tonic",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-20",
     "distance": 1100,
@@ -11608,6 +12405,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.43,
+     "close_ratio": 1.03,
+     "last200_t": 11.72,
+     "last600_t": 35.0,
+     "overall_t": 73.04,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 18.25
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -11957,6 +12770,27 @@
    }
   ]
  },
+ "GRASSMERE DIAMOND": {
+  "name": "Grassmere Diamond",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "GRAVINA": {
   "name": "Gravina",
   "runs": [
@@ -12008,6 +12842,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.76,
+     "close_ratio": 0.98,
+     "last200_t": 12.28,
+     "last600_t": 35.53,
+     "overall_t": 65.7,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1200,
     "race": null,
@@ -12046,6 +12896,27 @@
    }
   ]
  },
+ "GREGOLIMO": {
+  "name": "Gregolimo",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.3,
+     "close_ratio": 1.03,
+     "last200_t": 12.89,
+     "last600_t": 37.22,
+     "overall_t": 127.11,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 16.82
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "GRID GIRL": {
   "name": "Grid Girl",
   "runs": [
@@ -12066,6 +12937,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Quayclean Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1400,
     "race": null,
@@ -12080,6 +12967,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "GROUND CONTROL": {
+  "name": "Ground Control",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.08,
+     "close_ratio": 0.92,
+     "last200_t": 13.38,
+     "last600_t": 36.64,
+     "overall_t": 60.62,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.15
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -12125,6 +13033,27 @@
    }
   ]
  },
+ "GUNZ": {
+  "name": "Gunz",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.32,
+     "close_ratio": 0.93,
+     "last200_t": 12.7,
+     "last600_t": 35.42,
+     "overall_t": 59.42,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.25
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "HAALAND": {
   "name": "Haaland",
   "runs": [
@@ -12143,6 +13072,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.42,
+     "close_ratio": 1.01,
+     "last200_t": 13.29,
+     "last600_t": 38.38,
+     "overall_t": 129.01,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 16.48
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -12496,6 +13441,22 @@
     "track": "Sandown Hillside"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.37,
+     "close_ratio": 0.98,
+     "last200_t": 12.6,
+     "last600_t": 36.17,
+     "overall_t": 85.43,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.59
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1400,
     "race": null,
@@ -12663,6 +13624,22 @@
  "HI DUBAI": {
   "name": "Hi Dubai",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.53,
+     "close_ratio": 0.99,
+     "last200_t": 12.23,
+     "last600_t": 35.16,
+     "overall_t": 65.59,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.62
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-13",
     "distance": 1000,
@@ -13722,6 +14699,27 @@
    }
   ]
  },
+ "IM FOXING": {
+  "name": "I'm Foxing",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.93,
+     "last200_t": 12.37,
+     "last600_t": 34.47,
+     "overall_t": 58.02,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.49
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "IM HELRO": {
   "name": "I'm Helro",
   "runs": [
@@ -14015,6 +15013,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.68,
+     "close_ratio": 1.01,
+     "last200_t": 12.1,
+     "last600_t": 36.29,
+     "overall_t": 106.27,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.83
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -14115,6 +15129,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.86,
+     "close_ratio": 0.92,
+     "last200_t": 12.56,
+     "last600_t": 35.7,
+     "overall_t": 59.96,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 19.1
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -15049,6 +16079,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.93,
+     "close_ratio": 0.95,
+     "last200_t": 13.15,
+     "last600_t": 37.48,
+     "overall_t": 86.29,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-20",
     "distance": 1620,
     "race": null,
@@ -15111,6 +16157,22 @@
  "KA YING CHEER": {
   "name": "Ka Ying Cheer",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.69,
+     "close_ratio": 0.96,
+     "last200_t": 12.82,
+     "last600_t": 35.92,
+     "overall_t": 66.26,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-06",
     "distance": 1200,
@@ -15943,6 +17005,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-20",
     "distance": 1100,
     "race": null,
@@ -16223,6 +17301,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.99,
+     "last200_t": 12.3,
+     "last600_t": 35.09,
+     "overall_t": 65.85,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-13",
@@ -16879,6 +17973,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -16984,6 +18094,27 @@
    }
   ]
  },
+ "LOST THE PLOT": {
+  "name": "Lost The Plot",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "LOVABLE RASCAL": {
   "name": "Lovable Rascal",
   "runs": [
@@ -17079,6 +18210,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "LUCKY BROOK": {
+  "name": "Lucky Brook",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.17,
+     "close_ratio": 0.95,
+     "last200_t": 12.06,
+     "last600_t": 34.87,
+     "overall_t": 58.96,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 19.04
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -17256,6 +18408,27 @@
    }
   ]
  },
+ "LUMINEER": {
+  "name": "Lumineer",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.07,
+     "close_ratio": 0.95,
+     "last200_t": 12.5,
+     "last600_t": 35.26,
+     "overall_t": 59.76,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "LUNA CAT": {
   "name": "Luna Cat",
   "runs": [
@@ -17301,6 +18474,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.99,
+     "last200_t": 11.75,
+     "last600_t": 34.29,
+     "overall_t": 64.55,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 19.07
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -17324,6 +18513,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "MAD ABOUT MAGNUS": {
+  "name": "Mad About Magnus",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.97,
+     "close_ratio": 0.9,
+     "last200_t": 13.54,
+     "last600_t": 36.68,
+     "overall_t": 60.31,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.52
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -17431,6 +18641,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.42,
+     "close_ratio": 0.99,
+     "last200_t": 12.53,
+     "last600_t": 36.76,
+     "overall_t": 106.85,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.94
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-06",
@@ -17592,6 +18818,22 @@
      "overall_t": 87.66,
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 17.99
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.21,
+     "close_ratio": 1.0,
+     "last200_t": 12.45,
+     "last600_t": 36.23,
+     "overall_t": 85.99,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.49
     },
     "steward": null,
     "track": "Caulfield"
@@ -17812,6 +19054,22 @@
  "MAKE IT SWEET": {
   "name": "Make It Sweet",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Quayclean Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-20",
     "distance": 1420,
@@ -18458,6 +19716,27 @@
    }
   ]
  },
+ "MIRACLE SPIN": {
+  "name": "Miracle Spin",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.31,
+     "close_ratio": 1.03,
+     "last200_t": 12.82,
+     "last600_t": 36.83,
+     "overall_t": 126.78,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.02
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "MIRADOR": {
   "name": "Mirador",
   "runs": [
@@ -18478,6 +19757,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.77,
+     "close_ratio": 0.94,
+     "last200_t": 12.0,
+     "last600_t": 34.66,
+     "overall_t": 59.29,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 19.27
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -18694,6 +19989,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -19130,6 +20441,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.14,
+     "close_ratio": 1.0,
+     "last200_t": 12.26,
+     "last600_t": 36.12,
+     "overall_t": 106.2,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -19352,6 +20679,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "MR BLUNT": {
+  "name": "Mr Blunt",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.04,
+     "close_ratio": 0.95,
+     "last200_t": 13.79,
+     "last600_t": 38.49,
+     "overall_t": 107.65,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -19630,6 +20978,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -19849,6 +21213,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.32,
+     "close_ratio": 0.96,
+     "last200_t": 13.12,
+     "last600_t": 37.57,
+     "overall_t": 107.03,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.31
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1600,
     "race": null,
@@ -19902,6 +21282,22 @@
      "overall_t": 65.75,
      "race_name": "Sportsbet Fast Form Handicap",
      "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.18,
+     "close_ratio": 0.95,
+     "last200_t": 13.1,
+     "last600_t": 36.11,
+     "overall_t": 65.88,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.32
     },
     "steward": null,
     "track": "Caulfield"
@@ -20047,6 +21443,43 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 12.42,
+     "last600_t": 36.37,
+     "overall_t": 125.47,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.07
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "NEOTROPICAL": {
+  "name": "Neotropical",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.04,
+     "close_ratio": 0.93,
+     "last200_t": 12.39,
+     "last600_t": 35.27,
+     "overall_t": 59.18,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 19.05
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -20099,6 +21532,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.96,
+     "close_ratio": 0.99,
+     "last200_t": 12.12,
+     "last600_t": 34.65,
+     "overall_t": 64.98,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.86
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -20283,6 +21732,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.79,
+     "close_ratio": 0.97,
+     "last200_t": 12.37,
+     "last600_t": 35.52,
+     "overall_t": 65.85,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.88
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-13",
@@ -20565,6 +22030,27 @@
    }
   ]
  },
+ "NOTHINGELSEMATTERS": {
+  "name": "Nothingelsematters",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.77,
+     "close_ratio": 1.07,
+     "last200_t": 12.21,
+     "last600_t": 36.28,
+     "overall_t": 127.14,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "NOTIFIED": {
   "name": "Notified",
   "runs": [
@@ -20835,6 +22321,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.94,
+     "close_ratio": 0.95,
+     "last200_t": 12.11,
+     "last600_t": 34.95,
+     "overall_t": 59.49,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -21100,6 +22602,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -21142,6 +22660,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-06",
@@ -21290,6 +22824,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.44,
+     "last600_t": 34.45,
+     "overall_t": 72.6,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 18.72
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -21569,6 +23119,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "PALAZZO DAMA": {
+  "name": "Palazzo Dama",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.1,
+     "close_ratio": 0.93,
+     "last200_t": 12.92,
+     "last600_t": 35.87,
+     "overall_t": 60.17,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.25
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -21898,6 +23469,43 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.62,
+     "close_ratio": 1.01,
+     "last200_t": 12.23,
+     "last600_t": 34.77,
+     "overall_t": 65.59,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "PERFECT PLAY": {
+  "name": "Perfect Play",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22000,6 +23608,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.73,
+     "close_ratio": 0.97,
+     "last200_t": 12.51,
+     "last600_t": 35.54,
+     "overall_t": 65.76,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.92
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1000,
     "race": null,
@@ -22014,6 +23638,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "PINOT FOR MIKE": {
+  "name": "Pinot For Mike",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22286,6 +23931,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.95,
+     "last200_t": 11.91,
+     "last600_t": 34.58,
+     "overall_t": 59.3,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 18.87
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22349,6 +24010,27 @@
      "underperf": false
     },
     "track": "Flemington"
+   }
+  ]
+ },
+ "PRESS DOWN": {
+  "name": "Press Down",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22634,6 +24316,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.07,
+     "last200_t": 11.88,
+     "last600_t": 35.47,
+     "overall_t": 126.66,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.62
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -22864,6 +24562,22 @@
   "name": "Profumo",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.05,
+     "close_ratio": 0.95,
+     "last200_t": 12.27,
+     "last600_t": 34.91,
+     "overall_t": 59.25,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": 19.02
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1100,
     "race": null,
@@ -22899,6 +24613,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.5,
+     "close_ratio": 1.05,
+     "last200_t": 12.35,
+     "last600_t": 36.38,
+     "overall_t": 127.49,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.36
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -23151,6 +24881,22 @@
   "name": "Race For Rule",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.29,
+     "close_ratio": 1.02,
+     "last200_t": 11.68,
+     "last600_t": 35.05,
+     "overall_t": 72.6,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 18.17
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1200,
     "race": null,
@@ -23202,6 +24948,22 @@
  "RAGING BULL": {
   "name": "Raging Bull",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.9,
+     "close_ratio": 1.01,
+     "last200_t": 12.89,
+     "last600_t": 37.15,
+     "overall_t": 126.8,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.27
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-06",
     "distance": 1600,
@@ -24089,6 +25851,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.13,
+     "close_ratio": 0.97,
+     "last200_t": 12.87,
+     "last600_t": 36.63,
+     "overall_t": 85.98,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.76
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1400,
     "race": null,
@@ -24261,6 +26039,22 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.53,
+     "close_ratio": 1.0,
+     "last200_t": 12.19,
+     "last600_t": 35.69,
+     "overall_t": 73.46,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 18.17
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -24594,6 +26388,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -24658,6 +26468,22 @@
  "RUN HARRY RUN": {
   "name": "Run Harry Run",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Quayclean Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-13",
     "distance": 1400,
@@ -24846,6 +26672,27 @@
    }
   ]
  },
+ "SACRIFY": {
+  "name": "Sacrify",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "SADLERS SYMPHONY": {
   "name": "Sadlers Symphony",
   "runs": [
@@ -24961,6 +26808,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -25045,6 +26908,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.24,
+     "close_ratio": 0.94,
+     "last200_t": 12.81,
+     "last600_t": 35.45,
+     "overall_t": 59.41,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.21
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -25273,6 +27152,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.48,
+     "close_ratio": 0.92,
+     "last200_t": 12.76,
+     "last600_t": 35.36,
+     "overall_t": 59.19,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.46
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -25424,6 +27319,22 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.57,
+     "close_ratio": 1.05,
+     "last200_t": 12.74,
+     "last600_t": 36.73,
+     "overall_t": 127.63,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.52
+    },
+    "steward": null,
     "track": "Caulfield"
    }
   ]
@@ -25740,6 +27651,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SET ME LOOSE": {
+  "name": "Set Me Loose",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.21,
+     "close_ratio": 0.93,
+     "last200_t": 12.79,
+     "last600_t": 35.1,
+     "overall_t": 58.9,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.52
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -26157,6 +28089,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.8,
+     "close_ratio": 0.92,
+     "last200_t": 12.54,
+     "last600_t": 34.89,
+     "overall_t": 58.9,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.57
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -26835,12 +28783,44 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.06,
+     "close_ratio": 0.98,
+     "last200_t": 12.37,
+     "last600_t": 35.33,
+     "overall_t": 66.15,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
  "SKIPPERS CANYON": {
   "name": "Skippers Canyon",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.74,
+     "close_ratio": 1.05,
+     "last200_t": 12.28,
+     "last600_t": 36.29,
+     "overall_t": 126.79,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.26
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-13",
     "distance": 2400,
@@ -26889,6 +28869,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.09,
+     "close_ratio": 1.01,
+     "last200_t": 12.46,
+     "last600_t": 35.85,
+     "overall_t": 74.07,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 17.81
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-13",
@@ -27009,6 +29005,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -27054,6 +29066,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.3,
+     "close_ratio": 1.0,
+     "last200_t": 12.61,
+     "last600_t": 37.0,
+     "overall_t": 125.97,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 16.88
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-13",
@@ -27307,6 +29335,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.02,
+     "last200_t": 12.21,
+     "last600_t": 35.82,
+     "overall_t": 106.09,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.55
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -27535,6 +29579,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.05,
+     "close_ratio": 1.0,
+     "last200_t": 12.7,
+     "last600_t": 35.92,
+     "overall_t": 86.17,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-20",
     "distance": 1620,
     "race": null,
@@ -27608,6 +29668,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Previews Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -27640,6 +29716,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.32,
+     "close_ratio": 0.99,
+     "last200_t": 13.98,
+     "last600_t": 38.56,
+     "overall_t": 128.4,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 17.44
+    },
+    "steward": null,
+    "track": "Caulfield"
    },
    {
     "date": "2026-06-06",
@@ -27772,6 +29864,22 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -28096,6 +30204,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.85,
+     "close_ratio": 0.96,
+     "last200_t": 12.54,
+     "last600_t": 35.86,
+     "overall_t": 66.45,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.74
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1200,
     "race": null,
@@ -28380,6 +30504,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.9,
+     "close_ratio": 0.99,
+     "last200_t": 12.4,
+     "last600_t": 36.58,
+     "overall_t": 106.08,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -28497,6 +30637,22 @@
      "underperf": false
     },
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.05,
+     "close_ratio": 0.94,
+     "last200_t": 12.4,
+     "last600_t": 34.8,
+     "overall_t": 58.68,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.55
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -29481,6 +31637,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.64,
+     "close_ratio": 0.97,
+     "last200_t": 12.16,
+     "last600_t": 35.12,
+     "overall_t": 65.15,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.74
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -30133,6 +32305,22 @@
     "track": "Caulfield"
    },
    {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "race": null,
@@ -30283,6 +32471,48 @@
    }
   ]
  },
+ "THE CUNNING FOX": {
+  "name": "The Cunning Fox",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.39,
+     "close_ratio": 1.06,
+     "last200_t": 12.21,
+     "last600_t": 36.05,
+     "overall_t": 126.85,
+     "race_name": "Sportsbet Caulfield Cup Carnival Hospitality Handicap",
+     "top_spd": 17.42
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
+ "THE DEVIL IN HER": {
+  "name": "The Devil In Her",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.92,
+     "close_ratio": 1.03,
+     "last200_t": 12.08,
+     "last600_t": 35.84,
+     "overall_t": 106.28,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.65
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "THE MEAN FIDDLER": {
   "name": "The Mean Fiddler",
   "runs": [
@@ -30399,6 +32629,22 @@
  "THE PENDRAGON": {
   "name": "The Pendragon",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 88.29,
+     "close_ratio": 0.93,
+     "last200_t": 15.26,
+     "last600_t": 40.3,
+     "overall_t": 90.01,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.84
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-20",
     "distance": 1420,
@@ -30621,6 +32867,22 @@
     "track": "Flemington"
    },
    {
+    "date": "2026-06-27",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.75,
+     "close_ratio": 1.0,
+     "last200_t": 12.9,
+     "last600_t": 37.59,
+     "overall_t": 126.79,
+     "race_name": "Sportsbet Fixed Odds Exotics Handicap",
+     "top_spd": 16.99
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-13",
     "distance": 1800,
     "race": null,
@@ -30672,6 +32934,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.19,
+     "last600_t": 35.81,
+     "overall_t": 106.41,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -30961,6 +33239,22 @@
  "TIKEMYSON": {
   "name": "Tikemyson",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.49,
+     "close_ratio": 0.99,
+     "last200_t": 13.01,
+     "last600_t": 37.5,
+     "overall_t": 108.21,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.39
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-13",
     "distance": 1400,
@@ -31686,6 +33980,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.07,
+     "close_ratio": 0.95,
+     "last200_t": 13.62,
+     "last600_t": 38.23,
+     "overall_t": 88.17,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.55
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -32070,6 +34380,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.0,
+     "close_ratio": 0.98,
+     "last200_t": 12.06,
+     "last600_t": 34.99,
+     "overall_t": 65.62,
+     "race_name": "Tobin Brothers Celebrating Lives Handicap",
+     "top_spd": 18.9
+    },
+    "steward": null,
+    "track": "Caulfield"
    }
   ]
  },
@@ -32222,6 +34548,22 @@
  "VELLASMACHINE": {
   "name": "Vellasmachine",
   "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.49,
+     "close_ratio": 0.97,
+     "last200_t": 13.04,
+     "last600_t": 37.5,
+     "overall_t": 107.28,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.18
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
    {
     "date": "2026-06-06",
     "distance": 1400,
@@ -32934,6 +35276,22 @@
   "name": "Windstorm",
   "runs": [
    {
+    "date": "2026-06-27",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.75,
+     "close_ratio": 0.97,
+     "last200_t": 12.98,
+     "last600_t": 37.16,
+     "overall_t": 87.33,
+     "race_name": "Quayclean Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
     "date": "2026-06-06",
     "distance": 1400,
     "race": null,
@@ -33003,6 +35361,22 @@
      "overall_t": 65.36,
      "race_name": "Sportsbet Sir John Monash Stakes",
      "top_spd": 18.57
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.6,
+     "close_ratio": 0.97,
+     "last200_t": 12.36,
+     "last600_t": 35.23,
+     "overall_t": 65.13,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.03
     },
     "steward": null,
     "track": "Caulfield"
@@ -33082,6 +35456,22 @@
      "overall_t": 66.97,
      "race_name": "Sportsbet More Places Handicap",
      "top_spd": 18.36
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.98,
+     "close_ratio": 0.92,
+     "last200_t": 12.61,
+     "last600_t": 35.18,
+     "overall_t": 58.9,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.55
     },
     "steward": null,
     "track": "Caulfield"
@@ -33273,6 +35663,27 @@
    }
   ]
  },
+ "WRITTEN GLOW": {
+  "name": "Written Glow",
+  "runs": [
+   {
+    "date": "2026-06-27",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.64,
+     "close_ratio": 0.99,
+     "last200_t": 12.8,
+     "last600_t": 36.4,
+     "overall_t": 74.34,
+     "race_name": "The Big Screen Company Handicap",
+     "top_spd": 17.78
+    },
+    "steward": null,
+    "track": "Caulfield"
+   }
+  ]
+ },
  "WRITTEN STORY": {
   "name": "Written Story",
   "runs": [
@@ -33368,6 +35779,22 @@
      "last600_t": null,
      "overall_t": null,
      "race_name": "Sportsbet Same Race Multi Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1700,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
      "top_spd": null
     },
     "steward": null,
@@ -33690,6 +36117,22 @@
      "overall_t": 65.72,
      "race_name": "Sportsbet Fast Form Handicap",
      "top_spd": 18.5
+    },
+    "steward": null,
+    "track": "Caulfield"
+   },
+   {
+    "date": "2026-06-27",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.82,
+     "close_ratio": 0.97,
+     "last200_t": 12.48,
+     "last600_t": 35.51,
+     "overall_t": 66.12,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.93
     },
     "steward": null,
     "track": "Caulfield"
