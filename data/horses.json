@@ -1078,7 +1078,7 @@
    {
     "date": "2026-07-25",
     "distance": 2400,
-    "race": null,
+    "race": 6,
     "sectional": {
      "close_rating": 93.94,
      "close_ratio": 1.03,
@@ -1088,19 +1088,6 @@
      "race_name": "Sportsbet Same Race Multi Handicap",
      "top_spd": 17.6
     },
-    "steward": null,
-    "track": "Caulfield"
-   }
-  ]
- },
- "DIRNASEER THE": {
-  "name": "Dirnaseer The",
-  "runs": [
-   {
-    "date": "2026-07-25",
-    "distance": null,
-    "race": 6,
-    "sectional": null,
     "steward": {
      "comment": "saddle shifted forward near the 1400m, placing rider John Allen at a disadvantage. As the saddle continued to shift forward, J. Allen removed his feet from both stirrup irons near the 600m and as a result Dirnaseer was not tested thereafter. J. Allen confirmed that his saddle shifted forward in the middle stages and continued to shift further forward where it got to a point, near the 600m, where it became necessary for him to remove his feet from the stirrup irons. A post-race veterinary examination did not reveal any significant findings.",
      "condition": "Soft 6",
@@ -1112,7 +1099,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
@@ -1122,7 +1109,7 @@
    {
     "date": "2026-07-25",
     "distance": 1200,
-    "race": null,
+    "race": 1,
     "sectional": {
      "close_rating": 91.03,
      "close_ratio": 0.88,
@@ -1132,29 +1119,18 @@
      "race_name": "Sportsbet Fixed Odds Exotics Handicap",
      "top_spd": 19.0
     },
-    "steward": null,
-    "track": "Caulfield"
-   }
-  ]
- },
- "DIVINE THOUGHTS A": {
-  "name": "Divine Thoughts A",
-  "runs": [
-   {
-    "date": "2026-07-25",
-    "distance": 1200,
-    "race": 1,
-    "sectional": null,
     "steward": {
      "comment": "post-race veterinary examination identified the presence of blood at both nostrils. Trainer Nelson Smyth was notified that in accordance with AR 79(4), Divine Thoughts shall not without permission of the Stewards: (a) be trained, exercised or galloped on any racecourse, recognised training track, private training establishment, or other place for a period of two months; (b) start in any race for a period of 3 months, and then only after: (i) a gallop of at least 1000 metres; or (ii) an official trial or jump-out; in the presence, and to the satisfaction of a Steward. A veterinary clearance will be required prior to racing or trialling again.",
      "condition": "Soft 6",
      "excuse_index": 0,
-     "flags": [],
+     "flags": [
+      "vet_health"
+     ],
      "gear_change": false,
-     "health_flag": false,
+     "health_flag": true,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
@@ -2258,7 +2234,7 @@
    {
     "date": "2026-07-25",
     "distance": 1400,
-    "race": null,
+    "race": 9,
     "sectional": {
      "close_rating": 97.57,
      "close_ratio": 1.01,
@@ -2268,19 +2244,6 @@
      "race_name": "MRC Membership Made Of Moments Handicap",
      "top_spd": 17.76
     },
-    "steward": null,
-    "track": "Caulfield"
-   }
-  ]
- },
- "LUDLUM FOR A": {
-  "name": "Ludlum For a",
-  "runs": [
-   {
-    "date": "2026-07-25",
-    "distance": 1400,
-    "race": 9,
-    "sectional": null,
     "steward": {
      "comment": "short distance near the 50m was awkwardly placed close to the heels of Jenni Gone Bonkers.",
      "condition": "Soft 6",
@@ -2292,7 +2255,7 @@
      "health_flag": false,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
@@ -2681,9 +2644,11 @@
      "comment": "Fractious in the barriers, reared and broke through the front of the barriers riderless and galloped a considerable distance. Late scratching at 12:48 pm on veterinary advice. Trainer Simon Zahra was notified No Confetti will be required to compete in a jump-out to the satisfaction of Stewards before being permitted to race again.",
      "condition": "Soft 6",
      "excuse_index": 0,
-     "flags": [],
+     "flags": [
+      "vet_health"
+     ],
      "gear_change": false,
-     "health_flag": false,
+     "health_flag": true,
      "underperf": false
     },
     "track": "Caulfield"
@@ -3537,7 +3502,7 @@
    {
     "date": "2026-07-25",
     "distance": 1100,
-    "race": null,
+    "race": 4,
     "sectional": {
      "close_rating": 95.4,
      "close_ratio": 0.93,
@@ -3547,19 +3512,6 @@
      "race_name": "Quayclean Handicap",
      "top_spd": 19.56
     },
-    "steward": null,
-    "track": "Caulfield"
-   }
-  ]
- },
- "SNOW MERCY A": {
-  "name": "Snow Mercy A",
-  "runs": [
-   {
-    "date": "2026-07-25",
-    "distance": 1100,
-    "race": 4,
-    "sectional": null,
     "steward": {
      "comment": "post-race endoscopy of Snow Mercy at the request of the stable detected a degree of internal exercise-induced pulmonary haemorrhage that may have affected the filly's racing performance. A veterinary clearance will be required prior to being permitted to race or officially trial again.",
      "condition": "Soft 6",
@@ -3571,7 +3523,7 @@
      "health_flag": true,
      "underperf": false
     },
-    "track": "Caulfield: Melbourne Racing Club"
+    "track": "Caulfield"
    }
   ]
  },
