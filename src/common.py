@@ -38,3 +38,20 @@ def secs(txt):
 
 def r2(x):
     return None if x is None else round(x, 2)
+
+
+def norm_date(s):
+    """Normalise a date to ISO YYYY-MM-DD. Handles the racing.com CSV's usual
+    '2026-07-25 00:00:00' plus Excel-mangled 'DD/MM/YYYY' (Australian order) and
+    'YYYY/MM/DD'. Returns the input unchanged if unrecognised."""
+    s = (s or "").strip().split(" ")[0].split("T")[0]
+    m = re.match(r"^(\d{4})-(\d{1,2})-(\d{1,2})$", s)
+    if m:
+        return "%s-%02d-%02d" % (m.group(1), int(m.group(2)), int(m.group(3)))
+    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", s)   # DD/MM/YYYY (AU)
+    if m:
+        return "%s-%02d-%02d" % (m.group(3), int(m.group(2)), int(m.group(1)))
+    m = re.match(r"^(\d{4})/(\d{1,2})/(\d{1,2})$", s)
+    if m:
+        return "%s-%02d-%02d" % (m.group(1), int(m.group(2)), int(m.group(3)))
+    return s
