@@ -156,6 +156,69 @@
   "condition": ""
  },
  {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_01.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_02.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_04.csv",
+  "count": 14
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_05.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_06.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_07.csv",
+  "count": 18
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_08.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-03-09",
+  "track": "Morphettville",
+  "type": "sectional",
+  "source_file": "5190748_09.csv",
+  "count": 12
+ },
+ {
   "date": "2026-03-28",
   "track": "Morphettville",
   "type": "sectional",

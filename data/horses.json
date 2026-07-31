@@ -491,6 +491,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.74,
+     "close_ratio": 1.02,
+     "last200_t": 12.06,
+     "last600_t": 34.81,
+     "overall_t": 96.54,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 18.06
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -1187,6 +1203,48 @@
    }
   ]
  },
+ "AIR ASSAULT": {
+  "name": "Air Assault",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.25,
+     "close_ratio": 1.01,
+     "last200_t": 12.66,
+     "last600_t": 35.7,
+     "overall_t": 97.09,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 17.76
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "AITCH DAMICO": {
+  "name": "Aitch D'Amico",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 12.11,
+     "last600_t": 35.75,
+     "overall_t": 125.32,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.52
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "AITU": {
   "name": "Aitu",
   "runs": [
@@ -1260,6 +1318,43 @@
      "overall_t": 64.91,
      "race_name": "Sportsbet Adelaide Racing Carnival April 25-May 9 Handicap (Heat 4 of Festival State Sprint Series)",
      "top_spd": 18.69
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.93,
+     "close_ratio": 1.0,
+     "last200_t": 11.89,
+     "last600_t": 34.31,
+     "overall_t": 64.9,
+     "race_name": "Kirin Ichiban Handicap",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "ALAINGE": {
+  "name": "Alainge",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.83,
+     "close_ratio": 1.03,
+     "last200_t": 12.67,
+     "last600_t": 36.79,
+     "overall_t": 204.7,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.82
     },
     "steward": null,
     "track": "Morphettville"
@@ -1608,6 +1703,27 @@
    }
   ]
  },
+ "ALPHA FLIGHT": {
+  "name": "Alpha Flight",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ALPHA STREET": {
   "name": "Alpha Street",
   "runs": [
@@ -1689,6 +1805,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "AMERICAN WOLF": {
+  "name": "American Wolf",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 12.57,
+     "last600_t": 36.36,
+     "overall_t": 203.44,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.51
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -2890,6 +3027,22 @@
   "name": "Arran Bay",
   "runs": [
    {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.74,
+     "close_ratio": 1.02,
+     "last200_t": 11.97,
+     "last600_t": 34.81,
+     "overall_t": 96.07,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 17.72
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
     "date": "2026-02-14",
     "distance": 1400,
     "race": null,
@@ -3471,6 +3624,27 @@
    }
   ]
  },
+ "BABAYKA": {
+  "name": "Babayka",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.85,
+     "close_ratio": 1.02,
+     "last200_t": 12.27,
+     "last600_t": 34.82,
+     "overall_t": 62.33,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.99
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "BACCANO": {
   "name": "Baccano",
   "runs": [
@@ -3531,6 +3705,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 86.17,
+     "close_ratio": 0.93,
+     "last200_t": 15.66,
+     "last600_t": 41.49,
+     "overall_t": 130.91,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.02
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -3594,6 +3784,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "BAMYAN BUDDHA": {
+  "name": "Bamyan Buddha",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.91,
+     "close_ratio": 0.99,
+     "last200_t": 12.38,
+     "last600_t": 35.46,
+     "overall_t": 96.68,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 17.74
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -3911,6 +4122,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.94,
+     "close_ratio": 1.01,
+     "last200_t": 11.85,
+     "last600_t": 34.31,
+     "overall_t": 61.66,
+     "race_name": "Winning Edge Presentations Handicap",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -4202,6 +4429,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "BEACHBARBECKONS": {
+  "name": "Beachbarbeckons",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.63,
+     "close_ratio": 0.98,
+     "last200_t": 13.09,
+     "last600_t": 37.09,
+     "overall_t": 98.72,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -4922,6 +5170,22 @@
  "BERKELEY SQUARE": {
   "name": "Berkeley Square",
   "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.06,
+     "close_ratio": 1.0,
+     "last200_t": 13.24,
+     "last600_t": 37.85,
+     "overall_t": 205.14,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.63
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
    {
     "date": "2026-02-14",
     "distance": 2500,
@@ -6151,6 +6415,27 @@
    }
   ]
  },
+ "BOLTED IN": {
+  "name": "Bolted In",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.39,
+     "close_ratio": 1.0,
+     "last200_t": 12.56,
+     "last600_t": 36.05,
+     "overall_t": 98.22,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.66
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "BOLTSAVER": {
   "name": "Boltsaver",
   "runs": [
@@ -6313,6 +6598,22 @@
      "overall_t": 99.8,
      "race_name": "The Junction Handicap",
      "top_spd": 18.23
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.41,
+     "close_ratio": 1.0,
+     "last200_t": 12.44,
+     "last600_t": 35.76,
+     "overall_t": 97.62,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 17.58
     },
     "steward": null,
     "track": "Morphettville"
@@ -6708,6 +7009,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "BRAZANO": {
+  "name": "Brazano",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.0,
+     "close_ratio": 0.98,
+     "last200_t": 12.44,
+     "last600_t": 35.0,
+     "overall_t": 65.97,
+     "race_name": "Kirin Ichiban Handicap",
+     "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -7189,6 +7511,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.53,
+     "close_ratio": 0.98,
+     "last200_t": 12.76,
+     "last600_t": 36.37,
+     "overall_t": 97.58,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.94
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -7646,6 +7984,27 @@
    }
   ]
  },
+ "CAER IBORMEITH": {
+  "name": "Caer Ibormeith",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.95,
+     "close_ratio": 0.97,
+     "last200_t": 14.13,
+     "last600_t": 38.88,
+     "overall_t": 127.55,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.21
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "CAESARS PALACE": {
   "name": "Caesars Palace",
   "runs": [
@@ -7866,6 +8225,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "CANNAE": {
+  "name": "Cannae",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.57,
+     "close_ratio": 1.01,
+     "last200_t": 12.53,
+     "last600_t": 35.7,
+     "overall_t": 97.7,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 17.56
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -8293,6 +8673,27 @@
    }
   ]
  },
+ "CASCADE MOUNTAIN": {
+  "name": "Cascade Mountain",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.68,
+     "close_ratio": 0.94,
+     "last200_t": 13.92,
+     "last600_t": 38.69,
+     "overall_t": 100.45,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.53
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "CASH": {
   "name": "Cash",
   "runs": [
@@ -8510,6 +8911,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CELERITY": {
+  "name": "Celerity",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.15,
+     "close_ratio": 0.98,
+     "last200_t": 12.01,
+     "last600_t": 34.12,
+     "overall_t": 64.04,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.17
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -8865,6 +9287,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "CHANCE TAKEN": {
+  "name": "Chance Taken",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.61,
+     "close_ratio": 0.97,
+     "last200_t": 14.0,
+     "last600_t": 39.69,
+     "overall_t": 206.85,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.44
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -9633,6 +10076,27 @@
    }
   ]
  },
+ "CLASSY CLARET": {
+  "name": "Classy Claret",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.46,
+     "close_ratio": 1.03,
+     "last200_t": 12.56,
+     "last600_t": 36.31,
+     "overall_t": 125.14,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.37
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "CLAYMORE MINE": {
   "name": "Claymore Mine",
   "runs": [
@@ -10296,6 +10760,27 @@
    }
   ]
  },
+ "COOL THE JETS": {
+  "name": "Cool The Jets",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.47,
+     "close_ratio": 1.03,
+     "last200_t": 12.27,
+     "last600_t": 34.25,
+     "overall_t": 62.19,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.03
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "COOLMORE": {
   "name": "COOLMORE",
   "runs": [
@@ -10661,6 +11146,27 @@
    }
   ]
  },
+ "CRESPIANO": {
+  "name": "Crespiano",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.61,
+     "close_ratio": 1.0,
+     "last200_t": 12.65,
+     "last600_t": 36.05,
+     "overall_t": 98.12,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 17.49
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "CRESTA CRYSTAL": {
   "name": "Cresta Crystal",
   "runs": [
@@ -10771,6 +11277,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.72,
+     "close_ratio": 1.03,
+     "last200_t": 12.91,
+     "last600_t": 37.21,
+     "overall_t": 204.4,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.48
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -11411,6 +11933,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "DARKNCONFIDENTIAL": {
+  "name": "Darknconfidential",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.91,
+     "close_ratio": 1.03,
+     "last200_t": 12.03,
+     "last600_t": 34.75,
+     "overall_t": 96.58,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 18.47
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -12355,6 +12898,22 @@
   "name": "Dictionary",
   "runs": [
    {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.66,
+     "close_ratio": 0.99,
+     "last200_t": 13.3,
+     "last600_t": 38.41,
+     "overall_t": 205.71,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
     "date": "2026-02-14",
     "distance": 2500,
     "race": null,
@@ -12518,6 +13077,22 @@
      "overall_t": 98.55,
      "race_name": "Sportsbet Clare Lindop Stakes",
      "top_spd": 17.96
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 1.01,
+     "last200_t": 12.2,
+     "last600_t": 35.38,
+     "overall_t": 97.72,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 17.5
     },
     "steward": null,
     "track": "Morphettville"
@@ -14781,6 +15356,27 @@
    }
   ]
  },
+ "EVENTUALLY": {
+  "name": "Eventually",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.48,
+     "close_ratio": 1.01,
+     "last200_t": 13.22,
+     "last600_t": 38.08,
+     "overall_t": 205.54,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.88
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "EVERETT": {
   "name": "Everett",
   "runs": [
@@ -14868,6 +15464,22 @@
  "EXIT": {
   "name": "Exit",
   "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
    {
     "date": "2026-03-07",
     "distance": 1600,
@@ -15634,6 +16246,27 @@
    }
   ]
  },
+ "FIGO THE GREAT": {
+  "name": "Figo The Great",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.86,
+     "close_ratio": 0.97,
+     "last200_t": 12.74,
+     "last600_t": 36.62,
+     "overall_t": 98.56,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "FINAL COUNTDOWN": {
   "name": "Final Countdown",
   "runs": [
@@ -15994,6 +16627,27 @@
    }
   ]
  },
+ "FLAMING EYES": {
+  "name": "Flaming Eyes",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.45,
+     "last600_t": 35.47,
+     "overall_t": 97.77,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.92
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "FLASH ALICE": {
   "name": "Flash Alice",
   "runs": [
@@ -16115,6 +16769,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "FLIRT": {
+  "name": "Flirt",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.7,
+     "close_ratio": 0.97,
+     "last200_t": 12.77,
+     "last600_t": 35.48,
+     "overall_t": 66.2,
+     "race_name": "Kirin Ichiban Handicap",
+     "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -17227,6 +17902,27 @@
    }
   ]
  },
+ "FULL OF COURAGE": {
+  "name": "Full Of Courage",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.46,
+     "close_ratio": 1.03,
+     "last200_t": 12.43,
+     "last600_t": 36.31,
+     "overall_t": 125.35,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.26
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "FUNCHAL": {
   "name": "Funchal",
   "runs": [
@@ -17426,6 +18122,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "GAZZ": {
+  "name": "Gazz",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.89,
+     "close_ratio": 0.97,
+     "last200_t": 12.23,
+     "last600_t": 35.05,
+     "overall_t": 62.22,
+     "race_name": "Winning Edge Presentations Handicap",
+     "top_spd": 19.16
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -19337,6 +20054,27 @@
    }
   ]
  },
+ "HASTA LA WAR": {
+  "name": "Hasta La War",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.41,
+     "close_ratio": 1.01,
+     "last200_t": 13.26,
+     "last600_t": 38.11,
+     "overall_t": 205.6,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.94
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "HAWK POWER": {
   "name": "Hawk Power (IRE)",
   "runs": [
@@ -19981,6 +20719,27 @@
    }
   ]
  },
+ "HIGHLAND BLING": {
+  "name": "Highland Bling",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.94,
+     "close_ratio": 1.02,
+     "last200_t": 12.56,
+     "last600_t": 36.75,
+     "overall_t": 203.44,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.28
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "HIGHLIGHTS": {
   "name": "Highlights",
   "runs": [
@@ -20497,6 +21256,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "HURRY CURRY": {
+  "name": "Hurry Curry",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.96,
+     "close_ratio": 1.01,
+     "last200_t": 13.01,
+     "last600_t": 37.5,
+     "overall_t": 204.36,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.5
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -21868,6 +22648,27 @@
    }
   ]
  },
+ "JACK THE LAD": {
+  "name": "Jack The Lad",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.46,
+     "close_ratio": 1.0,
+     "last200_t": 13.18,
+     "last600_t": 36.37,
+     "overall_t": 98.29,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 18.02
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "JADZIA": {
   "name": "Jadzia",
   "runs": [
@@ -22821,6 +23622,27 @@
    }
   ]
  },
+ "JUST A BROTHER": {
+  "name": "Just A Brother",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.04,
+     "last200_t": 12.12,
+     "last600_t": 35.76,
+     "overall_t": 125.03,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.53
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "JUST CURIOUS": {
   "name": "Just Curious",
   "runs": [
@@ -23159,6 +23981,48 @@
    }
   ]
  },
+ "KARACASU": {
+  "name": "Karacasu",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.52,
+     "close_ratio": 0.98,
+     "last200_t": 12.46,
+     "last600_t": 34.69,
+     "overall_t": 64.87,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.32
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "KATIMS CLUB": {
+  "name": "Katim'S Club",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.97,
+     "close_ratio": 0.99,
+     "last200_t": 12.99,
+     "last600_t": 36.58,
+     "overall_t": 98.53,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "KATSU": {
   "name": "Katsu",
   "runs": [
@@ -23477,6 +24341,27 @@
    }
   ]
  },
+ "KING OF WESSEX": {
+  "name": "King Of Wessex",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.95,
+     "close_ratio": 1.04,
+     "last200_t": 12.39,
+     "last600_t": 36.13,
+     "overall_t": 125.12,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.68
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "KINGOFWALLSTREET": {
   "name": "Kingofwallstreet",
   "runs": [
@@ -23659,6 +24544,27 @@
    }
   ]
  },
+ "KIRKLISTON BLU": {
+  "name": "Kirkliston Blu",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.49,
+     "close_ratio": 0.99,
+     "last200_t": 13.5,
+     "last600_t": 38.48,
+     "overall_t": 205.64,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.6
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "KISS THE KING": {
   "name": "Kiss The King",
   "runs": [
@@ -23832,6 +24738,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 82.73,
+     "close_ratio": 0.91,
+     "last200_t": 16.8,
+     "last600_t": 43.95,
+     "overall_t": 211.0,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 16.98
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -25172,6 +26094,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.54,
+     "close_ratio": 0.97,
+     "last200_t": 12.16,
+     "last600_t": 34.33,
+     "overall_t": 64.69,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.29
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -27171,6 +28109,27 @@
    }
   ]
  },
+ "MATHEMATICIAN": {
+  "name": "Mathematician",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 11.3,
+     "last600_t": 33.26,
+     "overall_t": 60.89,
+     "race_name": "Winning Edge Presentations Handicap",
+     "top_spd": 18.91
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "MATING CALL": {
   "name": "Mating Call",
   "runs": [
@@ -27455,6 +28414,27 @@
      "underperf": false
     },
     "track": "Melbourne"
+   }
+  ]
+ },
+ "MIC DROP": {
+  "name": "Mic Drop",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.49,
+     "close_ratio": 0.95,
+     "last200_t": 12.13,
+     "last600_t": 34.35,
+     "overall_t": 64.18,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.17
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -27781,6 +28761,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.05,
+     "close_ratio": 1.01,
+     "last200_t": 12.4,
+     "last600_t": 35.41,
+     "overall_t": 96.92,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 17.71
+    },
+    "steward": null,
+    "track": "Morphettville"
    },
    {
     "date": "2026-03-07",
@@ -28116,6 +29112,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "MISS SLIPSTREAM": {
+  "name": "Miss Slipstream",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.33,
+     "close_ratio": 1.0,
+     "last200_t": 12.03,
+     "last600_t": 34.3,
+     "overall_t": 61.58,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.01
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -28631,6 +29648,27 @@
    }
   ]
  },
+ "MORE THAN HOPE": {
+  "name": "More Than Hope",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.08,
+     "close_ratio": 1.0,
+     "last200_t": 11.7,
+     "last600_t": 34.26,
+     "overall_t": 61.5,
+     "race_name": "Winning Edge Presentations Handicap",
+     "top_spd": 19.16
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "MORISU OJO": {
   "name": "Morisu Ojo",
   "runs": [
@@ -28710,6 +29748,27 @@
    }
   ]
  },
+ "MORTHAN EFFICIENT": {
+  "name": "Morthan Efficient",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.55,
+     "close_ratio": 1.04,
+     "last200_t": 12.28,
+     "last600_t": 35.91,
+     "overall_t": 125.21,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.64
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "MOSCOW RED": {
   "name": "Moscow Red",
   "runs": [
@@ -28767,6 +29826,22 @@
      "overall_t": 99.71,
      "race_name": "The Junction Handicap",
      "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.43,
+     "close_ratio": 1.03,
+     "last200_t": 12.47,
+     "last600_t": 35.39,
+     "overall_t": 98.03,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 18.05
     },
     "steward": null,
     "track": "Morphettville"
@@ -29132,6 +30207,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.24,
+     "close_ratio": 0.97,
+     "last200_t": 12.46,
+     "last600_t": 34.79,
+     "overall_t": 64.88,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.32
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -29290,6 +30381,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "MY RUBY": {
+  "name": "My Ruby",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.27,
+     "close_ratio": 1.02,
+     "last200_t": 12.21,
+     "last600_t": 34.67,
+     "overall_t": 62.5,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.08
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -30124,6 +31236,22 @@
   "name": "Newfoundland",
   "runs": [
    {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 87.87,
+     "close_ratio": 0.95,
+     "last200_t": 15.48,
+     "last600_t": 41.38,
+     "overall_t": 208.35,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.5
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
     "date": "2026-02-14",
     "distance": 2500,
     "race": null,
@@ -30777,6 +31905,27 @@
    }
   ]
  },
+ "NOSIE BY NATURE": {
+  "name": "Nosie By Nature",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 11.86,
+     "last600_t": 34.07,
+     "overall_t": 61.69,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "NOSTRA BELLA": {
   "name": "Nostra Bella",
   "runs": [
@@ -31276,6 +32425,27 @@
    }
   ]
  },
+ "OLDPOP": {
+  "name": "Oldpop",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "OLE AFFAIR": {
   "name": "Ole Affair",
   "runs": [
@@ -31418,6 +32588,22 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -31887,6 +33073,22 @@
      "overall_t": 98.74,
      "race_name": "Sportsbet Clare Lindop Stakes",
      "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 12.25,
+     "last600_t": 35.19,
+     "overall_t": 97.78,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 17.68
     },
     "steward": null,
     "track": "Morphettville"
@@ -32566,6 +33768,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "PANTOJA": {
+  "name": "Pantoja",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.27,
+     "close_ratio": 1.0,
+     "last200_t": 11.67,
+     "last600_t": 34.32,
+     "overall_t": 61.83,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.39
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -33915,6 +35138,43 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.83,
+     "close_ratio": 0.96,
+     "last200_t": 12.06,
+     "last600_t": 34.23,
+     "overall_t": 64.33,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.11
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "POWER OF TIME": {
+  "name": "Power Of Time",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.59,
+     "close_ratio": 1.0,
+     "last200_t": 11.95,
+     "last600_t": 34.43,
+     "overall_t": 65.38,
+     "race_name": "Kirin Ichiban Handicap",
+     "top_spd": 18.42
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -33968,6 +35228,27 @@
      "underperf": true
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "PRAIRIE FLOWER": {
+  "name": "Prairie Flower",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.32,
+     "close_ratio": 0.98,
+     "last200_t": 12.12,
+     "last600_t": 34.06,
+     "overall_t": 64.69,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.44
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -35203,6 +36484,22 @@
      "overall_t": 70.73,
      "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
      "top_spd": 18.93
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.53,
+     "close_ratio": 1.01,
+     "last200_t": 11.82,
+     "last600_t": 34.1,
+     "overall_t": 64.96,
+     "race_name": "Kirin Ichiban Handicap",
+     "top_spd": 18.71
     },
     "steward": null,
     "track": "Morphettville"
@@ -36448,6 +37745,27 @@
    }
   ]
  },
+ "RETOURNE": {
+  "name": "Retourne",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Rexco Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "REWARD THE SHERIFF": {
   "name": "Reward The Sheriff",
   "runs": [
@@ -36916,6 +38234,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "RONNY BEE": {
+  "name": "Ronny Bee",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -37589,6 +38928,27 @@
    }
   ]
  },
+ "RULED BY THIEVES": {
+  "name": "Ruled By Thieves",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.99,
+     "close_ratio": 1.01,
+     "last200_t": 12.19,
+     "last600_t": 34.77,
+     "overall_t": 62.35,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "RUMBLED AGAIN": {
   "name": "Rumbled Again",
   "runs": [
@@ -37676,6 +39036,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "RUNAWAY BELLE": {
+  "name": "Runaway Belle",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.9,
+     "close_ratio": 1.01,
+     "last200_t": 12.73,
+     "last600_t": 35.16,
+     "overall_t": 63.14,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 18.93
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -37842,6 +39223,27 @@
    }
   ]
  },
+ "SABRE ATHENA": {
+  "name": "Sabre Athena",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.06,
+     "close_ratio": 0.97,
+     "last200_t": 14.32,
+     "last600_t": 39.93,
+     "overall_t": 207.93,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.43
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SACRAMENTAL": {
   "name": "Sacramental",
   "runs": [
@@ -37946,6 +39348,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SAFE BET": {
+  "name": "Safe Bet",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.34,
+     "close_ratio": 0.97,
+     "last200_t": 12.8,
+     "last600_t": 36.44,
+     "overall_t": 97.73,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 18.05
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -38392,6 +39815,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.43,
+     "close_ratio": 1.0,
+     "last200_t": 13.37,
+     "last600_t": 38.1,
+     "overall_t": 205.71,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.94
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -38662,6 +40101,27 @@
    }
   ]
  },
+ "SAV ON ICE": {
+  "name": "Sav On Ice",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.0,
+     "close_ratio": 0.95,
+     "last200_t": 13.16,
+     "last600_t": 35.99,
+     "overall_t": 66.25,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SAVAMOON": {
   "name": "Savamoon",
   "runs": [
@@ -38777,6 +40237,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "SAVSONIC": {
+  "name": "Savsonic",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.12,
+     "close_ratio": 1.0,
+     "last200_t": 12.68,
+     "last600_t": 36.81,
+     "overall_t": 125.32,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -39311,6 +40792,27 @@
    }
   ]
  },
+ "SENTIMENTAL FLAME": {
+  "name": "Sentimental Flame",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 86.92,
+     "close_ratio": 0.94,
+     "last200_t": 15.24,
+     "last600_t": 41.83,
+     "overall_t": 209.09,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.08
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SEPALS": {
   "name": "Sepals",
   "runs": [
@@ -39477,6 +40979,22 @@
   "name": "Seychelles",
   "runs": [
    {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
     "date": "2026-03-07",
     "distance": 1600,
     "race": null,
@@ -39512,6 +41030,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SHA NA NA": {
+  "name": "Sha Na Na",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.09,
+     "close_ratio": 0.99,
+     "last200_t": 12.41,
+     "last600_t": 35.09,
+     "overall_t": 62.31,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -40019,6 +41558,27 @@
    }
   ]
  },
+ "SHES STYLISH": {
+  "name": "She's Stylish",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SHINES DISCREETLY": {
   "name": "Shines Discreetly",
   "runs": [
@@ -40169,6 +41729,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.32,
+     "close_ratio": 1.04,
+     "last200_t": 11.63,
+     "last600_t": 33.83,
+     "overall_t": 61.24,
+     "race_name": "Winning Edge Presentations Handicap",
+     "top_spd": 18.86
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -40211,6 +41787,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.24,
+     "close_ratio": 1.01,
+     "last200_t": 12.93,
+     "last600_t": 36.19,
+     "overall_t": 98.4,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 17.63
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -40830,6 +42422,27 @@
    }
   ]
  },
+ "SIR KINGSFORD": {
+  "name": "Sir Kingsford",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.89,
+     "close_ratio": 1.0,
+     "last200_t": 12.36,
+     "last600_t": 35.47,
+     "overall_t": 97.14,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 17.77
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "SIR NOW": {
   "name": "Sir Now",
   "runs": [
@@ -41265,6 +42878,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "SMASHING ACTION": {
+  "name": "Smashing Action",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.47,
+     "close_ratio": 0.97,
+     "last200_t": 12.21,
+     "last600_t": 34.6,
+     "overall_t": 62.0,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -41739,6 +43373,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SOMEWHERE SOON": {
+  "name": "Somewhere Soon",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.31,
+     "close_ratio": 1.03,
+     "last200_t": 12.28,
+     "last600_t": 36.0,
+     "overall_t": 125.2,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.35
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -42530,6 +44185,48 @@
    }
   ]
  },
+ "STARFLEET COMMAND": {
+  "name": "Starfleet Command",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.99,
+     "close_ratio": 1.02,
+     "last200_t": 12.34,
+     "last600_t": 35.55,
+     "overall_t": 98.34,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
+ "STARLITE REBEL": {
+  "name": "Starlite Rebel",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.9,
+     "close_ratio": 0.99,
+     "last200_t": 12.63,
+     "last600_t": 36.23,
+     "overall_t": 98.33,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.5
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "STARLITE VALLEY": {
   "name": "Starlite Valley",
   "runs": [
@@ -43224,6 +44921,22 @@
      "overall_t": 71.14,
      "race_name": "AIG Security Handicap (Heat 2 of Adelaide in Autumn Series)",
      "top_spd": 18.75
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.25,
+     "close_ratio": 1.02,
+     "last200_t": 11.98,
+     "last600_t": 34.2,
+     "overall_t": 65.23,
+     "race_name": "Kirin Ichiban Handicap",
+     "top_spd": 18.42
     },
     "steward": null,
     "track": "Morphettville"
@@ -44034,6 +45747,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SUNDOGG": {
+  "name": "Sundogg",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -44919,6 +46653,27 @@
    }
   ]
  },
+ "TAKEOVER LAD": {
+  "name": "Takeover Lad",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.71,
+     "close_ratio": 1.0,
+     "last200_t": 12.26,
+     "last600_t": 34.87,
+     "overall_t": 62.53,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 19.27
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "TALES OF TIME": {
   "name": "Tales Of Time",
   "runs": [
@@ -44955,6 +46710,22 @@
      "overall_t": 93.16,
      "race_name": "Sportsbet Jockey Watch Handicap",
      "top_spd": 17.75
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.01,
+     "close_ratio": 1.0,
+     "last200_t": 12.75,
+     "last600_t": 35.79,
+     "overall_t": 97.84,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 18.03
     },
     "steward": null,
     "track": "Morphettville"
@@ -45342,6 +47113,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "TEMBU BOY": {
+  "name": "Tembu Boy",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.18,
+     "close_ratio": 1.01,
+     "last200_t": 13.37,
+     "last600_t": 37.56,
+     "overall_t": 126.46,
+     "race_name": "Rexco Handicap",
+     "top_spd": 16.93
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -46643,6 +48435,27 @@
    }
   ]
  },
+ "THINKINGNINTYNINE": {
+  "name": "Thinkingnintynine",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.13,
+     "close_ratio": 0.99,
+     "last200_t": 12.99,
+     "last600_t": 37.19,
+     "overall_t": 125.48,
+     "race_name": "Rexco Handicap",
+     "top_spd": 17.26
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "THINKYAHOT": {
   "name": "Thinkyahot",
   "runs": [
@@ -46779,6 +48592,22 @@
      "overall_t": 70.94,
      "race_name": "Sportsbet Matrice Stakes",
      "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 11.93,
+     "last600_t": 33.83,
+     "overall_t": 64.29,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.18
     },
     "steward": null,
     "track": "Morphettville"
@@ -47427,6 +49256,27 @@
      "underperf": true
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "TOP OF THE RIDGE": {
+  "name": "Top Of The Ridge",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.02,
+     "last200_t": 12.19,
+     "last600_t": 35.48,
+     "overall_t": 97.98,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.81
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -48411,6 +50261,27 @@
    }
   ]
  },
+ "UPTOWN MONK": {
+  "name": "Uptown Monk",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.95,
+     "close_ratio": 0.95,
+     "last200_t": 13.33,
+     "last600_t": 37.06,
+     "overall_t": 98.53,
+     "race_name": "The Fotobase Group Morphettville Guineas",
+     "top_spd": 18.87
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "URBAN OUTLOOK": {
   "name": "Urban Outlook",
   "runs": [
@@ -48477,6 +50348,22 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 88.92,
+     "close_ratio": 0.98,
+     "last200_t": 15.36,
+     "last600_t": 40.89,
+     "overall_t": 208.55,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -48925,6 +50812,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 11.9,
+     "last600_t": 34.72,
+     "overall_t": 96.24,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 17.82
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -49228,6 +51131,27 @@
    }
   ]
  },
+ "VIOLET LOVEBUG": {
+  "name": "Violet Lovebug",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Winning Edge Presentations Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "VIRTUAL ILLUSION": {
   "name": "Virtual Illusion",
   "runs": [
@@ -49504,6 +51428,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 11.69,
+     "last600_t": 33.6,
+     "overall_t": 64.91,
+     "race_name": "Kirin Ichiban Handicap",
+     "top_spd": 18.48
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -49583,6 +51523,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "WATADEEL": {
+  "name": "Watadeel",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.63,
+     "close_ratio": 1.03,
+     "last200_t": 12.09,
+     "last600_t": 34.85,
+     "overall_t": 96.57,
+     "race_name": "Quayclean C S Hayes Memorial Cup",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -50145,6 +52106,22 @@
      "overall_t": 61.4,
      "race_name": "Fleurieu Milk Company Handicap",
      "top_spd": 18.72
+    },
+    "steward": null,
+    "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.52,
+     "close_ratio": 1.03,
+     "last200_t": 11.52,
+     "last600_t": 33.76,
+     "overall_t": 61.32,
+     "race_name": "Winning Edge Presentations Handicap",
+     "top_spd": 18.84
     },
     "steward": null,
     "track": "Morphettville"
@@ -51154,6 +53131,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-09",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.71,
+     "close_ratio": 0.99,
+     "last200_t": 12.86,
+     "last600_t": 36.3,
+     "overall_t": 98.32,
+     "race_name": "Sportsbet Feed Handicap",
+     "top_spd": 17.72
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
@@ -51422,6 +53415,27 @@
    }
   ]
  },
+ "ZIBULON": {
+  "name": "Zibulon",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 3200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.84,
+     "close_ratio": 1.0,
+     "last200_t": 13.17,
+     "last600_t": 37.94,
+     "overall_t": 205.15,
+     "race_name": "Sportsbet Adelaide Cup",
+     "top_spd": 17.61
+    },
+    "steward": null,
+    "track": "Morphettville"
+   }
+  ]
+ },
  "ZOU SENSATION": {
   "name": "Zou Sensation",
   "runs": [
@@ -51561,6 +53575,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ZOUPURRING": {
+  "name": "Zoupurring",
+  "runs": [
+   {
+    "date": "2026-03-09",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.63,
+     "close_ratio": 0.96,
+     "last200_t": 12.23,
+     "last600_t": 34.3,
+     "overall_t": 64.59,
+     "race_name": "Thomas Farms Manihi Classic",
+     "top_spd": 19.59
+    },
+    "steward": null,
+    "track": "Morphettville"
    }
   ]
  },
