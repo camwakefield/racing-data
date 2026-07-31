@@ -1,4 +1,25 @@
 {
+ "ABERLUTELY": {
+  "name": "Aberlutely",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.71,
+     "close_ratio": 0.92,
+     "last200_t": 13.97,
+     "last600_t": 39.74,
+     "overall_t": 103.43,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.92
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "ACE HAZ": {
   "name": "Ace Haz",
   "runs": [
@@ -113,6 +134,48 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "AITU": {
+  "name": "Aitu",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ALLEGRO MISS": {
+  "name": "Allegro Miss",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.05,
+     "close_ratio": 1.01,
+     "last200_t": 14.68,
+     "last600_t": 39.83,
+     "overall_t": 119.42,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 16.65
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -233,6 +296,48 @@
    }
   ]
  },
+ "ANT": {
+  "name": "Ant",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.98,
+     "close_ratio": 1.06,
+     "last200_t": 14.01,
+     "last600_t": 39.08,
+     "overall_t": 164.37,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.29
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ANTONITO": {
+  "name": "Antonito",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.25,
+     "close_ratio": 0.94,
+     "last200_t": 13.72,
+     "last600_t": 36.85,
+     "overall_t": 61.91,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "APACHE SONG": {
   "name": "Apache Song",
   "runs": [
@@ -261,6 +366,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "ARTISTIC GENIUS": {
+  "name": "Artistic Genius",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.98,
+     "close_ratio": 0.95,
+     "last200_t": 14.08,
+     "last600_t": 38.06,
+     "overall_t": 75.65,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 18.01
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -390,6 +516,27 @@
    }
   ]
  },
+ "BAYWATCH": {
+  "name": "Baywatch",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.99,
+     "close_ratio": 0.98,
+     "last200_t": 13.33,
+     "last600_t": 37.62,
+     "overall_t": 101.69,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "BEACH PAD": {
   "name": "Beach Pad",
   "runs": [
@@ -429,6 +576,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BEECHWORTH": {
+  "name": "Beechworth",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.72,
+     "close_ratio": 1.05,
+     "last200_t": 12.73,
+     "last600_t": 35.92,
+     "overall_t": 89.33,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.96
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -582,6 +750,27 @@
    }
   ]
  },
+ "BLUE WILLOW": {
+  "name": "Blue Willow",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.99,
+     "last200_t": 13.06,
+     "last600_t": 37.24,
+     "overall_t": 101.37,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.34
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "BOLD SOUL": {
   "name": "Bold Soul",
   "runs": [
@@ -647,6 +836,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "ive > Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -808,6 +1013,27 @@
    }
   ]
  },
+ "BRILLIANT HORIZON": {
+  "name": "Brilliant Horizon",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "BRING ME POWER": {
   "name": "Bring Me Power",
   "runs": [
@@ -826,6 +1052,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "BRITISH COLUMBIA": {
+  "name": "British Columbia",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.58,
+     "close_ratio": 0.92,
+     "last200_t": 15.35,
+     "last600_t": 41.11,
+     "overall_t": 97.92,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.17
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -902,6 +1149,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CAMP CABLE": {
+  "name": "Camp Cable",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.94,
+     "close_ratio": 0.97,
+     "last200_t": 13.92,
+     "last600_t": 38.84,
+     "overall_t": 96.26,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.02
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -998,6 +1266,27 @@
    }
   ]
  },
+ "CELESTIAL SPLENDOR": {
+  "name": "Celestial Splendor",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.99,
+     "close_ratio": 1.03,
+     "last200_t": 13.64,
+     "last600_t": 37.81,
+     "overall_t": 103.71,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.46
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "CELTICS": {
   "name": "Celtics",
   "runs": [
@@ -1022,6 +1311,22 @@
  "CENSORI": {
   "name": "Censori",
   "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 13.2,
+     "last600_t": 37.05,
+     "overall_t": 102.85,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.69
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
    {
     "date": "2026-07-18",
     "distance": 1700,
@@ -1213,6 +1518,27 @@
    }
   ]
  },
+ "CINTURATO": {
+  "name": "Cinturato",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "CORRECT": {
   "name": "Correct",
   "runs": [
@@ -1383,6 +1709,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CUSTOMER SERVICE": {
+  "name": "Customer Service",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.5,
+     "close_ratio": 1.08,
+     "last200_t": 13.56,
+     "last600_t": 38.08,
+     "overall_t": 162.62,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.24
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -1740,6 +2087,27 @@
    }
   ]
  },
+ "DREAMZEL": {
+  "name": "Dreamzel",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.37,
+     "close_ratio": 0.95,
+     "last200_t": 13.14,
+     "last600_t": 35.68,
+     "overall_t": 60.54,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 18.72
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "DUNTULM LASS": {
   "name": "Duntulm Lass",
   "runs": [
@@ -1829,6 +2197,69 @@
    }
   ]
  },
+ "ELEANOR DUMONT": {
+  "name": "Eleanor Dumont",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.64,
+     "close_ratio": 0.92,
+     "last200_t": 14.42,
+     "last600_t": 39.77,
+     "overall_t": 103.37,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.63
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ELECTRIC ELVIS": {
+  "name": "Electric Elvis",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.18,
+     "close_ratio": 0.96,
+     "last200_t": 13.42,
+     "last600_t": 37.2,
+     "overall_t": 74.55,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ELSIE MAY": {
+  "name": "Elsie May",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.47,
+     "close_ratio": 0.92,
+     "last200_t": 14.25,
+     "last600_t": 39.84,
+     "overall_t": 103.6,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.73
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "EMPEROR TZU": {
   "name": "Emperor Tzu",
   "runs": [
@@ -1847,6 +2278,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "EMPRESS OF THE SUN": {
+  "name": "Empress Of The Sun",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.14,
+     "close_ratio": 1.07,
+     "last200_t": 13.44,
+     "last600_t": 38.22,
+     "overall_t": 162.65,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 16.87
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -1937,6 +2389,48 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "ETON AFFAIR": {
+  "name": "Eton Affair",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.14,
+     "close_ratio": 1.03,
+     "last200_t": 12.91,
+     "last600_t": 36.5,
+     "overall_t": 89.12,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.62
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "EUPHORIC": {
+  "name": "Euphoric",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -2193,6 +2687,27 @@
    }
   ]
  },
+ "FOIRE DE TRONE": {
+  "name": "Foire De Trone",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.09,
+     "last200_t": 13.08,
+     "last600_t": 37.51,
+     "overall_t": 162.53,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 16.84
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "FOIX": {
   "name": "Foix (FR)",
   "runs": [
@@ -2214,6 +2729,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "FOXENBERG": {
+  "name": "Foxenberg",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -2388,6 +2924,48 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "GODTFRED KIRK": {
+  "name": "Godtfred Kirk",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.79,
+     "close_ratio": 1.03,
+     "last200_t": 12.92,
+     "last600_t": 36.63,
+     "overall_t": 89.32,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.55
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "GOLDEN MAGNATE": {
+  "name": "Golden Magnate",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.34,
+     "close_ratio": 1.02,
+     "last200_t": 13.63,
+     "last600_t": 37.18,
+     "overall_t": 90.39,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.81
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -2576,6 +3154,27 @@
    }
   ]
  },
+ "HERES MATILDA": {
+  "name": "Here'S Matilda",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 12.44,
+     "last600_t": 35.82,
+     "overall_t": 88.64,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.98
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "HIGHLAND BLAZE": {
   "name": "Highland Blaze",
   "runs": [
@@ -2670,6 +3269,27 @@
    }
   ]
  },
+ "IMMINANCE": {
+  "name": "Imminance",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.39,
+     "close_ratio": 0.95,
+     "last200_t": 13.09,
+     "last600_t": 36.04,
+     "overall_t": 61.05,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 18.75
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "IMPENDING SHADOW": {
   "name": "Impending Shadow",
   "runs": [
@@ -2688,6 +3308,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "INTIMEOFNEED": {
+  "name": "Intimeofneed",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.94,
+     "close_ratio": 0.99,
+     "last200_t": 13.53,
+     "last600_t": 37.29,
+     "overall_t": 75.65,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -2758,6 +3399,27 @@
    }
   ]
  },
+ "ITSUKUSHIMA": {
+  "name": "Itsukushima",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.46,
+     "close_ratio": 0.91,
+     "last200_t": 14.96,
+     "last600_t": 40.72,
+     "overall_t": 97.0,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.21
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "JACARANDA": {
   "name": "Jacaranda",
   "runs": [
@@ -2776,6 +3438,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "JAYKAYANN": {
+  "name": "Jaykayann",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.38,
+     "close_ratio": 1.08,
+     "last200_t": 13.62,
+     "last600_t": 38.52,
+     "overall_t": 164.16,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.03
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -2836,6 +3519,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "JENNI YOU THINK": {
+  "name": "Jenni You Think",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.57,
+     "close_ratio": 1.02,
+     "last200_t": 13.34,
+     "last600_t": 37.62,
+     "overall_t": 117.21,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 17.0
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -2914,6 +3618,48 @@
    }
   ]
  },
+ "JOHN IN ENGLISH": {
+  "name": "John In English",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.16,
+     "close_ratio": 1.03,
+     "last200_t": 12.82,
+     "last600_t": 36.49,
+     "overall_t": 89.89,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.57
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "JOHNNY BE GOOD": {
+  "name": "Johnny Be Good",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.5,
+     "close_ratio": 1.02,
+     "last200_t": 12.8,
+     "last600_t": 36.74,
+     "overall_t": 90.22,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.32
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "JUGIONG": {
   "name": "Jugiong",
   "runs": [
@@ -2974,6 +3720,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "KILLENAULE": {
+  "name": "Killenaule",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.99,
+     "last200_t": 13.62,
+     "last600_t": 37.65,
+     "overall_t": 95.48,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.76
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -3188,6 +3955,22 @@
   "name": "Licentious",
   "runs": [
    {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.88,
+     "close_ratio": 1.01,
+     "last200_t": 13.13,
+     "last600_t": 37.47,
+     "overall_t": 103.11,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.06
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
+   {
     "date": "2026-07-18",
     "distance": 1400,
     "race": null,
@@ -3202,6 +3985,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "LIGHTENING MANN": {
+  "name": "Lightening Mann",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.22,
+     "close_ratio": 1.09,
+     "last200_t": 13.76,
+     "last600_t": 38.19,
+     "overall_t": 163.31,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": 17.34
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -3378,6 +4182,27 @@
    }
   ]
  },
+ "MAGNARDO": {
+  "name": "Magnardo",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "MAGNASPIN": {
   "name": "Magnaspin",
   "runs": [
@@ -3402,6 +4227,22 @@
  "MAGNETIC CHESS": {
   "name": "Magnetic Chess",
   "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.82,
+     "close_ratio": 1.05,
+     "last200_t": 12.95,
+     "last600_t": 36.62,
+     "overall_t": 89.38,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.62
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
    {
     "date": "2026-07-25",
     "distance": 1400,
@@ -3506,6 +4347,48 @@
    }
   ]
  },
+ "MANNERHEIM": {
+  "name": "Mannerheim",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.34,
+     "close_ratio": 0.96,
+     "last200_t": 14.02,
+     "last600_t": 39.08,
+     "overall_t": 96.39,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 16.92
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "MARGIES BOY": {
+  "name": "Margie'S Boy",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.41,
+     "close_ratio": 0.96,
+     "last200_t": 14.81,
+     "last600_t": 39.88,
+     "overall_t": 97.54,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.08
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "MARINE EMPRESS": {
   "name": "Marine Empress",
   "runs": [
@@ -3576,6 +4459,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "MIDNIGHT GLOW": {
+  "name": "Midnight Glow",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.92,
+     "close_ratio": 1.01,
+     "last200_t": 13.45,
+     "last600_t": 37.87,
+     "overall_t": 117.54,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 16.93
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -3655,6 +4559,48 @@
    }
   ]
  },
+ "MISS CASTELVECCHIO": {
+  "name": "Miss Castelvecchio",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.3,
+     "close_ratio": 0.92,
+     "last200_t": 15.12,
+     "last600_t": 40.79,
+     "overall_t": 104.8,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.41
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "MISS LOLA": {
+  "name": "Miss Lola",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.03,
+     "last200_t": 13.11,
+     "last600_t": 36.15,
+     "overall_t": 74.3,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "MISS MARANDA": {
   "name": "Miss Maranda",
   "runs": [
@@ -3679,6 +4625,22 @@
  "MISSAPPREHEND": {
   "name": "Missapprehend",
   "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.98,
+     "close_ratio": 1.01,
+     "last200_t": 13.32,
+     "last600_t": 37.43,
+     "overall_t": 102.89,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.27
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
    {
     "date": "2026-07-18",
     "distance": 1400,
@@ -3778,6 +4740,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "MY ROCA FELLA": {
+  "name": "My Roca Fella",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.09,
+     "close_ratio": 1.01,
+     "last200_t": 13.43,
+     "last600_t": 38.19,
+     "overall_t": 117.44,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 16.67
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -3921,6 +4904,27 @@
    }
   ]
  },
+ "NINYO": {
+  "name": "Ninyo",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 13.06,
+     "last600_t": 37.46,
+     "overall_t": 116.87,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 17.31
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "NO CONFETTI": {
   "name": "No Confetti",
   "runs": [
@@ -3949,6 +4953,48 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "NOBLE WORK": {
+  "name": "Noble Work",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "NORDIC STRIKE": {
+  "name": "Nordic Strike",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.24,
+     "close_ratio": 0.95,
+     "last200_t": 13.06,
+     "last600_t": 35.73,
+     "overall_t": 60.38,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 18.77
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -4379,6 +5425,22 @@
      "underperf": false
     },
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -4423,6 +5485,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "POLAR PERSPECTIVE": {
+  "name": "Polar Perspective",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.98,
+     "close_ratio": 1.04,
+     "last200_t": 13.33,
+     "last600_t": 37.43,
+     "overall_t": 103.25,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.37
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -4489,6 +5572,27 @@
    }
   ]
  },
+ "PRESTIGE SNITZEL": {
+  "name": "Prestige Snitzel",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "PRIMA BELLA": {
   "name": "Prima Bella",
   "runs": [
@@ -4507,6 +5611,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "PRIMAL SPIRIT": {
+  "name": "Primal Spirit",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -4570,6 +5695,69 @@
    }
   ]
  },
+ "PRINCESS MESS": {
+  "name": "Princess Mess",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 90.03,
+     "close_ratio": 0.9,
+     "last200_t": 15.89,
+     "last600_t": 41.82,
+     "overall_t": 98.39,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.36
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "PROMISED LAND": {
+  "name": "Promised Land",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.4,
+     "close_ratio": 1.0,
+     "last200_t": 14.13,
+     "last600_t": 38.86,
+     "overall_t": 118.0,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 16.7
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "QUEEN OF CORDOBA": {
+  "name": "Queen Of Cordoba",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "ive > Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "RASPUTINA": {
   "name": "Rasputina",
   "runs": [
@@ -4590,6 +5778,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "RAZANNE": {
+  "name": "Razanne",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.26,
+     "close_ratio": 0.99,
+     "last200_t": 13.92,
+     "last600_t": 38.49,
+     "overall_t": 104.01,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 16.88
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -4697,6 +5906,48 @@
    }
   ]
  },
+ "RED ON RED": {
+  "name": "Red On Red",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "REGAL MIGHT": {
+  "name": "Regal Might",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.43,
+     "close_ratio": 0.98,
+     "last200_t": 13.88,
+     "last600_t": 37.88,
+     "overall_t": 75.65,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "RESOLUTELY": {
   "name": "Resolutely",
   "runs": [
@@ -4744,6 +5995,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "ROGUE WARRIOR": {
+  "name": "Rogue Warrior",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.9,
+     "close_ratio": 1.05,
+     "last200_t": 12.75,
+     "last600_t": 36.22,
+     "overall_t": 89.33,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.89
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -4815,6 +6087,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "RUSSIAN DUCHESS": {
+  "name": "Russian Duchess",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -4937,6 +6230,22 @@
   "name": "Samuel Langhorne",
   "runs": [
    {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
+   {
     "date": "2026-07-18",
     "distance": 2800,
     "race": null,
@@ -4951,6 +6260,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SATIN DIVA": {
+  "name": "Satin Diva",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.77,
+     "close_ratio": 0.97,
+     "last200_t": 14.57,
+     "last600_t": 38.55,
+     "overall_t": 76.94,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 17.82
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -5075,6 +6405,27 @@
    }
   ]
  },
+ "SHAMANSARA": {
+  "name": "Shamansara",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.48,
+     "close_ratio": 1.02,
+     "last200_t": 13.42,
+     "last600_t": 37.62,
+     "overall_t": 103.03,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.7
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "SHARES": {
   "name": "Shares",
   "runs": [
@@ -5129,6 +6480,27 @@
    }
   ]
  },
+ "SHES PRETTY RICH": {
+  "name": "She'S Pretty Rich",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "SHINING SMILE": {
   "name": "Shining Smile",
   "runs": [
@@ -5147,6 +6519,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "SHINY NEW DEEL": {
+  "name": "Shiny New Deel",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -5372,6 +6765,27 @@
    }
   ]
  },
+ "SOMETHINGSOSTRONG": {
+  "name": "Somethingsostrong",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.69,
+     "close_ratio": 0.98,
+     "last200_t": 13.82,
+     "last600_t": 38.54,
+     "overall_t": 95.73,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.09
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "ST LAWRENCE": {
   "name": "St Lawrence",
   "runs": [
@@ -5456,6 +6870,27 @@
    }
   ]
  },
+ "STAR TRIP": {
+  "name": "Star Trip",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.97,
+     "close_ratio": 1.01,
+     "last200_t": 13.59,
+     "last600_t": 36.9,
+     "overall_t": 74.6,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 18.06
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "STATION ONE": {
   "name": "Station One",
   "runs": [
@@ -5482,6 +6917,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "STAY SILENT": {
+  "name": "Stay Silent",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.95,
+     "close_ratio": 0.93,
+     "last200_t": 13.84,
+     "last600_t": 39.24,
+     "overall_t": 95.35,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.39
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -5776,6 +7232,27 @@
    }
   ]
  },
+ "TAKA SPEED": {
+  "name": "Taka Speed",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.07,
+     "close_ratio": 1.02,
+     "last200_t": 13.23,
+     "last600_t": 37.81,
+     "overall_t": 117.19,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 16.93
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "TAKEKO": {
   "name": "Takeko",
   "runs": [
@@ -5846,6 +7323,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "TEMPRANILLO": {
+  "name": "Tempranillo",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.61,
+     "close_ratio": 0.94,
+     "last200_t": 13.92,
+     "last600_t": 38.95,
+     "overall_t": 102.86,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.43
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -5965,6 +7463,22 @@
  "THE MEAN FIDDLER": {
   "name": "The Mean Fiddler",
   "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.79,
+     "close_ratio": 1.02,
+     "last200_t": 12.97,
+     "last600_t": 36.63,
+     "overall_t": 89.53,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.5
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
    {
     "date": "2026-07-18",
     "distance": 1700,
@@ -6090,6 +7604,48 @@
    }
   ]
  },
+ "TISHMAN": {
+  "name": "Tishman",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1800,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.91,
+     "close_ratio": 1.0,
+     "last200_t": 13.52,
+     "last600_t": 38.26,
+     "overall_t": 117.85,
+     "race_name": "Sportsbet More Places Handicap",
+     "top_spd": 16.7
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "TISSEYRE": {
+  "name": "Tisseyre",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.64,
+     "close_ratio": 1.02,
+     "last200_t": 13.3,
+     "last600_t": 37.56,
+     "overall_t": 103.03,
+     "race_name": "Evergreen Turf Handicap",
+     "top_spd": 17.19
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "TITLE FIGHTER": {
   "name": "Title Fighter",
   "runs": [
@@ -6191,6 +7747,48 @@
    }
   ]
  },
+ "TOUXLOVE": {
+  "name": "Touxlove",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1500,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.95,
+     "close_ratio": 0.94,
+     "last200_t": 14.17,
+     "last600_t": 39.24,
+     "overall_t": 96.18,
+     "race_name": "Sportsbet Jockey Watch Handicap",
+     "top_spd": 17.04
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "TOWER BRIDGE": {
+  "name": "Tower Bridge",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.99,
+     "close_ratio": 0.94,
+     "last200_t": 13.06,
+     "last600_t": 35.82,
+     "overall_t": 60.9,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.05
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "TUFF TU MUS": {
   "name": "Tuff Tu Mus",
   "runs": [
@@ -6209,6 +7807,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "UMGAWA": {
+  "name": "Umgawa",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.8,
+     "close_ratio": 0.93,
+     "last200_t": 14.28,
+     "last600_t": 37.42,
+     "overall_t": 62.37,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -6237,6 +7856,22 @@
   "name": "Urban Outlook",
   "runs": [
    {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
+   {
     "date": "2026-07-18",
     "distance": 2800,
     "race": null,
@@ -6251,6 +7886,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "UTOPIC WARRIOR": {
+  "name": "Utopic Warrior",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.07,
+     "close_ratio": 0.98,
+     "last200_t": 13.61,
+     "last600_t": 37.63,
+     "overall_t": 75.74,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 17.3
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -6295,6 +7951,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "VALEDICTORIAN": {
+  "name": "Valedictorian",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -6384,6 +8061,27 @@
    }
   ]
  },
+ "WALTER SPUR": {
+  "name": "Walter Spur",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.96,
+     "last200_t": 12.55,
+     "last600_t": 35.1,
+     "overall_t": 60.32,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 19.15
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "WATCHME WIN": {
   "name": "Watchme Win",
   "runs": [
@@ -6423,6 +8121,27 @@
     },
     "steward": null,
     "track": "Flemington"
+   }
+  ]
+ },
+ "WEAPON CLEAR": {
+  "name": "Weapon Clear",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.24,
+     "close_ratio": 0.93,
+     "last200_t": 13.6,
+     "last600_t": 36.47,
+     "overall_t": 60.93,
+     "race_name": "MRC Membership Made Of Moments Handicap",
+     "top_spd": 18.76
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },
@@ -6491,6 +8210,27 @@
    }
   ]
  },
+ "WUDDZZ": {
+  "name": "Wuddzz",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 2400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sportsbet Race Replays Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "ZEBRA FINCH": {
   "name": "Zebra Finch",
   "runs": [
@@ -6512,9 +8252,67 @@
    }
   ]
  },
+ "ZENTORNO": {
+  "name": "Zentorno",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.0,
+     "close_ratio": 1.04,
+     "last200_t": 13.09,
+     "last600_t": 36.55,
+     "overall_t": 89.97,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.63
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
+ "ZESHADOW": {
+  "name": "Zeshadow",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 89.24,
+     "close_ratio": 0.9,
+     "last200_t": 15.62,
+     "last600_t": 41.73,
+     "overall_t": 105.15,
+     "race_name": "ive > Handicap",
+     "top_spd": 17.81
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   }
+  ]
+ },
  "ZETHUS": {
   "name": "Zethus",
   "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.99,
+     "close_ratio": 0.99,
+     "last200_t": 13.51,
+     "last600_t": 37.27,
+     "overall_t": 75.64,
+     "race_name": "Sportsbet BlackBook Handicap",
+     "top_spd": 17.48
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
+   },
    {
     "date": "2026-07-18",
     "distance": 1200,
@@ -6574,6 +8372,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "ZOULETTE": {
+  "name": "Zoulette",
+  "runs": [
+   {
+    "date": "2026-07-29",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 93.65,
+     "close_ratio": 1.02,
+     "last200_t": 14.16,
+     "last600_t": 38.25,
+     "overall_t": 91.35,
+     "race_name": "Tile Importer Handicap",
+     "top_spd": 17.25
+    },
+    "steward": null,
+    "track": "Sportsbet Sandown Hillside"
    }
   ]
  },

@@ -141,6 +141,62 @@
   "condition": "Soft 6"
  },
  {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_01.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_02.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_03.csv",
+  "count": 12
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_05.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_06.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_07.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-07-29",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191035_08.csv",
+  "count": 10
+ },
+ {
   "date": "2026-07-30",
   "track": "Bendigo",
   "type": "stewards",
