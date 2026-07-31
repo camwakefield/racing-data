@@ -36,6 +36,15 @@
   "reason": "no horse comments extracted \u2014 check the report layout, or that the PDF has a text layer (a scanned image will produce nothing)"
  },
  {
+  "file": "Form _ Stewards' Report _ Flemington _ Saturday _ 14 February 2026 _ VIC _ Racing.com.html",
+  "status": "ok",
+  "races": 16,
+  "horses": 3,
+  "date": "2026-02-14",
+  "track": "Racing Club @ Flemington",
+  "reason": ""
+ },
+ {
   "file": "Form _ Stewards' Report _ Flemington _ Saturday _ 20 June 2026 _ VIC _ Racing.com.html",
   "status": "ok",
   "races": 12,

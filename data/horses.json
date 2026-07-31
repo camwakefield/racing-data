@@ -1368,6 +1368,22 @@
      "underperf": false
     },
     "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc)."
+   },
+   {
+    "date": "2026-02-14",
+    "distance": null,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "winners",
+     "condition": "Good 4",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Racing Club @ Flemington"
    }
   ]
  },
@@ -2726,6 +2742,27 @@
    }
   ]
  },
+ "ARDAKAN": {
+  "name": "Ardakan",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ARDESHA": {
   "name": "Ardesha",
   "runs": [
@@ -2849,6 +2886,27 @@
    }
   ]
  },
+ "ARRAN BAY": {
+  "name": "Arran Bay",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.38,
+     "close_ratio": 1.05,
+     "last200_t": 11.64,
+     "last600_t": 33.59,
+     "overall_t": 82.76,
+     "race_name": "The Elms Handicap",
+     "top_spd": 18.88
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ARTISSI": {
   "name": "Artissi",
   "runs": [
@@ -2962,6 +3020,27 @@
      "underperf": false
     },
     "track": "Melbourne"
+   }
+  ]
+ },
+ "ASAKURA": {
+  "name": "Asakura",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.6,
+     "close_ratio": 1.04,
+     "last200_t": 11.76,
+     "last600_t": 33.67,
+     "overall_t": 82.56,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.75
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3271,6 +3350,27 @@
    }
   ]
  },
+ "AUTUMN LOVER": {
+  "name": "Autumn Lover",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.37,
+     "close_ratio": 1.0,
+     "last200_t": 12.34,
+     "last600_t": 34.23,
+     "overall_t": 64.83,
+     "race_name": "TAB Talindert Stakes",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "AUTUMN RAINBOW": {
   "name": "Autumn Rainbow",
   "runs": [
@@ -3352,6 +3452,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.0,
+     "close_ratio": 1.06,
+     "last200_t": 11.98,
+     "last600_t": 33.72,
+     "overall_t": 83.07,
+     "race_name": "The Elms Handicap",
+     "top_spd": 19.06
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3436,6 +3552,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BALINOR": {
+  "name": "Balinor",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.94,
+     "close_ratio": 1.05,
+     "last200_t": 11.99,
+     "last600_t": 34.94,
+     "overall_t": 122.44,
+     "race_name": "TAB We're On",
+     "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3603,6 +3740,22 @@
      "overall_t": null,
      "race_name": "Yulong Newmarket Handicap",
      "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.89,
+     "close_ratio": 1.06,
+     "last200_t": 11.22,
+     "last600_t": 32.18,
+     "overall_t": 57.17,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 19.66
     },
     "steward": null,
     "track": "Flemington"
@@ -4357,6 +4510,43 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.79,
+     "close_ratio": 1.07,
+     "last200_t": 11.13,
+     "last600_t": 32.97,
+     "overall_t": 70.75,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 19.08
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "BEIWACHT": {
+  "name": "Beiwacht",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.71,
+     "close_ratio": 1.0,
+     "last200_t": 11.74,
+     "last600_t": 33.26,
+     "overall_t": 57.91,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -4689,6 +4879,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.07,
+     "close_ratio": 1.05,
+     "last200_t": 11.09,
+     "last600_t": 32.12,
+     "overall_t": 57.15,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 19.55
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -4710,6 +4916,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "BERKELEY SQUARE": {
+  "name": "Berkeley Square",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.13,
+     "last200_t": 11.81,
+     "last600_t": 33.69,
+     "overall_t": 158.05,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.68
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -4812,6 +5039,27 @@
      "overall_t": 70.45,
      "race_name": "VRC Member Brendan Sobozynski Plate",
      "top_spd": 18.29
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "BEYOND QUESTION": {
+  "name": "Beyond Question",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.72,
+     "close_ratio": 1.04,
+     "last200_t": 11.71,
+     "last600_t": 33.63,
+     "overall_t": 82.79,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.75
     },
     "steward": null,
     "track": "Flemington"
@@ -5029,6 +5277,27 @@
    }
   ]
  },
+ "BINGI": {
+  "name": "Bingi",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.84,
+     "close_ratio": 1.03,
+     "last200_t": 11.72,
+     "last600_t": 33.59,
+     "overall_t": 82.99,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "BIOLOGICS": {
   "name": "Biologics",
   "runs": [
@@ -5087,6 +5356,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "BIRDMAN": {
+  "name": "Birdman",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.66,
+     "close_ratio": 1.06,
+     "last200_t": 11.15,
+     "last600_t": 32.82,
+     "overall_t": 82.23,
+     "race_name": "The Elms Handicap",
+     "top_spd": 19.1
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -7395,6 +7685,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.63,
+     "close_ratio": 1.07,
+     "last200_t": 11.3,
+     "last600_t": 32.83,
+     "overall_t": 82.1,
+     "race_name": "The Elms Handicap",
+     "top_spd": 19.33
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -8249,6 +8555,27 @@
    }
   ]
  },
+ "CELIBATE": {
+  "name": "Celibate",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.76,
+     "close_ratio": 1.09,
+     "last200_t": 11.47,
+     "last600_t": 32.94,
+     "overall_t": 83.49,
+     "race_name": "Desirable Stakes",
+     "top_spd": 18.91
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "CELSIUS STAR": {
   "name": "Celsius Star",
   "runs": [
@@ -8781,6 +9108,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "CHASING APHRODITE": {
+  "name": "Chasing Aphrodite",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.56,
+     "close_ratio": 1.01,
+     "last200_t": 12.34,
+     "last600_t": 35.8,
+     "overall_t": 122.16,
+     "race_name": "TAB We're On",
+     "top_spd": 18.09
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -10654,6 +11002,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.48,
+     "close_ratio": 1.09,
+     "last200_t": 11.75,
+     "last600_t": 33.37,
+     "overall_t": 83.72,
+     "race_name": "Desirable Stakes",
+     "top_spd": 19.22
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -11900,6 +12264,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.96,
+     "close_ratio": 1.03,
+     "last200_t": 11.86,
+     "last600_t": 33.68,
+     "overall_t": 64.66,
+     "race_name": "TAB Talindert Stakes",
+     "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -11968,6 +12348,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "DICTIONARY": {
+  "name": "Dictionary",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.65,
+     "close_ratio": 1.13,
+     "last200_t": 11.81,
+     "last600_t": 33.81,
+     "overall_t": 158.32,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -12459,6 +12860,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "DOUBLE CHERRY": {
+  "name": "Double Cherry",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB We're On",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -13050,6 +13472,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "EARTHING": {
+  "name": "Earthing",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.09,
+     "close_ratio": 0.97,
+     "last200_t": 13.19,
+     "last600_t": 36.05,
+     "overall_t": 84.71,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.73
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -14087,6 +14530,27 @@
    }
   ]
  },
+ "ENXUTO": {
+  "name": "Enxuto",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.09,
+     "last200_t": 11.25,
+     "last600_t": 32.71,
+     "overall_t": 82.22,
+     "race_name": "The Elms Handicap",
+     "top_spd": 19.4
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ERNIE": {
   "name": "Ernie",
   "runs": [
@@ -14151,6 +14615,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "ETERNAL FLAME": {
+  "name": "Eternal Flame",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.47,
+     "close_ratio": 1.04,
+     "last200_t": 12.42,
+     "last600_t": 34.45,
+     "overall_t": 83.88,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.85
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -14461,6 +14946,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 11.52,
+     "last600_t": 33.2,
+     "overall_t": 82.94,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 19.04
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -14498,6 +14999,48 @@
     },
     "steward": null,
     "track": "Morphettville"
+   }
+  ]
+ },
+ "EXTRATWO": {
+  "name": "Extratwo",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.06,
+     "close_ratio": 1.04,
+     "last200_t": 12.09,
+     "last600_t": 34.25,
+     "overall_t": 71.88,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.68
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "EXTREME VIRTUE": {
+  "name": "Extreme Virtue",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.37,
+     "close_ratio": 0.99,
+     "last200_t": 12.8,
+     "last600_t": 36.25,
+     "overall_t": 122.72,
+     "race_name": "TAB We're On",
+     "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -15255,6 +15798,27 @@
    }
   ]
  },
+ "FIORENOT": {
+  "name": "Fiorenot",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 12.05,
+     "last600_t": 34.57,
+     "overall_t": 121.56,
+     "race_name": "TAB We're On",
+     "top_spd": 18.41
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "FIRST CHORUS": {
   "name": "First Chorus",
   "runs": [
@@ -15387,6 +15951,43 @@
      "overall_t": null,
      "race_name": "Herald Sun Plate",
      "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.83,
+     "close_ratio": 1.04,
+     "last200_t": 11.52,
+     "last600_t": 33.63,
+     "overall_t": 71.07,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.58
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "FLAMIN ROMANS": {
+  "name": "Flamin' Romans",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.79,
+     "close_ratio": 1.03,
+     "last200_t": 12.45,
+     "last600_t": 35.35,
+     "overall_t": 122.44,
+     "race_name": "TAB We're On",
+     "top_spd": 18.04
     },
     "steward": null,
     "track": "Flemington"
@@ -16786,6 +17387,27 @@
    }
   ]
  },
+ "GARACHICO": {
+  "name": "Garachico",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.09,
+     "close_ratio": 1.12,
+     "last200_t": 11.74,
+     "last600_t": 34.0,
+     "overall_t": 158.12,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "GATES": {
   "name": "Gates",
   "runs": [
@@ -16928,6 +17550,27 @@
    }
   ]
  },
+ "GEORGIE GET MAD": {
+  "name": "Georgie Get Mad",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.29,
+     "close_ratio": 1.01,
+     "last200_t": 12.24,
+     "last600_t": 35.17,
+     "overall_t": 121.76,
+     "race_name": "TAB We're On",
+     "top_spd": 18.45
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "GHANAS AKAN": {
   "name": "Ghana'S Akan",
   "runs": [
@@ -16974,6 +17617,27 @@
      "overall_t": 128.91,
      "race_name": "Flemington Community Plate",
      "top_spd": 18.47
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "GIGA KICK": {
+  "name": "Giga Kick",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.8,
+     "close_ratio": 1.01,
+     "last200_t": 11.33,
+     "last600_t": 32.54,
+     "overall_t": 57.24,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 19.21
     },
     "steward": null,
     "track": "Flemington"
@@ -17992,6 +18656,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.86,
+     "close_ratio": 1.04,
+     "last200_t": 11.46,
+     "last600_t": 33.62,
+     "overall_t": 70.84,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.6
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -18087,6 +18767,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.47,
+     "close_ratio": 1.06,
+     "last200_t": 11.95,
+     "last600_t": 33.4,
+     "overall_t": 83.0,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 19.27
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -18126,6 +18822,22 @@
      "overall_t": 82.77,
      "race_name": "Darley Sires' Produce Stakes",
      "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.09,
+     "close_ratio": 1.02,
+     "last200_t": 12.32,
+     "last600_t": 34.33,
+     "overall_t": 64.76,
+     "race_name": "TAB Talindert Stakes",
+     "top_spd": 18.79
     },
     "steward": null,
     "track": "Flemington"
@@ -18494,6 +19206,22 @@
      "health_flag": false,
      "underperf": true
     },
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.01,
+     "last200_t": 11.64,
+     "last600_t": 33.33,
+     "overall_t": 63.9,
+     "race_name": "TAB Talindert Stakes",
+     "top_spd": 18.7
+    },
+    "steward": null,
     "track": "Flemington"
    }
   ]
@@ -19284,6 +20012,22 @@
      "overall_t": 98.72,
      "race_name": "The David Bourke",
      "top_spd": 18.03
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.76,
+     "close_ratio": 1.04,
+     "last200_t": 11.78,
+     "last600_t": 34.0,
+     "overall_t": 71.65,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.34
     },
     "steward": null,
     "track": "Flemington"
@@ -20496,6 +21240,27 @@
    }
   ]
  },
+ "IMMORTAL STAR": {
+  "name": "Immortal Star",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.62,
+     "close_ratio": 1.03,
+     "last200_t": 11.72,
+     "last600_t": 33.4,
+     "overall_t": 63.93,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 18.86
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "IMMORTAL TRIUMPH": {
   "name": "Immortal Triumph",
   "runs": [
@@ -21145,6 +21910,27 @@
    }
   ]
  },
+ "JAKIVY": {
+  "name": "Jakivy",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.31,
+     "close_ratio": 1.04,
+     "last200_t": 11.63,
+     "last600_t": 33.17,
+     "overall_t": 63.78,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "JAMIE MOTT": {
   "name": "Jamie Mott",
   "runs": [
@@ -21602,6 +22388,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.31,
+     "close_ratio": 1.12,
+     "last200_t": 12.03,
+     "last600_t": 34.27,
+     "overall_t": 158.36,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -21633,6 +22435,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -22116,6 +22934,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "JUSTADEEL": {
+  "name": "Justadeel",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "The Elms Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -24596,6 +25435,27 @@
    }
   ]
  },
+ "LOUD CHARLIE": {
+  "name": "Loud Charlie",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.76,
+     "close_ratio": 1.02,
+     "last200_t": 11.97,
+     "last600_t": 33.96,
+     "overall_t": 83.19,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.68
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "LOVABLE RASCAL": {
   "name": "Lovable Rascal",
   "runs": [
@@ -26069,6 +26929,27 @@
    }
   ]
  },
+ "MARHOONA": {
+  "name": "Marhoona",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.1,
+     "close_ratio": 0.99,
+     "last200_t": 11.45,
+     "last600_t": 32.78,
+     "overall_t": 57.47,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 19.32
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MARINE EMPRESS": {
   "name": "Marine Empress",
   "runs": [
@@ -26266,6 +27147,27 @@
     },
     "steward": null,
     "track": "Morphettville"
+   }
+  ]
+ },
+ "MATCHA LATTE": {
+  "name": "Matcha Latte",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.05,
+     "close_ratio": 1.04,
+     "last200_t": 11.4,
+     "last600_t": 33.36,
+     "overall_t": 82.3,
+     "race_name": "The Elms Handicap",
+     "top_spd": 18.88
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -26634,6 +27536,22 @@
      "overall_t": 63.71,
      "race_name": "TAB We're On",
      "top_spd": 19.36
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.54,
+     "close_ratio": 1.04,
+     "last200_t": 11.39,
+     "last600_t": 32.63,
+     "overall_t": 57.59,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 19.22
     },
     "steward": null,
     "track": "Flemington"
@@ -27219,6 +28137,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.01,
+     "close_ratio": 1.07,
+     "last200_t": 11.54,
+     "last600_t": 33.22,
+     "overall_t": 82.58,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 19.15
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -27468,6 +28402,27 @@
      "overall_t": 71.64,
      "race_name": "Kooza - Now on at Flemington",
      "top_spd": 18.7
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "MODOWN": {
+  "name": "Modown",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.62,
+     "close_ratio": 1.05,
+     "last200_t": 11.45,
+     "last600_t": 33.36,
+     "overall_t": 70.98,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.87
     },
     "steward": null,
     "track": "Flemington"
@@ -27955,6 +28910,27 @@
    }
   ]
  },
+ "MR MAGNUS": {
+  "name": "Mr Magnus",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.4,
+     "close_ratio": 1.04,
+     "last200_t": 11.52,
+     "last600_t": 33.14,
+     "overall_t": 64.01,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 18.83
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MR SIOUX": {
   "name": "Mr Sioux (IRE)",
   "runs": [
@@ -28201,6 +29177,27 @@
    }
   ]
  },
+ "MY BROTHERS KEEPER": {
+  "name": "My Brothers Keeper",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.37,
+     "close_ratio": 1.04,
+     "last200_t": 12.2,
+     "last600_t": 34.79,
+     "overall_t": 122.05,
+     "race_name": "TAB We're On",
+     "top_spd": 18.3
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MY CHINA PLATE": {
   "name": "My China Plate",
   "runs": [
@@ -28237,6 +29234,22 @@
      "overall_t": 69.61,
      "race_name": "Yulong Newmarket Handicap",
      "top_spd": 19.6
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.09,
+     "close_ratio": 1.06,
+     "last200_t": 11.12,
+     "last600_t": 31.79,
+     "overall_t": 57.03,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 19.96
     },
     "steward": null,
     "track": "Flemington"
@@ -28374,6 +29387,22 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.89,
+     "close_ratio": 1.01,
+     "last200_t": 11.92,
+     "last600_t": 33.65,
+     "overall_t": 63.97,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -28795,6 +29824,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 10.99,
+     "last600_t": 32.9,
+     "overall_t": 70.51,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.95
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -29075,6 +30120,48 @@
    }
   ]
  },
+ "NEWFOUNDLAND": {
+  "name": "Newfoundland",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.17,
+     "close_ratio": 1.09,
+     "last200_t": 12.17,
+     "last600_t": 34.67,
+     "overall_t": 158.88,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "NEXT JEN": {
+  "name": "Next Jen",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.22,
+     "close_ratio": 1.07,
+     "last200_t": 11.62,
+     "last600_t": 33.46,
+     "overall_t": 84.03,
+     "race_name": "Desirable Stakes",
+     "top_spd": 18.71
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "NEXT STEP IOWA": {
   "name": "Next Step Iowa",
   "runs": [
@@ -29198,6 +30285,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "NIGHT ENDEAVOR": {
+  "name": "Night Endeavor",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB We're On",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -29669,6 +30777,27 @@
    }
   ]
  },
+ "NOSTRA BELLA": {
+  "name": "Nostra Bella",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.15,
+     "close_ratio": 1.01,
+     "last200_t": 11.73,
+     "last600_t": 33.56,
+     "overall_t": 64.15,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "NOSTRYIA": {
   "name": "Nostryia",
   "runs": [
@@ -30053,6 +31182,27 @@
    }
   ]
  },
+ "OFFICIATE": {
+  "name": "Officiate",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.55,
+     "close_ratio": 1.04,
+     "last200_t": 11.78,
+     "last600_t": 33.69,
+     "overall_t": 82.89,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.91
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "OH TOO GOOD": {
   "name": "Oh Too Good",
   "runs": [
@@ -30172,6 +31322,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "OLE DANCER": {
+  "name": "Ole Dancer",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.11,
+     "last200_t": 11.27,
+     "last600_t": 32.53,
+     "overall_t": 83.44,
+     "race_name": "Desirable Stakes",
+     "top_spd": 19.41
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -30677,6 +31848,27 @@
      "underperf": false
     },
     "track": "Caulfield"
+   }
+  ]
+ },
+ "OTAGO": {
+  "name": "Otago",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.65,
+     "close_ratio": 1.02,
+     "last200_t": 12.93,
+     "last600_t": 35.77,
+     "overall_t": 122.63,
+     "race_name": "TAB We're On",
+     "top_spd": 18.13
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -31377,6 +32569,48 @@
    }
   ]
  },
+ "PARADISE CITY": {
+  "name": "Paradise City",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.06,
+     "last200_t": 11.45,
+     "last600_t": 32.89,
+     "overall_t": 82.18,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "PARADISE STORM": {
+  "name": "Paradise Storm",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 1.13,
+     "last200_t": 11.7,
+     "last600_t": 33.7,
+     "overall_t": 158.36,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.63
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PARDON MY FRENCH": {
   "name": "Pardon My French",
   "runs": [
@@ -31658,6 +32892,27 @@
    }
   ]
  },
+ "PERILOUS FIGHTER": {
+  "name": "Perilous Fighter",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.76,
+     "last600_t": 32.94,
+     "overall_t": 63.55,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 19.26
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PERLAGE": {
   "name": "Perlage",
   "runs": [
@@ -31813,6 +33068,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.47,
+     "close_ratio": 1.02,
+     "last200_t": 12.15,
+     "last600_t": 34.45,
+     "overall_t": 82.88,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -31855,6 +33126,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "PHOTOGRAPH": {
+  "name": "Photograph",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -31924,6 +33216,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "PICTOR": {
+  "name": "Pictor",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -32406,6 +33719,22 @@
      "underperf": false
     },
     "track": "\u00a9 2026 Racing.com Media Pty Ltd (and other parties working with it). Racing materials, including fields, form and results, are subject to copyright which is owned by the relevant Principal Racing Authority (being, as the case may be, Racing Victoria Limited, Racing SA Ltd, Racing New South Wales, Racing Queensland Board, Racing and Wagering Western Australia, Tasracing Pty Ltd, Thoroughbred Racing NT and Canberra Racing Club Inc)."
+   },
+   {
+    "date": "2026-02-14",
+    "distance": null,
+    "race": 8,
+    "sectional": null,
+    "steward": {
+     "comment": "race samples from following horses:",
+     "condition": "Good 4",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Racing Club @ Flemington"
    }
   ]
  },
@@ -32525,6 +33854,22 @@
      "overall_t": 81.91,
      "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
      "top_spd": 19.08
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.24,
+     "close_ratio": 1.04,
+     "last200_t": 11.43,
+     "last600_t": 33.49,
+     "overall_t": 71.11,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.55
     },
     "steward": null,
     "track": "Flemington"
@@ -32755,6 +34100,22 @@
      "underperf": false
     },
     "track": "Victoria"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": null,
+    "race": 10,
+    "sectional": null,
+    "steward": {
+     "comment": "urine for post-race analysis:",
+     "condition": "Good 4",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Racing Club @ Flemington"
    }
   ]
  },
@@ -33352,6 +34713,27 @@
    }
   ]
  },
+ "PRINCESS QUE": {
+  "name": "Princess Que",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PRINCING": {
   "name": "Princing",
   "runs": [
@@ -33411,6 +34793,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "PRIVATEER": {
+  "name": "Privateer",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Desirable Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -34353,6 +35756,27 @@
      "overall_t": 88.05,
      "race_name": "20 Years of Living Legends Trophy",
      "top_spd": 18.35
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "REAL CLASS": {
+  "name": "Real Class",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.09,
+     "close_ratio": 1.02,
+     "last200_t": 12.36,
+     "last600_t": 34.59,
+     "overall_t": 83.73,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.42
     },
     "steward": null,
     "track": "Flemington"
@@ -35474,6 +36898,27 @@
    }
   ]
  },
+ "ROMANTIC ENCOUNTER": {
+  "name": "Romantic Encounter",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.3,
+     "close_ratio": 1.03,
+     "last200_t": 11.94,
+     "last600_t": 34.12,
+     "overall_t": 82.83,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.71
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ROOM FOR BINGO": {
   "name": "Room For Bingo",
   "runs": [
@@ -36125,6 +37570,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.71,
+     "close_ratio": 1.04,
+     "last200_t": 11.28,
+     "last600_t": 33.33,
+     "overall_t": 70.52,
+     "race_name": "The Schweppes Plate",
+     "top_spd": 18.77
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -36362,6 +37823,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.7,
+     "close_ratio": 1.06,
+     "last200_t": 11.24,
+     "last600_t": 33.14,
+     "overall_t": 82.17,
+     "race_name": "The Elms Handicap",
+     "top_spd": 18.9
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -36545,6 +38022,22 @@
      "overall_t": 99.16,
      "race_name": "The David Bourke",
      "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.02,
+     "close_ratio": 1.11,
+     "last200_t": 12.02,
+     "last600_t": 34.37,
+     "overall_t": 158.25,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.42
     },
     "steward": null,
     "track": "Flemington"
@@ -36814,6 +38307,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.09,
+     "close_ratio": 1.05,
+     "last200_t": 11.89,
+     "last600_t": 33.53,
+     "overall_t": 82.53,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -37004,6 +38513,22 @@
      "overall_t": 94.43,
      "race_name": "TAB & World Pool Kewney Stakes",
      "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.94,
+     "close_ratio": 1.1,
+     "last200_t": 11.3,
+     "last600_t": 32.88,
+     "overall_t": 83.07,
+     "race_name": "Desirable Stakes",
+     "top_spd": 19.16
     },
     "steward": null,
     "track": "Flemington"
@@ -37276,6 +38801,27 @@
    }
   ]
  },
+ "SCARY": {
+  "name": "Scary",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.45,
+     "close_ratio": 1.07,
+     "last200_t": 13.92,
+     "last600_t": 36.84,
+     "overall_t": 161.04,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.25
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SCHEELITE": {
   "name": "Scheelite",
   "runs": [
@@ -37291,6 +38837,22 @@
      "overall_t": 81.26,
      "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
      "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.08,
+     "close_ratio": 1.05,
+     "last200_t": 11.56,
+     "last600_t": 33.35,
+     "overall_t": 82.24,
+     "race_name": "The Elms Handicap",
+     "top_spd": 19.07
     },
     "steward": null,
     "track": "Flemington"
@@ -37456,6 +39018,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.09,
+     "close_ratio": 1.04,
+     "last200_t": 11.64,
+     "last600_t": 33.53,
+     "overall_t": 82.21,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.78
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -37527,6 +39105,22 @@
      "overall_t": 98.69,
      "race_name": "The David Bourke",
      "top_spd": 17.93
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.74,
+     "close_ratio": 1.04,
+     "last200_t": 12.11,
+     "last600_t": 34.66,
+     "overall_t": 121.77,
+     "race_name": "TAB We're On",
+     "top_spd": 18.36
     },
     "steward": null,
     "track": "Flemington"
@@ -38018,6 +39612,22 @@
     },
     "steward": null,
     "track": "Bendigo"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.89,
+     "close_ratio": 1.01,
+     "last200_t": 12.43,
+     "last600_t": 34.4,
+     "overall_t": 65.33,
+     "race_name": "TAB Talindert Stakes",
+     "top_spd": 18.91
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -39375,6 +40985,27 @@
    }
   ]
  },
+ "SIXTIES": {
+  "name": "Sixties",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.52,
+     "close_ratio": 1.05,
+     "last200_t": 11.53,
+     "last600_t": 33.36,
+     "overall_t": 82.35,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 19.11
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SKADOOSH": {
   "name": "Skadoosh",
   "runs": [
@@ -39511,6 +41142,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.75,
+     "close_ratio": 1.09,
+     "last200_t": 11.59,
+     "last600_t": 33.28,
+     "overall_t": 84.05,
+     "race_name": "Desirable Stakes",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -40263,6 +41910,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "SPACE RIDER": {
+  "name": "Space Rider",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -41236,6 +42904,27 @@
    }
   ]
  },
+ "STEEL RUN": {
+  "name": "Steel Run",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.48,
+     "close_ratio": 1.12,
+     "last200_t": 12.07,
+     "last600_t": 34.21,
+     "overall_t": 158.22,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "STEFI MAGNETICA": {
   "name": "Stefi Magnetica",
   "runs": [
@@ -41272,6 +42961,22 @@
      "overall_t": 73.21,
      "race_name": "Next Generation Sprinters Series Final",
      "top_spd": 18.16
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.26,
+     "close_ratio": 1.17,
+     "last200_t": 12.24,
+     "last600_t": 33.92,
+     "overall_t": 64.85,
+     "race_name": "TAB Talindert Stakes",
+     "top_spd": 18.94
     },
     "steward": null,
     "track": "Flemington"
@@ -42197,6 +43902,27 @@
    }
   ]
  },
+ "STYLISH SECRET": {
+  "name": "Stylish Secret",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2500,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.79,
+     "close_ratio": 1.1,
+     "last200_t": 12.08,
+     "last600_t": 34.45,
+     "overall_t": 158.4,
+     "race_name": "Be Captivated Trophy",
+     "top_spd": 18.34
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SULEK": {
   "name": "Sulek",
   "runs": [
@@ -42329,6 +44055,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "SUNSETS": {
+  "name": "Sunsets",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.6,
+     "close_ratio": 1.03,
+     "last200_t": 12.27,
+     "last600_t": 35.06,
+     "overall_t": 121.87,
+     "race_name": "TAB We're On",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -43085,6 +44832,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 91.65,
+     "close_ratio": 0.96,
+     "last200_t": 13.72,
+     "last600_t": 37.72,
+     "overall_t": 124.13,
+     "race_name": "TAB We're On",
+     "top_spd": 18.4
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -43316,6 +45079,27 @@
    }
   ]
  },
+ "TANGO JEWEL": {
+  "name": "Tango Jewel",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.53,
+     "close_ratio": 1.03,
+     "last200_t": 11.94,
+     "last600_t": 33.43,
+     "overall_t": 63.94,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 19.05
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "TAPINFORPAR": {
   "name": "Tapinforpar",
   "runs": [
@@ -43394,6 +45178,22 @@
      "overall_t": null,
      "race_name": "TAB Australian Cup Prelude",
      "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.51,
+     "close_ratio": 1.02,
+     "last200_t": 12.04,
+     "last600_t": 34.74,
+     "overall_t": 121.39,
+     "race_name": "TAB We're On",
+     "top_spd": 18.12
     },
     "steward": null,
     "track": "Flemington"
@@ -43822,6 +45622,22 @@
      "overall_t": 69.21,
      "race_name": "Yulong Newmarket Handicap",
      "top_spd": 19.27
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.07,
+     "last200_t": 10.83,
+     "last600_t": 31.5,
+     "overall_t": 56.91,
+     "race_name": "Black Caviar Lightning",
+     "top_spd": 19.9
     },
     "steward": null,
     "track": "Flemington"
@@ -45526,6 +47342,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.67,
+     "close_ratio": 1.01,
+     "last200_t": 12.19,
+     "last600_t": 34.38,
+     "overall_t": 82.99,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.63
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -45886,6 +47718,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "TRAPALANDA": {
+  "name": "Trapalanda",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.57,
+     "close_ratio": 1.02,
+     "last200_t": 12.16,
+     "last600_t": 35.07,
+     "overall_t": 121.87,
+     "race_name": "TAB We're On",
+     "top_spd": 18.18
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -46316,6 +48169,22 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.54,
+     "close_ratio": 1.03,
+     "last200_t": 12.04,
+     "last600_t": 33.77,
+     "overall_t": 64.49,
+     "race_name": "VOBIS Gold Prelude (QC)",
+     "top_spd": 18.61
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -46476,6 +48345,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "UNSEEN RULER": {
+  "name": "Unseen Ruler",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.83,
+     "close_ratio": 1.05,
+     "last200_t": 11.82,
+     "last600_t": 34.63,
+     "overall_t": 121.82,
+     "race_name": "TAB We're On",
+     "top_spd": 18.07
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -47870,6 +49760,27 @@
    }
   ]
  },
+ "WEST OF SWINDON": {
+  "name": "West Of Swindon",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.31,
+     "close_ratio": 1.06,
+     "last200_t": 11.73,
+     "last600_t": 33.43,
+     "overall_t": 82.93,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 19.07
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "WESTERN LEGEND": {
   "name": "Western Legend",
   "runs": [
@@ -47898,6 +49809,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "WETUMPKA": {
+  "name": "Wetumpka",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.82,
+     "close_ratio": 1.04,
+     "last200_t": 11.94,
+     "last600_t": 33.94,
+     "overall_t": 82.95,
+     "race_name": "CS Hayes Stakes",
+     "top_spd": 18.77
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -48815,6 +50747,27 @@
    }
   ]
  },
+ "WROTE TO ARATAKI": {
+  "name": "Wrote To Arataki",
+  "runs": [
+   {
+    "date": "2026-02-14",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.19,
+     "close_ratio": 1.02,
+     "last200_t": 11.9,
+     "last600_t": 33.84,
+     "overall_t": 82.25,
+     "race_name": "Frances Tressady Stakes",
+     "top_spd": 18.69
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "WUDDZZ": {
   "name": "Wuddzz",
   "runs": [
@@ -49119,6 +51072,22 @@
      "overall_t": 82.78,
      "race_name": "Darley Sires' Produce Stakes",
      "top_spd": 18.59
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-02-14",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.96,
+     "close_ratio": 1.02,
+     "last200_t": 11.87,
+     "last600_t": 33.68,
+     "overall_t": 64.36,
+     "race_name": "TAB Talindert Stakes",
+     "top_spd": 18.82
     },
     "steward": null,
     "track": "Flemington"

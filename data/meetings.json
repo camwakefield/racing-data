@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_01.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_02.csv",
+  "count": 16
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_03.csv",
+  "count": 7
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_04.csv",
+  "count": 10
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_05.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_06.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_07.csv",
+  "count": 9
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_08.csv",
+  "count": 8
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_09.csv",
+  "count": 13
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional",
+  "source_file": "5190966_10.csv",
+  "count": 11
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Racing Club @ Flemington",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 14 February 2026 _ VIC _ Racing.com.html",
+  "count": 3,
+  "condition": "Good 4"
+ },
+ {
   "date": "2026-03-07",
   "track": "Flemington",
   "type": "sectional",
