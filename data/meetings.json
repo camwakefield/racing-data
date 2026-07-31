@@ -703,5 +703,68 @@
   "source_file": "bendigo_2026-07-30.txt",
   "count": 65,
   "condition": "Soft 6"
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_01.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_02.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_03.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_04.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_05.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_06.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_07.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_08.csv",
+  "count": 0
+ },
+ {
+  "date": "2026-13-06",
+  "track": "Sportsbet Sandown Hillside",
+  "type": "sectional",
+  "source_file": "5191085_09.csv",
+  "count": 0
  }
 ]
