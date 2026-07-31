@@ -919,6 +919,27 @@
    }
   ]
  },
+ "AFTER SUMMER": {
+  "name": "After Summer",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.69,
+     "close_ratio": 1.02,
+     "last200_t": 12.29,
+     "last600_t": 34.77,
+     "overall_t": 95.89,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "AFTERBERNA": {
   "name": "Afterberna",
   "runs": [
@@ -1142,6 +1163,27 @@
      "underperf": false
     },
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "AHHA AHHA": {
+  "name": "Ahha Ahha",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.02,
+     "close_ratio": 1.05,
+     "last200_t": 11.7,
+     "last600_t": 33.84,
+     "overall_t": 95.53,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1462,6 +1504,22 @@
     },
     "steward": null,
     "track": "Morphettville"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -1846,6 +1904,27 @@
    }
   ]
  },
+ "ANGEL CAPITAL": {
+  "name": "Angel Capital",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.76,
+     "close_ratio": 1.02,
+     "last200_t": 11.66,
+     "last600_t": 33.04,
+     "overall_t": 69.13,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.68
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ANGEL IN BLACK": {
   "name": "Angel In Black",
   "runs": [
@@ -2179,6 +2258,27 @@
      "overall_t": 100.58,
      "race_name": "Fancy A Gallop Plate",
      "top_spd": 17.97
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "ANTINO": {
+  "name": "Antino",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.15,
+     "close_ratio": 0.95,
+     "last200_t": 13.13,
+     "last600_t": 36.13,
+     "overall_t": 95.54,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.35
     },
     "steward": null,
     "track": "Flemington"
@@ -2565,6 +2665,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "ARCORA": {
+  "name": "Arcora",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.31,
+     "close_ratio": 0.98,
+     "last200_t": 12.87,
+     "last600_t": 36.05,
+     "overall_t": 120.11,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.67
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -3129,6 +3250,27 @@
    }
   ]
  },
+ "AUGUSTUS": {
+  "name": "Augustus",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.1,
+     "close_ratio": 0.98,
+     "last200_t": 12.94,
+     "last600_t": 36.5,
+     "overall_t": 121.12,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.0
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "AUTUMN RAINBOW": {
   "name": "Autumn Rainbow",
   "runs": [
@@ -3443,6 +3585,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "BARAQIEL": {
+  "name": "Baraqiel",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -4487,6 +4650,48 @@
    }
   ]
  },
+ "BENAGIL": {
+  "name": "Benagil",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.28,
+     "close_ratio": 1.06,
+     "last200_t": 11.83,
+     "last600_t": 33.75,
+     "overall_t": 95.72,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "BENEDETTA": {
+  "name": "Benedetta",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.06,
+     "close_ratio": 1.02,
+     "last200_t": 11.69,
+     "last600_t": 32.94,
+     "overall_t": 69.28,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.52
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "BERGASUN": {
   "name": "Bergasun",
   "runs": [
@@ -4547,6 +4752,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "BETTER OFF ALONE": {
+  "name": "Better Off Alone",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.01,
+     "close_ratio": 1.0,
+     "last200_t": 11.74,
+     "last600_t": 33.61,
+     "overall_t": 58.6,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 18.79
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -6720,6 +6946,27 @@
    }
   ]
  },
+ "BUCKAROO": {
+  "name": "Buckaroo",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "BUCKETS RIDGE": {
   "name": "Buckets Ridge",
   "runs": [
@@ -6828,6 +7075,27 @@
      "underperf": false
     },
     "track": "Melbourne"
+   }
+  ]
+ },
+ "BURMA STAR": {
+  "name": "Burma Star",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.69,
+     "close_ratio": 1.07,
+     "last200_t": 11.39,
+     "last600_t": 32.61,
+     "overall_t": 63.65,
+     "race_name": "TAB We're On",
+     "top_spd": 19.32
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -6946,6 +7214,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.96,
+     "close_ratio": 1.06,
+     "last200_t": 11.47,
+     "last600_t": 33.52,
+     "overall_t": 95.76,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -6969,6 +7253,27 @@
      "underperf": false
     },
     "track": "Melbourne"
+   }
+  ]
+ },
+ "CABALLUS": {
+  "name": "Caballus",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.22,
+     "close_ratio": 1.01,
+     "last200_t": 11.79,
+     "last600_t": 33.22,
+     "overall_t": 68.97,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.14
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -7066,6 +7371,27 @@
      "overall_t": 88.6,
      "race_name": "Vale Steve Richards",
      "top_spd": 18.16
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "CAFE MILLENIUM": {
+  "name": "Cafe Millenium",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 11.61,
+     "last600_t": 33.17,
+     "overall_t": 81.7,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 19.12
     },
     "steward": null,
     "track": "Flemington"
@@ -7703,6 +8029,27 @@
    }
   ]
  },
+ "CASTELLAR": {
+  "name": "Castellar",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Herald Sun Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "CASTLE": {
   "name": "Castle",
   "runs": [
@@ -8257,6 +8604,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "CHAPADOS": {
+  "name": "Chapados",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.25,
+     "close_ratio": 1.02,
+     "last200_t": 11.45,
+     "last600_t": 33.19,
+     "overall_t": 58.28,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -9082,6 +9450,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "CODIGO": {
+  "name": "Codigo",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.24,
+     "close_ratio": 1.03,
+     "last200_t": 11.62,
+     "last600_t": 32.99,
+     "overall_t": 63.81,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -10387,6 +10776,27 @@
    }
   ]
  },
+ "DAMASK ROSE": {
+  "name": "Damask Rose",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.91,
+     "close_ratio": 1.07,
+     "last200_t": 11.5,
+     "last600_t": 33.2,
+     "overall_t": 95.55,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 19.34
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "DAMIZER": {
   "name": "Damizer",
   "runs": [
@@ -10861,6 +11271,22 @@
     },
     "steward": null,
     "track": "Flemington"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.15,
+     "close_ratio": 1.03,
+     "last200_t": 11.57,
+     "last600_t": 32.91,
+     "overall_t": 69.56,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.28
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -11330,6 +11756,27 @@
    }
   ]
  },
+ "DESERT HERO": {
+  "name": "Desert Hero",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.58,
+     "close_ratio": 0.98,
+     "last200_t": 12.61,
+     "last600_t": 35.95,
+     "overall_t": 120.71,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "DETERMINATO": {
   "name": "Determinato",
   "runs": [
@@ -11414,6 +11861,27 @@
    }
   ]
  },
+ "DIAMETER": {
+  "name": "Diameter",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.91,
+     "close_ratio": 0.98,
+     "last200_t": 12.37,
+     "last600_t": 34.93,
+     "overall_t": 83.15,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "DIAMOND DAWN": {
   "name": "Diamond Dawn",
   "runs": [
@@ -11442,6 +11910,22 @@
      "underperf": false
     },
     "track": "Ballarat Synthetic"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -11663,6 +12147,27 @@
      "underperf": true
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "DISNECK": {
+  "name": "Disneck",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.57,
+     "close_ratio": 1.03,
+     "last200_t": 11.58,
+     "last600_t": 32.77,
+     "overall_t": 69.64,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.35
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -11978,6 +12483,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "DR HOOK": {
+  "name": "Dr Hook",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.17,
+     "close_ratio": 0.95,
+     "last200_t": 12.8,
+     "last600_t": 35.55,
+     "overall_t": 83.23,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 19.09
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -13707,6 +14233,48 @@
    }
   ]
  },
+ "EUROCANTO": {
+  "name": "Eurocanto",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.87,
+     "close_ratio": 0.99,
+     "last200_t": 12.87,
+     "last600_t": 35.3,
+     "overall_t": 84.01,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.55
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "EVAPORATE": {
+  "name": "Evaporate",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.89,
+     "close_ratio": 0.96,
+     "last200_t": 12.36,
+     "last600_t": 35.13,
+     "overall_t": 93.8,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.28
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "EVERETT": {
   "name": "Everett",
   "runs": [
@@ -13788,6 +14356,48 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "EXIT": {
+  "name": "Exit",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.07,
+     "close_ratio": 1.06,
+     "last200_t": 12.35,
+     "last600_t": 34.28,
+     "overall_t": 95.36,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 19.88
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "EXPENSIVE TASTE": {
+  "name": "Expensive Taste",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.15,
+     "close_ratio": 0.97,
+     "last200_t": 12.45,
+     "last600_t": 35.2,
+     "overall_t": 83.01,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.33
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -14738,6 +15348,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "FISSION": {
+  "name": "Fission",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Herald Sun Plate",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -16071,6 +16702,27 @@
    }
   ]
  },
+ "GALLANT SON": {
+  "name": "Gallant Son",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.88,
+     "close_ratio": 1.03,
+     "last200_t": 11.82,
+     "last600_t": 33.0,
+     "overall_t": 69.0,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.7
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "GALLANTRY": {
   "name": "Gallantry",
   "runs": [
@@ -16152,6 +16804,27 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "GEEGEES MISTRUTH": {
+  "name": "Geegees Mistruth",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.7,
+     "close_ratio": 1.02,
+     "last200_t": 11.63,
+     "last600_t": 33.06,
+     "overall_t": 69.41,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 18.93
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -16787,6 +17460,27 @@
    }
   ]
  },
+ "GO LEFT": {
+  "name": "Go Left",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.36,
+     "close_ratio": 1.06,
+     "last200_t": 11.84,
+     "last600_t": 33.39,
+     "overall_t": 64.19,
+     "race_name": "TAB We're On",
+     "top_spd": 19.12
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "GOBBOS MATE": {
   "name": "Gobbo's Mate",
   "runs": [
@@ -17393,6 +18087,27 @@
     },
     "steward": null,
     "track": "Morphettville"
+   }
+  ]
+ },
+ "GRINZINGER HEART": {
+  "name": "Grinzinger Heart",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.81,
+     "close_ratio": 0.95,
+     "last200_t": 12.44,
+     "last600_t": 35.32,
+     "overall_t": 82.77,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.8
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -18141,6 +18856,27 @@
    }
   ]
  },
+ "HERE TO SHOCK": {
+  "name": "Here to Shock",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.16,
+     "close_ratio": 1.02,
+     "last200_t": 11.78,
+     "last600_t": 33.45,
+     "overall_t": 81.45,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 18.85
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "HERES MATILDA": {
   "name": "Here'S Matilda",
   "runs": [
@@ -18232,6 +18968,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.15,
+     "close_ratio": 1.0,
+     "last200_t": 11.85,
+     "last600_t": 34.05,
+     "overall_t": 63.89,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 19.19
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -19062,6 +19814,27 @@
    }
   ]
  },
+ "HYDROBOMB": {
+  "name": "Hydrobomb",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.48,
+     "close_ratio": 0.98,
+     "last200_t": 12.89,
+     "last600_t": 35.44,
+     "overall_t": 83.4,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.86
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "HYPER BALLAD": {
   "name": "Hyper Ballad",
   "runs": [
@@ -19644,6 +20417,27 @@
    }
   ]
  },
+ "IMMEDIACY": {
+  "name": "Immediacy",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.57,
+     "close_ratio": 0.96,
+     "last200_t": 13.13,
+     "last600_t": 36.7,
+     "overall_t": 121.11,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.64
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "IMMINANCE": {
   "name": "Imminance",
   "runs": [
@@ -19937,6 +20731,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "INNER GOLD": {
+  "name": "Inner Gold",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.41,
+     "close_ratio": 0.96,
+     "last200_t": 13.37,
+     "last600_t": 36.2,
+     "overall_t": 83.78,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.32
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -20264,6 +21079,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "JADZIA": {
+  "name": "Jadzia",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.76,
+     "close_ratio": 1.01,
+     "last200_t": 11.33,
+     "last600_t": 33.02,
+     "overall_t": 57.91,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 19.0
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -20703,6 +21539,48 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "JENNILALA": {
+  "name": "Jennilala",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.07,
+     "close_ratio": 1.05,
+     "last200_t": 11.97,
+     "last600_t": 34.17,
+     "overall_t": 95.79,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.66
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "JENNIS MEADOW": {
+  "name": "Jenni's Meadow",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.75,
+     "close_ratio": 0.98,
+     "last200_t": 12.59,
+     "last600_t": 35.89,
+     "overall_t": 120.36,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -22733,6 +23611,27 @@
    }
   ]
  },
+ "LATHLAIN": {
+  "name": "Lathlain",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 94.65,
+     "close_ratio": 1.02,
+     "last200_t": 13.13,
+     "last600_t": 35.52,
+     "overall_t": 96.48,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 18.69
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "LAUBERHORN": {
   "name": "Lauberhorn",
   "runs": [
@@ -22918,6 +23817,27 @@
    }
   ]
  },
+ "LEGACY BOUND": {
+  "name": "Legacy Bound",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.07,
+     "last200_t": 11.23,
+     "last600_t": 32.51,
+     "overall_t": 63.47,
+     "race_name": "TAB We're On",
+     "top_spd": 19.4
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "LEGEND": {
   "name": "Legend",
   "runs": [
@@ -22956,6 +23876,27 @@
      "overall_t": 86.52,
      "race_name": "Vale Steve Richards",
      "top_spd": 18.06
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "LEICA LUCY": {
+  "name": "Leica Lucy",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.98,
+     "last200_t": 12.13,
+     "last600_t": 34.74,
+     "overall_t": 93.97,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.54
     },
     "steward": null,
     "track": "Flemington"
@@ -23036,6 +23977,22 @@
      "health_flag": false,
      "underperf": false
     },
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.5,
+     "close_ratio": 0.97,
+     "last200_t": 12.8,
+     "last600_t": 35.43,
+     "overall_t": 83.95,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.69
+    },
+    "steward": null,
     "track": "Flemington"
    }
   ]
@@ -23376,6 +24333,27 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "LITZDEEL": {
+  "name": "Litzdeel",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.0,
+     "last200_t": 12.4,
+     "last600_t": 35.44,
+     "overall_t": 120.27,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.22
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -24063,6 +25041,27 @@
    }
   ]
  },
+ "MACHINE GUN GRACIE": {
+  "name": "Machine Gun Gracie",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.82,
+     "close_ratio": 1.04,
+     "last200_t": 11.69,
+     "last600_t": 33.91,
+     "overall_t": 95.9,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.56
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MACHINEGUN MIKE": {
   "name": "Machinegun Mike",
   "runs": [
@@ -24460,6 +25459,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.47,
+     "close_ratio": 0.97,
+     "last200_t": 12.97,
+     "last600_t": 36.36,
+     "overall_t": 120.82,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -25275,6 +26290,27 @@
    }
   ]
  },
+ "MEDICINAL": {
+  "name": "Medicinal",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.76,
+     "close_ratio": 1.0,
+     "last200_t": 11.21,
+     "last600_t": 33.02,
+     "overall_t": 57.8,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 18.87
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MEECH": {
   "name": "Meech",
   "runs": [
@@ -25562,6 +26598,27 @@
    }
   ]
  },
+ "MILITARY TYCOON": {
+  "name": "Military Tycoon",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.96,
+     "close_ratio": 1.07,
+     "last200_t": 11.55,
+     "last600_t": 32.85,
+     "overall_t": 63.71,
+     "race_name": "TAB We're On",
+     "top_spd": 19.36
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MILSONS POINT": {
   "name": "Milsons Point",
   "runs": [
@@ -25782,6 +26839,22 @@
      "overall_t": 86.87,
      "race_name": "20 Years of Living Legends Trophy",
      "top_spd": 18.54
+    },
+    "steward": null,
+    "track": "Flemington"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": null
     },
     "steward": null,
     "track": "Flemington"
@@ -26104,6 +27177,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "MISS TARZY": {
+  "name": "Miss Tarzy",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.73,
+     "close_ratio": 1.03,
+     "last200_t": 12.0,
+     "last600_t": 34.29,
+     "overall_t": 96.43,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -26437,6 +27531,27 @@
      "overall_t": 100.24,
      "race_name": "Fancy A Gallop Plate",
      "top_spd": 17.85
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "MONEY HONEY": {
+  "name": "Money Honey",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": null
     },
     "steward": null,
     "track": "Flemington"
@@ -27086,6 +28201,27 @@
    }
   ]
  },
+ "MY GLADIOLA": {
+  "name": "My Gladiola",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.81,
+     "close_ratio": 1.01,
+     "last200_t": 11.68,
+     "last600_t": 33.36,
+     "overall_t": 69.61,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.6
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "MY ROCA FELLA": {
   "name": "My Roca Fella",
   "runs": [
@@ -27176,6 +28312,22 @@
      "underperf": false
     },
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -27280,6 +28432,27 @@
    }
   ]
  },
+ "NARAGHI": {
+  "name": "Naraghi",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.66,
+     "close_ratio": 1.03,
+     "last200_t": 12.47,
+     "last600_t": 34.78,
+     "overall_t": 95.81,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 18.89
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "NARALINGA": {
   "name": "Naralinga",
   "runs": [
@@ -27361,6 +28534,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "NATION STATE": {
+  "name": "Nation State",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.75,
+     "close_ratio": 1.03,
+     "last200_t": 12.11,
+     "last600_t": 33.84,
+     "overall_t": 64.48,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 18.85
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -27773,6 +28967,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "NERVOUS WITNESS": {
+  "name": "Nervous Witness",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.76,
+     "close_ratio": 0.97,
+     "last200_t": 12.08,
+     "last600_t": 34.19,
+     "overall_t": 63.97,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 19.17
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -29051,6 +30266,27 @@
    }
   ]
  },
+ "ON DISPLAY": {
+  "name": "On Display",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.94,
+     "close_ratio": 1.05,
+     "last200_t": 11.77,
+     "last600_t": 33.19,
+     "overall_t": 81.62,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 19.45
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "ONE DAY AT A TIME": {
   "name": "One Day At A Time",
   "runs": [
@@ -29940,6 +31176,27 @@
    }
   ]
  },
+ "PALLATON": {
+  "name": "Pallaton",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.4,
+     "close_ratio": 1.02,
+     "last200_t": 11.78,
+     "last600_t": 33.16,
+     "overall_t": 69.42,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.41
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PALM ANGEL": {
   "name": "Palm Angel",
   "runs": [
@@ -30391,6 +31648,27 @@
    }
   ]
  },
+ "PERSIAN SPIRIT": {
+  "name": "Persian Spirit",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.88,
+     "close_ratio": 1.04,
+     "last200_t": 11.66,
+     "last600_t": 33.21,
+     "overall_t": 81.68,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 19.28
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PERSPIRATION": {
   "name": "Perspiration",
   "runs": [
@@ -30433,6 +31711,27 @@
    }
   ]
  },
+ "PETIT ARTISTE": {
+  "name": "Petit Artiste",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.19,
+     "close_ratio": 1.06,
+     "last200_t": 11.76,
+     "last600_t": 33.11,
+     "overall_t": 64.0,
+     "race_name": "TAB We're On",
+     "top_spd": 19.22
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PETIT EAGLE": {
   "name": "Petit Eagle",
   "runs": [
@@ -30451,6 +31750,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "PHILIA": {
+  "name": "Philia",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.76,
+     "close_ratio": 1.06,
+     "last200_t": 11.72,
+     "last600_t": 33.93,
+     "overall_t": 95.69,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -30583,6 +31903,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "PILLOW FIGHT": {
+  "name": "Pillow Fight",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.48,
+     "close_ratio": 1.04,
+     "last200_t": 12.17,
+     "last600_t": 34.14,
+     "overall_t": 94.83,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 18.65
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -30806,6 +32147,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "POINT KING": {
+  "name": "Point King",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 92.7,
+     "close_ratio": 0.94,
+     "last200_t": 14.13,
+     "last600_t": 38.23,
+     "overall_t": 122.53,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.46
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -31090,6 +32452,27 @@
    }
   ]
  },
+ "POUNDING": {
+  "name": "Pounding",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.79,
+     "close_ratio": 1.04,
+     "last200_t": 11.52,
+     "last600_t": 33.24,
+     "overall_t": 81.91,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 19.08
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "POWER AND THE BEAT": {
   "name": "Power And The Beat",
   "runs": [
@@ -31301,6 +32684,27 @@
    }
   ]
  },
+ "PRECIOUS CHARM": {
+  "name": "Precious Charm",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.17,
+     "close_ratio": 1.01,
+     "last200_t": 11.89,
+     "last600_t": 33.79,
+     "overall_t": 81.97,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 18.81
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PRESS DOWN": {
   "name": "Press Down",
   "runs": [
@@ -31319,6 +32723,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.11,
+     "close_ratio": 1.01,
+     "last200_t": 11.6,
+     "last600_t": 33.37,
+     "overall_t": 63.64,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 19.21
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -31531,6 +32951,27 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "PRIDE OF JENNI": {
+  "name": "Pride Of Jenni",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.69,
+     "close_ratio": 0.94,
+     "last200_t": 12.31,
+     "last600_t": 35.56,
+     "overall_t": 93.83,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.74
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -32228,6 +33669,27 @@
    }
   ]
  },
+ "PURE PASSION": {
+  "name": "Pure Passion",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB We're On",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "PURE PELT": {
   "name": "Pure Pelt",
   "runs": [
@@ -32841,6 +34303,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 11.25,
+     "last600_t": 32.94,
+     "overall_t": 58.09,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 19.01
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -33130,6 +34608,48 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "REFUSE TO CURTSY": {
+  "name": "Refuse To Curtsy",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.6,
+     "close_ratio": 0.96,
+     "last200_t": 13.07,
+     "last600_t": 36.13,
+     "overall_t": 84.75,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.49
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "REGAL AMBITION": {
+  "name": "Regal Ambition",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -34750,6 +36270,27 @@
    }
   ]
  },
+ "SABAJ": {
+  "name": "Sabaj",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.97,
+     "close_ratio": 0.98,
+     "last200_t": 12.19,
+     "last600_t": 34.75,
+     "overall_t": 93.86,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.45
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SACRAMENTAL": {
   "name": "Sacramental",
   "runs": [
@@ -34850,6 +36391,27 @@
      "last600_t": null,
      "overall_t": null,
      "race_name": "Sharp EIT Mahogany Challenge Final",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SAGANTI": {
+  "name": "Saganti",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB Australian Cup Prelude",
      "top_spd": null
     },
     "steward": null,
@@ -35006,6 +36568,27 @@
      "overall_t": 127.6,
      "race_name": "Ken Cox Handicap",
      "top_spd": 17.62
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SALTY PEARL": {
+  "name": "Salty Pearl",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.09,
+     "close_ratio": 1.03,
+     "last200_t": 11.96,
+     "last600_t": 33.93,
+     "overall_t": 95.11,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 18.72
     },
     "steward": null,
     "track": "Flemington"
@@ -35229,6 +36812,27 @@
    }
   ]
  },
+ "SANCTUARY": {
+  "name": "Sanctuary",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.07,
+     "close_ratio": 1.01,
+     "last200_t": 11.46,
+     "last600_t": 33.25,
+     "overall_t": 58.19,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 18.94
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SANDASTAN": {
   "name": "Sandastan",
   "runs": [
@@ -35308,6 +36912,27 @@
      "underperf": true
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "SASS APPEAL": {
+  "name": "Sass Appeal",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.05,
+     "last200_t": 11.92,
+     "last600_t": 33.62,
+     "overall_t": 94.43,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 18.96
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -35577,6 +37202,27 @@
    }
   ]
  },
+ "SCHEELITE": {
+  "name": "Scheelite",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.07,
+     "close_ratio": 1.0,
+     "last200_t": 11.67,
+     "last600_t": 33.48,
+     "overall_t": 81.26,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 18.84
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SCHRODERS MISTAKE": {
   "name": "Schroder'S Mistake",
   "runs": [
@@ -35595,6 +37241,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "SCINTILLATION": {
+  "name": "Scintillation",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.95,
+     "close_ratio": 0.99,
+     "last200_t": 11.5,
+     "last600_t": 33.29,
+     "overall_t": 58.06,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 18.9
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -35694,6 +37361,27 @@
      "underperf": false
     },
     "track": "Bendigo"
+   }
+  ]
+ },
+ "SEA WHAT I SEE": {
+  "name": "Sea What I See",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.07,
+     "close_ratio": 1.06,
+     "last200_t": 11.89,
+     "last600_t": 34.17,
+     "overall_t": 95.66,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.56
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -35955,6 +37643,27 @@
    }
   ]
  },
+ "SEPALS": {
+  "name": "Sepals",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.43,
+     "close_ratio": 1.0,
+     "last200_t": 11.72,
+     "last600_t": 33.15,
+     "overall_t": 69.14,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 18.97
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SET ME FREE": {
   "name": "Set Me Free",
   "runs": [
@@ -36093,6 +37802,48 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "SEYCHELLES": {
+  "name": "Seychelles",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.28,
+     "close_ratio": 1.0,
+     "last200_t": 12.33,
+     "last600_t": 34.92,
+     "overall_t": 96.12,
+     "race_name": "TAB & World Pool Kewney Stakes",
+     "top_spd": 18.24
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SGHIRRIPA": {
+  "name": "Sghirripa",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 95.35,
+     "close_ratio": 0.99,
+     "last200_t": 12.33,
+     "last600_t": 34.22,
+     "overall_t": 70.13,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 18.99
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -36405,6 +38156,27 @@
    }
   ]
  },
+ "SHES AN ARTIST": {
+  "name": "She's An Artist",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.04,
+     "last200_t": 11.49,
+     "last600_t": 32.74,
+     "overall_t": 63.33,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 19.21
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "SHES ELUSIVE": {
   "name": "She's Elusive",
   "runs": [
@@ -36618,6 +38390,22 @@
     },
     "steward": null,
     "track": "Caulfield"
+   },
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.16,
+     "close_ratio": 1.05,
+     "last200_t": 11.62,
+     "last600_t": 33.12,
+     "overall_t": 63.85,
+     "race_name": "TAB We're On",
+     "top_spd": 19.01
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -37226,6 +39014,27 @@
      "overall_t": 160.12,
      "race_name": "Sharp EIT Mahogany Challenge Final",
      "top_spd": 17.11
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "SIMPLY STEFFI": {
+  "name": "Simply Steffi",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1000,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.82,
+     "close_ratio": 0.99,
+     "last200_t": 11.28,
+     "last600_t": 33.0,
+     "overall_t": 58.12,
+     "race_name": "Good Friday Appeal Ottawa Stakes",
+     "top_spd": 19.1
     },
     "steward": null,
     "track": "Flemington"
@@ -39353,6 +41162,27 @@
    }
   ]
  },
+ "STEFI MAGNETICA": {
+  "name": "Stefi Magnetica",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.91,
+     "close_ratio": 0.97,
+     "last200_t": 12.62,
+     "last600_t": 35.48,
+     "overall_t": 94.38,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.3
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "STELLAR CIPHER": {
   "name": "Stellar Cipher",
   "runs": [
@@ -39439,6 +41269,27 @@
     },
     "steward": null,
     "track": "Cranbourne"
+   }
+  ]
+ },
+ "STEPARTY": {
+  "name": "Steparty",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 0.97,
+     "last200_t": 12.36,
+     "last600_t": 34.93,
+     "overall_t": 93.89,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.53
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -41454,6 +43305,27 @@
    }
   ]
  },
+ "TARVUE": {
+  "name": "Tarvue",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "TATAKAI UTA": {
   "name": "Tatakai Uta",
   "runs": [
@@ -41858,6 +43730,27 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "TENTYRIS": {
+  "name": "Tentyris",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.02,
+     "last200_t": 11.51,
+     "last600_t": 32.63,
+     "overall_t": 69.21,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.27
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -43468,6 +45361,27 @@
    }
   ]
  },
+ "TOM KITTEN": {
+  "name": "Tom Kitten",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 0.97,
+     "last200_t": 12.31,
+     "last600_t": 34.93,
+     "overall_t": 93.73,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "TOMMYESS": {
   "name": "Tommyess",
   "runs": [
@@ -43517,6 +45431,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "TOO DARN DISCREET": {
+  "name": "Too Darn Discreet",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 1.07,
+     "last200_t": 11.29,
+     "last600_t": 33.17,
+     "overall_t": 95.72,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.76
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -43877,6 +45812,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "TREASURETHE MOMENT": {
+  "name": "Treasurethe Moment",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": null,
+     "close_ratio": null,
+     "last200_t": null,
+     "last600_t": null,
+     "overall_t": null,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": null
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -44449,6 +46405,27 @@
    }
   ]
  },
+ "UNTIL VALHALLA": {
+  "name": "Until Valhalla",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 96.96,
+     "close_ratio": 1.05,
+     "last200_t": 11.87,
+     "last600_t": 34.21,
+     "overall_t": 96.15,
+     "race_name": "De Bortoli Wines Matron Stakes",
+     "top_spd": 18.77
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "UP AND UNDER": {
   "name": "Up And Under",
   "runs": [
@@ -44720,6 +46697,27 @@
    }
   ]
  },
+ "VANGOGH BANKCHEQUE": {
+  "name": "Vangogh Bankcheque",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.45,
+     "close_ratio": 1.05,
+     "last200_t": 11.37,
+     "last600_t": 32.69,
+     "overall_t": 63.67,
+     "race_name": "TAB We're On",
+     "top_spd": 19.17
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "VANINETTI": {
   "name": "Vaninetti",
   "runs": [
@@ -44963,6 +46961,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "VERDOUX": {
+  "name": "Verdoux",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.6,
+     "close_ratio": 1.03,
+     "last200_t": 11.44,
+     "last600_t": 32.87,
+     "overall_t": 63.29,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 19.22
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -45561,6 +47580,27 @@
    }
   ]
  },
+ "WAR MACHINE": {
+  "name": "War Machine",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.55,
+     "close_ratio": 1.0,
+     "last200_t": 11.82,
+     "last600_t": 33.45,
+     "overall_t": 69.61,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.15
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "WARRIOR SMILE": {
   "name": "Warrior Smile",
   "runs": [
@@ -45579,6 +47619,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "WATCH ME ROCK": {
+  "name": "Watch Me Rock",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1600,
+    "race": null,
+    "sectional": {
+     "close_rating": 87.09,
+     "close_ratio": 0.9,
+     "last200_t": 15.65,
+     "last600_t": 39.89,
+     "overall_t": 98.94,
+     "race_name": "Sharp EIT The All-Star Mile",
+     "top_spd": 18.39
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -45690,6 +47751,27 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "WELCOMETOTHESHOW": {
+  "name": "Welcometotheshow",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.82,
+     "close_ratio": 1.01,
+     "last200_t": 11.78,
+     "last600_t": 33.91,
+     "overall_t": 82.08,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 18.32
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -45852,6 +47934,27 @@
    }
   ]
  },
+ "WHISKY ON THE HILL": {
+  "name": "Whisky On The Hill",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 2000,
+    "race": null,
+    "sectional": {
+     "close_rating": 97.6,
+     "close_ratio": 0.99,
+     "last200_t": 12.88,
+     "last600_t": 36.31,
+     "overall_t": 120.84,
+     "race_name": "TAB Australian Cup Prelude",
+     "top_spd": 18.1
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "WHISTLER GIRL": {
   "name": "Whistler Girl",
   "runs": [
@@ -45955,6 +48058,27 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "WIGGUM": {
+  "name": "Wiggum",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1100,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.64,
+     "close_ratio": 1.03,
+     "last200_t": 11.91,
+     "last600_t": 33.19,
+     "overall_t": 64.05,
+     "race_name": "Herald Sun Plate",
+     "top_spd": 19.42
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -46362,6 +48486,27 @@
    }
   ]
  },
+ "WODETON": {
+  "name": "Wodeton",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1200,
+    "race": null,
+    "sectional": {
+     "close_rating": 98.52,
+     "close_ratio": 1.01,
+     "last200_t": 11.44,
+     "last600_t": 33.12,
+     "overall_t": 69.61,
+     "race_name": "Yulong Newmarket Handicap",
+     "top_spd": 19.1
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
  "WOLFOFFITROYSTREET": {
   "name": "Wolfoffitroystreet",
   "runs": [
@@ -46470,6 +48615,27 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "WONDER BOY": {
+  "name": "Wonder Boy",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 99.46,
+     "close_ratio": 1.04,
+     "last200_t": 11.71,
+     "last600_t": 33.35,
+     "overall_t": 81.81,
+     "race_name": "Kirin Ichiban Shaftesbury Avenue Handicap",
+     "top_spd": 19.08
+    },
+    "steward": null,
+    "track": "Flemington"
    }
   ]
  },
@@ -46858,6 +49024,27 @@
      "overall_t": 129.08,
      "race_name": "Flemington Community Plate",
      "top_spd": 17.87
+    },
+    "steward": null,
+    "track": "Flemington"
+   }
+  ]
+ },
+ "ZAMBALES": {
+  "name": "Zambales",
+  "runs": [
+   {
+    "date": "2026-03-07",
+    "distance": 1400,
+    "race": null,
+    "sectional": {
+     "close_rating": 100.0,
+     "close_ratio": 0.99,
+     "last200_t": 12.45,
+     "last600_t": 34.9,
+     "overall_t": 82.78,
+     "race_name": "Darley Sires' Produce Stakes",
+     "top_spd": 18.59
     },
     "steward": null,
     "track": "Flemington"
