@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-08-01T21:18:57Z",
- "n_horses": 1725,
- "n_runs": 2511,
+ "generated_utc": "2026-08-01T21:19:58Z",
+ "n_horses": 1744,
+ "n_runs": 2565,
  "n_sectional_files": 196,
- "n_stewards_files": 20,
+ "n_stewards_files": 21,
  "n_pdf_files": 9,
  "n_pdf_found": 27,
  "n_pdf_failed": 9,
@@ -58,7 +58,7 @@
    "reason": "no runners"
   }
  ],
- "n_stewards_found": 20,
+ "n_stewards_found": 21,
  "n_stewards_failed": 0,
  "stewards_problems": []
 }

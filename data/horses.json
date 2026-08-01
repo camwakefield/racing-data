@@ -2697,6 +2697,26 @@
   "name": "Angland",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1620,
+    "pdf": null,
+    "race": 6,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Jordan Childs reported that he had been asked to ride the horse with cover. J Childs added from his awkward barrier he was able to obtain a position midfield which was further back than the horse had settled at its most recent start. Trainer Grahame Begg advised that whilst the plan was to ride the horse with cover he anticipated Angland being able to position further forward.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-11",
     "distance": 1400,
     "pdf": null,
@@ -4397,6 +4417,31 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "ASVA": {
+  "name": "Asva",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 8,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -7421,6 +7466,31 @@
    }
   ]
  },
+ "BIG DAY OUT": {
+  "name": "Big Day Out",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early and middle stages and did not settle.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "BIG RITA JUNE": {
   "name": "Big Rita June",
   "runs": [
@@ -7838,6 +7908,24 @@
  "BLACK RUN": {
   "name": "Black Run",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 2520,
+    "pdf": null,
+    "race": 1,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Apprentice Ryan Houston reported, in his view, the gelding was not suited by the firmer track conditions and as a result gave ground in the straight. R Houston added Black Run appeared to return to scale in a normal manner. Stable representative Jess Hamersley concurred with the views of R Houston and advised the stable will assess Black Run in the coming days before a decision is made on the gelding's racing future. Stewards will follow up with the stable.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-18",
     "distance": 2800,
@@ -10335,6 +10423,26 @@
   "name": "Brilliant Horizon",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Shortly after the start bumped with Proven Soul, which shifted in. Rider Michael Dee reported his mount never travelled comfortably and, in his opinion, would be better suited on tracks with more give. A post-race veterinary examination did not identify any significant abnormal findings.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-29",
     "distance": 1400,
     "pdf": null,
@@ -12464,6 +12572,27 @@
   "name": "Castle On High",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1620,
+    "pdf": null,
+    "race": 6,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly, shifted in and bumped with Dictionary.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-20",
     "distance": 1420,
     "pdf": {
@@ -13439,6 +13568,27 @@
   "name": "Charmed Run",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin and then shortly after was hampered when tightened for room between El Pibe De Oro and Just Like Gaby, which shifted out. In the incident Charmed Run clipped the heel of Just Like Gaby and blundered.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-18",
     "distance": 1000,
     "pdf": null,
@@ -13645,6 +13795,26 @@
   "name": "Cherish Me",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-18",
     "distance": 1400,
     "pdf": null,
@@ -13767,6 +13937,27 @@
  "CHIEF LITTLE ROCK": {
   "name": "Chief Little Rock",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 2000,
+    "pdf": null,
+    "race": 3,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Change of tactics To be ridden more forward. Settled outside the leader near the 1600m. Rider Neil Farley reported Chief Little Rock raced keenly, which contributed to the gelding weakening in the straight.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "keen",
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-18",
     "distance": 2000,
@@ -15726,9 +15917,54 @@
    }
   ]
  },
+ "COTE ATLANTIQUE": {
+  "name": "Cote Atlantique (IRE)",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1200,
+    "pdf": null,
+    "race": 7,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "COVERT ACTION": {
   "name": "Covert Action",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "- A post-race endoscopic examination identified a degree of internal exercise induced pulmonary haemorrhage that may have affected the horses racing performance. Co-trainers Shane Nicols and Hayden Black were advised a veterinary clearance is required before the horse is permitted to start in another race or officially trial again.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-16",
     "distance": 1000,
@@ -15786,6 +16022,29 @@
      "underperf": false
     },
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "CRAIG": {
+  "name": "Craig (GB)",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 8,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Blake Shinn advised his mount, which was resuming, travelled well and in the early part of the straight improved into the race strongly, however, over the latter stages tired quickly.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -18455,6 +18714,27 @@
   "name": "Dictionary",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1620,
+    "pdf": null,
+    "race": 6,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin and shortly after was bumped by Castle On High, which shifted in.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-03-09",
     "distance": 3200,
     "pdf": null,
@@ -19822,6 +20102,24 @@
   "name": "Duchess Zou",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 8,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Late scratching at 3.33pm due to the track upgrade (G3).",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-04",
     "distance": 1400,
     "pdf": null,
@@ -20498,6 +20796,26 @@
   "name": "El Pibe De Oro",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced keenly in the early stages.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-18",
     "distance": 1000,
     "pdf": null,
@@ -20725,6 +21043,29 @@
      "flags": [
       "keen"
      ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
+ "EL TERCERO": {
+  "name": "El Tercero (NZ)",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 4,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider John Allen reported he felt the gelding may have been galloped on behind in the early stages, however, then travelled comfortably and he could offer no explanation for the performance. A post-race veterinary examination did not identify any significant abnormal findings.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
      "gear_change": false,
      "health_flag": false,
      "underperf": false
@@ -21935,6 +22276,28 @@
   "name": "Eurocanto",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "The tongue tie was re-applied on arrival at the barriers. Began awkwardly. Rider Blake Shinn reported the gelding, which was resuming, laid out under pressure and did not race truly. A post-race veterinary examination did not identify any significant abnormal findings. Co-trainer Will Hayes advised Eurocanto had worked well leading into today's race and concurred with the views of Blake Shinn. He added the stable may look to experiment with gear on the gelding for future starts.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "gear_change",
+      "slow_begin"
+     ],
+     "gear_change": true,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-03-07",
     "distance": 1400,
     "pdf": null,
@@ -22662,6 +23025,26 @@
   "name": "Fancify",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1200,
+    "pdf": null,
+    "race": 7,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Laid out under pressure.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": -1,
+     "flags": [
+      "faded"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-04",
     "distance": 1400,
     "pdf": null,
@@ -22702,6 +23085,31 @@
     },
     "steward": null,
     "track": "Caulfield"
+   }
+  ]
+ },
+ "FARAG": {
+  "name": "Farag (NZ)",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 2000,
+    "pdf": null,
+    "race": 3,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and shifted in.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -23961,6 +24369,26 @@
   "name": "Flash Feeling",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 2000,
+    "pdf": null,
+    "race": 3,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-18",
     "distance": 2000,
     "pdf": null,
@@ -24680,6 +25108,27 @@
  "FLYING MIKKI": {
   "name": "Flying Mikki",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 4,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Approaching the 1100m, when racing keenly, was eased from the heels of Darkbonee and got its head up. Rider Blake Shinn reported the gelding raced keenly in the early and middle stages and failed to respond to his riding when placed under pressure in the straight.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": -1,
+     "flags": [
+      "faded",
+      "keen"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-22",
     "distance": 1400,
@@ -26084,6 +26533,31 @@
     },
     "steward": null,
     "track": "Sandown Lakeside"
+   }
+  ]
+ },
+ "FURIOUS": {
+  "name": "Furious",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 8,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -29383,6 +29857,31 @@
    }
   ]
  },
+ "HEARTS AFFAIR": {
+  "name": "Hearts Affair",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up for clear running from the 400m to the 300m.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "HELIZANGEL": {
   "name": "Helizangel",
   "runs": [
@@ -31576,6 +32075,32 @@
    }
   ]
  },
+ "HURRY CURRY NZ": {
+  "name": "Hurry Curry (NZ",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1620,
+    "pdf": null,
+    "race": 6,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": ") Slow to begin. For some distance after the 400m had difficulty obtaining clear running. Near the 200m was steadied and shifted to the outside of Unbelievable to obtain clear running.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "HUSH HUSH": {
   "name": "Hush Hush",
   "runs": [
@@ -32382,6 +32907,33 @@
     },
     "steward": null,
     "track": "Bendigo"
+   }
+  ]
+ },
+ "ILLYIVY": {
+  "name": "Illyivy",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin (2L). Held up for clear running from the 400m to the 250m. Laid in under pressure in the straight.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "faded",
+      "held_up",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -33521,6 +34073,29 @@
   "name": "Itazura",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 4,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. Raced keenly in the middle stages. Laid in under pressure in the straight. Approaching the 300m was momentarily held up for clear running.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "faded",
+      "held_up",
+      "keen",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-25",
     "distance": 1400,
     "pdf": null,
@@ -34506,6 +35081,27 @@
   "name": "Jennyanydots",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly and bumped with Nimbustwothousand.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-11",
     "distance": 1100,
     "pdf": null,
@@ -35269,6 +35865,33 @@
    }
   ]
  },
+ "JUST LIKE GABY": {
+  "name": "Just Like Gaby",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Knuckled at the start and shifted out. Laid out under pressure and near the winning post made contact with Naval Academy. A post-race veterinary examination revealed a laceration to the left fore cannon. A veterinary clearance is required prior to being permitted to race again or officially trial.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "trouble",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "JUST MONEY": {
   "name": "Just Money",
   "runs": [
@@ -35433,6 +36056,24 @@
  "KAHHOF": {
   "name": "Kahhof",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 4,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "When questioned regarding her riding in the early stages, in particular the reason Impending Link was able to shift in in advance of her mount near the 1100m apprentice Emily Pozman explained that in the early stages her mount was racing tight to the inside of Impending Link and as Kahhof can over race, for this reason she allowed Impending Link to shift in advance of her mount. E Pozman agreed that in hindsight the preferred option would have been to hold her position in the early stages.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-15",
     "distance": 1400,
@@ -42537,6 +43178,26 @@
   "name": "Meh Keffi",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Bounded at the start. Raced wide without cover.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-15",
     "distance": 1400,
     "pdf": null,
@@ -44301,6 +44962,26 @@
  "MOBY DICK": {
   "name": "Moby Dick",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Change of tactics To be ridden further back. Settled mid-field.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "tactics"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-18",
     "distance": 1200,
@@ -46481,6 +47162,26 @@
   "name": "Nation's Call",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1620,
+    "pdf": null,
+    "race": 6,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced three wide without cover. Rider Jye McNeil reported he had been asked to ride the horse in a forward position, however, after not beginning well his mount did not muster speed to cross and as a result Nation's Call was left racing wide without cover. J McNeil added, in his view, the gelding would appreciate tracks with more give. Trainer Robbie Griffiths confirmed the nature of the instructions and agreed with J McNeil's comments.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-11",
     "distance": 1700,
     "pdf": null,
@@ -46594,6 +47295,26 @@
  "NAVAL ACADEMY": {
   "name": "Naval Academy",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Approaching the winning post was bumped by Just Like Gaby, which shifted out, when laying out.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-11",
     "distance": 1100,
@@ -47733,6 +48454,26 @@
  "NIMBUSTWOTHOUSAND": {
   "name": "Nimbustwothousand",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Bumped with Jennyanydots on jumping away. Rider Billy Egan reported the gelding may now be looking for races over a greater distance than today's 1100m. Trainer Gavin Bedggood advised he will assess the gelding on return to the stable prior to making a decision on the preparation. Stewards will follow up with the stable.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-18",
     "distance": 1000,
@@ -50010,6 +50751,24 @@
   "name": "Our Chief",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 2520,
+    "pdf": null,
+    "race": 1,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Lachlan Neindorf reported with the race run at a slow tempo the gelding, which was racing off a seven day back up, did not quicken and was one paced in the run to the finish.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-25",
     "distance": 2400,
     "pdf": null,
@@ -51625,6 +52384,29 @@
    }
   ]
  },
+ "PER SEMPE": {
+  "name": "Per Sempe (NZ)",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1100,
+    "pdf": null,
+    "race": 9,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Had difficulty obtaining a clear run from the 300m until the 200m. Passing the 200m was struck over the nose by the whip of apprentice Emily Pozman (Big Day Out).",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "PER SEMPRE": {
   "name": "Per Sempre",
   "runs": [
@@ -52954,6 +53736,33 @@
     },
     "steward": null,
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "POLITELY DUN": {
+  "name": "Politely Dun",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 4,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin. After being held up for clear running approaching and passing the 500m then approaching the 100m, when improving, was checked when tightened for room to the inside of Fear No Evil (Jordan Childs), which shifted in before being corrected. In the incident Politely Dun became unbalanced. J Childs was reprimanded and notified to exercise more care.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 3,
+     "flags": [
+      "held_up",
+      "slow_begin",
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -54848,6 +55657,26 @@
   "name": "Proven Soul",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Shortly after the start bumped with Brilliant Horizon, which shifted out.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-22",
     "distance": 1300,
     "pdf": null,
@@ -56008,6 +56837,27 @@
   "name": "Rebel Tuesday",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "- Began awkwardly. Rider Lachlan Neindorf reported the filly was agitated prior the race and failed to run on when placed under pressure. A post-race veterinary examination did not identify any significant abnormal findings. Co-trainer Phillip Stokes advised, in his opinion, the filly recovered well and was not suited by settling back in the field in a race which appeared to favour on pace horses.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "faded",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-25",
     "distance": 1100,
     "pdf": null,
@@ -56869,6 +57719,31 @@
     },
     "steward": null,
     "track": "Morphettville Parks"
+   }
+  ]
+ },
+ "RELINQUISHING": {
+  "name": "Relinquishing",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up for clear running from the 300m to the 200m.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -58670,6 +59545,26 @@
   "name": "Rubare",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Passing the 50m was bumped by Covert Action, which shifted out when giving ground.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "trouble"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-11",
     "distance": 1100,
     "pdf": null,
@@ -59838,6 +60733,27 @@
   "name": "Salizou",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Jye McNeil reported the mare travelled well with cover, albeit in a three wide position, and he felt the reason why Salizou did not finish the race off was that Salizou did not appreciate today's firmer track conditions. A post-race veterinary examination did not identify any significant abnormal findings.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "condition",
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-18",
     "distance": 1400,
     "pdf": null,
@@ -60797,6 +61713,31 @@
      "underperf": false
     },
     "track": "Sandown Hillside"
+   }
+  ]
+ },
+ "SANTA BARBARA": {
+  "name": "Santa Barbara",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up for clear running for a short distance between the 300m and 200m.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -63999,6 +64940,26 @@
   "name": "Shockletz",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1620,
+    "pdf": null,
+    "race": 6,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-06-06",
     "distance": 2000,
     "pdf": null,
@@ -65286,6 +66247,32 @@
    }
   ]
  },
+ "SIXTEEN REASON": {
+  "name": "Sixteen Reason",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Began awkwardly. Held up for clear running from the 400m until approaching the 200m.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 2,
+     "flags": [
+      "held_up",
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "SIXTEEN REASONS": {
   "name": "Sixteen Reasons",
   "runs": [
@@ -65842,6 +66829,24 @@
  "SMOKIN ROMANS": {
   "name": "Smokin' Romans",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 2000,
+    "pdf": null,
+    "race": 3,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Apprentice Jabez Johnstone reported his mount led as expected, however, was pressured by Chief Little Rock, which resulted in the race being run at a genuine tempo and he felt this, coupled with Smokin' Romans appreciating tracks with more give, were the reasons the gelding did not finish the race off as expected. Stable representative Jack Turnbull concurred with the views of J Johnstone and added Smokin' Romans appeared to recover well, and it was the stable's intention to have the gelding step up in distance for its next start.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-18",
     "distance": 2000,
@@ -67125,6 +68130,31 @@
    }
   ]
  },
+ "STAGE N SCREEN": {
+  "name": "Stage 'N' Screen (NZ)",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 5,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Held up for clear running from the 400m until approaching the 300m.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "held_up"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "STAKES": {
   "name": "Stakes",
   "runs": [
@@ -67568,6 +68598,31 @@
     },
     "steward": null,
     "track": "Ballarat Synthetic"
+   }
+  ]
+ },
+ "STAR PATROL": {
+  "name": "Star Patrol",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1200,
+    "pdf": null,
+    "race": 7,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "A post-race veterinary examination identified the presence of blood at both nostrils. In accordance with AR79, the horse shall not without permission of the Stewards: (a) be trained, exercised or galloped on any racecourse, recognised training track, private training establishment, or other place for a period of two months; (b) start in any race for a period of 3 months, and then only after: (i) a gallop of at least 1000 metres; or (ii) an official trial or jump-out; in the presence, and to the satisfaction of a Steward. A veterinary clearance will be required to be submitted to the Stewards before the horse is permitted to start in another race or officially trial again. Trainer Clinton McDonald advised Stewards that Star Patrol will now be retired from racing.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Flemington"
    }
   ]
  },
@@ -72179,6 +73234,26 @@
   "name": "Tempesti",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 2520,
+    "pdf": null,
+    "race": 1,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Slow to begin.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "slow_begin"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-07-18",
     "distance": 2800,
     "pdf": null,
@@ -73627,6 +74702,24 @@
  "THE TROUBLESHOOTER": {
   "name": "The Troubleshooter",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1000,
+    "pdf": null,
+    "race": 2,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Rider Luke Nolen reported The Troubleshooter settled just off the speed and noted the gelding had its tongue back post- race.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-18",
     "distance": 1000,
@@ -76831,6 +77924,34 @@
    }
   ]
  },
+ "UNBELIEVABLE": {
+  "name": "Unbelievable (USA)",
+  "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1620,
+    "pdf": null,
+    "race": 6,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Underwent a pre-race veterinary examination due to not racing since 9 March 2025 (Hong Kong) due to a tendon injury and was passed suitable to race. When questioned regarding his riding, Ethan Brown explained that he had been asked to ride the horse with cover and the expectation was that Unbelievable would settle midfield. E Brown added that after his mount was slow to begin it settled worse than midfield. E Brown further added that Unbelievable travelled keenly and was inclined to lay out. When questioned regarding his riding from the 600m, E Brown explained that he was trailing Kaleo, which he felt was a favoured runner, however when the tempo quickened his mount was not travelling well at this point. E Brown stated, however, near the 400m when Kaleo was shifted back in to secure clear running he eased which ultimately enabled New York Hurricane to shift out in advance of his mount resulting in Unbelievable being held up for clear running until nearing the 250m. E Brown added once clear he commenced to ride his mount along where Unbelievable commenced to improve before he was then awkwardly placed on the heels of Indispensable over the final 70m and was not able to be ridden out to the finish. Trainer Clayton Douglas confirmed the nature of the instructions. E Brown was advised by Stewards that from the 500m, when the opportunity arose, he should have made a greater endeavour to improve and that he must ensure he rides his mounts in a manner that leaves no room for query. A post-race veterinary examination did not identify any significant abnormal findings.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 3,
+     "flags": [
+      "held_up",
+      "slow_begin",
+      "trouble",
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Flemington"
+   }
+  ]
+ },
  "UNDISPUTABLE": {
   "name": "Undisputable",
   "runs": [
@@ -78972,6 +80093,26 @@
   "name": "War Machine",
   "runs": [
    {
+    "date": "2026-08-01",
+    "distance": 1200,
+    "pdf": null,
+    "race": 7,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Fractious in the barrier, broke through the front gates and galloped a considerable distance riderless. Stewards ordered the late scratching of War Machine at 3.51pm. The Hayes' stable was notified the gelding is now suspended from racing until War Machine performs to the satisfaction of Stewards in a jump out.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [
+      "vet_health"
+     ],
+     "gear_change": false,
+     "health_flag": true,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
+   {
     "date": "2026-03-07",
     "distance": 1200,
     "pdf": null,
@@ -79814,6 +80955,24 @@
  "WINDSTORM": {
   "name": "Windstorm",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1200,
+    "pdf": null,
+    "race": 7,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "A post-race veterinary examination at the request of the stable did not identify any significant abnormal findings.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 0,
+     "flags": [],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-06-27",
     "distance": 1400,
@@ -82033,6 +83192,26 @@
  "ZOURAIN": {
   "name": "Zourain",
   "runs": [
+   {
+    "date": "2026-08-01",
+    "distance": 1410,
+    "pdf": null,
+    "race": 4,
+    "scratched": false,
+    "sectional": null,
+    "steward": {
+     "comment": "Raced wide without cover.",
+     "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)",
+     "excuse_index": 1,
+     "flags": [
+      "wide"
+     ],
+     "gear_change": false,
+     "health_flag": false,
+     "underperf": false
+    },
+    "track": "Flemington"
+   },
    {
     "date": "2026-07-01",
     "distance": 1400,

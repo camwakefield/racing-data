@@ -1602,5 +1602,13 @@
   "source_file": "bendigo_2026-07-30.txt",
   "count": 65,
   "condition": "Soft 6"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "stewards",
+  "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 1 August 2026 _ VIC _ Racing.com.html",
+  "count": 54,
+  "condition": "Good 4 upgraded to Good 3 at 2.10pm (after R4)"
  }
 ]
