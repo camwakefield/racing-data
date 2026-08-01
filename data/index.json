@@ -1,63 +1,17 @@
 {
- "generated_utc": "2026-08-01T21:19:58Z",
- "n_horses": 1744,
- "n_runs": 2565,
+ "generated_utc": "2026-08-01T21:38:43Z",
+ "n_horses": 1749,
+ "n_runs": 2605,
  "n_sectional_files": 196,
  "n_stewards_files": 21,
- "n_pdf_files": 9,
+ "n_pdf_files": 18,
  "n_pdf_found": 27,
- "n_pdf_failed": 9,
- "n_pdf_runs": 113,
+ "n_pdf_failed": 0,
+ "n_pdf_runs": 202,
  "n_pdf_duplicates": 9,
- "n_scratched_marked": 26,
+ "n_scratched_marked": 28,
  "n_untracked": 441,
- "pdf_problems": [
-  {
-   "file": "5195982_01.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_02.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_03.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_04.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_05.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_06.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_07.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_08.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  },
-  {
-   "file": "5195982_09.pdf",
-   "status": "empty",
-   "reason": "no runners"
-  }
- ],
+ "pdf_problems": [],
  "n_stewards_found": 21,
  "n_stewards_failed": 0,
  "stewards_problems": []

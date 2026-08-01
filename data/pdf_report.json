@@ -91,47 +91,47 @@
  },
  {
   "file": "5195982_01.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R1, 7 runners"
  },
  {
   "file": "5195982_02.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R2, 10 runners"
  },
  {
   "file": "5195982_03.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R3, 8 runners"
  },
  {
   "file": "5195982_04.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R4, 14 runners"
  },
  {
   "file": "5195982_05.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R5, 11 runners"
  },
  {
   "file": "5195982_06.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R6, 14 runners"
  },
  {
   "file": "5195982_07.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R7, 8 runners"
  },
  {
   "file": "5195982_08.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R8, 6 runners"
  },
  {
   "file": "5195982_09.pdf",
-  "status": "empty",
-  "reason": "no runners"
+  "status": "ok",
+  "reason": "2026-08-01 Flemington R9, 11 runners"
  }
 ]

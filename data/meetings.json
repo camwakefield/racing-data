@@ -1606,6 +1606,78 @@
  {
   "date": "2026-08-01",
   "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_01.pdf",
+  "count": 7,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_02.pdf",
+  "count": 10,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_03.pdf",
+  "count": 8,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_04.pdf",
+  "count": 14,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_05.pdf",
+  "count": 11,
+  "condition": "Good 3"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_06.pdf",
+  "count": 14,
+  "condition": "Good 3"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_07.pdf",
+  "count": 8,
+  "condition": "Good 3"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_08.pdf",
+  "count": 6,
+  "condition": "Good 3"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5195982_09.pdf",
+  "count": 11,
+  "condition": "Good 3"
+ },
+ {
+  "date": "2026-08-01",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 1 August 2026 _ VIC _ Racing.com.html",
   "count": 54,
