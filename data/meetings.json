@@ -1568,6 +1568,78 @@
  {
   "date": "2026-07-18",
   "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_01.pdf",
+  "count": 5,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_02.pdf",
+  "count": 8,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_03.pdf",
+  "count": 11,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_04.pdf",
+  "count": 14,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_05.pdf",
+  "count": 15,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_06.pdf",
+  "count": 10,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_07.pdf",
+  "count": 14,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_08.pdf",
+  "count": 13,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191049_09.pdf",
+  "count": 12,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-18",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "flemington_20260718.txt",
   "count": 74,
