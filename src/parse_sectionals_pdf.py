@@ -39,6 +39,15 @@ The charts repeat the same numbers and reuse the same axis titles, so every
 value row is matched on "label followed by two or more numbers on ONE line" and
 only the FIRST match per page is taken -- the table always precedes its chart.
 
+TWO PROVIDERS, ONE ENTRY POINT. racing.com changed sectional supplier between
+20 June and 1 August 2026. Everything above describes the OLD report (Developer
+Express, "<Track>Professional" masthead). The new one is a Chromium-rendered
+"tripleSdata GPS Sectionals" sheet with an unrelated layout, and the old reader
+returns "no runners" on it -- so the result silently never lands. Both are read
+here: parse_file() sniffs the producer and delegates. See the tripleSdata
+section at the foot of this file. Old PDFs already in raw/ keep parsing exactly
+as before; the record contract is identical either way.
+
 SECTION TIMES READ BACKWARDS FROM THE LINE. Under the "1200m" column, 1:11.16 is
 the time from the 1200m-to-go mark to the finish, not the time to reach it. The
 bracketed figure below is the split for the section just completed. Both are
@@ -277,7 +286,7 @@ def _summary_page(page, out):
     return out
 
 
-def parse_file(path):
+def _parse_dxperience(path):
     text = pdf_text(path)
     pages = text.split("\f")
 
@@ -452,6 +461,401 @@ def _derive(ru, distance):
         0.0 if ru.get("final_rank") == 1 else None)
     ru["won"] = (ru.get("final_rank") == 1) if ru.get("final_rank") else None
     ru["placed"] = (ru["final_rank"] <= 3) if ru.get("final_rank") else None
+
+
+# ---------------------------------------------------------------------------
+# tripleSdata GPS Sectionals -- the format racing.com switched to in July 2026
+# ---------------------------------------------------------------------------
+"""
+WHAT THE NEW FORMAT GIVES THAT THE OLD ONE DID NOT
+  * position in running at EVERY section, published, in [brackets] beside each
+    split -- the old report gave only settled / 800 / 600. This is the running
+    line itself, not a derived proxy.
+  * distance travelled as an absolute (2537m) as well as signed against the
+    winner (-7).
+WHAT IT LOSES
+  * per-section average speed, stride length/rate and distance-from-rail appear
+    on the per-runner detail pages as CHART labels only -- doubled, unlabelled,
+    and not safely readable. rail_avg / rail_max / stride_* therefore come back
+    None on these meetings. That is allowed: every PDF field is optional by
+    contract, and a None is honest where a guess would not be.
+
+LAYOUT. Summary pages first (the table is split HORIZONTALLY across pages: same
+runners each time, different L-columns), then one detail page per runner. Every
+runner occupies THREE stacked text rows inside one visual band:
+
+      top     TAB   horse    margin    1st400   top km/h   cumulative to-finish
+      middle  RANK                     TIME
+      bottom  BAR   jockey   dist run  last600  fastest s  (split)[position]
+
+so a word's meaning is (x band, above/below the RANK row). Read by geometry
+from `pdftotext -bbox-layout`, never by line regex: the columns are stable to a
+tenth of a point and the letter-spaced headings are not.
+"""
+
+_XH = "{http://www.w3.org/1999/xhtml}"
+
+# x boundaries of the summary table, in points, taken from the column headings.
+# The page is 841.9pt wide (A4 landscape) and the layout is fixed-width.
+_TS_BANDS = [(0, 45, "rank"), (45, 82, "tab"), (82, 205, "name"),
+             (205, 262, "time"), (262, 313, "margin"), (313, 350, "first400"),
+             (350, 450, "kmh")]
+_TS_SECT_X = 450        # anything right of this is a section column
+_TS_ROW_EPS = 1.6       # y tolerance for "same sub-row as RANK"
+_TS_BLOCK_GAP = 10.0    # y gap that separates one runner band from the next
+
+_TS_TIME = re.compile(r"^\d+:\d\d\.\d\d$")
+_TS_MGN = re.compile(r"^(\d+(?:\.\d+)?)L$")
+_TS_SPLIT = re.compile(r"^\((\d+\.\d+)\)(?:\[(\d+)\])?$")
+_TS_DTW = re.compile(r"^\(([-+]?\d+)\)$")
+_TS_SCR = re.compile(r"([A-Za-z][A-Za-z'\-\. ]*?)\s*\(#(\d+)\)")
+
+# this provider abbreviates the month ("Sat 01 Aug 2026"); the old one spells it
+_TS_MON = {m[:3].lower(): n for m, n in _MONTHS.items()}
+
+
+def _ts_words(path):
+    """(x0, x1, ycentre, text) for every word, page by page, plus the title."""
+    import xml.etree.ElementTree as ET
+    xml = subprocess.run(["pdftotext", "-bbox-layout", str(path), "-"],
+                         capture_output=True, text=True).stdout
+    root = ET.fromstring(xml)
+    t = root.find(".//%stitle" % _XH)
+    title = t.text if (t is not None and t.text) else ""
+    pages = []
+    for pg in root.iter(_XH + "page"):
+        ws = []
+        for w in pg.iter(_XH + "word"):
+            ws.append((float(w.get("xMin")), float(w.get("xMax")),
+                       (float(w.get("yMin")) + float(w.get("yMax"))) / 2,
+                       (w.text or "").strip()))
+        pages.append([w for w in ws if w[3]])
+    return title, pages
+
+
+def _ts_rows(ws, eps=2.6):
+    """Group words into visual rows by y, each row sorted left to right."""
+    out = []
+    for w in sorted(ws, key=lambda w: (w[2], w[0])):
+        if out and abs(out[-1][0] - w[2]) <= eps:
+            out[-1][1].append(w)
+        else:
+            out.append([w[2], [w]])
+    return [(y, sorted(g, key=lambda w: w[0])) for y, g in out]
+
+
+def _ts_glue(row, gap=2.4):
+    """'T RACK - G O O D 4' -> 'TRACK-GOOD 4'.
+
+    The small-caps subheads are set with wide letter-spacing, so pdftotext
+    emits them one glyph at a time. Glyphs closer together than a real space
+    belong to the same token. Used ONLY on those subheads: the masthead and the
+    scratched strip are set at full size with genuine word spaces, and gluing
+    them would produce "TABWe'reOn".
+    """
+    out, cur, prev = [], "", None
+    for x0, x1, _y, t in row:
+        if prev is not None and x0 - prev < gap:
+            cur += t
+        else:
+            if cur:
+                out.append(cur)
+            cur = t
+        prev = x1
+    if cur:
+        out.append(cur)
+    return " ".join(out)
+
+
+def _ts_band(x):
+    for lo, hi, nm in _TS_BANDS:
+        if lo <= x < hi:
+            return nm
+    return "sect" if x >= _TS_SECT_X else None
+
+
+def _ts_header(pages, title):
+    """Track, date, race number/name/distance, going, and the scratched list."""
+    h = {"track": "", "date": "", "race": None, "race_name": "",
+         "distance": None, "track_rating": "", "weather": "",
+         "rail_position": "", "scratched": []}
+    # "Flemington \u00b7 tripleSdata GPS Sectionals \u2014 Sat 01 Aug 2026"
+    m = re.match(r"\s*(.+?)\s*[\u00b7\u2022]", title or "")
+    if m:
+        h["track"] = clean_track(m.group(1).strip())
+    m = re.search(r"(\d{1,2})\s+([A-Za-z]{3})[a-z]*\s+(\d{4})", title or "")
+    if m and m.group(2).lower() in _TS_MON:
+        h["date"] = "%s-%02d-%02d" % (m.group(3), _TS_MON[m.group(2).lower()],
+                                      int(m.group(1)))
+    for pg in pages[:2]:
+        # The masthead is large display type whose baselines wander by several
+        # points across one visual line, so it is read on its own with a loose
+        # y window anchored on the word RACE rather than by row.
+        if h["race"] is None:
+            for w in pg:
+                if w[3] != "RACE" or w[0] > 45:
+                    continue
+                band = sorted([v for v in pg if abs(v[2] - w[2]) < 8],
+                              key=lambda v: v[0])
+                line = " ".join(v[3] for v in band)
+                m = re.match(r"^RACE\s+(\d+)\s+(.+?)\s*(\d{3,4})\s*m\s*$", line)
+                if m:
+                    h["race"] = int(m.group(1))
+                    h["race_name"] = m.group(2).strip()
+                    h["distance"] = int(m.group(3))
+                break
+        for _y, row in _ts_rows(pg):
+            line = _ts_glue(row)
+            if not h["track_rating"] and "TRACK-" in line.replace(" ", ""):
+                flat = line.replace(" - ", "-")
+                mm = re.search(r"TRACK-\s*([A-Za-z]+)\s*(\d*)", flat)
+                if mm:
+                    # the subhead is letter-spaced, so the space in "Good 4" is
+                    # lost in the glue; put it back -- the old provider wrote
+                    # "Heavy 8" and the two must be one vocabulary downstream
+                    h["track_rating"] = (mm.group(1).title() + " "
+                                         + mm.group(2)).strip()
+                mm = re.search(r"WEATHER-\s*([A-Za-z ]+?)(?:\s{2,}|$|RAIL)", flat)
+                if mm:
+                    h["weather"] = mm.group(1).strip().title()
+                mm = re.search(r"RAIL-\s*(.+?)(?:TELEMETRY|$)", flat)
+                if mm:
+                    h["rail_position"] = mm.group(1).strip().title()
+            plain = " ".join(w[3] for w in row)
+            if "(#" in plain:
+                for nm, no in _TS_SCR.findall(plain):
+                    nm = nm.strip(" \u00b7")
+                    if nm and nm.lower() not in ("tab", "bar"):
+                        h["scratched"].append({"name": nm, "no": int(no)})
+    seen, uniq = set(), []          # the scratched strip repeats on every page
+    for sc in h["scratched"]:
+        if sc["no"] not in seen:
+            seen.add(sc["no"])
+            uniq.append(sc)
+    h["scratched"] = uniq
+    return h
+
+
+def _ts_blocks(pg):
+    """Split one summary page into per-runner bands of three sub-rows.
+
+    Anchored on the RANK column rather than chained on y-gaps. The finishing
+    position is the only word in the leftmost band, so its y fixes the centre of
+    a runner's band and every other word is assigned to the nearest centre. A
+    dead heat or a missing sub-row then costs one field rather than the whole
+    runner, which gap-chaining could not promise.
+    """
+    tbl = [w for w in pg if 245 < w[2] < 515]     # between headings and legend
+    anchors = sorted(w[2] for w in tbl
+                     if _ts_band(w[0]) == "rank" and w[3].isdigit())
+    if not anchors:
+        return []
+    blocks = [(a, []) for a in anchors]
+    for w in tbl:
+        i = min(range(len(anchors)), key=lambda i: abs(anchors[i] - w[2]))
+        if abs(anchors[i] - w[2]) <= _TS_BLOCK_GAP:
+            blocks[i][1].append(w)
+    return [(a, _ts_rows(ws, eps=1.2)) for a, ws in blocks if ws]
+
+
+def _ts_summary_page(pg, runners):
+    """Merge one summary page's columns into `runners`, keyed on saddlecloth."""
+    # the section columns this page carries, read off the heading row so a page
+    # can be merged without knowing the race distance
+    labels = {}
+    for _y, row in _ts_rows([w for w in pg if 225 < w[2] < 246]):
+        for x0, _x1, _y2, t in row:
+            m = re.match(r"^L(\d+)$", t)
+            if m and x0 >= _TS_SECT_X:
+                labels[round(x0)] = int(m.group(1))
+    for ranky, blk in _ts_blocks(pg):
+        cur = {"rank": None, "tab": None, "bar": None, "name": [],
+               "jockey": [], "time": None, "margin": None, "dist_run": None,
+               "dtw": None, "first400": None, "last600": None, "kmh": None,
+               "fastest": None, "cum": {}, "split": {}, "pos": {}}
+        for y, row in blk:
+            where = "mid" if abs(y - ranky) <= _TS_ROW_EPS else (
+                "top" if y < ranky else "bot")
+            for x0, _x1, _y, t in row:
+                b = _ts_band(x0)
+                if b == "rank":
+                    if t.isdigit():
+                        cur["rank"] = int(t)
+                elif b == "tab":
+                    if t.isdigit():
+                        cur["tab" if where == "top" else "bar"] = int(t)
+                elif b == "name":
+                    cur["name" if where == "top" else "jockey"].append(t)
+                elif b == "time":
+                    if _TS_TIME.match(t):
+                        cur["time"] = t
+                elif b == "margin":
+                    if where == "top":
+                        if t in ("\u2014", "-", "\u2013"):
+                            cur["margin"] = 0.0
+                        else:
+                            m = _TS_MGN.match(t)
+                            if m:
+                                cur["margin"] = float(m.group(1))
+                    elif t.isdigit():
+                        cur["dist_run"] = int(t)
+                    else:
+                        m = _TS_DTW.match(t)
+                        if m:
+                            cur["dtw"] = int(m.group(1))
+                elif b == "first400":
+                    v = _f(t)
+                    if v is not None:
+                        cur["first400" if where == "top" else "last600"] = v
+                elif b == "kmh":
+                    if re.match(r"^\d+-\d+$", t):
+                        cur["fastest"] = t
+                    else:
+                        v = _f(t)
+                        if v is not None:
+                            cur["kmh"] = v
+                elif b == "sect":
+                    col = min(labels, key=lambda k: abs(k - x0)) if labels else None
+                    lab = labels.get(col) if (col is not None
+                                              and abs(col - x0) < 30) else None
+                    if _TS_TIME.match(t) and where == "top":
+                        if lab:
+                            cur["cum"][lab] = t
+                    else:
+                        m = _TS_SPLIT.match(t)
+                        if m and lab:
+                            cur["split"][lab] = float(m.group(1))
+                            if m.group(2):
+                                cur["pos"][lab] = int(m.group(2))
+        no = cur["tab"]
+        if no is None:
+            continue
+        r = runners.setdefault(no, {})
+        for k, v in cur.items():
+            if k in ("cum", "split", "pos"):
+                r.setdefault(k, {}).update(v)
+            elif k in ("name", "jockey"):
+                if v and not r.get(k):
+                    r[k] = " ".join(v)
+            elif v is not None and r.get(k) is None:
+                r[k] = v
+
+
+def _ts_sections(cur):
+    """The three per-section dicts -> the same `sections` shape the old report
+    produces, so nothing downstream can tell the two providers apart.
+
+    Speed, stride and rail come back None here -- see the note at the head of
+    this section. The keys are the marker in metres as a string, matching the
+    old parser, plus 'overall'.
+    """
+    sections = {}
+    for lab in sorted(set(cur["cum"]) | set(cur["split"]) | set(cur["pos"]),
+                      reverse=True):
+        sections[str(lab)] = {
+            "to_finish": secs(cur["cum"].get(lab)) if cur["cum"].get(lab) else None,
+            "rank": cur["pos"].get(lab),
+            "split": cur["split"].get(lab),
+            "avg_kmh": None, "top_kmh": None,
+            "rail_m": None, "stride_hz": None, "stride_m": None,
+        }
+    sections["overall"] = {
+        "to_finish": secs(cur["time"]) if cur.get("time") else None,
+        "rank": cur.get("rank"), "split": None,
+        "avg_kmh": None, "top_kmh": cur.get("kmh"),
+        "rail_m": None, "stride_hz": None, "stride_m": None,
+    }
+    return sections
+
+
+def _parse_triplesdata(path):
+    title, pages = _ts_words(path)
+    h = _ts_header(pages, title)
+    runners = {}
+    for pg in pages:
+        # a summary page is the one carrying the RANK column heading; the
+        # per-runner detail pages that follow have no table at all
+        if not any(_ts_band(w[0]) == "rank" and w[3] == "RANK" for w in pg):
+            continue
+        _ts_summary_page(pg, runners)
+
+    scr_nos = {s["no"] for s in h["scratched"]}
+    out = []
+    for no, r in sorted(runners.items()):
+        if r.get("rank") is None or not r.get("name") or no in scr_nos:
+            continue
+        ru = {
+            "name": r["name"], "key": norm_name(r["name"]), "no": str(no),
+            "final_rank": r["rank"], "barrier": r.get("bar"),
+            "jockey": r.get("jockey"), "margin_len": r.get("margin"),
+            "dist_travelled": r.get("dtw"),
+            # this provider reports no DNF/DNT state at all; a runner absent
+            # from the table is simply absent. None, not a guess.
+            "race_state": None,
+            "top_kmh": r.get("kmh"), "top_kmh_section": None,
+            "fastest_section": r.get("fastest"), "fastest_section_t": None,
+            "sections": _ts_sections(r),
+        }
+        # the report prints the fastest section as a range ("600-400"); its time
+        # is the split already banked against the section's own upper marker
+        if ru["fastest_section"]:
+            mk = ru["fastest_section"].split("-")[0]
+            ru["fastest_section_t"] = (r.get("split") or {}).get(_int(mk))
+        _derive(ru, h["distance"])
+        out.append(ru)
+    out.sort(key=lambda r: (r.get("final_rank") is None, r.get("final_rank") or 0))
+
+    for s in h["scratched"]:
+        s["key"] = norm_name(s["name"])
+    return {
+        "date": h["date"], "start_time": None,
+        "track": h["track"], "grade": None,
+        "race": h["race"], "race_name": h["race_name"],
+        "distance": h["distance"],
+        "track_rating": h["track_rating"], "weather": h["weather"],
+        "rail_position": h["rail_position"],
+        "field_times": {},
+        "scratched": h["scratched"],
+        "source_file": Path(path).name,
+        "runners": out,
+    }
+
+
+def _int(x):
+    try:
+        return int(x)
+    except (TypeError, ValueError):
+        return None
+
+
+def _is_triplesdata(path):
+    """Cheap sniff on the document metadata, then on page 1's words.
+
+    Metadata first because it costs one pdfinfo and is what the generator
+    actually stamps; the text scan is the fallback for a file that has been
+    re-saved and lost its title.
+    """
+    try:
+        info = subprocess.run(["pdfinfo", str(path)], capture_output=True,
+                              text=True).stdout
+    except FileNotFoundError:
+        info = ""
+    if "triplesdata" in info.lower():
+        return True
+    try:
+        txt = subprocess.run(["pdftotext", "-f", "1", "-l", "1", str(path), "-"],
+                             capture_output=True, text=True).stdout
+    except FileNotFoundError:
+        return False
+    return "triplesdata" in txt.lower().replace(" ", "")
+
+
+def parse_file(path):
+    """One sectionals PDF -> one race record, whichever provider produced it."""
+    if _is_triplesdata(path):
+        return _parse_triplesdata(path)
+    return _parse_dxperience(path)
+
 
 
 def parse_dir(folder, report=None):
