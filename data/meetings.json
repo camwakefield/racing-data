@@ -1170,6 +1170,62 @@
  {
   "date": "2026-07-05",
   "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_02.pdf",
+  "count": 7,
+  "condition": "Heavy 10"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_03.pdf",
+  "count": 8,
+  "condition": "Heavy 10"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_04.pdf",
+  "count": 6,
+  "condition": "Heavy 9"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_05.pdf",
+  "count": 12,
+  "condition": "Heavy 9"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_06.pdf",
+  "count": 14,
+  "condition": "Heavy 9"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_07.pdf",
+  "count": 9,
+  "condition": "Heavy 9"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_08.pdf",
+  "count": 12,
+  "condition": "Heavy 9"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Bendigo _ Sunday _ 5 July 2026 _ VIC _ Racing.com.pdf",
   "count": 63,
