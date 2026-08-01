@@ -1027,6 +1027,78 @@
  {
   "date": "2026-07-04",
   "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_01.pdf",
+  "count": 7,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_02.pdf",
+  "count": 8,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_03.pdf",
+  "count": 10,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_04.pdf",
+  "count": 15,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_05.pdf",
+  "count": 9,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_06.pdf",
+  "count": 10,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_07.pdf",
+  "count": 13,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_08.pdf",
+  "count": 14,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5191063_09.pdf",
+  "count": 12,
+  "condition": "Soft 7"
+ },
+ {
+  "date": "2026-07-04",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Flemington _ Race 9 _ Saturday _ 4 July 2026 _ VIC _ Racing.com.html",
   "count": 10,
