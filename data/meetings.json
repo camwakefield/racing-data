@@ -2226,7 +2226,7 @@
   "date": "2026-07-18",
   "track": "Flemington",
   "type": "sectional",
-  "source_file": "5191049_01 (1).csv",
+  "source_file": "5191049_01.csv",
   "count": 5
  },
  {
@@ -2455,7 +2455,7 @@
   "date": "2026-07-25",
   "track": "Caulfield",
   "type": "sectional_pdf",
-  "source_file": "5191040_01 (1).pdf",
+  "source_file": "5191040_01.pdf",
   "count": 10,
   "condition": "Soft 6"
  },

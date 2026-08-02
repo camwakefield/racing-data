@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-08-02T04:58:10Z",
+ "generated_utc": "2026-08-02T06:20:01Z",
  "n_horses": 1833,
  "n_runs": 2790,
  "n_sectional_files": 196,
  "n_stewards_files": 21,
  "n_pdf_files": 152,
- "n_pdf_found": 180,
- "n_pdf_failed": 19,
+ "n_pdf_found": 189,
+ "n_pdf_failed": 28,
  "n_pdf_runs": 1602,
  "n_pdf_duplicates": 9,
  "n_scratched_marked": 316,
@@ -104,6 +104,51 @@
   },
   {
    "file": "5190751_10.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_01.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_02.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_03.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_04.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_05.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_06.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_07.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_08.pdf",
+   "status": "empty",
+   "reason": "no date in header"
+  },
+  {
+   "file": "5190810_09.pdf",
    "status": "empty",
    "reason": "no date in header"
   }
