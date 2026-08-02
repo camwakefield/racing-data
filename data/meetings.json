@@ -1890,6 +1890,14 @@
  {
   "date": "2026-07-05",
   "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191053_09.pdf",
+  "count": 11,
+  "condition": "Heavy 9"
+ },
+ {
+  "date": "2026-07-05",
+  "track": "Bendigo",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Bendigo _ Sunday _ 5 July 2026 _ VIC _ Racing.com.pdf",
   "count": 54,
