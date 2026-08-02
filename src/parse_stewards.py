@@ -61,7 +61,45 @@ STOP = {w.lower() for w in [
     "Co-Trainer", "Connections", "Post-race", "Post-Race", "Re-plated", "Change",
     "Was", "Stewards", "Would", "Underneath", "Threw", "Refused",
     "Would", "Struck", "Racing", "Hanging", "Laying", "Ran", "Attempted",
+    # Added to stop prose bleeding into horse-name keys. Every one of these was
+    # observed heading, or sitting inside, a phantom key in the built store:
+    # ORCHID SKY BROKE, THINK GIANT RESADDLED, THE MEAN FIDDLER DESPITE,
+    # TEMPESTI BETWEEN THE 400M AND THE 250M, CORRECT, PRIOR.
+    "Broke", "Resaddled", "Re-saddled", "Despite", "Between", "Prior",
+    "Correct", "Following", "Whilst", "However", "Subsequently", "Subsequent",
+    "Notwithstanding", "Unable", "Returned", "Throughout", "Upon", "Although",
+    "Though", "Since", "Because", "Therefore", "Accordingly", "Meanwhile",
+    "Thereafter", "Whereupon", "Owner", "Owners", "Jockey", "Stipendiary",
+    "Veterinarian", "Veterinary", "Licensed", "Deputy", "Chairman", "Handler",
+    "Strapper", "Foreman", "Steward",
 ]}
+
+# Source misspellings in the stewards feed. Each of these created a second,
+# empty store row alongside the correctly-spelled horse -- one run, no rating,
+# no result. Mapped at key time so the comment lands on the real horse.
+MISSPELL = {
+    "DECALOUGE": "DECALOGUE",
+    "TUFF TU MISS": "TUFF TU MUS",
+}
+
+_MEASURE = re.compile(r"^\d+(?:M|m)?$")
+
+
+def _plausible_name(name):
+    """Reject prose fragments that survived token-walking as a 'horse name'.
+
+    A horse name has to carry at least one alphabetic run of three or more
+    characters that is not a connector, and cannot be made only of connectors
+    or of distance markers. This is what kills THE, AS, II and 200M.
+    """
+    toks = [t for t in name.split() if t]
+    if not toks:
+        return False
+    real = [t for t in toks
+            if t.lower().strip("()'’.") not in CONNECTORS
+            and not _MEASURE.match(t)
+            and len(re.sub(r"[^A-Za-z]", "", t)) >= 3]
+    return bool(real)
 
 
 def _extract_name(line):
@@ -78,6 +116,11 @@ def _extract_name(line):
             continue
         low = core.lower().strip("()'’.")
         is_country = bool(re.fullmatch(r"\(?[A-Za-z]{2,3}\)?", core)) and core.strip("()").isupper()
+        # STOP is checked at EVERY position including the first. The old code
+        # exempted token 0, which let role words through and produced keys like
+        # APPRENTICE JACKSON RADLEY and RIDER JETT STANLEY.
+        if low in STOP:
+            break
         if i == 0:
             name.append(core); idx = i + 1; continue
         if is_country:
@@ -89,9 +132,15 @@ def _extract_name(line):
         if core[:1].isupper() or core[:1].isdigit():
             name.append(core); idx = i + 1; continue
         break
-    while len(name) > 1 and name[-1].lower().strip("()'’.") in CONNECTORS:
+    # Trailing connectors and distance markers are prose, not part of the name.
+    while len(name) > 1 and (name[-1].lower().strip("()'’.") in CONNECTORS
+                             or _MEASURE.match(name[-1])):
         name.pop()
-    return " ".join(name).strip(" -—–"), " ".join(toks[idx:]).strip(" -—–\t")
+        idx -= 1
+    out = " ".join(name).strip(" -—–")
+    if not _plausible_name(out):
+        return None, line.strip()
+    return out, " ".join(toks[idx:]).strip(" -—–\t")
 
 
 def _split_horse_blocks(text):
@@ -187,7 +236,8 @@ def _horse_record(name, comment, rno):
     forg = sum(1 for b in FORGIVE if b in flags)
     excuse_index = forg - (1 if ("faded" in flags and forg == 0) else 0)
     return {
-        "name": name, "key": norm_name(name), "race": rno,
+        "name": name, "key": MISSPELL.get(norm_name(name), norm_name(name)),
+        "race": rno,
         "flags": sorted(flags.keys()), "excuse_index": excuse_index,
         "health_flag": "vet_health" in flags, "gear_change": "gear_change" in flags,
         "underperf": "underperf" in flags, "comment": comment,
@@ -437,7 +487,9 @@ def parse_file(path):
             forg = sum(1 for b in FORGIVE if b in flags)
             excuse_index = forg - (1 if ("faded" in flags and forg == 0) else 0)
             horses.append({
-                "name": name, "key": norm_name(name), "race": rno,
+                "name": name,
+                "key": MISSPELL.get(norm_name(name), norm_name(name)),
+                "race": rno,
                 "flags": sorted(flags.keys()), "excuse_index": excuse_index,
                 "health_flag": "vet_health" in flags, "gear_change": "gear_change" in flags,
                 "underperf": "underperf" in flags, "comment": comment,
