@@ -514,6 +514,78 @@
  {
   "date": "2026-05-30",
   "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_01.pdf",
+  "count": 8,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_02.pdf",
+  "count": 9,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_03.pdf",
+  "count": 8,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_04.pdf",
+  "count": 7,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_05.pdf",
+  "count": 7,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_06.pdf",
+  "count": 9,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_07.pdf",
+  "count": 10,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_08.pdf",
+  "count": 11,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191101_09.pdf",
+  "count": 10,
+  "condition": "Heavy 8"
+ },
+ {
+  "date": "2026-05-30",
+  "track": "Caulfield",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Caulfield _ Saturday _ 30 May 2026 _ VIC _ Racing.com.html",
   "count": 43,
