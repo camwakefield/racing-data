@@ -1734,6 +1734,78 @@
  {
   "date": "2026-07-25",
   "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_01 (1).pdf",
+  "count": 10,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_02.pdf",
+  "count": 9,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_03.pdf",
+  "count": 7,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_04.pdf",
+  "count": 13,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_05.pdf",
+  "count": 9,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_06.pdf",
+  "count": 10,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_07.pdf",
+  "count": 9,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_08.pdf",
+  "count": 14,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
+  "type": "sectional_pdf",
+  "source_file": "5191040_09.pdf",
+  "count": 11,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-25",
+  "track": "Caulfield",
   "type": "stewards",
   "source_file": "caulfield_20260725.txt",
   "count": 59,
