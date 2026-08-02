@@ -72,6 +72,86 @@
  {
   "date": "2026-02-14",
   "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_01.pdf",
+  "count": 7,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_02.pdf",
+  "count": 14,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_03.pdf",
+  "count": 6,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_04.pdf",
+  "count": 8,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_05.pdf",
+  "count": 9,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_06.pdf",
+  "count": 10,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_07.pdf",
+  "count": 8,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_08.pdf",
+  "count": 8,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_09.pdf",
+  "count": 11,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
+  "type": "sectional_pdf",
+  "source_file": "5190966_10.pdf",
+  "count": 10,
+  "condition": "Good 4"
+ },
+ {
+  "date": "2026-02-14",
+  "track": "Flemington",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Flemington _ Saturday _ 14 February 2026 _ VIC _ Racing.com.html",
   "count": 54,
