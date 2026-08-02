@@ -2598,6 +2598,70 @@
  {
   "date": "2026-07-30",
   "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_01.pdf",
+  "count": 12,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_02.pdf",
+  "count": 10,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_03.pdf",
+  "count": 12,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_04.pdf",
+  "count": 12,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_05.pdf",
+  "count": 12,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_06.pdf",
+  "count": 11,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_07.pdf",
+  "count": 12,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
+  "type": "sectional_pdf",
+  "source_file": "5191037_08.pdf",
+  "count": 11,
+  "condition": "Soft 6"
+ },
+ {
+  "date": "2026-07-30",
+  "track": "Bendigo",
   "type": "stewards",
   "source_file": "bendigo_2026-07-30.txt",
   "count": 65,
