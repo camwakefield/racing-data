@@ -72,7 +72,7 @@ _MONTHS = {m: i + 1 for i, m in enumerate(
 # "Race 1: TAB We're On - 1420m"   (race names contain dashes, so anchor on the
 # distance at the end rather than splitting on the first dash)
 _RACE = re.compile(r"^\s*Race\s+(\d+)\s*:\s*(.+?)\s*[-\u2013]\s*(\d+)\s*m\s*$")
-_DATE = re.compile(r"^\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*(?:-\s*(\d{1,2}:\d{2}))?\s*$")
+_DATE = re.compile(r"^\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*(?:-\s*(\d{1,2}:\d{2})\s*(?:[AaPp]\.?[Mm]\.?)?)?\s*$")
 _COND = re.compile(r"Track Rating:\s*(?P<rating>[^,]+?)\s*,\s*"
                    r"Weather:\s*(?P<weather>[^,]+?)\s*,\s*"
                    r"Rail Position:\s*(?P<rail>.+?)\s*$")
@@ -865,11 +865,398 @@ def _parse_triplesdata(path):
     }
 
 
+# ---------------------------------------------------------------------------
+# Racing SA / WeasyPrint -- the third layout, used for the SA meetings
+# ---------------------------------------------------------------------------
+"""
+A THIRD REPORT, not a variant of either of the other two. Produced by
+WeasyPrint rather than Developer Express or Chromium, and carried by the SA
+meetings (Morphettville, Morphettville Parks) that the Victorian suppliers
+never covered.
+
+WHAT IT SHARES WITH THE DXPERIENCE REPORT
+  * a summary table split horizontally across one or two pages, then one detail
+    page per runner with the full Section Times / Average Speed / Top Speed /
+    Avg. Dist. to Rail / Avg. Stride Freq. / Avg. Stride Length block. The
+    detail page carries EVERY column even when the summary spilled, so sections
+    are read from the detail pages and the summary is used only for the
+    identity fields.
+
+WHAT DIFFERS, AND WHY EACH DIFFERENCE NEEDED CODE
+  * masthead is "Morphettville Parks SA -", which matches neither the
+    "<Track><Grade>" glue of the old report nor the all-caps tripleSdata block.
+    Read as "<track> <state> [-]" instead. There is no grade word at all, so
+    `grade` comes back None -- honest, and nothing downstream requires it.
+  * the section columns are labelled L1568 / L1400 / ... rather than
+    Overall / 1400m / ..., and the L-number of the leading column is the RACE
+    DISTANCE. Which column means "overall" therefore depends on the race, and
+    on a spilled continuation page the leading column is NOT overall. Labels
+    are resolved against the distance from the "Race N: ... - 1568m" line.
+  * "Finish Rank", not "Final Rank".
+  * the detail page names the runner as "Horse/Jockey" in one cell, with the
+    right-hand header block on the same physical text line. Split on the first
+    run of two-or-more spaces, then on "/".
+  * the "Section Times" caption sits BETWEEN its two value rows rather than on
+    the first of them, so the rows are found by shape (a row of times, then a
+    row of parenthesised splits) rather than by the caption.
+  * the barrier is on the continuation line as "(2)", not on the summary line,
+    and margin and distance-travelled travel with it as "0.6L (-9)".
+  * a position-in-running rank is published at EVERY section, as the old report
+    did, so settled / rank_at_800 / rank_at_600 are all real rather than
+    derived.
+"""
+
+# "Morphettville Parks SA -"  ->  track, state
+_SA_TRACK = re.compile(r"^(?P<track>[A-Z][A-Za-z'\-\.]*(?:\s+[A-Za-z'\-\.]+)*?)"
+                       r"\s+(?:SA|VIC|NSW|QLD|WA|TAS|NT|ACT)\s*-?\s*$")
+
+# column headings: L1568 L1400 L1200 ...
+_SA_COL = re.compile(r"\bL(\d{3,4})\b")
+
+# summary line 1: rank, saddlecloth, horse, overall, first 400m, top speed
+_SA_SUM1 = re.compile(r"^\s*(?P<rank>\d{1,2})\s+(?P<no>\d{1,2})\s+"
+                      r"(?P<horse>[A-Za-z]\S*(?: \S+)*?)\s{2,}"
+                      r"(?P<overall>\d:\d{2}\.\d{2}|-:--\.--|NA)\s+"
+                      r"(?P<first400>\d:\d{2}\.\d{2}|-:--\.--|NA)\s+"
+                      r"(?P<kmh>\d{2,3}\.\d|NA)\s*\((?P<kmh_sec>[^)]*)\)\s+"
+                      r"(?P<rest>.*)$")
+# summary line 2: (barrier), jockey, [margin (dt-w)], last 600m, fastest section
+_SA_SUM2 = re.compile(r"^\s*\((?P<bar>\d{1,2})\)\s+"
+                      r"(?P<jockey>[A-Za-z][A-Za-z'\-\.]*(?: [A-Za-z'\-\.]+)*)\s{2,}"
+                      r"(?:(?P<margin>\d+(?:\.\d+)?)L\s*\((?P<dtw>[-+]?\d+)\)\s+)?"
+                      r"(?P<last600>\d:\d{2}\.\d{2}|-:--\.--|NA)\s+"
+                      r"(?P<fast_sec>\d{3,4}\s*-\s*\d{3,4})\s*"
+                      r"\((?P<fast_t>[^)]*)\)\s*(?P<rest>.*)$")
+
+# a cumulative time, optionally carrying its position-in-running in brackets
+_SA_TIMED = re.compile(r"(\d+:\d{2}\.\d{2}|-:--\.--|NA)(?:\s*\[\s*(\d+|NA|-)\s*\])?")
+
+_SA_FINISH = "Finish Rank"
+
+
+def _sa_labels(line, distance):
+    """'... L1568 L1400 L1200' -> ['overall', '1400', '1200'].
+
+    The leading column is the race distance, i.e. the whole-race figure, but
+    only on the FIRST summary page -- a spilled continuation page starts
+    mid-table. Matching on the distance rather than on position is what keeps
+    the two cases apart.
+    """
+    return ["overall" if int(x) == distance else x
+            for x in _SA_COL.findall(line)]
+
+
+def _sa_sections(labs, times_line, splits_line):
+    """The two value rows under a section header -> {label: {...}}."""
+    n = len(labs)
+    times = [(None, None)] * n
+    for i, (tt, rk) in enumerate(_SA_TIMED.findall(times_line or "")[:n]):
+        times[i] = (_t(tt), _rank(rk))
+    splits = [None] * n
+    for i, sp in enumerate(_PAREN.findall(splits_line or "")[:n]):
+        splits[i] = _t(sp)
+    return {lab: {"to_finish": times[i][0], "rank": times[i][1],
+                  "split": splits[i]} for i, lab in enumerate(labs)}
+
+
+def _sa_overall(ru, distance):
+    """Whole-race figures for a report whose leading column is a SECTION.
+
+    L<race distance> is a hybrid: its cumulative time is the race time, but its
+    average speed, rail distance and stride figures describe the opening
+    segment only -- start to the first published mark, ~170m. Verified
+    numerically rather than assumed: Canny Defense's L1568 average speed is
+    48.1 km/h against a 57.4 km/h race average and a 46.6 km/h opening segment,
+    and Stirrup Cup's L1973 reads 46.9 against 56.4 and 47.0. Letting `_derive`
+    take those as the whole-race figures would put a standing-start number in
+    the column every other meeting fills with a race average.
+
+    So the whole-race figures are rebuilt from the report's own numbers: each
+    section's split time weights its own average speed / rail distance /
+    stride, summed across EVERY section including the opening one. For speed
+    that is exactly the race average; for the rest it is a time-weighted mean,
+    which is what "average distance from the rail" ought to mean in any case.
+    `_derive` has already run, so this overwrites rather than fills.
+    """
+    sec = ru.get("sections") or {}
+    cols = [v for v in sec.values() if v.get("split")]
+
+    def wmean(field):
+        num = den = 0.0
+        for v in cols:
+            x, t = v.get(field), v.get("split")
+            if x is None or not t:
+                continue
+            num, den = num + x * t, den + t
+        return r2(num / den) if den else None
+
+    ru["avg_kmh"] = wmean("avg_kmh")
+    ru["rail_avg"] = wmean("rail_m")
+    ru["stride_hz"] = wmean("stride_hz")
+    ru["stride_m"] = wmean("stride_m")
+
+    marks = [(distance if k == "overall" else int(k), v["rail_m"])
+             for k, v in sec.items() if v.get("rail_m") is not None]
+    ru["rail_max"] = r2(max((v for _, v in marks), default=None)) if marks else None
+    early = [v for m, v in marks if m > 600]
+    late = [v for m, v in marks if m <= 600]
+    ru["rail_early"] = r2(sum(early) / len(early)) if early else None
+    ru["rail_late"] = r2(sum(late) / len(late)) if late else None
+
+
+def _sa_detail_page(page, distance):
+    """One runner's detail page -> a record, or None if this is not one."""
+    lines = page.splitlines()
+    cell = None
+    for ln in lines:
+        if _LABEL in ln:
+            # the right-hand header block shares this physical line; the first
+            # two-or-more-space run ends the name cell
+            cell = re.split(r"\s{2,}", ln.split(_LABEL, 1)[1].strip())[0].strip()
+            break
+    if not cell:
+        return None
+    horse, _, jockey = cell.partition("/")
+    horse, jockey = horse.strip(), jockey.strip()
+    if not horse:
+        return None
+
+    def grab(label, pat=r"(\S+)"):
+        rx = re.compile(r"^\s*" + re.escape(label) + r"\s{2,}" + pat)
+        for ln in lines:
+            m = rx.match(ln)
+            if m:
+                return m.groups()
+        return None
+
+    rec = {"name": horse, "key": norm_name(horse), "jockey": jockey or None}
+
+    g = grab(_SA_FINISH, r"(\d+|NA|DNF|DNT|-)")
+    rec["final_rank"] = _rank(g[0]) if g else None
+    g = grab("Race State", r"([A-Za-z ]+?)\s{2,}|([A-Za-z]+)\s*$")
+    rec["race_state"] = next((x.strip() for x in (g or ()) if x), None)
+    g = grab("Fastest Section Time (Section)", r"(\S+)\s+\(([^)]+)\)")
+    rec["fastest_section_t"] = _t(g[0]) if g else None
+    rec["fastest_section"] = g[1] if g else None
+    g = grab("Top Speed [km/h] (Section)", r"([\d.]+)\s+\(([^)]+)\)")
+    rec["top_kmh"] = _f(g[0]) if g else None
+    rec["top_kmh_section"] = g[1] if g else None
+
+    hdr_i = next((i for i, ln in enumerate(lines)
+                  if re.match(r"^\s*Section\s{2,}L\d{3,4}\b", ln)), None)
+    if hdr_i is None:
+        rec["sections"] = {}
+        return rec
+    labs = _sa_labels(lines[hdr_i], distance)
+    n = len(labs)
+
+    # The "Section Times" caption sits between the two value rows, so the rows
+    # are located by shape: the first row of >=2 bare times, then the first row
+    # of >=2 parenthesised times below it.
+    t_i = next((i for i in range(hdr_i + 1, len(lines))
+                if len(_SA_TIMED.findall(lines[i])) >= 2
+                and not _PAREN.search(lines[i])), None)
+    s_i = next((i for i in range(t_i + 1, len(lines))
+                if len(_PAREN.findall(lines[i])) >= 2), None) if t_i else None
+    sections = _sa_sections(labs, lines[t_i] if t_i else "",
+                            lines[s_i] if s_i else "")
+
+    avg = _row(lines, "Average Speed [km/h]", n)
+    top = _row(lines, "Top Speed [km/h]", n)
+    rail = _row(lines, "Avg. Dist. to Rail [m]", n)
+    freq = _row(lines, "Avg. Stride Freq. [Hz]", n)
+    leng = _row(lines, "Avg. Stride Length [m]", n)
+    for i, lab in enumerate(labs):
+        sections[lab].update({"avg_kmh": avg[i], "top_kmh": top[i],
+                              "rail_m": rail[i], "stride_hz": freq[i],
+                              "stride_m": leng[i]})
+    rec["sections"] = sections
+    return rec
+
+
+def _sa_summary_page(page, out, distance):
+    """Accumulate summary-table fields into `out`, keyed by saddlecloth number.
+
+    Merges rather than overwrites: on a spilled table the same runner appears on
+    both summary pages, and only one of them carries any given column.
+    """
+    lines = page.splitlines()
+    for i, ln in enumerate(lines):
+        m = _SA_SUM1.match(ln)
+        if not m:
+            continue
+        horse = m.group("horse").strip()
+        if not horse or horse.lower().startswith("rank"):
+            continue
+        r = out.setdefault(m.group("no"), {"no": m.group("no")})
+        r.setdefault("name", horse)
+        r.setdefault("key", norm_name(horse))
+        r.setdefault("rank", int(m.group("rank")))
+        if r.get("top_kmh") is None:
+            r["top_kmh"] = _f(m.group("kmh"))
+        m2 = _SA_SUM2.match(lines[i + 1]) if i + 1 < len(lines) else None
+        if not m2:
+            continue
+        r.setdefault("barrier", int(m2.group("bar")))
+        r.setdefault("jockey", m2.group("jockey").strip())
+        if m2.group("margin") is not None:
+            r.setdefault("margin_len", _f(m2.group("margin")))
+            r.setdefault("dist_travelled", _int(m2.group("dtw")))
+        elif r.get("rank") == 1:
+            r.setdefault("margin_len", 0.0)
+            r.setdefault("dist_travelled", 0)
+    return out
+
+
+def _parse_racingsa(path):
+    text = pdf_text(path)
+    pages = text.split("\f")
+
+    race = race_name = distance = date = start_time = None
+    track = rating = weather = rail = None
+    scratched, field_times = [], {}
+    seen_scratch = set()
+
+    for page in pages:
+        for ln in page.splitlines():
+            s = ln.strip()
+            if not s:
+                continue
+            if race is None:
+                m = _RACE.match(s)
+                if m:
+                    race = int(m.group(1))
+                    race_name = m.group(2).strip()
+                    distance = int(m.group(3))
+                    continue
+            if date is None:
+                m = _DATE.match(s)
+                if m:
+                    mon = _MONTHS.get(m.group(2).title())
+                    if mon:
+                        date = "%s-%02d-%02d" % (m.group(3), mon, int(m.group(1)))
+                        start_time = m.group(4)
+                        continue
+            if rating is None:
+                m = _COND.search(s)
+                if m:
+                    rating, weather = m.group("rating"), m.group("weather")
+                    rail = m.group("rail")
+                    continue
+            if s.startswith("Scratched:"):
+                for nm, num in _SCRATCH.findall(s[len("Scratched:"):]):
+                    k = norm_name(nm)
+                    if k and k not in seen_scratch:
+                        seen_scratch.add(k)
+                        scratched.append({"name": nm.strip(), "key": k, "no": num})
+
+    # Masthead. It repeats on every page, so a short line that both matches the
+    # "<track> <state>" shape and appears more than once is the venue and not
+    # body text that happens to end in a state abbreviation.
+    counts = {}
+    for page in pages:
+        for s in {ln.strip() for ln in page.splitlines() if ln.strip()}:
+            if len(s) < 45 and _SA_TRACK.match(s):
+                counts[s] = counts.get(s, 0) + 1
+    best = max((s for s, n in counts.items() if n >= 2), key=len, default=None)
+    if best is None and counts:
+        best = max(counts, key=len)
+    if best:
+        track = clean_track(_SA_TRACK.match(best).group("track"))
+
+    # The rail position wraps onto a second line on the detail pages; the
+    # summary page carries it whole, so prefer the longest seen.
+    for page in pages:
+        for ln in page.splitlines():
+            m = _COND.search(ln)
+            if m and len(m.group("rail")) > len(rail or ""):
+                rating, weather, rail = (m.group("rating"), m.group("weather"),
+                                         m.group("rail"))
+
+    summary, runners = {}, []
+    for page in pages:
+        if _LABEL in page:
+            rec = _sa_detail_page(page, distance)
+            if rec:
+                runners.append(rec)
+            continue
+        if "TAB#" not in page:
+            continue
+        _sa_summary_page(page, summary, distance)
+        lines = page.splitlines()
+        hdr = next((ln for ln in lines if _SA_COL.search(ln) and "TAB#" in ln), None)
+        ft = next((ln for ln in lines if re.match(r"^\s*Field Times\s{2,}", ln)), None)
+        if hdr and ft:
+            for lab, v in zip(_sa_labels(hdr, distance),
+                              re.findall(r"\d+:\d{2}\.\d{2}", ft)):
+                field_times.setdefault(lab, secs(v))
+
+    # merge the summary columns onto the detail records
+    by_key = {r["key"]: r for r in summary.values() if r.get("key")}
+    for ru in runners:
+        s = by_key.get(ru["key"])
+        for f in ("no", "barrier", "margin_len", "dist_travelled"):
+            ru.setdefault(f, s.get(f) if s else None)
+        if not ru.get("jockey"):
+            ru["jockey"] = s.get("jockey") if s else None
+        if ru.get("final_rank") is None and s:
+            ru["final_rank"] = s.get("rank")
+        if ru.get("top_kmh") is None and s:
+            ru["top_kmh"] = s.get("top_kmh")
+
+    # Summary-only runners: a row in the table with no detail page behind it.
+    # The rank and margin are still real results, so the row is kept.
+    have = {ru["key"] for ru in runners}
+    for s in summary.values():
+        if s.get("key") and s["key"] not in have:
+            runners.append({"name": s["name"], "key": s["key"], "no": s.get("no"),
+                            "final_rank": s.get("rank"), "barrier": s.get("barrier"),
+                            "jockey": s.get("jockey"), "margin_len": s.get("margin_len"),
+                            "dist_travelled": s.get("dist_travelled"),
+                            "top_kmh": s.get("top_kmh"), "race_state": None,
+                            "fastest_section_t": None, "fastest_section": None,
+                            "top_kmh_section": None, "sections": {}})
+
+    for ru in runners:
+        _derive(ru, distance)
+        _sa_overall(ru, distance)
+
+    runners.sort(key=lambda r: (r.get("final_rank") is None, r.get("final_rank") or 0))
+    return {
+        "date": date, "start_time": start_time,
+        "track": track, "grade": None,
+        "race": race, "race_name": race_name, "distance": distance,
+        "track_rating": rating, "weather": weather, "rail_position": rail,
+        "field_times": field_times,
+        "scratched": scratched,
+        "source_file": Path(path).name,
+        "runners": runners,
+    }
+
+
 def _int(x):
     try:
         return int(x)
     except (TypeError, ValueError):
         return None
+
+
+def _is_racingsa(path):
+    """'(BAR#)' in the first page's column headings.
+
+    A content marker rather than a metadata one: the WeasyPrint producer string
+    would do today, but it is the kind of thing a re-save destroys, whereas the
+    heading is the table itself. Checked only AFTER the tripleSdata sniff --
+    both layouts carry a 'TAB#' heading, only this one puts the barrier under
+    the horse in parentheses.
+    """
+    try:
+        txt = subprocess.run(["pdftotext", "-layout", "-f", "1", "-l", "1",
+                              str(path), "-"], capture_output=True,
+                             text=True).stdout
+    except FileNotFoundError:
+        return False
+    return "(BAR#)" in txt
 
 
 def _is_triplesdata(path):
@@ -898,6 +1285,8 @@ def parse_file(path):
     """One sectionals PDF -> one race record, whichever provider produced it."""
     if _is_triplesdata(path):
         return _parse_triplesdata(path)
+    if _is_racingsa(path):
+        return _parse_racingsa(path)
     return _parse_dxperience(path)
 
 
