@@ -84,6 +84,15 @@ MISSPELL = {
 
 _MEASURE = re.compile(r"^\d+(?:M|m)?$")
 
+# "12yo." / "3 y.o" -- the age suffix racing.com prints after the name on some
+# report layouts. Left in place it splits a horse's history in two: MOSCOW RED
+# and MOSCOW RED 12YO were separate keys in the built store.
+_AGE = re.compile(r"^\d{1,2}\s*(?:yo|y\.?o\.?)\.?$", re.I)
+
+# A print header or page-chrome line, e.g. "31/07/2026 19:01 Form", which the
+# racing.com HTML export puts in <b> exactly where a horse name would sit.
+_STAMP = re.compile(r"\d{1,2}[/-]\d{1,2}[/-]\d{2,4}|\b\d{1,2}:\d{2}\b")
+
 
 def _plausible_name(name):
     """Reject prose fragments that survived token-walking as a 'horse name'.
@@ -91,13 +100,20 @@ def _plausible_name(name):
     A horse name has to carry at least one alphabetic run of three or more
     characters that is not a connector, and cannot be made only of connectors
     or of distance markers. This is what kills THE, AS, II and 200M.
+
+    It also cannot carry a date or a clock time: no horse is named
+    "31/07/2026 19:01 Form", and that is what the page header looks like to a
+    name extractor.
     """
     toks = [t for t in name.split() if t]
     if not toks:
         return False
+    if _STAMP.search(name):
+        return False
     real = [t for t in toks
             if t.lower().strip("()'’.") not in CONNECTORS
             and not _MEASURE.match(t)
+            and not _AGE.match(t)
             and len(re.sub(r"[^A-Za-z]", "", t)) >= 3]
     return bool(real)
 
@@ -129,18 +145,24 @@ def _extract_name(line):
             break
         if low in CONNECTORS:
             name.append(core); idx = i + 1; continue
+        if _AGE.match(core):
+            break                       # "12yo." ends the name, it is not part of it
         if core[:1].isupper() or core[:1].isdigit():
             name.append(core); idx = i + 1; continue
         break
-    # Trailing connectors and distance markers are prose, not part of the name.
+    # Trailing connectors, distance markers and age suffixes are prose, not name.
     while len(name) > 1 and (name[-1].lower().strip("()'’.") in CONNECTORS
-                             or _MEASURE.match(name[-1])):
+                             or _MEASURE.match(name[-1])
+                             or _AGE.match(name[-1])):
         name.pop()
         idx -= 1
     out = " ".join(name).strip(" -—–")
     if not _plausible_name(out):
         return None, line.strip()
-    return out, " ".join(toks[idx:]).strip(" -—–\t")
+    tail = toks[idx:]
+    while tail and _AGE.match(tail[0].strip(" -—–,")):
+        tail = tail[1:]             # the age suffix belongs to neither side
+    return out, " ".join(tail).strip(" -—–\t")
 
 
 def _split_horse_blocks(text):
@@ -426,8 +448,8 @@ def parse_racingcom_html(path, body):
         if cur is None:                                # pre-Race-1 or single-race page
             open_race(fn["race"] or 0, None, "Race %s" % (fn["race"] or "?"))
         name = head.strip(" -–—,")
-        if not name:
-            continue
+        if not name or not _plausible_name(name):
+            continue                                   # page chrome, timestamps
         k = (cur["race"], norm_name(name))
         if k in seen:
             continue
