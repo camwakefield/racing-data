@@ -3,7 +3,7 @@
   "file": "Form _ Stewards' Report _ Bendigo _ Sunday _ 5 July 2026 _ VIC _ Racing.com.pdf",
   "status": "ok",
   "races": 9,
-  "horses": 63,
+  "horses": 54,
   "date": "2026-07-05",
   "track": "Bendigo",
   "reason": ""
@@ -138,7 +138,7 @@
   "file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Wednesday _ 22 July 2026 _ VIC _ Racing.com.pdf",
   "status": "ok",
   "races": 8,
-  "horses": 56,
+  "horses": 52,
   "date": "2026-07-22",
   "track": "Sandown Hillside",
   "reason": ""
@@ -174,7 +174,7 @@
   "file": "caulfield_20260725.txt",
   "status": "ok",
   "races": 9,
-  "horses": 59,
+  "horses": 57,
   "date": "2026-07-25",
   "track": "Caulfield",
   "reason": ""
@@ -183,7 +183,7 @@
   "file": "flemington_20260718.txt",
   "status": "ok",
   "races": 10,
-  "horses": 74,
+  "horses": 70,
   "date": "2026-07-18",
   "track": "Flemington",
   "reason": ""

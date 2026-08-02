@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-08-02T03:19:45Z",
- "n_horses": 1855,
- "n_runs": 2813,
+ "generated_utc": "2026-08-02T04:50:46Z",
+ "n_horses": 1833,
+ "n_runs": 2790,
  "n_sectional_files": 196,
  "n_stewards_files": 21,
  "n_pdf_files": 144,
@@ -10,7 +10,7 @@
  "n_pdf_runs": 1522,
  "n_pdf_duplicates": 9,
  "n_scratched_marked": 291,
- "n_untracked": 441,
+ "n_untracked": 443,
  "pdf_problems": [
   {
    "file": "5190748_01.pdf",

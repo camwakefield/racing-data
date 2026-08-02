@@ -1820,7 +1820,7 @@
   "track": "Bendigo",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Bendigo _ Sunday _ 5 July 2026 _ VIC _ Racing.com.pdf",
-  "count": 63,
+  "count": 54,
   "condition": "Heavy 10, upgraded to Heavy 9 at 12.32pm after Race 3"
  },
  {
@@ -2298,7 +2298,7 @@
   "track": "Flemington",
   "type": "stewards",
   "source_file": "flemington_20260718.txt",
-  "count": 74,
+  "count": 70,
   "condition": ""
  },
  {
@@ -2314,7 +2314,7 @@
   "track": "Sandown Hillside",
   "type": "stewards",
   "source_file": "Form _ Stewards' Report _ Sportsbet Sandown Hillside _ Wednesday _ 22 July 2026 _ VIC _ Racing.com.pdf",
-  "count": 56,
+  "count": 52,
   "condition": "Soft 6"
  },
  {
@@ -2464,7 +2464,7 @@
   "track": "Caulfield",
   "type": "stewards",
   "source_file": "caulfield_20260725.txt",
-  "count": 59,
+  "count": 57,
   "condition": "Soft 6"
  },
  {
