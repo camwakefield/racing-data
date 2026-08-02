@@ -79,14 +79,20 @@ def build():
         uniq.append(rec)
     pdf_recs = uniq
 
-    # run map keyed by (norm_name, date) so both sources merge into one start
+    # Run map keyed by (norm_name, date, track) so both sources merge into one
+    # start.  TRACK is part of the key because a horse name can appear at two
+    # meetings on the same day -- SAVOUR THE DREAM ran at Caulfield and at
+    # Morphettville Parks on 27 June 2026 -- and a date-only key silently
+    # collapsed those into one record, keeping whichever source was read last
+    # and losing the other start outright.  Track names are normalised the same
+    # way from every source, so this does not split a single start in two.
     runs = {}
     display = {}
     meetings = []
 
     def run_slot(key, date, track, distance, race):
         display.setdefault(key, None)
-        rk = (key, date)
+        rk = (key, date, _track_key(track))
         if rk not in runs:
             runs[rk] = {"date": date, "track": track, "distance": distance,
                         "race": race, "sectional": None, "steward": None,
@@ -195,14 +201,14 @@ def build():
         # mark from evidence rather than inferring from missing data. The run
         # stays -- it is flagged, not deleted.
         for s in rec["scratched"]:
-            rk = (s["key"], rec["date"])
+            rk = (s["key"], rec["date"], _track_key(rec["track"]))
             if rk in runs:
                 runs[rk]["scratched"] = True
                 runs[rk]["race"] = runs[rk]["race"] or rec["race"]
                 n_scratched += 1
 
     horses = {}
-    for (key, date), run in runs.items():
+    for (key, date, _tk), run in runs.items():
         horses.setdefault(key, {"name": display.get(key) or key, "runs": []})
         horses[key]["runs"].append(run)
     for h in horses.values():

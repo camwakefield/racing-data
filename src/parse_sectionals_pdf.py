@@ -529,8 +529,52 @@ def _ts_words(path):
             ws.append((float(w.get("xMin")), float(w.get("xMax")),
                        (float(w.get("yMin")) + float(w.get("yMax"))) / 2,
                        (w.text or "").strip()))
-        pages.append([w for w in ws if w[3]])
+        pages.append(_ts_merge_pos([w for w in ws if w[3]]))
     return title, pages
+
+
+_TS_POS = re.compile(r"^\[(\d+)\]$")
+
+
+def _ts_merge_pos(ws, ygap=1.5, xgap=3.0):
+    """Re-attach a position-in-running marker that pdftotext split off.
+
+    The position at each section is printed as a superscript inside the split:
+    '(12.72)[2]'.  On the later layout pdftotext emits that as one word.  On the
+    transitional layout used through July 2026 it emits '[2]' as its OWN word,
+    baseline-shifted about 0.6pt and starting within a point of the split's
+    right edge -- so _TS_SPLIT never saw it and every per-section rank came back
+    None for those meetings.  Glue the pair back together here, before any
+    parsing, so both layouts present the parser with one token.
+
+    Matching is SPATIAL, not by emission order: pdftotext lists the page column
+    by column, so the token emitted before a '[2]' is usually the last split of
+    the row above it, not the split it belongs to.  Each marker is therefore
+    paired with the nearest word on its own baseline (within ygap, since the
+    superscript sits about 0.6pt high) whose right edge it starts against.
+    Word order is otherwise preserved -- downstream row and block grouping
+    relies on the emission order it already had.
+    """
+    pos = [i for i, w in enumerate(ws) if _TS_POS.match(w[3])]
+    if not pos:
+        return ws
+    cand = [i for i, w in enumerate(ws) if w[3].endswith(")")]
+    drop = set()
+    for i in pos:
+        _x0, _x1, y, t = ws[i]
+        best, bestgap = None, None
+        for j in cand:
+            q = ws[j]
+            gap = _x0 - q[1]
+            if abs(q[2] - y) > ygap or gap < -0.5 or gap > xgap:
+                continue
+            if bestgap is None or gap < bestgap:
+                best, bestgap = j, gap
+        if best is not None:
+            q = ws[best]
+            ws[best] = (q[0], _x1, q[2], q[3] + t)
+            drop.add(i)
+    return [w for i, w in enumerate(ws) if i not in drop]
 
 
 def _ts_rows(ws, eps=2.6):
