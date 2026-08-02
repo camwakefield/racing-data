@@ -1,15 +1,15 @@
 {
- "generated_utc": "2026-08-02T03:08:05Z",
+ "generated_utc": "2026-08-02T03:10:26Z",
  "n_horses": 1845,
  "n_runs": 2800,
  "n_sectional_files": 196,
  "n_stewards_files": 21,
- "n_pdf_files": 135,
- "n_pdf_found": 163,
+ "n_pdf_files": 143,
+ "n_pdf_found": 171,
  "n_pdf_failed": 19,
- "n_pdf_runs": 1424,
+ "n_pdf_runs": 1509,
  "n_pdf_duplicates": 9,
- "n_scratched_marked": 261,
+ "n_scratched_marked": 291,
  "n_untracked": 441,
  "pdf_problems": [
   {
