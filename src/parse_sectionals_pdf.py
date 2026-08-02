@@ -1318,14 +1318,23 @@ def parse_dir(folder, report=None):
                 report.append({"file": p.name, "status": "error",
                                "reason": "%s: %s" % (type(exc).__name__, exc)})
             continue
-        if rec and rec["runners"] and rec["date"]:
+        # A record with no track is NOT usable, even if it has runners and a
+        # date. build.py keys meetings on (date, track), so an untracked record
+        # does not merge into the meeting it belongs to -- it invents a second,
+        # phantom meeting under a null track and drags real horses into it.
+        # A parse that cannot say WHERE the race was ran is a failed parse, and
+        # it is better to see it in n_pdf_failed than to find 388 orphan rows in
+        # the store a week later.
+        if rec and rec["runners"] and rec["date"] and rec["track"]:
             out.append(rec)
             if report is not None:
                 report.append({"file": p.name, "status": "ok",
                                "reason": "%s %s R%s, %d runners" %
                                (rec["date"], rec["track"], rec["race"], len(rec["runners"]))})
         else:
-            why = "no runners" if not (rec and rec["runners"]) else "no date in header"
+            why = ("no runners" if not (rec and rec["runners"])
+                   else "no date in header" if not rec["date"]
+                   else "no track in header")
             print("  EMPTY %-55s %s" % (p.name, why), file=sys.stderr)
             if report is not None:
                 report.append({"file": p.name, "status": "empty", "reason": why})
