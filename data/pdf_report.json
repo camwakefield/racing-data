@@ -1,5 +1,55 @@
 [
  {
+  "file": "5190751_01.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_02.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_03.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_04.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_05.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_06.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_07.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_08.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_09.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
+  "file": "5190751_10.pdf",
+  "status": "empty",
+  "reason": "no date in header"
+ },
+ {
   "file": "5190966_01.pdf",
   "status": "ok",
   "reason": "2026-02-14 Flemington R1, 7 runners"
@@ -538,6 +588,46 @@
   "file": "5191101_09.pdf",
   "status": "ok",
   "reason": "2026-05-30 Caulfield R9, 10 runners"
+ },
+ {
+  "file": "5191109_01.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R1, 13 runners"
+ },
+ {
+  "file": "5191109_02.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R2, 11 runners"
+ },
+ {
+  "file": "5191109_04.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R4, 9 runners"
+ },
+ {
+  "file": "5191109_05.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R5, 13 runners"
+ },
+ {
+  "file": "5191109_06.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R6, 13 runners"
+ },
+ {
+  "file": "5191109_07.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R7, 13 runners"
+ },
+ {
+  "file": "5191109_08.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R8, 16 runners"
+ },
+ {
+  "file": "5191109_09.pdf",
+  "status": "ok",
+  "reason": "2026-05-23 Sandown Hillside R9, 11 runners"
  },
  {
   "file": "5191184_01.pdf",
