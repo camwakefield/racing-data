@@ -37,6 +37,7 @@ does not affect any result, but it should not be relied on as a barrier.
 
 | date | track | module | notes |
 |---|---|---|---|
+| 2026-02-14 | Flemington | `prices_0214_flem.py` | backfilled screens |
 | 2026-03-07 | Flemington | `prices_0307.py` | backfilled screens |
 | 2026-06-20 | Flemington | `prices_0620.py` | backfilled screens |
 | 2026-06-27 | Caulfield | `prices_0627.py` | backfilled screens |
@@ -48,7 +49,12 @@ does not affect any result, but it should not be relied on as a barrier.
 | 2026-08-01 | Flemington | `prices_0801_flem.py` | saddlecloth numbers, not barriers |
 | 2026-08-01 | Morphettville Parks | `prices_morph.py` | carries `ALIAS` |
 
-Ten meetings, 90 races, all of which price with no runner dropped.
+Eleven meetings, 100 races, all of which price with no runner dropped.
+
+Note that 14 February is the chronological floor of the store. Every runner
+there is measured against a *prior* start it does not have, so the meeting
+contributes 100% of its rows as priors to later meetings and **zero** test
+rows of its own. It is worth having transcribed, but it did not move `n`.
 
 ## The one impurity
 
@@ -78,5 +84,12 @@ Before trusting a transcription, reconcile it against the store:
 15 July passed all three with nothing left over: field sizes 13, 11, 9, 11, 12,
 15, 14, 20 matching the store exactly, all 91 priced names resolving, and books
 of 1.192, 1.196, 1.180, 1.199, 1.220, 1.216, 1.207, 1.212.
+
+14 February is the cleanest yet: field sizes 7, 16, 7, 10, 10, 11, 9, 8, 13, 11
+matching the store exactly, 102 screen rows against 102 store rows, all 91
+priced names resolving with **no** `ALIAS` entries, and books of 1.190, 1.201,
+1.176, 1.173, 1.183, 1.192, 1.180, 1.164, 1.182, 1.190. Race 8's 1.164 sits
+just under the band; it is an eight-runner race with no scratchings and two
+short favourites, so the tight book is real rather than a mistyped price.
 
 **PAPER TRADING ONLY.**
