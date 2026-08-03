@@ -207,6 +207,54 @@ def build():
                 runs[rk]["race"] = runs[rk]["race"] or rec["race"]
                 n_scratched += 1
 
+    # --- venue-name mismatch detector ---------------------------------------
+    # Including the track in the run key fixed one failure (two meetings on one
+    # day collapsing into a single record) and opened the mirror-image one: if
+    # two SOURCES disagree about what a venue is called, one real start splits
+    # into two half-filled records. Sectionals saying "Caulfield Heath" while
+    # the stewards report says "Caulfield" would leave a run with a GPS trace
+    # and no stewards data, plus a second run with stewards data and no trace.
+    # Nothing raises. The coverage page just reads as two partial uploads.
+    #
+    # This does NOT merge anything. Prefix-related names are often genuinely
+    # different venues -- in this feed Warwick and Warwick Farm are different
+    # states -- and Morphettville with Morphettville Parks, Ballarat with
+    # Ballarat Synthetic and Canberra with Canberra Acton have all raced on the
+    # SAME DAY, so a horse legitimately appearing at both is possible. Merging
+    # on a name guess would destroy a real distinction to hide a maybe.
+    #
+    # So it reports, and splits the reports in two:
+    #   suspected_split -- names are prefix-related AND the two records draw on
+    #                      disjoint source types. One venue, two spellings.
+    #   name_collision  -- everything else. Almost always two different horses
+    #                      that share a name, which is what SAVOUR THE DREAM at
+    #                      Caulfield and at Morphettville Parks on 27 June was.
+    def _sources_of(run):
+        return {t for t in ("sectional", "steward", "pdf") if run.get(t)}
+
+    by_horse_date = {}
+    for (key, date, tk), run in runs.items():
+        by_horse_date.setdefault((key, date), []).append((tk, run))
+
+    suspected_split, name_collision = [], []
+    for (key, date), lst in sorted(by_horse_date.items()):
+        if len(lst) < 2:
+            continue
+        for i in range(len(lst)):
+            for j in range(i + 1, len(lst)):
+                (tk1, r1), (tk2, r2) = lst[i], lst[j]
+                # order short-then-long so the prefix test is one-directional
+                if len(tk2) < len(tk1):
+                    (tk1, r1), (tk2, r2) = (tk2, r2), (tk1, r1)
+                s1, s2 = _sources_of(r1), _sources_of(r2)
+                rec = {"horse": display.get(key) or key, "date": date,
+                       "track_a": r1["track"], "sources_a": sorted(s1),
+                       "track_b": r2["track"], "sources_b": sorted(s2)}
+                if tk2.startswith(tk1 + " ") and not (s1 & s2):
+                    suspected_split.append(rec)
+                else:
+                    name_collision.append(rec)
+
     horses = {}
     for (key, date, _tk), run in runs.items():
         horses.setdefault(key, {"name": display.get(key) or key, "runs": []})
@@ -240,6 +288,12 @@ def build():
         "n_stewards_found": len(stewards_report),
         "n_stewards_failed": len(bad),
         "stewards_problems": bad,
+        # one venue spelled two ways, splitting a start in half. Should be 0.
+        "n_suspected_track_splits": len(suspected_split),
+        "suspected_track_splits": suspected_split,
+        # same name, two meetings, same day -- expected, listed for eyeballing
+        "n_name_collisions": len(name_collision),
+        "name_collisions": name_collision,
     }
 
     out = ROOT / "data"
@@ -256,7 +310,24 @@ def build():
 if __name__ == "__main__":
     index, horses = build()
     print("BUILT:", json.dumps({k: v for k, v in index.items()
-                                if k not in ("stewards_problems", "pdf_problems")}))
+                                if k not in ("stewards_problems", "pdf_problems",
+                                             "suspected_track_splits",
+                                             "name_collisions")}))
+    if index["n_suspected_track_splits"]:
+        print("\n!! %d run(s) look like ONE venue spelled TWO ways -- a start"
+              % index["n_suspected_track_splits"])
+        print("   split in half, not two starts. Check before trusting coverage:")
+        for r in index["suspected_track_splits"]:
+            print("   %-22s %s  %-20s %-24s  vs  %-20s %s"
+                  % (r["horse"], r["date"], r["track_a"], ",".join(r["sources_a"]),
+                     r["track_b"], ",".join(r["sources_b"])))
+    if index["n_name_collisions"]:
+        print("\n   %d same-name-same-day pair(s) at different venues (expected,"
+              % index["n_name_collisions"])
+        print("   almost certainly different horses sharing a name):")
+        for r in index["name_collisions"][:10]:
+            print("   %-22s %s  %-20s  vs  %s"
+                  % (r["horse"], r["date"], r["track_a"], r["track_b"]))
     if index["n_stewards_failed"]:
         print("\n!! %d stewards file(s) found but NOT used:" % index["n_stewards_failed"])
         for r in index["stewards_problems"]:
