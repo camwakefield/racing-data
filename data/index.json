@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-02T10:13:52Z",
+ "generated_utc": "2026-08-03T21:10:34Z",
  "n_horses": 1850,
  "n_runs": 2817,
  "n_sectional_files": 186,
@@ -110,5 +110,49 @@
  ],
  "n_stewards_found": 21,
  "n_stewards_failed": 0,
- "stewards_problems": []
+ "stewards_problems": [],
+ "n_suspected_track_splits": 0,
+ "suspected_track_splits": [],
+ "n_name_collisions": 3,
+ "name_collisions": [
+  {
+   "horse": "Gin A Tonic",
+   "date": "2026-06-27",
+   "track_a": "Caulfield",
+   "sources_a": [
+    "sectional"
+   ],
+   "track_b": "Morphettville Parks",
+   "sources_b": [
+    "pdf",
+    "sectional"
+   ]
+  },
+  {
+   "horse": "Savour The Dream",
+   "date": "2026-06-27",
+   "track_a": "Caulfield",
+   "sources_a": [
+    "pdf",
+    "sectional",
+    "steward"
+   ],
+   "track_b": "Morphettville Parks",
+   "sources_b": [
+    "sectional"
+   ]
+  },
+  {
+   "horse": "Test The Law",
+   "date": "2026-06-27",
+   "track_a": "Caulfield",
+   "sources_a": [
+    "sectional"
+   ],
+   "track_b": "Morphettville Parks",
+   "sources_b": [
+    "sectional"
+   ]
+  }
+ ]
 }
